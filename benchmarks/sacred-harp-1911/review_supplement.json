@@ -1,0 +1,206 @@
+{
+  "0054-376": {
+    "accepted": true,
+    "printed_page": "44",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visual supplement preflight: complete tune, matching actual key signature and voice-part count."
+  },
+  "0058-433": {
+    "accepted": true,
+    "printed_page": "48t",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "reason": "Visual supplement preflight: complete tune, matching actual key signature and voice-part count.",
+    "chosen_reference": "48t DEVOTION.musicxml.xml"
+  },
+  "0062-424": {
+    "accepted": true,
+    "printed_page": "52t",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "reason": "Visual supplement preflight: complete tune, matching actual key signature and voice-part count."
+  },
+  "0074-436": {
+    "accepted": true,
+    "printed_page": "64",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visual supplement preflight: complete tune, matching actual key signature and voice-part count."
+  },
+  "0078-401": {
+    "accepted": true,
+    "printed_page": "68t",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "reason": "Visual supplement preflight: complete tune, matching actual key signature and voice-part count."
+  },
+  "0082-364": {
+    "accepted": true,
+    "printed_page": "72t",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "reason": "Visual supplement preflight: complete tune, matching actual key signature and voice-part count."
+  },
+  "0082-1513": {
+    "accepted": true,
+    "printed_page": "72b",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "reason": "Visual supplement preflight: complete tune, matching actual key signature and voice-part count.",
+    "crop": [
+      0,
+      1423,
+      3970,
+      3401
+    ]
+  },
+  "0050-365": {
+    "accepted": false,
+    "reason": "Already included as Lenox."
+  },
+  "0058-1915": {
+    "accepted": false,
+    "reason": "Kedron key-version compatibility uncertain; not selected."
+  },
+  "0062-1777": {
+    "accepted": false,
+    "reason": "1911 Charlestown has three parts; reference has four."
+  },
+  "0066-450": {
+    "accepted": false,
+    "reason": "Different Salem tune: printed Fmajor/threepart vs reference Bminor/fourpart."
+  },
+  "0086-405": {
+    "accepted": true,
+    "printed_page": "76t",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "reason": "Visual supplement preflight: complete tune, matching actual key signature and part count."
+  },
+  "0086-1583": {
+    "accepted": true,
+    "printed_page": "76b",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "reason": "Visual supplement preflight: complete tune, matching actual key signature and part count."
+  },
+  "0090-1730": {
+    "accepted": true,
+    "printed_page": "80b",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "reason": "Visual supplement preflight: complete tune, matching actual key signature and part count."
+  },
+  "0098-368": {
+    "accepted": true,
+    "printed_page": "88t",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "reason": "Visual supplement preflight: complete tune, matching actual key signature and part count."
+  },
+  "0098-1656": {
+    "accepted": true,
+    "printed_page": "88b",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "reason": "Visual supplement preflight: complete tune, matching actual key signature and part count.",
+    "chosen_reference": "88b MOUNT ZION.musicxml.xml"
+  },
+  "0110-474": {
+    "accepted": true,
+    "printed_page": "100",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visual supplement preflight: complete tune, matching actual key signature and part count."
+  },
+  "0118-355": {
+    "accepted": true,
+    "printed_page": "108t",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "reason": "Visual supplement preflight: complete tune, matching actual key signature and part count."
+  },
+  "0118-1613": {
+    "accepted": true,
+    "printed_page": "108b",
+    "expected_staves": 3,
+    "expected_systems": 1,
+    "reason": "Visual supplement preflight: complete tune, matching actual key signature and part count."
+  },
+  "0122-392": {
+    "accepted": true,
+    "printed_page": "112",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visual supplement preflight: complete tune, matching actual key signature and part count."
+  },
+  "0102-450": {
+    "accepted": false,
+    "reason": "Burk printed Fmajor signature1flat vs reference1sharp; transposed edition."
+  },
+  "0114-442": {
+    "accepted": false,
+    "reason": "The Lovely Story printed1sharp signature vs reference3sharps; transposed edition."
+  },
+  "0130-361": {
+    "accepted": true,
+    "printed_page": "120",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visual supplement preflight: complete tune, matching actual signature and four-part layout."
+  },
+  "0134-1690": {
+    "accepted": true,
+    "printed_page": "124b",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "reason": "Visual supplement preflight: complete tune, matching actual signature and four-part layout."
+  },
+  "0138-437": {
+    "accepted": true,
+    "printed_page": "128",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visual supplement preflight: complete tune, matching actual signature and four-part layout."
+  },
+  "0146-430": {
+    "accepted": true,
+    "printed_page": "136",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visual supplement preflight: complete tune, matching actual signature and four-part layout."
+  },
+  "0154-371": {
+    "accepted": true,
+    "printed_page": "144",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visual supplement preflight: complete tune, matching actual signature and four-part layout."
+  },
+  "0158-410": {
+    "accepted": true,
+    "printed_page": "148",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visual supplement preflight: complete tune, matching actual signature and four-part layout."
+  },
+  "0174-369": {
+    "accepted": true,
+    "printed_page": "164",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visual supplement preflight: complete tune, matching actual signature and four-part layout."
+  },
+  "0178-379": {
+    "accepted": true,
+    "printed_page": "168",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visual supplement preflight: complete tune, matching actual signature and four-part layout."
+  },
+  "0134-439": {
+    "accepted": false,
+    "reason": "Heavenly Land source has Gmajor one-sharp signature; reference has Fmajor oneflat."
+  }
+}

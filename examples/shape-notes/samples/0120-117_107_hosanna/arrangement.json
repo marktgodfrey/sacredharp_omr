@@ -1,0 +1,59 @@
+{
+  "layout": "two-parts-one-staff",
+  "octave_shifts": {
+    "Tenor": 0,
+    "Alto": 0,
+    "Treble": 1,
+    "Bass": 0
+  },
+  "fallback_notes": 109,
+  "ambiguities": [
+    "source part 1/staff 1: isolated singleton copied to both lines as an inferred unison",
+    "source part 2/staff 1: isolated singleton copied to both lines as an inferred unison",
+    "source part 1/staff 1: fused chord split by pitch",
+    "source part 2/staff 1: fused chord split by pitch"
+  ],
+  "beams_removed": 0,
+  "review_needed_count": 109,
+  "initial_octave_shifts": {
+    "Treble": 1,
+    "Alto": 0,
+    "Tenor": 0,
+    "Bass": 0
+  },
+  "register_fit": {
+    "source_key": "Ab",
+    "source_mode_reason": "tenor and bass cadence agree with tonic",
+    "target_key": "A",
+    "semitones": 1,
+    "diatonic_steps": 0,
+    "octave_adjustments": {
+      "Treble": 0,
+      "Alto": 0,
+      "Tenor": 0,
+      "Bass": 0
+    },
+    "ranges": {
+      "Treble": [
+        "E4",
+        "F#5"
+      ],
+      "Alto": [
+        "C#4",
+        "A4"
+      ],
+      "Tenor": [
+        "E4",
+        "E5"
+      ],
+      "Bass": [
+        "A2",
+        "D4"
+      ]
+    },
+    "tenor_below_E4": 0,
+    "tenor_above_F5": 0,
+    "explicit_target": false,
+    "mode_needs_review": false
+  }
+}

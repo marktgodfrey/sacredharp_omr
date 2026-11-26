@@ -1,0 +1,2623 @@
+{
+  "description": "100 unique songs from 87 scan pages; original 20 retained; expansion uses evenly spaced scan candidates across the 1911 volume plus documented supplements, with visual title/boundary/key/part-count screening and a final source audit.",
+  "source_volume": "https://library.soundingspirit.org/volume/1911-Origin-JPK/page/all",
+  "samples": [
+    {
+      "id": "1911-Origin-JPK-0037",
+      "title": "Bethel",
+      "printed_page_1911": "27",
+      "reference_page_2025": "27t",
+      "scan_id": "0037",
+      "source": "sources/1911-Origin-JPK-0037.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0037.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0037.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/27t BETHEL.musicxml.xml",
+      "reference": "reference/27t BETHEL.musicxml.xml",
+      "notes": ""
+    },
+    {
+      "id": "1911-Origin-JPK-0050",
+      "title": "Lenox",
+      "printed_page_1911": "40",
+      "reference_page_2025": "40",
+      "scan_id": "0050",
+      "source": "sources/1911-Origin-JPK-0050.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0050.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0050.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/40 LENOX.musicxml.xml",
+      "reference": "reference/40 LENOX.musicxml.xml",
+      "notes": ""
+    },
+    {
+      "id": "1911-Origin-JPK-0052",
+      "title": "Clamanda",
+      "printed_page_1911": "42",
+      "reference_page_2025": "42",
+      "scan_id": "0052",
+      "source": "sources/1911-Origin-JPK-0052.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0052.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0052.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/42 CLAMANDA.musicxml.xml",
+      "reference": "reference/42 CLAMANDA.musicxml.xml",
+      "notes": ""
+    },
+    {
+      "id": "1911-47b-idumea",
+      "title": "Idumea",
+      "printed_page_1911": "47b",
+      "reference_page_2025": "47b",
+      "scan_id": "0057",
+      "source": "sources/1911-Origin-JPK-0057.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0057.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-47b-idumea.png",
+      "crop": [
+        0,
+        1697,
+        4064,
+        3464
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/47b IDUMEA.musicxml.xml",
+      "reference": "reference/47b IDUMEA.musicxml.xml",
+      "notes": "Lower song only; the upper song is Primrose."
+    },
+    {
+      "id": "1911-Origin-JPK-0069",
+      "title": "Holy Manna",
+      "printed_page_1911": "59",
+      "reference_page_2025": "59",
+      "scan_id": "0069",
+      "source": "sources/1911-Origin-JPK-0069.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0069.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0069.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/59 HOLY MANNA.musicxml.xml",
+      "reference": "reference/59 HOLY MANNA.musicxml.xml",
+      "notes": ""
+    },
+    {
+      "id": "1911-28t-aylesbury",
+      "title": "Aylesbury",
+      "printed_page_1911": "28t",
+      "reference_page_2025": "28t",
+      "scan_id": "0038",
+      "source": "sources/1911-Origin-JPK-0038.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0038.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-28t-aylesbury.png",
+      "crop": [
+        0,
+        0,
+        4004,
+        1565
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/28t AYLESBURY.musicxml.xml",
+      "reference": "reference/28t AYLESBURY.musicxml.xml",
+      "notes": "Song crop retains all printed staves."
+    },
+    {
+      "id": "1911-28b-wells",
+      "title": "Wells",
+      "printed_page_1911": "28b",
+      "reference_page_2025": "28b",
+      "scan_id": "0038",
+      "source": "sources/1911-Origin-JPK-0038.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0038.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-28b-wells.png",
+      "crop": [
+        0,
+        1565,
+        4004,
+        3447
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/28b WELLS.musicxml.xml",
+      "reference": "reference/28b WELLS.musicxml.xml",
+      "notes": "Song crop retains all printed staves."
+    },
+    {
+      "id": "1911-29t-fairfield",
+      "title": "Fairfield",
+      "printed_page_1911": "29t",
+      "reference_page_2025": "29t",
+      "scan_id": "0039",
+      "source": "sources/1911-Origin-JPK-0039.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0039.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-29t-fairfield.png",
+      "crop": [
+        0,
+        0,
+        4004,
+        1929
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/29t FAIRFIELD.musicxml.xml",
+      "reference": "reference/29t FAIRFIELD.musicxml.xml",
+      "notes": "Song crop retains all printed staves."
+    },
+    {
+      "id": "1911-29b-tribulation",
+      "title": "Tribulation",
+      "printed_page_1911": "29b",
+      "reference_page_2025": "29b",
+      "scan_id": "0039",
+      "source": "sources/1911-Origin-JPK-0039.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0039.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-29b-tribulation.png",
+      "crop": [
+        0,
+        1929,
+        4004,
+        3447
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/29b TRIBULATION.musicxml.xml",
+      "reference": "reference/29b TRIBULATION.musicxml.xml",
+      "notes": "Song crop retains all printed staves. Three original parts: treble, tenor, bass."
+    },
+    {
+      "id": "1911-30t-rochester",
+      "title": "Rochester",
+      "printed_page_1911": "30t",
+      "reference_page_2025": "27b",
+      "scan_id": "0040",
+      "source": "sources/1911-Origin-JPK-0040.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0040.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-30t-rochester.png",
+      "crop": [
+        0,
+        0,
+        4004,
+        1740
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/27b ROCHESTER.musicxml.xml",
+      "reference": "reference/27b ROCHESTER.musicxml.xml",
+      "notes": "Song crop retains all printed staves. Title match: moved from 1911 30t to 2025 27b."
+    },
+    {
+      "id": "1911-30b-prospect",
+      "title": "Prospect",
+      "printed_page_1911": "30b",
+      "reference_page_2025": "30b",
+      "scan_id": "0040",
+      "source": "sources/1911-Origin-JPK-0040.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0040.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-30b-prospect.png",
+      "crop": [
+        0,
+        1740,
+        4004,
+        3447
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/30b PROSPECT.musicxml.xml",
+      "reference": "reference/30b PROSPECT.musicxml.xml",
+      "notes": "Song crop retains all printed staves."
+    },
+    {
+      "id": "1911-31t-ninety-third-psalm",
+      "title": "Ninety-Third Psalm",
+      "printed_page_1911": "31t",
+      "reference_page_2025": "31t",
+      "scan_id": "0041",
+      "source": "sources/1911-Origin-JPK-0041.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0041.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-31t-ninety-third-psalm.png",
+      "crop": [
+        0,
+        0,
+        4004,
+        1886
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/31t NINETY-THIRD PSALM.musicxml.xml",
+      "reference": "reference/31t NINETY-THIRD PSALM.musicxml.xml",
+      "notes": "Song crop retains all printed staves."
+    },
+    {
+      "id": "1911-31b-webster",
+      "title": "Webster",
+      "printed_page_1911": "31b",
+      "reference_page_2025": "31b",
+      "scan_id": "0041",
+      "source": "sources/1911-Origin-JPK-0041.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0041.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-31b-webster.png",
+      "crop": [
+        0,
+        1886,
+        4004,
+        3447
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/31b WEBSTER.musicxml.xml",
+      "reference": "reference/31b WEBSTER.musicxml.xml",
+      "notes": "Song crop retains all printed staves."
+    },
+    {
+      "id": "1911-32t-corinth",
+      "title": "Corinth",
+      "printed_page_1911": "32t",
+      "reference_page_2025": "32t",
+      "scan_id": "0042",
+      "source": "sources/1911-Origin-JPK-0042.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0042.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-32t-corinth.png",
+      "crop": [
+        0,
+        0,
+        4004,
+        1809
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/32t CORINTH.musicxml.xml",
+      "reference": "reference/32t CORINTH.musicxml.xml",
+      "notes": "Song crop retains all printed staves."
+    },
+    {
+      "id": "1911-33t-weeping-savior",
+      "title": "Weeping Savior",
+      "printed_page_1911": "33t",
+      "reference_page_2025": "33t",
+      "scan_id": "0043",
+      "source": "sources/1911-Origin-JPK-0043.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0043.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-33t-weeping-savior.png",
+      "crop": [
+        0,
+        0,
+        4004,
+        1660
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/33t WEEPING SAVIOR.musicxml.xml",
+      "reference": "reference/33t WEEPING SAVIOR.musicxml.xml",
+      "notes": "Song crop retains all printed staves."
+    },
+    {
+      "id": "1911-33b-abbeville",
+      "title": "Abbeville",
+      "printed_page_1911": "33b",
+      "reference_page_2025": "33b",
+      "scan_id": "0043",
+      "source": "sources/1911-Origin-JPK-0043.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0043.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-33b-abbeville.png",
+      "crop": [
+        0,
+        1660,
+        4004,
+        3430
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/33b ABBEVILLE.musicxml.xml",
+      "reference": "reference/33b ABBEVILLE.musicxml.xml",
+      "notes": "Song crop retains all printed staves."
+    },
+    {
+      "id": "1911-36t-america",
+      "title": "America",
+      "printed_page_1911": "36t",
+      "reference_page_2025": "36t",
+      "scan_id": "0046",
+      "source": "sources/1911-Origin-JPK-0046.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0046.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-36t-america.png",
+      "crop": [
+        0,
+        0,
+        4027,
+        1662
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/36t AMERICA.musicxml.xml",
+      "reference": "reference/36t AMERICA.musicxml.xml",
+      "notes": "Song crop retains all printed staves."
+    },
+    {
+      "id": "1911-36b-ninety-fifth",
+      "title": "Ninety-Fifth",
+      "printed_page_1911": "36b",
+      "reference_page_2025": "36b",
+      "scan_id": "0046",
+      "source": "sources/1911-Origin-JPK-0046.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0046.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-36b-ninety-fifth.png",
+      "crop": [
+        0,
+        1662,
+        4027,
+        3432
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/36b NINETY-FIFTH.musicxml.xml",
+      "reference": "reference/36b NINETY-FIFTH.musicxml.xml",
+      "notes": "Song crop retains all printed staves."
+    },
+    {
+      "id": "1911-47t-primrose",
+      "title": "Primrose",
+      "printed_page_1911": "47t",
+      "reference_page_2025": "47t",
+      "scan_id": "0057",
+      "source": "sources/1911-Origin-JPK-0057.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0057.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-47t-primrose.png",
+      "crop": [
+        0,
+        0,
+        4064,
+        1697
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/47t PRIMROSE.musicxml.xml",
+      "reference": "reference/47t PRIMROSE.musicxml.xml",
+      "notes": "Upper song only; lower Idumea is a separate sample."
+    },
+    {
+      "id": "1911-37b-liverpool",
+      "title": "Liverpool",
+      "printed_page_1911": "37b",
+      "reference_page_2025": "37b",
+      "scan_id": "0047",
+      "source": "sources/1911-Origin-JPK-0047.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0047.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-37b-liverpool.png",
+      "crop": [
+        0,
+        1757,
+        4027,
+        3432
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/37b LIVERPOOL.musicxml.xml",
+      "reference": "reference/37b LIVERPOOL.musicxml.xml",
+      "notes": "Lower song crop; four printed staves match four reference parts. Added to replace the structurally incompatible Peterborough reference."
+    },
+    {
+      "id": "1911-s0048-winter",
+      "title": "Winter",
+      "printed_page_1911": "38t",
+      "reference_page_2025": "38t",
+      "scan_id": "0048",
+      "source": "sources/1911-Origin-JPK-0048.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0048.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0048-winter.png",
+      "crop": [
+        0,
+        0,
+        3986,
+        1475
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/38t WINTER.musicxml.xml",
+      "reference": "reference/38t WINTER.musicxml.xml",
+      "notes": "Visually checked title, complete song, printed key and part count.",
+      "candidate_key": "0048-448",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0068-pisgah",
+      "title": "Pisgah",
+      "printed_page_1911": "58",
+      "reference_page_2025": "58",
+      "scan_id": "0068",
+      "source": "sources/1911-Origin-JPK-0068.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0068.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0068.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/58 PISGAH.musicxml.xml",
+      "reference": "reference/58 PISGAH.musicxml.xml",
+      "notes": "Visually checked title, complete song, printed key and part count.",
+      "candidate_key": "0068-484",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-4",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0072-parting-hand",
+      "title": "Parting Hand",
+      "printed_page_1911": "62",
+      "reference_page_2025": "62",
+      "scan_id": "0072",
+      "source": "sources/1911-Origin-JPK-0072.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0072.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0072.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/62 PARTING HAND.musicxml.xml",
+      "reference": "reference/62 PARTING HAND.musicxml.xml",
+      "notes": "Visually checked title, complete song, printed key and part count.",
+      "candidate_key": "0072-476",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0080-save-mighty-lord",
+      "title": "Save, Mighty Lord",
+      "printed_page_1911": "70b",
+      "reference_page_2025": "70b",
+      "scan_id": "0080",
+      "source": "sources/1911-Origin-JPK-0080.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0080.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0080-save-mighty-lord.png",
+      "crop": [
+        0,
+        1738,
+        4011,
+        3523
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/70b SAVE, MIGHTY LORD.musicxml.xml",
+      "reference": "reference/70b SAVE, MIGHTY LORD.musicxml.xml",
+      "notes": "Visually checked title, complete song, printed key and part count.",
+      "candidate_key": "0080-1828",
+      "reference_preflight_parts": 3,
+      "reference_preflight_key": {
+        "fifths": "-4",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0080-gainsville",
+      "title": "Gainsville",
+      "printed_page_1911": "70t",
+      "reference_page_2025": "70t",
+      "scan_id": "0080",
+      "source": "sources/1911-Origin-JPK-0080.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0080.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0080-gainsville.png",
+      "crop": [
+        0,
+        0,
+        4011,
+        1738
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/70t GAINSVILLE.musicxml.xml",
+      "reference": "reference/70t GAINSVILLE.musicxml.xml",
+      "notes": "Visually checked title, complete song, printed key and part count.",
+      "candidate_key": "0080-390",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "3",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0084-king-of-peace",
+      "title": "King Of Peace",
+      "printed_page_1911": "74b",
+      "reference_page_2025": "74b",
+      "scan_id": "0084",
+      "source": "sources/1911-Origin-JPK-0084.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0084.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0084-king-of-peace.png",
+      "crop": [
+        1100,
+        1631,
+        4019,
+        3416
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/74b KING OF PEACE.musicxml.xml",
+      "reference": "reference/74b KING OF PEACE.musicxml.xml",
+      "notes": "Complete four-part King of Peace, no signature, isolated to lower-right quadrant; final crop audit excludes adjacent Enquirer continuation on left.",
+      "candidate_key": "0084-1651",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "0",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0092-edgefield",
+      "title": "Edgefield",
+      "printed_page_1911": "82b",
+      "reference_page_2025": "82b",
+      "scan_id": "0092",
+      "source": "sources/1911-Origin-JPK-0092.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0092.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0092-edgefield.png",
+      "crop": [
+        0,
+        1888,
+        3994,
+        3449
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/82b EDGEFIELD.musicxml.xml",
+      "reference": "reference/82b EDGEFIELD.musicxml.xml",
+      "notes": "Visually checked complete song, key signature and part count.",
+      "candidate_key": "0092-1978",
+      "reference_preflight_parts": 3,
+      "reference_preflight_key": {
+        "fifths": "3",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0092-bound-for-canaan",
+      "title": "Bound For Canaan",
+      "printed_page_1911": "82t",
+      "reference_page_2025": "82t",
+      "scan_id": "0092",
+      "source": "sources/1911-Origin-JPK-0092.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0092.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0092-bound-for-canaan.png",
+      "crop": [
+        0,
+        0,
+        3994,
+        1888
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/82t BOUND FOR CANAAN.musicxml.xml",
+      "reference": "reference/82t BOUND FOR CANAAN.musicxml.xml",
+      "notes": "Visually checked complete song, key signature and part count.",
+      "candidate_key": "0092-328",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-2",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0100-look-out",
+      "title": "Look Out",
+      "printed_page_1911": "90",
+      "reference_page_2025": "90",
+      "scan_id": "0100",
+      "source": "sources/1911-Origin-JPK-0100.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0100.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0100.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/90 LOOK OUT.musicxml.xml",
+      "reference": "reference/90 LOOK OUT.musicxml.xml",
+      "notes": "Visually checked complete song, key signature and part count.",
+      "candidate_key": "0100-440",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "3",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0104-mulberry-grove",
+      "title": "Mulberry Grove",
+      "printed_page_1911": "94",
+      "reference_page_2025": "482",
+      "scan_id": "0104",
+      "source": "sources/1911-Origin-JPK-0104.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0104.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0104.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/482 MULBERRY GROVE.musicxml.xml",
+      "reference": "reference/482 MULBERRY GROVE.musicxml.xml",
+      "notes": "Visually checked complete song, key signature and part count.",
+      "candidate_key": "0104-402",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-2",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0108-dull-care",
+      "title": "Dull Care",
+      "printed_page_1911": "98",
+      "reference_page_2025": "98",
+      "scan_id": "0108",
+      "source": "sources/1911-Origin-JPK-0108.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0108.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0108.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/98 DULL CARE.musicxml.xml",
+      "reference": "reference/98 DULL CARE.musicxml.xml",
+      "notes": "Visually checked complete song, key signature and part count.",
+      "candidate_key": "0108-489",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-2",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0112-fulfillment",
+      "title": "Fulfillment",
+      "printed_page_1911": "102",
+      "reference_page_2025": "102",
+      "scan_id": "0112",
+      "source": "sources/1911-Origin-JPK-0112.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0112.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0112.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/102 FULFILLMENT.musicxml.xml",
+      "reference": "reference/102 FULFILLMENT.musicxml.xml",
+      "notes": "Visually checked complete song, key signature and part count.",
+      "candidate_key": "0112-436",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0120-mount-vernon",
+      "title": "Mount Vernon",
+      "printed_page_1911": "110",
+      "reference_page_2025": "110",
+      "scan_id": "0120",
+      "source": "sources/1911-Origin-JPK-0120.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0120.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0120.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/110 MOUNT VERNON.musicxml.xml",
+      "reference": "reference/110 MOUNT VERNON.musicxml.xml",
+      "notes": "Visually checked complete song, key signature and part count.",
+      "candidate_key": "0120-394",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0124-the-midnight-cry",
+      "title": "The Midnight Cry",
+      "printed_page_1911": "114b",
+      "reference_page_2025": "495",
+      "scan_id": "0124",
+      "source": "sources/1911-Origin-JPK-0124.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0124.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0124-the-midnight-cry.png",
+      "crop": [
+        0,
+        1611,
+        4008,
+        3419
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/495 THE MIDNIGHT CRY.musicxml.xml",
+      "reference": "reference/495 THE MIDNIGHT CRY.musicxml.xml",
+      "notes": "Visually checked complete song, actual key-signature glyphs and part count.",
+      "candidate_key": "0124-1701",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "3",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0124-suffield",
+      "title": "Suffield",
+      "printed_page_1911": "114t",
+      "reference_page_2025": "563",
+      "scan_id": "0124",
+      "source": "sources/1911-Origin-JPK-0124.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0124.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0124-suffield.png",
+      "crop": [
+        0,
+        0,
+        4008,
+        1611
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/563 SUFFIELD.musicxml.xml",
+      "reference": "reference/563 SUFFIELD.musicxml.xml",
+      "notes": "Visually checked complete song, actual key-signature glyphs and part count.",
+      "candidate_key": "0124-319",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "1",
+        "mode": "minor"
+      }
+    },
+    {
+      "id": "1911-s0132-all-is-well",
+      "title": "All Is Well",
+      "printed_page_1911": "122",
+      "reference_page_2025": "122",
+      "scan_id": "0132",
+      "source": "sources/1911-Origin-JPK-0132.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0132.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0132.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/122 ALL IS WELL.musicxml.xml",
+      "reference": "reference/122 ALL IS WELL.musicxml.xml",
+      "notes": "Visually checked complete song, actual key-signature glyphs and part count.",
+      "candidate_key": "0132-380",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "3",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0136-babel-s-streams",
+      "title": "Babel\u2019s Streams",
+      "printed_page_1911": "126",
+      "reference_page_2025": "126",
+      "scan_id": "0136",
+      "source": "sources/1911-Origin-JPK-0136.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0136.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0136.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/126 BABEL\u2019S STREAMS.musicxml.xml",
+      "reference": "reference/126 BABEL\u2019S STREAMS.musicxml.xml",
+      "notes": "Visually checked complete song, actual key-signature glyphs and part count.",
+      "candidate_key": "0136-382",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0144-the-christian-s-hope",
+      "title": "The Christian\u2019s Hope",
+      "printed_page_1911": "134",
+      "reference_page_2025": "134",
+      "scan_id": "0144",
+      "source": "sources/1911-Origin-JPK-0144.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0144.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0144.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/134 THE CHRISTIAN\u2019S HOPE.musicxml.xml",
+      "reference": "reference/134 THE CHRISTIAN\u2019S HOPE.musicxml.xml",
+      "notes": "Visually checked complete song, actual key-signature glyphs and part count.",
+      "candidate_key": "0144-340",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "3",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0152-stratfield",
+      "title": "Stratfield",
+      "printed_page_1911": "142",
+      "reference_page_2025": "142",
+      "scan_id": "0152",
+      "source": "sources/1911-Origin-JPK-0152.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0152.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0152.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/142 STRATFIELD.musicxml.xml",
+      "reference": "reference/142 STRATFIELD.musicxml.xml",
+      "notes": "Actual signature has three sharps, matching reference; printed FsharpMajor caption is inconsistent.",
+      "candidate_key": "0152-389",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "3",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0156-hallelujah",
+      "title": "Hallelujah",
+      "printed_page_1911": "146",
+      "reference_page_2025": "146",
+      "scan_id": "0156",
+      "source": "sources/1911-Origin-JPK-0156.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0156.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0156.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/146 HALLELUJAH.musicxml.xml",
+      "reference": "reference/146 HALLELUJAH.musicxml.xml",
+      "notes": "Visually checked complete song, actual key-signature glyphs and part count.",
+      "candidate_key": "0156-392",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-4",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0168-funeral-thought",
+      "title": "Funeral Thought",
+      "printed_page_1911": "158",
+      "reference_page_2025": "158",
+      "scan_id": "0168",
+      "source": "sources/1911-Origin-JPK-0168.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0168.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0168.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/158 FUNERAL THOUGHT.musicxml.xml",
+      "reference": "reference/158 FUNERAL THOUGHT.musicxml.xml",
+      "notes": "Visually checked complete song, actual key-signature glyphs and part count.",
+      "candidate_key": "0168-391",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0172-plenary",
+      "title": "Plenary",
+      "printed_page_1911": "162",
+      "reference_page_2025": "162",
+      "scan_id": "0172",
+      "source": "sources/1911-Origin-JPK-0172.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0172.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0172.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/162 PLENARY.musicxml.xml",
+      "reference": "reference/162 PLENARY.musicxml.xml",
+      "notes": "Visually checked complete song, actual key-signature glyphs and part count.",
+      "candidate_key": "0172-316",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0180-exhilaration",
+      "title": "Exhilaration",
+      "printed_page_1911": "170",
+      "reference_page_2025": "170",
+      "scan_id": "0180",
+      "source": "sources/1911-Origin-JPK-0180.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0180.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0180.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/170 EXHILARATION.musicxml.xml",
+      "reference": "reference/170 EXHILARATION.musicxml.xml",
+      "notes": "Visually checked complete song, actual signature and four-part layout.",
+      "candidate_key": "0180-394",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0192-newburgh",
+      "title": "Newburgh",
+      "printed_page_1911": "182",
+      "reference_page_2025": "182",
+      "scan_id": "0192",
+      "source": "sources/1911-Origin-JPK-0192.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0192.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0192.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/182 NEWBURGH.musicxml.xml",
+      "reference": "reference/182 NEWBURGH.musicxml.xml",
+      "notes": "Visually checked complete song, actual signature and four-part layout.",
+      "candidate_key": "0192-437",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "0",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0196-sherburne",
+      "title": "Sherburne",
+      "printed_page_1911": "186",
+      "reference_page_2025": "186",
+      "scan_id": "0196",
+      "source": "sources/1911-Origin-JPK-0196.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0196.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0196.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/186 SHERBURNE.musicxml.xml",
+      "reference": "reference/186 SHERBURNE.musicxml.xml",
+      "notes": "Visually checked complete song, actual signature and four-part layout.",
+      "candidate_key": "0196-395",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "2",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0212-new-lebanon",
+      "title": "New Lebanon",
+      "printed_page_1911": "202",
+      "reference_page_2025": "202",
+      "scan_id": "0212",
+      "source": "sources/1911-Origin-JPK-0212.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0212.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0212.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/202 NEW LEBANON.musicxml.xml",
+      "reference": "reference/202 NEW LEBANON.musicxml.xml",
+      "notes": "Visually checked complete song, actual signature and four-part layout.",
+      "candidate_key": "0212-290",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-3",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0220-lena",
+      "title": "Lena",
+      "printed_page_1911": "210",
+      "reference_page_2025": "210",
+      "scan_id": "0220",
+      "source": "sources/1911-Origin-JPK-0220.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0220.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0220.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/210 LENA.musicxml.xml",
+      "reference": "reference/210 LENA.musicxml.xml",
+      "notes": "Visually checked complete song, actual signature and four-part layout.",
+      "candidate_key": "0220-450",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "3",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0224-repentance",
+      "title": "Repentance",
+      "printed_page_1911": "214",
+      "reference_page_2025": "214",
+      "scan_id": "0224",
+      "source": "sources/1911-Origin-JPK-0224.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0224.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0224.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/214 REPENTANCE.musicxml.xml",
+      "reference": "reference/214 REPENTANCE.musicxml.xml",
+      "notes": "Visually checked complete song, actual signature and four-part layout.",
+      "candidate_key": "0224-341",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "3",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0232-ocean",
+      "title": "Ocean",
+      "printed_page_1911": "222",
+      "reference_page_2025": "222",
+      "scan_id": "0232",
+      "source": "sources/1911-Origin-JPK-0232.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0232.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0232.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/222 OCEAN.musicxml.xml",
+      "reference": "reference/222 OCEAN.musicxml.xml",
+      "notes": "Visually checked complete song, actual signature and four-part layout.",
+      "candidate_key": "0232-458",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0284-confidence",
+      "title": "Confidence",
+      "printed_page_1911": "270",
+      "reference_page_2025": "270",
+      "scan_id": "0284",
+      "source": "sources/1911-Origin-JPK-0284.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0284.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0284.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/270 CONFIDENCE.musicxml.xml",
+      "reference": "reference/270 CONFIDENCE.musicxml.xml",
+      "notes": "Visually checked complete song, actual signature and four-part layout.",
+      "candidate_key": "0284-465",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "3",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0288-the-golden-harp",
+      "title": "The Golden Harp",
+      "printed_page_1911": "274t",
+      "reference_page_2025": "274t",
+      "scan_id": "0288",
+      "source": "sources/1911-Origin-JPK-0288.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0288.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0288-the-golden-harp.png",
+      "crop": [
+        0,
+        0,
+        3926,
+        1841
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/274t THE GOLDEN HARP.musicxml.xml",
+      "reference": "reference/274t THE GOLDEN HARP.musicxml.xml",
+      "notes": "Visually checked complete song, actual signature and four-part layout.",
+      "candidate_key": "0288-372",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "3",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0296-i-m-going-home",
+      "title": "I\u2019m Going Home",
+      "printed_page_1911": "282",
+      "reference_page_2025": "282",
+      "scan_id": "0296",
+      "source": "sources/1911-Origin-JPK-0296.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0296.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0296.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/282 I\u2019M GOING HOME.musicxml.xml",
+      "reference": "reference/282 I\u2019M GOING HOME.musicxml.xml",
+      "notes": "Complete song; two four-part systems, one-flat signature matches.",
+      "candidate_key": "0296-434",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0304-victoria",
+      "title": "Victoria",
+      "printed_page_1911": "290",
+      "reference_page_2025": "290",
+      "scan_id": "0304",
+      "source": "sources/1911-Origin-JPK-0304.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0304.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0304.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/290 VICTORIA.musicxml.xml",
+      "reference": "reference/290 VICTORIA.musicxml.xml",
+      "notes": "Complete song; two four-part systems, two-flat signature matches.",
+      "candidate_key": "0304-402",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-2",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0308-never-part",
+      "title": "Never Part",
+      "printed_page_1911": "294",
+      "reference_page_2025": "94",
+      "scan_id": "0308",
+      "source": "sources/1911-Origin-JPK-0308.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0308.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0308.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/94 NEVER PART.musicxml.xml",
+      "reference": "reference/94 NEVER PART.musicxml.xml",
+      "notes": "Complete song; two four-part systems, one-flat signature matches.",
+      "candidate_key": "0308-370",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0312-providence",
+      "title": "Providence",
+      "printed_page_1911": "298",
+      "reference_page_2025": "298",
+      "scan_id": "0312",
+      "source": "sources/1911-Origin-JPK-0312.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0312.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0312.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/298 PROVIDENCE.musicxml.xml",
+      "reference": "reference/298 PROVIDENCE.musicxml.xml",
+      "notes": "Complete song; two four-part systems, three-sharp signature matches.",
+      "candidate_key": "0312-394",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "3",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0316-greenland",
+      "title": "Greenland",
+      "printed_page_1911": "302",
+      "reference_page_2025": "301",
+      "scan_id": "0316",
+      "source": "sources/1911-Origin-JPK-0316.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0316.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0316.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/301 GREENLAND.musicxml.xml",
+      "reference": "reference/301 GREENLAND.musicxml.xml",
+      "notes": "Complete song; two four-part systems, one-flat signature matches despite caption wording.",
+      "candidate_key": "0316-421",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0324-weeping-savior",
+      "title": "Weeping Savior",
+      "printed_page_1911": "310",
+      "reference_page_2025": "310",
+      "scan_id": "0324",
+      "source": "sources/1911-Origin-JPK-0324.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0324.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0324.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/310 WEEPING SAVIOR.musicxml.xml",
+      "reference": "reference/310 WEEPING SAVIOR.musicxml.xml",
+      "notes": "Complete song; actual one-flat signature selects 310 reference over duplicate 33t.",
+      "candidate_key": "0324-437",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0340-weary-pilgrim",
+      "title": "Weary Pilgrim",
+      "printed_page_1911": "326",
+      "reference_page_2025": "326",
+      "scan_id": "0340",
+      "source": "sources/1911-Origin-JPK-0340.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0340.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0340.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/326 WEARY PILGRIM.musicxml.xml",
+      "reference": "reference/326 WEARY PILGRIM.musicxml.xml",
+      "notes": "Complete song; two four-part systems, one-sharp signature matches.",
+      "candidate_key": "0340-485",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0344-love-divine",
+      "title": "Love Divine",
+      "printed_page_1911": "330t",
+      "reference_page_2025": "30t",
+      "scan_id": "0344",
+      "source": "sources/1911-Origin-JPK-0344.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0344.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0344-love-divine.png",
+      "crop": [
+        0,
+        0,
+        4004,
+        1741
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/30t LOVE DIVINE.musicxml.xml",
+      "reference": "reference/30t LOVE DIVINE.musicxml.xml",
+      "notes": "Complete upper song; isolated from Sacred Music below; four parts and no signature match.",
+      "candidate_key": "0344-434",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "0",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0352-sawyer-s-exit",
+      "title": "Sawyer\u2019s Exit",
+      "printed_page_1911": "338",
+      "reference_page_2025": "338",
+      "scan_id": "0352",
+      "source": "sources/1911-Origin-JPK-0352.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0352.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0352.jpg",
+      "crop": null,
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/338 SAWYER\u2019S EXIT.musicxml.xml",
+      "reference": "reference/338 SAWYER\u2019S EXIT.musicxml.xml",
+      "notes": "Complete song; two three-staff systems match the three-part reference; three sharps match.",
+      "candidate_key": "0352-483",
+      "reference_preflight_parts": 3,
+      "reference_preflight_key": {
+        "fifths": "3",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0360-the-american-star",
+      "title": "The American Star",
+      "printed_page_1911": "346",
+      "reference_page_2025": "346",
+      "scan_id": "0360",
+      "source": "sources/1911-Origin-JPK-0360.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0360.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0360.jpg",
+      "crop": null,
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/346 THE AMERICAN STAR.musicxml.xml",
+      "reference": "reference/346 THE AMERICAN STAR.musicxml.xml",
+      "notes": "Complete song; two three-staff systems match the three-part reference; one flat matches.",
+      "candidate_key": "0360-402",
+      "reference_preflight_parts": 3,
+      "reference_preflight_key": {
+        "fifths": "-1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0368-happy-land",
+      "title": "Happy Land",
+      "printed_page_1911": "354b",
+      "reference_page_2025": "354b",
+      "scan_id": "0368",
+      "source": "sources/1911-Origin-JPK-0368.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0368.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0368-happy-land.png",
+      "crop": [
+        0,
+        1431,
+        4004,
+        3527
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/354b HAPPY LAND.musicxml.xml",
+      "reference": "reference/354b HAPPY LAND.musicxml.xml",
+      "notes": "Complete lower song on shared page; isolated crop; four parts and one flat match. Crop starts20px above title to exclude neighboring music.",
+      "candidate_key": "0368-1451",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0384-monroe",
+      "title": "Monroe",
+      "printed_page_1911": "370",
+      "reference_page_2025": "370",
+      "scan_id": "0384",
+      "source": "sources/1911-Origin-JPK-0384.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0384.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0384.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/370 MONROE.musicxml.xml",
+      "reference": "reference/370 MONROE.musicxml.xml",
+      "notes": "Complete song; two four-part systems; no signature matches reference.",
+      "candidate_key": "0384-425",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "0",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0388-oh-sing-with-me",
+      "title": "Oh, Sing With Me!",
+      "printed_page_1911": "374",
+      "reference_page_2025": "374",
+      "scan_id": "0388",
+      "source": "sources/1911-Origin-JPK-0388.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0388.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0388.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/374 OH, SING WITH ME!.musicxml.xml",
+      "reference": "reference/374 OH, SING WITH ME!.musicxml.xml",
+      "notes": "Complete song; two four-part systems; one sharp matches.",
+      "candidate_key": "0388-416",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0392-heavenly-port",
+      "title": "Heavenly Port",
+      "printed_page_1911": "378t",
+      "reference_page_2025": "378t",
+      "scan_id": "0392",
+      "source": "sources/1911-Origin-JPK-0392.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0392.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0392-heavenly-port.png",
+      "crop": [
+        0,
+        0,
+        3986,
+        1734
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/378t HEAVENLY PORT.musicxml.xml",
+      "reference": "reference/378t HEAVENLY PORT.musicxml.xml",
+      "notes": "Complete upper song; isolated crop; four parts and three sharps match.",
+      "candidate_key": "0392-447",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "3",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0404-new-prospect",
+      "title": "New Prospect",
+      "printed_page_1911": "390",
+      "reference_page_2025": "390",
+      "scan_id": "0404",
+      "source": "sources/1911-Origin-JPK-0404.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0404.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0404.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/390 NEW PROSPECT.musicxml.xml",
+      "reference": "reference/390 NEW PROSPECT.musicxml.xml",
+      "notes": "Complete song; two four-part systems; one sharp matches.",
+      "candidate_key": "0404-414",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0408-the-messiah-s-praise",
+      "title": "The Messiah\u2019s Praise",
+      "printed_page_1911": "394",
+      "reference_page_2025": "394",
+      "scan_id": "0408",
+      "source": "sources/1911-Origin-JPK-0408.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0408.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0408.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/394 THE MESSIAH\u2019S PRAISE.musicxml.xml",
+      "reference": "reference/394 THE MESSIAH\u2019S PRAISE.musicxml.xml",
+      "notes": "Complete song; two four-part systems; one flat matches.",
+      "candidate_key": "0408-441",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0412-farewell-to-all",
+      "title": "Farewell To All",
+      "printed_page_1911": "398t",
+      "reference_page_2025": "69b",
+      "scan_id": "0412",
+      "source": "sources/1911-Origin-JPK-0412.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0412.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0412-farewell-to-all.png",
+      "crop": [
+        0,
+        0,
+        3988,
+        1589
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/69b FAREWELL TO ALL.musicxml.xml",
+      "reference": "reference/69b FAREWELL TO ALL.musicxml.xml",
+      "notes": "Complete upper song on shared page; isolated crop; four parts and two flats match.",
+      "candidate_key": "0412-309",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-2",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0416-protection",
+      "title": "Protection",
+      "printed_page_1911": "402",
+      "reference_page_2025": "402",
+      "scan_id": "0416",
+      "source": "sources/1911-Origin-JPK-0416.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0416.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0416.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/402 PROTECTION.musicxml.xml",
+      "reference": "reference/402 PROTECTION.musicxml.xml",
+      "notes": "Complete song; actual three-flat signature selects 402 reference, not duplicate 187.",
+      "candidate_key": "0416-510",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-3",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0420-new-harmony",
+      "title": "New Harmony",
+      "printed_page_1911": "406",
+      "reference_page_2025": "406",
+      "scan_id": "0420",
+      "source": "sources/1911-Origin-JPK-0420.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0420.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0420.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/406 NEW HARMONY.musicxml.xml",
+      "reference": "reference/406 NEW HARMONY.musicxml.xml",
+      "notes": "Complete full-page song with two four-part systems and one sharp; final audit corrected expected layout from one to two systems.",
+      "candidate_key": "0420-558",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0432-rees",
+      "title": "Rees",
+      "printed_page_1911": "418",
+      "reference_page_2025": "418",
+      "scan_id": "0432",
+      "source": "sources/1911-Origin-JPK-0432.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0432.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0432.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/418 REES.musicxml.xml",
+      "reference": "reference/418 REES.musicxml.xml",
+      "notes": "Complete song; two four-part systems; two sharps match the Rees reference.",
+      "candidate_key": "0432-466",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "2",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0436-the-grieved-soul",
+      "title": "The Grieved Soul",
+      "printed_page_1911": "422b",
+      "reference_page_2025": "448b",
+      "scan_id": "0436",
+      "source": "sources/1911-Origin-JPK-0436.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0436.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0436-the-grieved-soul.png",
+      "crop": [
+        0,
+        1664,
+        4011,
+        3513
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/448b THE GRIEVED SOUL.musicxml.xml",
+      "reference": "reference/448b THE GRIEVED SOUL.musicxml.xml",
+      "notes": "Complete lower song; isolated from Song of Texas above; four parts and three sharps match. Crop starts20px above title to exclude neighboring music.",
+      "candidate_key": "0436-1684",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "3",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0444-mutual-love",
+      "title": "Mutual Love",
+      "printed_page_1911": "430",
+      "reference_page_2025": "410b",
+      "scan_id": "0444",
+      "source": "sources/1911-Origin-JPK-0444.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0444.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0444-mutual-love.png",
+      "crop": [
+        0,
+        1132,
+        4004,
+        3485
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/410b MUTUAL LOVE.musicxml.xml",
+      "reference": "reference/410b MUTUAL LOVE.musicxml.xml",
+      "notes": "Complete song below editorial text; four parts and one sharp match. Crop starts20px above title to exclude neighboring music.",
+      "candidate_key": "0444-1152",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0448-fillmore",
+      "title": "Fillmore",
+      "printed_page_1911": "434",
+      "reference_page_2025": "434",
+      "scan_id": "0448",
+      "source": "sources/1911-Origin-JPK-0448.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0448.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0448.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/434 FILLMORE.musicxml.xml",
+      "reference": "reference/434 FILLMORE.musicxml.xml",
+      "notes": "Complete song; two four-part systems; one flat matches.",
+      "candidate_key": "0448-382",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0456-blooming-youth",
+      "title": "Blooming Youth",
+      "printed_page_1911": "442t",
+      "reference_page_2025": "176b",
+      "scan_id": "0456",
+      "source": "sources/1911-Origin-JPK-0456.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0456.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0456-blooming-youth.png",
+      "crop": [
+        0,
+        0,
+        4011,
+        1889
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/176b BLOOMING YOUTH.musicxml.xml",
+      "reference": "reference/176b BLOOMING YOUTH.musicxml.xml",
+      "notes": "Complete upper song on shared page; isolated crop; four parts and no signature match.",
+      "candidate_key": "0456-540",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "0",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0464-elder",
+      "title": "Elder",
+      "printed_page_1911": "450",
+      "reference_page_2025": "450",
+      "scan_id": "0464",
+      "source": "sources/1911-Origin-JPK-0464.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0464.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0464.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/450 ELDER.musicxml.xml",
+      "reference": "reference/450 ELDER.musicxml.xml",
+      "notes": "Complete song; two four-part systems; four sharps match.",
+      "candidate_key": "0464-366",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "4",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0472-friendship",
+      "title": "Friendship",
+      "printed_page_1911": "458",
+      "reference_page_2025": "458",
+      "scan_id": "0472",
+      "source": "sources/1911-Origin-JPK-0472.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0472.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0472.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/458 FRIENDSHIP.musicxml.xml",
+      "reference": "reference/458 FRIENDSHIP.musicxml.xml",
+      "notes": "Complete song; two four-part systems; two flats match.",
+      "candidate_key": "0472-366",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-2",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0484-sardis",
+      "title": "Sardis",
+      "printed_page_1911": "470",
+      "reference_page_2025": "460",
+      "scan_id": "0484",
+      "source": "sources/1911-Origin-JPK-0484.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0484.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0484.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/460 SARDIS.musicxml.xml",
+      "reference": "reference/460 SARDIS.musicxml.xml",
+      "notes": "Complete song; two four-part systems; one sharp matches.",
+      "candidate_key": "0484-412",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0488-rest-for-the-weary",
+      "title": "Rest For The Weary",
+      "printed_page_1911": "474",
+      "reference_page_2025": "154",
+      "scan_id": "0488",
+      "source": "sources/1911-Origin-JPK-0488.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0488.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0488.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/154 REST FOR THE WEARY.musicxml.xml",
+      "reference": "reference/154 REST FOR THE WEARY.musicxml.xml",
+      "notes": "Complete song; two four-part systems; three flats match.",
+      "candidate_key": "0488-367",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-3",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0492-chester",
+      "title": "Chester",
+      "printed_page_1911": "478",
+      "reference_page_2025": "479",
+      "scan_id": "0492",
+      "source": "sources/1911-Origin-JPK-0492.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0492.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0492.jpg",
+      "crop": null,
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/479 CHESTER.musicxml.xml",
+      "reference": "reference/479 CHESTER.musicxml.xml",
+      "notes": "Complete song below editorial heading; four parts and one flat match.",
+      "candidate_key": "0492-1052",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0508-amsterdam",
+      "title": "Amsterdam",
+      "printed_page_1911": "494",
+      "reference_page_2025": "84",
+      "scan_id": "0508",
+      "source": "sources/1911-Origin-JPK-0508.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0508.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0508.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/84 AMSTERDAM.musicxml.xml",
+      "reference": "reference/84 AMSTERDAM.musicxml.xml",
+      "notes": "Complete song; two four-part systems; one sharp matches.",
+      "candidate_key": "0508-329",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0512-saint-s-delight",
+      "title": "Saint\u2019s Delight",
+      "printed_page_1911": "498",
+      "reference_page_2025": "114",
+      "scan_id": "0512",
+      "source": "sources/1911-Origin-JPK-0512.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0512.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0512.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/114 SAINT\u2019S DELIGHT.musicxml.xml",
+      "reference": "reference/114 SAINT\u2019S DELIGHT.musicxml.xml",
+      "notes": "Complete song; two four-part systems; three sharps match.",
+      "candidate_key": "0512-402",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "3",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0520-christian-s-hope",
+      "title": "Christian\u2019s Hope",
+      "printed_page_1911": "506",
+      "reference_page_2025": "206",
+      "scan_id": "0520",
+      "source": "sources/1911-Origin-JPK-0520.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0520.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0520.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/206 CHRISTIAN\u2019S HOPE.musicxml.xml",
+      "reference": "reference/206 CHRISTIAN\u2019S HOPE.musicxml.xml",
+      "notes": "Complete song; two four-part systems; actual one-sharp signature selects 206 reference over duplicate 134.",
+      "candidate_key": "0520-381",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0532-jackson",
+      "title": "Jackson",
+      "printed_page_1911": "518b",
+      "reference_page_2025": "317",
+      "scan_id": "0532",
+      "source": "sources/1911-Origin-JPK-0532.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0532.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0532-jackson.png",
+      "crop": [
+        0,
+        1667,
+        4024,
+        3469
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/317 JACKSON.musicxml.xml",
+      "reference": "reference/317 JACKSON.musicxml.xml",
+      "notes": "Complete lower song; isolated from concluded New Hope continuation; four parts and one sharp match. Crop starts20px above title to exclude neighboring music.",
+      "candidate_key": "0532-1687",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0536-burdette",
+      "title": "Burdette",
+      "printed_page_1911": "522",
+      "reference_page_2025": "422",
+      "scan_id": "0536",
+      "source": "sources/1911-Origin-JPK-0536.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0536.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0536.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/422 BURDETTE.musicxml.xml",
+      "reference": "reference/422 BURDETTE.musicxml.xml",
+      "notes": "Complete song; two four-part systems; one flat matches.",
+      "candidate_key": "0536-491",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0540-kelley",
+      "title": "Kelley",
+      "printed_page_1911": "526t",
+      "reference_page_2025": "426t",
+      "scan_id": "0540",
+      "source": "sources/1911-Origin-JPK-0540.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0540.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0540-kelley.png",
+      "crop": [
+        0,
+        0,
+        4051,
+        1889
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/426t KELLEY.musicxml.xml",
+      "reference": "reference/426t KELLEY.musicxml.xml",
+      "notes": "Complete upper song on shared page; isolated crop; four parts and one sharp match.",
+      "candidate_key": "0540-432",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0544-arbacoochee",
+      "title": "Arbacoochee",
+      "printed_page_1911": "530",
+      "reference_page_2025": "430",
+      "scan_id": "0544",
+      "source": "sources/1911-Origin-JPK-0544.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0544.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0544.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/430 ARBACOOCHEE.musicxml.xml",
+      "reference": "reference/430 ARBACOOCHEE.musicxml.xml",
+      "notes": "Complete song; two four-part systems; three sharps match.",
+      "candidate_key": "0544-354",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "3",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0054-the-converted-thief",
+      "title": "The Converted Thief",
+      "printed_page_1911": "44",
+      "reference_page_2025": "44",
+      "scan_id": "0054",
+      "source": "sources/1911-Origin-JPK-0054.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0054.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0054.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/44 THE CONVERTED THIEF.musicxml.xml",
+      "reference": "reference/44 THE CONVERTED THIEF.musicxml.xml",
+      "notes": "Visual supplement preflight: complete tune, matching actual key signature and voice-part count.",
+      "candidate_key": "0054-376",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "0",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0058-devotion",
+      "title": "Devotion",
+      "printed_page_1911": "48t",
+      "reference_page_2025": "48t",
+      "scan_id": "0058",
+      "source": "sources/1911-Origin-JPK-0058.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0058.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0058-devotion.png",
+      "crop": [
+        0,
+        0,
+        4019,
+        1825
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/48t DEVOTION.musicxml.xml",
+      "reference": "reference/48t DEVOTION.musicxml.xml",
+      "notes": "Visual supplement preflight: complete tune, matching actual key signature and voice-part count.",
+      "candidate_key": "0058-433",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "0",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0062-albion",
+      "title": "Albion",
+      "printed_page_1911": "52t",
+      "reference_page_2025": "52t",
+      "scan_id": "0062",
+      "source": "sources/1911-Origin-JPK-0062.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0062.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0062-albion.png",
+      "crop": [
+        0,
+        0,
+        4042,
+        1687
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/52t ALBION.musicxml.xml",
+      "reference": "reference/52t ALBION.musicxml.xml",
+      "notes": "Visual supplement preflight: complete tune, matching actual key signature and voice-part count.",
+      "candidate_key": "0062-424",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0074-nashville",
+      "title": "Nashville",
+      "printed_page_1911": "64",
+      "reference_page_2025": "64",
+      "scan_id": "0074",
+      "source": "sources/1911-Origin-JPK-0074.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0074.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0074.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/64 NASHVILLE.musicxml.xml",
+      "reference": "reference/64 NASHVILLE.musicxml.xml",
+      "notes": "Visual supplement preflight: complete tune, matching actual key signature and voice-part count.",
+      "candidate_key": "0074-436",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "3",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0078-salem",
+      "title": "Salem",
+      "printed_page_1911": "68t",
+      "reference_page_2025": "68t",
+      "scan_id": "0078",
+      "source": "sources/1911-Origin-JPK-0078.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0078.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0078-salem.png",
+      "crop": [
+        0,
+        0,
+        4007,
+        1664
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/68t SALEM.musicxml.xml",
+      "reference": "reference/68t SALEM.musicxml.xml",
+      "notes": "Visual supplement preflight: complete tune, matching actual key signature and voice-part count.",
+      "candidate_key": "0078-401",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "2",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0082-bellevue",
+      "title": "Bellevue",
+      "printed_page_1911": "72b",
+      "reference_page_2025": "72b",
+      "scan_id": "0082",
+      "source": "sources/1911-Origin-JPK-0082.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0082.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0082-bellevue.png",
+      "crop": [
+        0,
+        1423,
+        3970,
+        3401
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/72b BELLEVUE.musicxml.xml",
+      "reference": "reference/72b BELLEVUE.musicxml.xml",
+      "notes": "Visual supplement preflight: complete tune, matching actual key signature and voice-part count.",
+      "candidate_key": "0082-1513",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-2",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0082-the-weary-soul",
+      "title": "The Weary Soul",
+      "printed_page_1911": "72t",
+      "reference_page_2025": "72t",
+      "scan_id": "0082",
+      "source": "sources/1911-Origin-JPK-0082.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0082.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0082-the-weary-soul.png",
+      "crop": [
+        0,
+        0,
+        3970,
+        1423
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/72t THE WEARY SOUL.musicxml.xml",
+      "reference": "reference/72t THE WEARY SOUL.musicxml.xml",
+      "notes": "Visual supplement preflight: complete tune, matching actual key signature and voice-part count.",
+      "candidate_key": "0082-364",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0086-desire-for-piety",
+      "title": "Desire For Piety",
+      "printed_page_1911": "76b",
+      "reference_page_2025": "76b",
+      "scan_id": "0086",
+      "source": "sources/1911-Origin-JPK-0086.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0086.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0086-desire-for-piety.png",
+      "crop": [
+        0,
+        1493,
+        4019,
+        3461
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/76b DESIRE FOR PIETY.musicxml.xml",
+      "reference": "reference/76b DESIRE FOR PIETY.musicxml.xml",
+      "notes": "Visual supplement preflight: complete tune, matching actual key signature and part count.",
+      "candidate_key": "0086-1583",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "0",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0086-holiness",
+      "title": "Holiness",
+      "printed_page_1911": "76t",
+      "reference_page_2025": "76t",
+      "scan_id": "0086",
+      "source": "sources/1911-Origin-JPK-0086.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0086.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0086-holiness.png",
+      "crop": [
+        0,
+        0,
+        4019,
+        1493
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/76t HOLINESS.musicxml.xml",
+      "reference": "reference/76t HOLINESS.musicxml.xml",
+      "notes": "Visual supplement preflight: complete tune, matching actual key signature and part count.",
+      "candidate_key": "0086-405",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0090-service-of-the-lord",
+      "title": "Service Of The Lord",
+      "printed_page_1911": "80b",
+      "reference_page_2025": "80b",
+      "scan_id": "0090",
+      "source": "sources/1911-Origin-JPK-0090.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0090.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0090-service-of-the-lord.png",
+      "crop": [
+        0,
+        1640,
+        3988,
+        3425
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/80b SERVICE OF THE LORD.musicxml.xml",
+      "reference": "reference/80b SERVICE OF THE LORD.musicxml.xml",
+      "notes": "Visual supplement preflight: complete tune, matching actual key signature and part count.",
+      "candidate_key": "0090-1730",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0098-mount-zion",
+      "title": "Mount Zion",
+      "printed_page_1911": "88b",
+      "reference_page_2025": "88b",
+      "scan_id": "0098",
+      "source": "sources/1911-Origin-JPK-0098.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0098.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0098-mount-zion.png",
+      "crop": [
+        0,
+        1566,
+        4004,
+        3455
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/88b MOUNT ZION.musicxml.xml",
+      "reference": "reference/88b MOUNT ZION.musicxml.xml",
+      "notes": "Visual supplement preflight: complete tune, matching actual key signature and part count.",
+      "candidate_key": "0098-1656",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0098-done-with-the-world",
+      "title": "Done With The World",
+      "printed_page_1911": "88t",
+      "reference_page_2025": "88t",
+      "scan_id": "0098",
+      "source": "sources/1911-Origin-JPK-0098.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0098.tiff/full/full/0/default.jpg",
+      "input": "inputs/1911-s0098-done-with-the-world.png",
+      "crop": [
+        0,
+        0,
+        4004,
+        1566
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/88t DONE WITH THE WORLD.musicxml.xml",
+      "reference": "reference/88t DONE WITH THE WORLD.musicxml.xml",
+      "notes": "Visual supplement preflight: complete tune, matching actual key signature and part count.",
+      "candidate_key": "0098-368",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "-1",
+        "mode": "major"
+      }
+    },
+    {
+      "id": "1911-s0110-the-bower-of-prayer",
+      "title": "The Bower Of Prayer",
+      "printed_page_1911": "100",
+      "reference_page_2025": "100",
+      "scan_id": "0110",
+      "source": "sources/1911-Origin-JPK-0110.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Origin-JPK-0110.tiff/full/full/0/default.jpg",
+      "input": "sources/1911-Origin-JPK-0110.jpg",
+      "crop": null,
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/100 THE BOWER OF PRAYER.musicxml.xml",
+      "reference": "reference/100 THE BOWER OF PRAYER.musicxml.xml",
+      "notes": "Visual supplement preflight: complete tune, matching actual key signature and part count.",
+      "candidate_key": "0110-474",
+      "reference_preflight_parts": 4,
+      "reference_preflight_key": {
+        "fifths": "3",
+        "mode": "major"
+      }
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "scan_id": "0045",
+      "printed_page": "35",
+      "title": "Augusta",
+      "reason": "No matching reference; modern35 is Saints Bound for Heaven."
+    },
+    {
+      "scan_id": "0044",
+      "printed_page": "34",
+      "titles": [
+        "Hamilton",
+        "Bleeding Saviour"
+      ],
+      "reason": "No matching 2025 XML titles located; modern34 contains different songs."
+    },
+    {
+      "scan_id": "0042",
+      "printed_page": "32b",
+      "title": "Peterborough",
+      "reason": "1911 has four printed vocal staves, but the supplied 2025 reference has only three parts; excluded from pooled benchmark to avoid treating an edition/arrangement difference as a recognition failure.",
+      "diagnostic": "diagnostics/excluded-peterborough.json"
+    },
+    {
+      "candidate_key": "0048-1565",
+      "scan_id": "0048",
+      "title": "WINDHAM.",
+      "reason": "Printed E minor / one sharp differs from reference three sharps."
+    },
+    {
+      "candidate_key": "0052-327",
+      "scan_id": "0052",
+      "title": "CLAMANDA.",
+      "reason": "Already included in original20 as Clamanda."
+    },
+    {
+      "candidate_key": "0060-1885",
+      "scan_id": "0060",
+      "title": "DISTRESS.",
+      "reason": "1911 has three vocal staves but 2025 reference has four parts."
+    },
+    {
+      "candidate_key": "0064-1604",
+      "scan_id": "0064",
+      "title": "IMANDRA",
+      "reason": "1911 Imandra in Fmajor differs from reference Imandra key/no signature."
+    },
+    {
+      "candidate_key": "0064-404",
+      "scan_id": "0064",
+      "title": "GEORGIA.",
+      "reason": "Final source audit: 1911 Georgia and modern 197 Georgia are different musical settings (opening pitches/rhythms and text differ); excluded from cross-edition comparison."
+    },
+    {
+      "candidate_key": "0084-326",
+      "scan_id": "0084",
+      "title": "THE ENQUIRER.",
+      "reason": "Final source audit: upper Enquirer crop omits the four-part continuation in the lower-left quadrant beside King of Peace; incomplete input excluded."
+    },
+    {
+      "candidate_key": "0088-406",
+      "scan_id": "0088",
+      "title": "STAFFORD.",
+      "reason": "Three original parts across two systems, reference has four parts."
+    },
+    {
+      "candidate_key": "0116-390",
+      "scan_id": "0116",
+      "title": "ECSTASY.",
+      "reason": "Printed E minor / one sharp differs from reference three sharps."
+    },
+    {
+      "candidate_key": "0176-398",
+      "scan_id": "0176",
+      "title": "FAMILY BIBLE.",
+      "reason": "Page contains only Family Bible conclusion; incomplete tune."
+    },
+    {
+      "candidate_key": "0184-399",
+      "scan_id": "0184",
+      "title": "PETERSBURG.",
+      "reason": "1911 has three parts; modern reference has four."
+    },
+    {
+      "candidate_key": "0200-346",
+      "scan_id": "0200",
+      "title": "MONTGOMERY.",
+      "reason": "Only Montgomery conclusion; incomplete tune."
+    },
+    {
+      "candidate_key": "0204-359",
+      "scan_id": "0204",
+      "title": "HUNTINGTON.",
+      "reason": "Only Huntington conclusion; incomplete tune."
+    },
+    {
+      "candidate_key": "0228-424",
+      "scan_id": "0228",
+      "title": "MOUNT PLEASANT..",
+      "reason": "Final source audit: Mount Pleasant continues onto the next page; bottom system ends with single bars and unfinished text, Till God shall bid it. Incomplete page excluded."
+    },
+    {
+      "candidate_key": "0236-343",
+      "scan_id": "0236",
+      "title": "CHRISTMAS ANTHEM.",
+      "reason": "Christmas Anthem is explicitly continued; incomplete tune."
+    },
+    {
+      "candidate_key": "0244-395",
+      "scan_id": "0244",
+      "title": "REVERENTIAL ANTHEM.",
+      "reason": "Opening page of multi-page Reverential Anthem; reference41measures and ending lyrics continue beyond scan."
+    },
+    {
+      "candidate_key": "0248-392",
+      "scan_id": "0248",
+      "title": "EASTER ANTHEM",
+      "reason": "Easter Anthem is explicitly continued; incomplete tune."
+    },
+    {
+      "candidate_key": "0252-321",
+      "scan_id": "0252",
+      "title": "CHRISTIAN SONG.",
+      "reason": "Opening page of multi-page Christian Song; reference40measures and ending lyrics continue beyond scan."
+    },
+    {
+      "candidate_key": "0260-392",
+      "scan_id": "0260",
+      "title": "CLAREMONT.",
+      "reason": "Claremont is explicitly continued; incomplete tune."
+    },
+    {
+      "candidate_key": "0264-411",
+      "scan_id": "0264",
+      "title": "HEAVENLY VISION.",
+      "reason": "Heavenly Vision is explicitly continued; incomplete tune."
+    },
+    {
+      "candidate_key": "0268-482",
+      "scan_id": "0268",
+      "title": "SHARON.",
+      "reason": "False partial-title match: actual heading Rose of Sharon, not Sharon; incomplete multi-page anthem."
+    },
+    {
+      "candidate_key": "0272-475",
+      "scan_id": "0272",
+      "title": "SHARON.",
+      "reason": "False partial-title match: Rose of Sharon continued, not Sharon."
+    },
+    {
+      "candidate_key": "0276-418",
+      "scan_id": "0276",
+      "title": "FAREWELL ANTHEM.",
+      "reason": "Farewell Anthem explicitly concluded; incomplete tune."
+    },
+    {
+      "candidate_key": "0280-1729",
+      "scan_id": "0280",
+      "title": "LEBANON,",
+      "reason": "Actual title Lebanon New inFmajor differs from reference Lebanon inAmajor."
+    },
+    {
+      "candidate_key": "0292-1597",
+      "scan_id": "0292",
+      "title": "TRAVELING PILGRIM",
+      "reason": "Final source audit: 1911 Traveling Pilgrim has one sharp (E minor), while the 2025 278b reference has two flats; transposed edition excluded from absolute-pitch comparison."
+    },
+    {
+      "candidate_key": "0320-1673",
+      "scan_id": "0320",
+      "title": "OXFORD.",
+      "reason": "Final source audit: Oxford continues onto the next page; bottom system ends with single bars and unfinished text. Incomplete page excluded."
+    },
+    {
+      "candidate_key": "0320-404",
+      "scan_id": "0320",
+      "title": "MORGAN.",
+      "reason": "Morgan is marked Concluded and continues from the prior page; incomplete piece."
+    },
+    {
+      "candidate_key": "0332-331",
+      "scan_id": "0332",
+      "title": "MORNING",
+      "reason": "Source shows no key-signature glyphs; reference has three sharps, so this is a different version/key."
+    },
+    {
+      "candidate_key": "0356-435",
+      "scan_id": "0356",
+      "title": "THE OLD-FASHIONED BIBLE.",
+      "reason": "Printed systems have three staves each (six total); reference has four vocal parts."
+    },
+    {
+      "candidate_key": "0372-394",
+      "scan_id": "0372",
+      "title": "MURILLO'S LESSON.",
+      "reason": "Source has three flats; reference has one flat, a clear key mismatch."
+    },
+    {
+      "candidate_key": "0376-1669",
+      "scan_id": "0376",
+      "title": "NORWICH.",
+      "reason": "Final source audit: Norwich is an opening fragment continuing onto the next page; not a complete counterpart to the modern reference."
+    },
+    {
+      "candidate_key": "0376-450",
+      "scan_id": "0376",
+      "title": "LOVING JESUS.",
+      "reason": "Title is marked Concluded; incomplete continuation from the prior page."
+    },
+    {
+      "candidate_key": "0380-405",
+      "scan_id": "0380",
+      "title": "SOUTHWELL.",
+      "reason": "Title is marked Concluded; incomplete continuation from the prior page."
+    },
+    {
+      "candidate_key": "0400-444",
+      "scan_id": "0400",
+      "title": "THE GREAT DAY.",
+      "reason": "Printed systems have three staves each; reference has four vocal parts."
+    },
+    {
+      "candidate_key": "0412-1609",
+      "scan_id": "0412",
+      "title": "THE DYING BOY.",
+      "reason": "Final source audit: The Dying Boy continues onto the next page; lower tune ends with single bars and the word And. Incomplete page excluded."
+    },
+    {
+      "candidate_key": "0424-471",
+      "scan_id": "0424",
+      "title": "THE DYING CALIFORNIAN.",
+      "reason": "Printed song has three staves; reference has four vocal parts."
+    },
+    {
+      "candidate_key": "0452-1672",
+      "scan_id": "0452",
+      "title": "JEWETT.",
+      "reason": "Final source audit: Jewett starts in the lower-right quadrant beside the continuation of Missouri and itself continues onto the next page; existing crop contains adjacent music and no complete tune."
+    },
+    {
+      "candidate_key": "0496-479",
+      "scan_id": "0496",
+      "title": "INVITATION.",
+      "reason": "Source has no key-signature glyphs; reference has two sharps, a clear key mismatch."
+    },
+    {
+      "candidate_key": "0516-469",
+      "scan_id": "0516",
+      "title": "LOGAN.",
+      "reason": "Final source audit: Logan continues onto the next page; second system ends with single bars and extended unfinished text. Incomplete page excluded."
+    },
+    {
+      "candidate_key": "0532-442",
+      "scan_id": "0532",
+      "title": "NEW HOPE,",
+      "reason": "New Hope is marked Concluded and continues from the prior page; incomplete piece."
+    },
+    {
+      "candidate_key": "0540-1909",
+      "scan_id": "0540",
+      "title": "JASPER",
+      "reason": "Final source audit: Jasper is an opening fragment continuing onto the next page; not a complete counterpart to the modern reference."
+    },
+    {
+      "candidate_key": "0050-365",
+      "scan_id": "0050",
+      "title": "LENOX.",
+      "reason": "Already included as Lenox."
+    },
+    {
+      "candidate_key": "0058-1915",
+      "scan_id": "0058",
+      "title": "KEDRON.",
+      "reason": "Kedron key-version compatibility uncertain; not selected."
+    },
+    {
+      "candidate_key": "0062-1777",
+      "scan_id": "0062",
+      "title": "CHARLESTOWN.",
+      "reason": "1911 Charlestown has three parts; reference has four."
+    },
+    {
+      "candidate_key": "0066-450",
+      "scan_id": "0066",
+      "title": "SALEM.",
+      "reason": "Different Salem tune: printed Fmajor/threepart vs reference Bminor/fourpart."
+    },
+    {
+      "candidate_key": "0102-450",
+      "scan_id": "0102",
+      "title": "BURK.",
+      "reason": "Burk printed Fmajor signature1flat vs reference1sharp; transposed edition."
+    },
+    {
+      "candidate_key": "0114-442",
+      "scan_id": "0114",
+      "title": "THE LOVELY STORY.",
+      "reason": "The Lovely Story printed1sharp signature vs reference3sharps; transposed edition."
+    },
+    {
+      "candidate_key": "0134-439",
+      "scan_id": "0134",
+      "title": "HEAVENLY LAND.",
+      "reason": "Heavenly Land source has Gmajor one-sharp signature; reference has Fmajor oneflat."
+    }
+  ],
+  "selection": {
+    "original_sample_size": 20,
+    "expansion_candidate_scans": "48 through 548 inclusive, step 4",
+    "supplement_candidate_scans": "50 through 206 inclusive, step 4",
+    "review_files": [
+      "review_early.json",
+      "review_late.json",
+      "review_supplement.json"
+    ],
+    "selection_note": "Accept primary systematic scan candidates across volume first, then fill remaining slots from supplementary candidates in scan order. Final source audit removed incompatible/incomplete pairings after initial inference, retaining their results as diagnostics; no selection favoring better recognition scores."
+  }
+}

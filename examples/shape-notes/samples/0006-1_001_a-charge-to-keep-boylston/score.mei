@@ -1,0 +1,361 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="m11v2xdd">
+      <fileDesc xml:id="fnklu1b">
+         <titleStmt xml:id="twqfce3">
+            <title>A Charge to Keep I Have (Boylston)</title>
+            <respStmt />
+         </titleStmt>
+         <pubStmt xml:id="pyahc9f" />
+      </fileDesc>
+      <encodingDesc xml:id="e188n364">
+         <appInfo xml:id="aasuspj">
+            <application xml:id="a16ogrty" isodate="2026-11-15T15:07:33" version="6.4.1-fbe8f46">
+               <name xml:id="n2slxh5">Verovio</name>
+               <p xml:id="p183cban">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="i1w5m4w7">
+            <score xml:id="jggd5l0">
+               <scoreDef xml:id="k4gilvz">
+                  <staffGrp xml:id="mmnmags">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="1">
+                        <label xml:id="n1lbmuea">Treble</label>
+                        <clef xml:id="xgj5uah" shape="G" line="2" />
+                        <keySig xml:id="y29unif" mode="major" sig="2s" />
+                        <meterSig xml:id="z1flzgyh" count="3" unit="2" />
+                     </staffDef>
+                     <staffDef xml:id="P2" n="2" lines="5" ppq="1">
+                        <label xml:id="ujg8ujo">Alto</label>
+                        <clef xml:id="ekoptmm" shape="G" line="2" />
+                        <keySig xml:id="f1d7nal0" mode="major" sig="2s" />
+                        <meterSig xml:id="gbunya8" count="3" unit="2" />
+                     </staffDef>
+                     <staffDef xml:id="P3" n="3" lines="5" ppq="1">
+                        <label xml:id="cp692su">Tenor</label>
+                        <clef xml:id="m159reop" shape="G" line="2" />
+                        <keySig xml:id="n8x260e" mode="major" sig="2s" />
+                        <meterSig xml:id="o1f6feqz" count="3" unit="2" />
+                     </staffDef>
+                     <staffDef xml:id="P4" n="4" lines="5" ppq="1">
+                        <label xml:id="fbn2n6y">Bass</label>
+                        <clef xml:id="p1ppo59i" shape="F" line="4" />
+                        <keySig xml:id="qls5c1n" mode="major" sig="2s" />
+                        <meterSig xml:id="r115bveh" count="3" unit="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="l1tn063p">
+                  <expansion plist="#b8t66di" xml:id="cdja8xt" />
+                  <section xml:id="b8t66di">
+                     <measure xml:id="a1rle0ae" metcon="false" n="1">
+                        <mNum xml:id="j1na0mut" />
+                        <staff xml:id="k9xivlw" n="1">
+                           <layer xml:id="lh40adf" n="1">
+                              <note xml:id="m13mw9me" dur.ppq="2" dur="2" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B0" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="r1tog673" n="2">
+                           <layer xml:id="s18ov780" n="1">
+                              <note xml:id="tqnwh0p" dur.ppq="2" dur="2" oct="4" pname="f" accid.ges="s" stem.dir="up" head.auth="smufl" head.shape="U+E1B2" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="z6zmt3q" n="3">
+                           <layer xml:id="a1cw6tcv" n="1">
+                              <note xml:id="bf5hjpq" dur.ppq="2" dur="2" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B0" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="c6n0mpb" n="4">
+                           <layer xml:id="d1d6geyt" n="1">
+                              <note xml:id="eph1r0i" dur.ppq="2" dur="2" oct="3" pname="d" stem.dir="up" head.auth="smufl" head.shape="U+E1B6" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="n1wfv199" n="2">
+                        <staff xml:id="w1b7t7r9" n="1">
+                           <layer xml:id="x1dy9ten" n="1">
+                              <note xml:id="y15l7we2" dur.ppq="1" dur="4" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B1" />
+                              <note xml:id="zjiyd4g" dur.ppq="1" dur="4" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B1" />
+                              <note xml:id="aajibou" dur.ppq="1" dur="4" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B1" />
+                              <note xml:id="c1ijflk" dur.ppq="1" dur="4" oct="5" pname="d" stem.dir="down" head.auth="smufl" head.shape="U+E1B5" />
+                              <note xml:id="d2z3ef1" dur.ppq="2" dur="2" oct="5" pname="d" stem.dir="down" head.auth="smufl" head.shape="U+E1B4" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="e11fjap2" n="2">
+                           <layer xml:id="f11i8zvw" n="1">
+                              <note xml:id="g1ablxg4" dur.ppq="1" dur="4" oct="4" pname="d" stem.dir="up" head.auth="smufl" head.shape="U+E1B7" />
+                              <note xml:id="h2oyqt6" dur.ppq="1" dur="4" oct="4" pname="e" stem.dir="up" head.auth="smufl" head.shape="U+E1B1" />
+                              <note xml:id="i11lkw7l" dur.ppq="2" dur="2" oct="4" pname="f" accid.ges="s" stem.dir="up" head.auth="smufl" head.shape="U+E1B2" />
+                              <note xml:id="k1d47nmg" dur.ppq="2" dur="2" oct="4" pname="g" stem.dir="up" head.auth="smufl" head.shape="U+E1B6" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="liybnm8" n="3">
+                           <layer xml:id="m1ae5vxz" n="1">
+                              <note xml:id="n1cmiq9h" dur.ppq="1" dur="4" oct="4" pname="f" accid.ges="s" stem.dir="up" head.auth="smufl" head.shape="U+E1B3" />
+                              <note xml:id="p1ungdm2" dur.ppq="1" dur="4" oct="4" pname="g" stem.dir="up" head.auth="smufl" head.shape="U+E1B7" />
+                              <note xml:id="q16pewc" dur.ppq="2" dur="2" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B0" />
+                              <note xml:id="r1g8r4fy" dur.ppq="2" dur="2" oct="4" pname="b" stem.dir="up" head.auth="smufl" head.shape="U+E1B2" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="ooqsnys" n="4">
+                           <layer xml:id="p1mu2hrf" n="1">
+                              <note xml:id="qu3za5m" dur.ppq="1" dur="4" oct="3" pname="d" stem.dir="up" head.auth="smufl" head.shape="U+E1B7" />
+                              <note xml:id="rsc1rpc" dur.ppq="1" dur="4" oct="3" pname="d" stem.dir="up" head.auth="smufl" head.shape="U+E1B7" />
+                              <note xml:id="snvd7yo" dur.ppq="2" dur="2" oct="3" pname="d" stem.dir="up" head.auth="smufl" head.shape="U+E1B6" />
+                              <note xml:id="t16iccic" dur.ppq="2" dur="2" oct="3" pname="g" stem.dir="down" head.auth="smufl" head.shape="U+E1B4" />
+                           </layer>
+                        </staff>
+                        <slur xml:id="b1ef8bmo" startid="#aajibou" endid="#c1ijflk" />
+                     </measure>
+                     <measure xml:id="eu6xfci" n="3">
+                        <staff xml:id="nlivecp" n="1">
+                           <layer xml:id="o3apkhq" n="1">
+                              <note xml:id="pybqsoj" dur.ppq="4" dur="1" oct="5" pname="d" stem.dir="down" head.auth="smufl" head.shape="U+E1B4" />
+                              <note xml:id="q1jd2h5m" dur.ppq="2" dur="2" oct="5" pname="d" stem.dir="down" head.auth="smufl" head.shape="U+E1B4" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="u1amx0xb" n="2">
+                           <layer xml:id="vnm4sm" n="1">
+                              <note xml:id="wktjcv9" dur.ppq="4" dur="1" oct="4" pname="f" accid.ges="s" stem.dir="up" head.auth="smufl" head.shape="U+E1B2" />
+                              <note xml:id="y3z8l2y" dur.ppq="2" dur="2" oct="4" pname="f" accid.ges="s" stem.dir="up" head.auth="smufl" head.shape="U+E1B2" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="bzljwih" n="3">
+                           <layer xml:id="c1covwup" n="1">
+                              <note xml:id="dq5sqv1" dur.ppq="4" dur="1" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B0" />
+                              <note xml:id="e1kwfyhk" dur.ppq="2" dur="2" oct="5" pname="d" stem.dir="down" head.auth="smufl" head.shape="U+E1B4" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="d13st96u" n="4">
+                           <layer xml:id="e1gcwjxb" n="1">
+                              <note xml:id="fbmduw4" dur.ppq="4" dur="1" oct="3" pname="d" stem.dir="up" head.auth="smufl" head.shape="U+E1B6" />
+                              <note xml:id="g18ko2vg" dur.ppq="2" dur="2" oct="3" pname="d" stem.dir="up" head.auth="smufl" head.shape="U+E1B6" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="r1s9coak" n="4">
+                        <staff xml:id="avvaplr" n="1">
+                           <layer xml:id="b2lf0ev" n="1">
+                              <note xml:id="c1apwwf8" dur.ppq="1" dur="4" oct="4" pname="b" stem.dir="up" head.auth="smufl" head.shape="U+E1B3" />
+                              <note xml:id="d151gcn" dur.ppq="1" dur="4" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B1" />
+                              <note xml:id="e56cc71" dur.ppq="2" dur="2" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B0" />
+                              <note xml:id="fgueuli" dur.ppq="1" dur="4" oct="4" pname="g" stem.dir="up" head.auth="smufl" head.shape="U+E1B7">
+                                 <accid xml:id="gd33kbh" accid="s" />
+                              </note>
+                              <note xml:id="i14smp1y" dur.ppq="1" dur="4" oct="5" pname="d" stem.dir="down" head.auth="smufl" head.shape="U+E1B5" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="jegixj2" n="2">
+                           <layer xml:id="k169j1qe" n="1">
+                              <note xml:id="l1ub6jwx" dur.ppq="1" dur="4" oct="4" pname="g" stem.dir="up" head.auth="smufl" head.shape="U+E1B7">
+                                 <accid xml:id="m1g9ddyr" accid="s" />
+                              </note>
+                              <note xml:id="n1ykdurn" dur.ppq="1" dur="4" oct="4" pname="e" stem.dir="up" head.auth="smufl" head.shape="U+E1B1" />
+                              <note xml:id="od7liaq" dur.ppq="2" dur="2" oct="4" pname="f" accid.ges="s" stem.dir="up" head.auth="smufl" head.shape="U+E1B2" />
+                              <note xml:id="q1d8oufk" dur.ppq="2" dur="2" oct="4" pname="e" stem.dir="up" head.auth="smufl" head.shape="U+E1B0" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="otb3ng4" n="3">
+                           <layer xml:id="p1m5ibaz" n="1">
+                              <note xml:id="q17rdl99" dur.ppq="1" dur="4" oct="5" pname="d" stem.dir="down" head.auth="smufl" head.shape="U+E1B5" />
+                              <note xml:id="r1yird42" dur.ppq="1" dur="4" oct="5" pname="c" accid.ges="s" stem.dir="down" head.auth="smufl" head.shape="U+E1B9" />
+                              <note xml:id="tfxa3t6" dur.ppq="2" dur="2" oct="4" pname="b" stem.dir="up" head.auth="smufl" head.shape="U+E1B2" />
+                              <note xml:id="uqfiztn" dur.ppq="2" dur="2" oct="4" pname="b" stem.dir="up" head.auth="smufl" head.shape="U+E1B2" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="q116oz2m" n="4">
+                           <layer xml:id="r1dl411s" n="1">
+                              <note xml:id="s11civhi" dur.ppq="1" dur="4" oct="3" pname="e" stem.dir="down" head.auth="smufl" head.shape="U+E1B1" />
+                              <space xml:id="u12768rp" dur.ppq="1" dur="4" />
+                              <note xml:id="t1mjmr1l" dur.ppq="2" dur="2" oct="3" pname="d" stem.dir="up" head.auth="smufl" head.shape="U+E1B6" />
+                              <note xml:id="v7mlypd" dur.ppq="2" dur="2" oct="3" pname="e" stem.dir="down" head.auth="smufl" head.shape="U+E1B0" />
+                           </layer>
+                        </staff>
+                        <slur xml:id="h1b2u862" startid="#fgueuli" endid="#i14smp1y" />
+                     </measure>
+                     <measure xml:id="j1d4orkl" n="5">
+                        <staff xml:id="suam0jv" n="1">
+                           <layer xml:id="tvs7e2t" n="1">
+                              <note xml:id="u8n6fix" dur.ppq="4" dur="1" oct="5" pname="c" accid.ges="s" stem.dir="down" head.auth="smufl" head.shape="U+E1B8" />
+                              <mSpace xml:id="xg1dt7b" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="a1b5jf1p" n="2">
+                           <layer xml:id="brl11dp" n="1">
+                              <note xml:id="c15n3f5w" dur.ppq="4" dur="1" oct="4" pname="e" stem.dir="up" head.auth="smufl" head.shape="U+E1B0" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="e5n1hb" n="3">
+                           <layer xml:id="f8b9yy9" n="1">
+                              <note xml:id="gfwbtl8" dur.ppq="4" dur="1" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B0" />
+                              <mSpace xml:id="it4ujvd" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="felncjd" n="4">
+                           <layer xml:id="g1j9bksp" n="1">
+                              <note xml:id="htk30sb" dur.ppq="4" dur="1" oct="2" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B0" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="y5idtnk" n="6">
+                        <staff xml:id="h99bpoi" n="1">
+                           <layer xml:id="ibzzd6h" n="1">
+                              <note xml:id="j1cda7i0" dur.ppq="2" dur="2" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B0" />
+                              <mSpace xml:id="lr7d2wu" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="mapk25n" n="2">
+                           <layer xml:id="n2bd7uv" n="1">
+                              <note xml:id="o2kemwb" dur.ppq="2" dur="2" oct="4" pname="f" accid.ges="s" stem.dir="up" head.auth="smufl" head.shape="U+E1B2" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="s1n9ve4b" n="3">
+                           <layer xml:id="t1x8p917" n="1">
+                              <note xml:id="u1ynnerz" dur.ppq="2" dur="2" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B0" />
+                              <mSpace xml:id="w1al8047" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="r779f76" n="4">
+                           <layer xml:id="sm1yp25" n="1">
+                              <note xml:id="t1scjuob" dur.ppq="2" dur="2" oct="3" pname="d" stem.dir="up" head.auth="smufl" head.shape="U+E1B6" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="msnrppq" n="7">
+                        <staff xml:id="v13sq3mk" n="1">
+                           <layer xml:id="w57kby0" n="1">
+                              <note xml:id="x14oltn6" dur.ppq="1" dur="4" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B1" />
+                              <note xml:id="y1odwrgn" dur.ppq="1" dur="4" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B1" />
+                              <note xml:id="z6sjymu" dur.ppq="2" dur="2" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B0" />
+                              <note xml:id="aygc7p2" dur.ppq="2" dur="2" oct="5" pname="d" stem.dir="down" head.auth="smufl" head.shape="U+E1B4" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="z13fc9nw" n="2">
+                           <layer xml:id="a16zbmtn" n="1">
+                              <note xml:id="b13q4wov" dur.ppq="1" dur="4" oct="4" pname="d" stem.dir="up" head.auth="smufl" head.shape="U+E1B7" />
+                              <note xml:id="c1li59gz" dur.ppq="1" dur="4" oct="4" pname="c" accid.ges="s" stem.dir="up" head.auth="smufl" head.shape="U+E1B9" />
+                              <note xml:id="e1uykrr9" dur.ppq="2" dur="2" oct="4" pname="d" stem.dir="up" head.auth="smufl" head.shape="U+E1B6" />
+                              <note xml:id="f1njbg72" dur.ppq="2" dur="2" oct="4" pname="f" accid.ges="s" stem.dir="up" head.auth="smufl" head.shape="U+E1B2" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="g8s5mp6" n="3">
+                           <layer xml:id="htbejfd" n="1">
+                              <note xml:id="i1485qy3" dur.ppq="1" dur="4" oct="4" pname="f" accid.ges="s" stem.dir="up" head.auth="smufl" head.shape="U+E1B3" />
+                              <note xml:id="k1gtxp5n" dur.ppq="1" dur="4" oct="4" pname="g" stem.dir="up" head.auth="smufl" head.shape="U+E1B7" />
+                              <note xml:id="lucv8mi" dur.ppq="2" dur="2" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B0" />
+                              <note xml:id="mtcsw9k" dur.ppq="2" dur="2" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B0" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="dmgg740" n="4">
+                           <layer xml:id="e1k1ycd1" n="1">
+                              <note xml:id="f69q4zx" dur.ppq="1" dur="4" oct="3" pname="d" stem.dir="up" head.auth="smufl" head.shape="U+E1B7" />
+                              <note xml:id="g1b27pfr" dur.ppq="1" dur="4" oct="3" pname="e" stem.dir="down" head.auth="smufl" head.shape="U+E1B1" />
+                              <note xml:id="hcwzera" dur.ppq="2" dur="2" oct="3" pname="f" accid.ges="s" stem.dir="down" head.auth="smufl" head.shape="U+E1B2" />
+                              <note xml:id="jfcpkfz" dur.ppq="2" dur="2" oct="3" pname="d" stem.dir="up" head.auth="smufl" head.shape="U+E1B6" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="b1f31xac" n="8">
+                        <staff xml:id="k6udxiy" n="1">
+                           <layer xml:id="l1ig4vdl" n="1">
+                              <note xml:id="m1ak4uc" dur.ppq="1" dur="4" oct="5" pname="d" stem.dir="down" head.auth="smufl" head.shape="U+E1B5" />
+                              <note xml:id="nxgw2e0" dur.ppq="1" dur="4" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B1" />
+                              <note xml:id="o1mhoizt" dur.ppq="2" dur="2" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B0" />
+                              <note xml:id="p1c52j0v" dur.ppq="2" dur="2" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B0" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="qzkuj0r" n="2">
+                           <layer xml:id="r1n2kh6c" n="1">
+                              <note xml:id="soq7ioh" dur.ppq="1" dur="4" oct="4" pname="g" stem.dir="up" head.auth="smufl" head.shape="U+E1B7" />
+                              <note xml:id="tqpye9h" dur.ppq="1" dur="4" oct="4" pname="g" stem.dir="up" head.auth="smufl" head.shape="U+E1B7" />
+                              <note xml:id="uisaieb" dur.ppq="2" dur="2" oct="4" pname="f" accid.ges="s" stem.dir="up" head.auth="smufl" head.shape="U+E1B2" />
+                              <note xml:id="w1cm7ksn" dur.ppq="2" dur="2" oct="4" pname="e" stem.dir="up" head.auth="smufl" head.shape="U+E1B0" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="wczjem8" n="3">
+                           <layer xml:id="x1j286v5" n="1">
+                              <note xml:id="y1cdnpqj" dur.ppq="1" dur="4" oct="4" pname="b" stem.dir="up" head.auth="smufl" head.shape="U+E1B3" />
+                              <note xml:id="zbnc2lt" dur.ppq="1" dur="4" oct="5" pname="c" accid.ges="s" stem.dir="down" head.auth="smufl" head.shape="U+E1B9" />
+                              <note xml:id="b1f2cyny" dur.ppq="2" dur="2" oct="5" pname="d" stem.dir="down" head.auth="smufl" head.shape="U+E1B4" />
+                              <note xml:id="c1kzwo9q" dur.ppq="2" dur="2" oct="5" pname="c" accid.ges="s" stem.dir="down" head.auth="smufl" head.shape="U+E1B8" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="td70es5" n="4">
+                           <layer xml:id="ur6t5z6" n="1">
+                              <note xml:id="vah8v46" dur.ppq="1" dur="4" oct="3" pname="g" stem.dir="down" head.auth="smufl" head.shape="U+E1B5" />
+                              <note xml:id="w648xyh" dur.ppq="1" dur="4" oct="3" pname="e" stem.dir="down" head.auth="smufl" head.shape="U+E1B1" />
+                              <note xml:id="x1tbdyfe" dur.ppq="2" dur="2" oct="3" pname="a" stem.dir="down" head.auth="smufl" head.shape="U+E1B0" />
+                              <note xml:id="y1hvfz0z" dur.ppq="2" dur="2" oct="3" pname="a" stem.dir="down" head.auth="smufl" head.shape="U+E1B0" />
+                           </layer>
+                        </staff>
+                     </measure>
+                     <measure xml:id="qxjiokj" n="9">
+                        <staff xml:id="z186mp23" n="1">
+                           <layer xml:id="akv7oly" n="1">
+                              <note xml:id="b1d4ehpq" dur.ppq="1" dur="4" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B1" />
+                              <note xml:id="c1p6dtm7" dur.ppq="1" dur="4" oct="5" pname="d" stem.dir="down" head.auth="smufl" head.shape="U+E1B5" />
+                              <note xml:id="d1ttuh5q" dur.ppq="1" dur="4" oct="5" pname="d" stem.dir="down" head.auth="smufl" head.shape="U+E1B5" />
+                              <note xml:id="f1g8flz4" dur.ppq="1" dur="4" oct="5" pname="c" accid.ges="s" stem.dir="down" head.auth="smufl" head.shape="U+E1B9" />
+                              <note xml:id="heeeagp" dur.ppq="2" dur="2" oct="5" pname="e" stem.dir="down" head.auth="smufl" head.shape="U+E1B0" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="gc1wg0n" n="2">
+                           <layer xml:id="hb0sbau" n="1">
+                              <note xml:id="ivah5su" dur.ppq="1" dur="4" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B1" />
+                              <note xml:id="ju9dtsq" dur.ppq="1" dur="4" oct="4" pname="g" stem.dir="up" head.auth="smufl" head.shape="U+E1B7" />
+                              <note xml:id="kwsnqe6" dur.ppq="1" dur="4" oct="4" pname="f" accid.ges="s" stem.dir="up" head.auth="smufl" head.shape="U+E1B3" />
+                              <note xml:id="nniwz92" dur.ppq="1" dur="4" oct="4" pname="e" stem.dir="up" head.auth="smufl" head.shape="U+E1B1" />
+                              <note xml:id="o1glw15u" dur.ppq="2" dur="2" oct="4" pname="g" stem.dir="up" head.auth="smufl" head.shape="U+E1B6" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="nnmi9wg" n="3">
+                           <layer xml:id="o166fq7y" n="1">
+                              <note xml:id="pkxdnn0" dur.ppq="1" dur="4" oct="5" pname="d" stem.dir="down" head.auth="smufl" head.shape="U+E1B5" />
+                              <note xml:id="q1s9eckb" dur.ppq="1" dur="4" oct="4" pname="b" stem.dir="up" head.auth="smufl" head.shape="U+E1B3" />
+                              <note xml:id="r1c5lw0x" dur.ppq="2" dur="2" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B0" />
+                              <note xml:id="s1r0iqr7" dur.ppq="2" dur="2" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B0" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="i1znmh0" n="4">
+                           <layer xml:id="jhnpiwx" n="1">
+                              <note xml:id="k1764erf" dur.ppq="1" dur="4" oct="3" pname="f" accid.ges="s" stem.dir="down" head.auth="smufl" head.shape="U+E1B3" />
+                              <note xml:id="m1ft08jd" dur.ppq="1" dur="4" oct="3" pname="g" stem.dir="down" head.auth="smufl" head.shape="U+E1B5" />
+                              <note xml:id="njab651" dur.ppq="2" dur="2" oct="3" pname="a" stem.dir="down" head.auth="smufl" head.shape="U+E1B0" />
+                              <note xml:id="on96w74" dur.ppq="2" dur="2" oct="2" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B0" />
+                           </layer>
+                        </staff>
+                        <slur xml:id="e1w5rp2z" startid="#d1ttuh5q" endid="#f1g8flz4" />
+                        <slur xml:id="mj6cgha" startid="#kwsnqe6" endid="#nniwz92" />
+                     </measure>
+                     <measure xml:id="iyyyokq" right="end" metcon="false" n="10">
+                        <staff xml:id="r1vyuwls" n="1">
+                           <layer xml:id="ss0cr5e" n="1">
+                              <note xml:id="t1kk1bjl" dur.ppq="4" dur="1" oct="5" pname="d" stem.dir="down" head.auth="smufl" head.shape="U+E1B4" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="y1mcc4tr" n="2">
+                           <layer xml:id="z1nh0iao" n="1">
+                              <note xml:id="a1iyzymk" dur.ppq="4" dur="1" oct="4" pname="f" accid.ges="s" stem.dir="up" head.auth="smufl" head.shape="U+E1B2" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="c1f2frhz" n="3">
+                           <layer xml:id="d1cj0ush" n="1">
+                              <note xml:id="e1bxjs3g" dur.ppq="4" dur="1" oct="4" pname="a" stem.dir="up" head.auth="smufl" head.shape="U+E1B0" />
+                           </layer>
+                        </staff>
+                        <staff xml:id="ygh4pdf" n="4">
+                           <layer xml:id="zliif5y" n="1">
+                              <note xml:id="a1471o8l" dur.ppq="4" dur="1" oct="3" pname="d" stem.dir="up" head.auth="smufl" head.shape="U+E1B6" />
+                           </layer>
+                        </staff>
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

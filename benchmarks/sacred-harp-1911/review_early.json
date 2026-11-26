@@ -1,0 +1,327 @@
+{
+  "0048-448": {
+    "accepted": true,
+    "printed_page": "38t",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "reason": "Visually checked title, complete song, printed key and part count."
+  },
+  "0064-404": {
+    "accepted": false,
+    "printed_page": "54t",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "reason": "Final source audit: 1911 Georgia and modern 197 Georgia are different musical settings (opening pitches/rhythms and text differ); excluded from cross-edition comparison."
+  },
+  "0068-484": {
+    "accepted": true,
+    "printed_page": "58",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visually checked title, complete song, printed key and part count."
+  },
+  "0072-476": {
+    "accepted": true,
+    "printed_page": "62",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visually checked title, complete song, printed key and part count."
+  },
+  "0080-390": {
+    "accepted": true,
+    "printed_page": "70t",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "reason": "Visually checked title, complete song, printed key and part count."
+  },
+  "0080-1828": {
+    "accepted": true,
+    "printed_page": "70b",
+    "expected_staves": 3,
+    "expected_systems": 1,
+    "reason": "Visually checked title, complete song, printed key and part count."
+  },
+  "0084-326": {
+    "accepted": false,
+    "printed_page": "74t",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "reason": "Final source audit: upper Enquirer crop omits the four-part continuation in the lower-left quadrant beside King of Peace; incomplete input excluded."
+  },
+  "0084-1651": {
+    "accepted": true,
+    "printed_page": "74b",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "reason": "Complete four-part King of Peace, no signature, isolated to lower-right quadrant; final crop audit excludes adjacent Enquirer continuation on left.",
+    "crop": [
+      1100,
+      1631,
+      4019,
+      3416
+    ]
+  },
+  "0048-1565": {
+    "accepted": false,
+    "reason": "Printed E minor / one sharp differs from reference three sharps."
+  },
+  "0052-327": {
+    "accepted": false,
+    "reason": "Already included in original20 as Clamanda."
+  },
+  "0060-1885": {
+    "accepted": false,
+    "reason": "1911 has three vocal staves but 2025 reference has four parts."
+  },
+  "0064-1604": {
+    "accepted": false,
+    "reason": "1911 Imandra in Fmajor differs from reference Imandra key/no signature."
+  },
+  "0092-328": {
+    "accepted": true,
+    "printed_page": "82t",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "reason": "Visually checked complete song, key signature and part count."
+  },
+  "0092-1978": {
+    "accepted": true,
+    "printed_page": "82b",
+    "expected_staves": 3,
+    "expected_systems": 1,
+    "reason": "Visually checked complete song, key signature and part count."
+  },
+  "0100-440": {
+    "accepted": true,
+    "printed_page": "90",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visually checked complete song, key signature and part count."
+  },
+  "0104-402": {
+    "accepted": true,
+    "printed_page": "94",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visually checked complete song, key signature and part count."
+  },
+  "0108-489": {
+    "accepted": true,
+    "printed_page": "98",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visually checked complete song, key signature and part count."
+  },
+  "0112-436": {
+    "accepted": true,
+    "printed_page": "102",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visually checked complete song, key signature and part count."
+  },
+  "0120-394": {
+    "accepted": true,
+    "printed_page": "110",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visually checked complete song, key signature and part count."
+  },
+  "0088-406": {
+    "accepted": false,
+    "reason": "Three original parts across two systems, reference has four parts."
+  },
+  "0116-390": {
+    "accepted": false,
+    "reason": "Printed E minor / one sharp differs from reference three sharps."
+  },
+  "0124-319": {
+    "accepted": true,
+    "printed_page": "114t",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "reason": "Visually checked complete song, actual key-signature glyphs and part count."
+  },
+  "0124-1701": {
+    "accepted": true,
+    "printed_page": "114b",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "reason": "Visually checked complete song, actual key-signature glyphs and part count."
+  },
+  "0132-380": {
+    "accepted": true,
+    "printed_page": "122",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visually checked complete song, actual key-signature glyphs and part count."
+  },
+  "0136-382": {
+    "accepted": true,
+    "printed_page": "126",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visually checked complete song, actual key-signature glyphs and part count."
+  },
+  "0144-340": {
+    "accepted": true,
+    "printed_page": "134",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visually checked complete song, actual key-signature glyphs and part count.",
+    "chosen_reference": "134 THE CHRISTIAN\u2019S HOPE.musicxml.xml"
+  },
+  "0152-389": {
+    "accepted": true,
+    "printed_page": "142",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Actual signature has three sharps, matching reference; printed FsharpMajor caption is inconsistent."
+  },
+  "0156-392": {
+    "accepted": true,
+    "printed_page": "146",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visually checked complete song, actual key-signature glyphs and part count."
+  },
+  "0168-391": {
+    "accepted": true,
+    "printed_page": "158",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visually checked complete song, actual key-signature glyphs and part count."
+  },
+  "0172-316": {
+    "accepted": true,
+    "printed_page": "162",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visually checked complete song, actual key-signature glyphs and part count."
+  },
+  "0180-394": {
+    "accepted": true,
+    "printed_page": "170",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visually checked complete song, actual signature and four-part layout."
+  },
+  "0192-437": {
+    "accepted": true,
+    "printed_page": "182",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visually checked complete song, actual signature and four-part layout."
+  },
+  "0196-395": {
+    "accepted": true,
+    "printed_page": "186",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visually checked complete song, actual signature and four-part layout."
+  },
+  "0212-290": {
+    "accepted": true,
+    "printed_page": "202",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visually checked complete song, actual signature and four-part layout."
+  },
+  "0176-398": {
+    "accepted": false,
+    "reason": "Page contains only Family Bible conclusion; incomplete tune."
+  },
+  "0184-399": {
+    "accepted": false,
+    "reason": "1911 has three parts; modern reference has four."
+  },
+  "0200-346": {
+    "accepted": false,
+    "reason": "Only Montgomery conclusion; incomplete tune."
+  },
+  "0204-359": {
+    "accepted": false,
+    "reason": "Only Huntington conclusion; incomplete tune."
+  },
+  "0220-450": {
+    "accepted": true,
+    "printed_page": "210",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visually checked complete song, actual signature and four-part layout."
+  },
+  "0224-341": {
+    "accepted": true,
+    "printed_page": "214",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visually checked complete song, actual signature and four-part layout."
+  },
+  "0228-424": {
+    "accepted": false,
+    "printed_page": "218",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Final source audit: Mount Pleasant continues onto the next page; bottom system ends with single bars and unfinished text, Till God shall bid it. Incomplete page excluded."
+  },
+  "0232-458": {
+    "accepted": true,
+    "printed_page": "222",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visually checked complete song, actual signature and four-part layout."
+  },
+  "0284-465": {
+    "accepted": true,
+    "printed_page": "270",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "reason": "Visually checked complete song, actual signature and four-part layout."
+  },
+  "0288-372": {
+    "accepted": true,
+    "printed_page": "274t",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "reason": "Visually checked complete song, actual signature and four-part layout."
+  },
+  "0236-343": {
+    "accepted": false,
+    "reason": "Christmas Anthem is explicitly continued; incomplete tune."
+  },
+  "0244-395": {
+    "accepted": false,
+    "reason": "Opening page of multi-page Reverential Anthem; reference41measures and ending lyrics continue beyond scan."
+  },
+  "0248-392": {
+    "accepted": false,
+    "reason": "Easter Anthem is explicitly continued; incomplete tune."
+  },
+  "0252-321": {
+    "accepted": false,
+    "reason": "Opening page of multi-page Christian Song; reference40measures and ending lyrics continue beyond scan."
+  },
+  "0260-392": {
+    "accepted": false,
+    "reason": "Claremont is explicitly continued; incomplete tune."
+  },
+  "0264-411": {
+    "accepted": false,
+    "reason": "Heavenly Vision is explicitly continued; incomplete tune."
+  },
+  "0268-482": {
+    "accepted": false,
+    "reason": "False partial-title match: actual heading Rose of Sharon, not Sharon; incomplete multi-page anthem."
+  },
+  "0272-475": {
+    "accepted": false,
+    "reason": "False partial-title match: Rose of Sharon continued, not Sharon."
+  },
+  "0276-418": {
+    "accepted": false,
+    "reason": "Farewell Anthem explicitly concluded; incomplete tune."
+  },
+  "0280-1729": {
+    "accepted": false,
+    "reason": "Actual title Lebanon New inFmajor differs from reference Lebanon inAmajor."
+  }
+}

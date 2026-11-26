@@ -1,0 +1,15 @@
+{
+  "backend": "CoreML neural stages + Python layout/decoding",
+  "compute_units": "CPU_ONLY",
+  "input": "../examples/samples/0174-169_250_praise-god.png",
+  "detector_size": 928,
+  "detections": 191,
+  "clean_layout": true,
+  "staves": 4,
+  "systems": 2,
+  "symbols": 192,
+  "elapsed_seconds": 0.954876746982336,
+  "shape_key_assumed_C_major": false,
+  "four_staff": false,
+  "arrangement": null
+}

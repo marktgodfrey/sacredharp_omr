@@ -1,0 +1,64 @@
+Detecting Rochester
+Reading Rochester: reproduced_default
+Reading Rochester: staff16
+[Warning] MusicXML import: slur ending for element 'o1u8cg33' could not be matched to a start element
+Reading Rochester: staff21.2
+Reading Rochester: baseline_exclusive
+Reading Rochester: staff16_exclusive
+[Warning] MusicXML import: slur ending for element 'ms2i335' could not be matched to a start element
+Reading Rochester: staff21.2_exclusive
+Detecting Winter
+Reading Winter: reproduced_default
+Reading Winter: staff16
+Reading Winter: staff21.2
+Reading Winter: baseline_exclusive
+Reading Winter: staff16_exclusive
+Reading Winter: staff21.2_exclusive
+Detecting Plenary
+Reading Plenary: reproduced_default
+Reading Plenary: staff16
+Reading Plenary: staff21.2
+Reading Plenary: baseline_exclusive
+Reading Plenary: staff16_exclusive
+Reading Plenary: staff21.2_exclusive
+Detecting Monroe
+Reading Monroe: reproduced_default
+Reading Monroe: staff16
+Reading Monroe: staff21.2
+Reading Monroe: baseline_exclusive
+Reading Monroe: staff16_exclusive
+Reading Monroe: staff21.2_exclusive
+{
+  "Rochester": {
+    "reproduced_default": 19.51,
+    "staff16": 11.38,
+    "staff21.2": 12.0,
+    "baseline_exclusive": 19.51,
+    "staff16_exclusive": 11.38,
+    "staff21.2_exclusive": 11.2
+  },
+  "Winter": {
+    "reproduced_default": 10.22,
+    "staff16": 6.57,
+    "staff21.2": 4.38,
+    "baseline_exclusive": 10.22,
+    "staff16_exclusive": 6.57,
+    "staff21.2_exclusive": 4.38
+  },
+  "Plenary": {
+    "reproduced_default": 4.04,
+    "staff16": 3.59,
+    "staff21.2": 3.14,
+    "baseline_exclusive": 4.04,
+    "staff16_exclusive": 2.69,
+    "staff21.2_exclusive": 2.24
+  },
+  "Monroe": {
+    "reproduced_default": 91.35,
+    "staff16": 91.63,
+    "staff21.2": 92.56,
+    "baseline_exclusive": 91.35,
+    "staff16_exclusive": 91.63,
+    "staff21.2_exclusive": 92.49
+  }
+}

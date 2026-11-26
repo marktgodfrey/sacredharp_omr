@@ -1,0 +1,61 @@
+{
+  "layout": "two-parts-one-staff",
+  "octave_shifts": {
+    "Tenor": 0,
+    "Alto": 0,
+    "Treble": 1,
+    "Bass": -1
+  },
+  "fallback_notes": 59,
+  "ambiguities": [
+    "source part 1/staff 1: fused chord split by pitch",
+    "source part 2/staff 1: fused chord split by pitch",
+    "source part 2/staff 1: isolated singleton copied to both lines as an inferred unison",
+    "source part 1/staff 1: isolated singleton copied to both lines as an inferred unison",
+    "Tenor measure 6: overlapping events retained in voice 2",
+    "Tenor measure 7: same-onset events rendered as chords"
+  ],
+  "beams_removed": 15,
+  "review_needed_count": 59,
+  "initial_octave_shifts": {
+    "Treble": 1,
+    "Alto": 1,
+    "Tenor": 0,
+    "Bass": 0
+  },
+  "register_fit": {
+    "source_key": "G",
+    "source_mode_reason": "mode uncertain; signature interpreted as major (review needed)",
+    "target_key": "C",
+    "semitones": 5,
+    "diatonic_steps": 3,
+    "octave_adjustments": {
+      "Treble": 0,
+      "Alto": -1,
+      "Tenor": 0,
+      "Bass": -1
+    },
+    "ranges": {
+      "Treble": [
+        "D4",
+        "G5"
+      ],
+      "Alto": [
+        "D4",
+        "C5"
+      ],
+      "Tenor": [
+        "E4",
+        "A5"
+      ],
+      "Bass": [
+        "D2",
+        "E3"
+      ]
+    },
+    "tenor_below_E4": 0,
+    "tenor_above_F5": 4,
+    "explicit_target": false,
+    "mode_needs_review": true
+  }
+}

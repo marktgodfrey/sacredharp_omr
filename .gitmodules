@@ -1,0 +1,4 @@
+[submodule "copisteria"]
+	path = copisteria
+	url = https://github.com/marktgodfrey/copisteria.git
+	branch = sacred-harp

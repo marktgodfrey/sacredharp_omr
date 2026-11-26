@@ -1,0 +1,289 @@
+[1/100] Bethel
+  10.9%; 5.5s
+[2/100] Lenox
+  17.8%; 4.1s
+[3/100] Clamanda
+  77.7%; 9.7s
+[4/100] Idumea
+[Warning] MusicXML import: slur ending for element 'd1iuyelu' could not be matched to a start element
+[Warning] slur 'c1iriwff' is ignored, since start 'b102x1kd' does not occur temporally before end 'f1nnmut8'.
+  41.6%; 4.4s
+[5/100] Holy Manna
+  13.9%; 8.2s
+[6/100] Aylesbury
+  34.3%; 3.9s
+[7/100] Wells
+  19.3%; 4.7s
+[8/100] Fairfield
+  26.1%; 4.2s
+[9/100] Tribulation
+  39.2%; 1.6s
+[10/100] Rochester
+[Warning] MusicXML import: slur ending for element 'd4w627d' could not be matched to a start element
+  11.4%; 2.7s
+[11/100] Prospect
+  10.3%; 4.4s
+[12/100] Ninety-Third Psalm
+[Warning] MusicXML import: slur ending for element 'e3b99g8' could not be matched to a start element
+[Warning] MusicXML import: slur ending for element 'xougw1e' could not be matched to a start element
+  29.0%; 4.7s
+[13/100] Webster
+  10.6%; 3.8s
+[14/100] Corinth
+  17.0%; 4.3s
+[15/100] Weeping Savior
+[Warning] Insufficient space to draw mixed beam, starting at 'x1ogyapn'. Drawing 'below' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'x1ogyapn'. Drawing 'below' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'x1ogyapn'. Drawing 'below' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'x1ogyapn'. Drawing 'below' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'x1ogyapn'. Drawing 'below' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'x1ogyapn'. Drawing 'below' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'x1ogyapn'. Drawing 'below' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'x1ogyapn'. Drawing 'below' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'x1ogyapn'. Drawing 'below' instead.
+  78.1%; 3.7s
+[16/100] Abbeville
+  8.6%; 1.9s
+[17/100] America
+  31.6%; 3.9s
+[18/100] Ninety-Fifth
+  39.9%; 4.0s
+[19/100] Primrose
+  14.3%; 3.9s
+[20/100] Liverpool
+  15.8%; 3.6s
+[21/100] Winter
+  6.6%; 1.9s
+[22/100] Pisgah
+[Warning] Insufficient space to draw mixed beam, starting at 't1920w5w'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 't1920w5w'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 't1920w5w'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 't1920w5w'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 't1920w5w'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 't1920w5w'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 't1920w5w'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 't1920w5w'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 't1920w5w'. Drawing 'above' instead.
+  12.2%; 9.1s
+[23/100] Parting Hand
+  15.0%; 4.7s
+[24/100] Save, Mighty Lord
+  36.3%; 4.1s
+[25/100] Gainsville
+  17.7%; 4.5s
+[26/100] King Of Peace
+  19.5%; 3.8s
+[27/100] Edgefield
+  39.5%; 3.4s
+[28/100] Bound For Canaan
+[Warning] MusicXML import: slur ending for element 'o1rf2f6f' could not be matched to a start element
+[Warning] MusicXML import: slur ending for element 'c1b601h2' could not be matched to a start element
+[Warning] MusicXML import: slur ending for element 'bpqtnsp' could not be matched to a start element
+  24.7%; 4.2s
+[29/100] Look Out
+  15.5%; 7.8s
+[30/100] Mulberry Grove
+[Warning] MusicXML import: slur ending for element 'n16u9aye' could not be matched to a start element
+  6.3%; 4.0s
+[31/100] Dull Care
+/Users/mark/code/sh_omr/copisteria/src/copisteria/front.py:789: RuntimeWarning: Mean of empty slice.
+  rows.append(gray[int(S[0].y1) + 1:int(S[1].y0), xa:xb].mean(axis=0))
+/Users/mark/code/sh_omr/copisteria/.venv/lib/python3.12/site-packages/numpy/_core/_methods.py:136: RuntimeWarning: invalid value encountered in divide
+  ret = um.true_divide(
+  8.5%; 8.3s
+[32/100] Fulfillment
+  19.5%; 8.5s
+[33/100] Mount Vernon
+  22.7%; 8.6s
+[34/100] The Midnight Cry
+  32.6%; 4.2s
+[35/100] Suffield
+  25.7%; 3.8s
+[36/100] All Is Well
+  15.0%; 7.9s
+[37/100] Babel’s Streams
+  16.7%; 7.7s
+[38/100] The Christian’s Hope
+  1.2%; 8.5s
+[39/100] Stratfield
+  27.3%; 9.2s
+[40/100] Hallelujah
+[Warning] MusicXML import: slur ending for element 'vhgmpqp' could not be matched to a start element
+  18.1%; 8.5s
+[41/100] Funeral Thought
+  4.8%; 4.0s
+[42/100] Plenary
+  2.7%; 3.9s
+[43/100] Exhilaration
+  30.4%; 8.6s
+[44/100] Newburgh
+  39.2%; 8.8s
+[45/100] Sherburne
+  27.6%; 8.1s
+[46/100] New Lebanon
+  32.7%; 7.8s
+[47/100] Lena
+  30.4%; 7.8s
+[48/100] Repentance
+[Warning] Insufficient space to draw mixed beam, starting at 'od584vp'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'od584vp'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'od584vp'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'od584vp'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'od584vp'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'od584vp'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'od584vp'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'od584vp'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'od584vp'. Drawing 'above' instead.
+  54.7%; 8.8s
+[49/100] Ocean
+[Warning] Insufficient space to draw mixed beam, starting at 'o5u42st'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'o5u42st'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'o5u42st'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'o5u42st'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'o5u42st'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'o5u42st'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'o5u42st'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'o5u42st'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'o5u42st'. Drawing 'above' instead.
+  12.9%; 8.2s
+[50/100] Confidence
+  16.9%; 8.1s
+[51/100] The Golden Harp
+  62.4%; 4.3s
+[52/100] I’m Going Home
+  12.2%; 8.2s
+[53/100] Victoria
+[Warning] Insufficient space to draw mixed beam, starting at 'pk3wwyf'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'pk3wwyf'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'pk3wwyf'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'pk3wwyf'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'pk3wwyf'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'pk3wwyf'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'pk3wwyf'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'pk3wwyf'. Drawing 'above' instead.
+  13.2%; 9.0s
+[54/100] Never Part
+  44.6%; 3.8s
+[55/100] Providence
+  22.3%; 8.4s
+[56/100] Greenland
+  41.8%; 8.5s
+[57/100] Weeping Savior
+  8.6%; 8.0s
+[58/100] Weary Pilgrim
+  11.5%; 8.0s
+[59/100] Love Divine
+  25.7%; 3.7s
+[60/100] Sawyer’s Exit
+  10.5%; 7.7s
+[61/100] The American Star
+  21.3%; 8.7s
+[62/100] Happy Land
+  16.5%; 4.6s
+[63/100] Monroe
+  91.6%; 3.7s
+[64/100] Oh, Sing With Me!
+  19.5%; 7.8s
+[65/100] Heavenly Port
+  16.4%; 3.8s
+[66/100] New Prospect
+  11.3%; 4.4s
+[67/100] The Messiah’s Praise
+[Warning] MusicXML import: slur ending for element 'h1mp6fvh' could not be matched to a start element
+  35.5%; 8.1s
+[68/100] Farewell To All
+  85.8%; 4.2s
+[69/100] Protection
+  51.6%; 8.2s
+[70/100] New Harmony
+  22.2%; 8.4s
+[71/100] Rees
+  41.2%; 4.0s
+[72/100] The Grieved Soul
+  30.1%; 4.2s
+[73/100] Mutual Love
+  36.2%; 5.4s
+[74/100] Fillmore
+[Warning] Insufficient space to draw mixed beam, starting at 'b1thikt4'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'b1thikt4'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'b1thikt4'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'b1thikt4'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'b1thikt4'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'b1thikt4'. Drawing 'above' instead.
+[Warning] Justification is highly compressed (ratio smaller than 0.8: 0.660017)
+[Warning] 	System full width: 20000
+[Warning] 	Non-justifiable width: 1043
+[Warning] 	Drawing justifiable width: 28722
+[Warning] Insufficient space to draw mixed beam, starting at 'b1thikt4'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'b1thikt4'. Drawing 'above' instead.
+[Warning] Insufficient space to draw mixed beam, starting at 'b1thikt4'. Drawing 'above' instead.
+  82.8%; 7.9s
+[75/100] Blooming Youth
+[Warning] MusicXML import: slur ending for element 'feds145' could not be matched to a start element
+  27.8%; 4.1s
+[76/100] Elder
+[Warning] MusicXML import: There are 1 ties left open
+  18.5%; 8.6s
+[77/100] Friendship
+  20.5%; 5.4s
+[78/100] Sardis
+[Warning] MusicXML import: slur ending for element 'l1hdxzn7' could not be matched to a start element
+[Warning] MusicXML import: slur ending for element 'd1g40d7d' could not be matched to a start element
+  19.5%; 8.7s
+[79/100] Rest For The Weary
+  23.5%; 8.5s
+[80/100] Chester
+  26.6%; 3.3s
+[81/100] Amsterdam
+  8.7%; 7.5s
+[82/100] Saint’s Delight
+  23.6%; 8.4s
+[83/100] Christian’s Hope
+  18.2%; 8.5s
+[84/100] Jackson
+  30.6%; 4.5s
+[85/100] Burdette
+  10.9%; 3.9s
+[86/100] Kelley
+  14.3%; 2.0s
+[87/100] Arbacoochee
+[Warning] MusicXML import: slur ending for element 's1f5ulut' could not be matched to a start element
+  35.1%; 8.8s
+[88/100] The Converted Thief
+  9.0%; 7.8s
+[89/100] Devotion
+  23.7%; 3.0s
+[90/100] Albion
+  9.7%; 4.0s
+[91/100] Nashville
+  10.1%; 8.6s
+[92/100] Salem
+  91.6%; 3.8s
+[93/100] Bellevue
+  13.0%; 5.1s
+[94/100] The Weary Soul
+  3.4%; 2.0s
+[95/100] Desire For Piety
+  36.1%; 5.7s
+[96/100] Holiness
+  28.7%; 3.5s
+[97/100] Service Of The Lord
+  13.2%; 4.3s
+[98/100] Mount Zion
+  16.4%; 4.6s
+[99/100] Done With The World
+  6.9%; 3.9s
+[100/100] The Bower Of Prayer
+  14.3%; 8.5s
+{
+  "songs": 100,
+  "reference_notes": 19667,
+  "prediction_notes": 16478,
+  "pitch_duration_edits": 5360,
+  "denominator": 20101,
+  "pitch_duration_error_rate": 0.2666534003283419,
+  "pitch_error_rate": 0.23580916372319785,
+  "layout_count_failures": 6,
+  "part_count_failures": 7,
+  "failures": 0
+}

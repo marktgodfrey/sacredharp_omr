@@ -1,0 +1,61 @@
+{
+  "layout": "two-parts-one-staff",
+  "octave_shifts": {
+    "Tenor": 0,
+    "Alto": 0,
+    "Treble": 1,
+    "Bass": 0
+  },
+  "fallback_notes": 102,
+  "ambiguities": [
+    "source part 1/staff 1: only one explicit voice; assigned to upper line",
+    "source part 2/staff 1: only one explicit voice; assigned to upper line",
+    "source part 1/staff 1: fused chord split by pitch",
+    "source part 2/staff 1: fused chord split by pitch",
+    "source part 1/staff 1: isolated singleton copied to both lines as an inferred unison",
+    "source part 2/staff 1: isolated singleton copied to both lines as an inferred unison"
+  ],
+  "beams_removed": 0,
+  "review_needed_count": 102,
+  "initial_octave_shifts": {
+    "Treble": 1,
+    "Alto": 0,
+    "Tenor": 0,
+    "Bass": 0
+  },
+  "register_fit": {
+    "source_key": "E",
+    "source_mode_reason": "mode uncertain; signature interpreted as major (review needed)",
+    "target_key": "Eb",
+    "semitones": -1,
+    "diatonic_steps": 0,
+    "octave_adjustments": {
+      "Treble": 0,
+      "Alto": 0,
+      "Tenor": 0,
+      "Bass": 0
+    },
+    "ranges": {
+      "Treble": [
+        "G4",
+        "Eb5"
+      ],
+      "Alto": [
+        "D4",
+        "C5"
+      ],
+      "Tenor": [
+        "Eb4",
+        "Eb5"
+      ],
+      "Bass": [
+        "Bb2",
+        "Bb3"
+      ]
+    },
+    "tenor_below_E4": 0,
+    "tenor_above_F5": 0,
+    "explicit_target": false,
+    "mode_needs_review": true
+  }
+}

@@ -1,0 +1,180 @@
+Detecting Bethel
+Reading Bethel: reproduced_default
+Reading Bethel: staff16
+Reading Bethel: baseline_exclusive
+Reading Bethel: staff16_exclusive
+Detecting Lenox
+Reading Lenox: reproduced_default
+Reading Lenox: staff16
+Reading Lenox: baseline_exclusive
+Reading Lenox: staff16_exclusive
+Detecting Tribulation
+Reading Tribulation: reproduced_default
+Reading Tribulation: staff16
+Reading Tribulation: baseline_exclusive
+Reading Tribulation: staff16_exclusive
+Detecting Abbeville
+Reading Abbeville: reproduced_default
+Reading Abbeville: staff16
+Reading Abbeville: baseline_exclusive
+Reading Abbeville: staff16_exclusive
+Detecting Parting Hand
+Reading Parting Hand: reproduced_default
+Reading Parting Hand: staff16
+Reading Parting Hand: baseline_exclusive
+Reading Parting Hand: staff16_exclusive
+Detecting Mulberry Grove
+Reading Mulberry Grove: reproduced_default
+Reading Mulberry Grove: staff16
+[Warning] MusicXML import: slur ending for element 'lahwbu0' could not be matched to a start element
+Reading Mulberry Grove: baseline_exclusive
+Reading Mulberry Grove: staff16_exclusive
+[Warning] MusicXML import: slur ending for element 'u10sfrrd' could not be matched to a start element
+Detecting Funeral Thought
+Reading Funeral Thought: reproduced_default
+Reading Funeral Thought: staff16
+Reading Funeral Thought: baseline_exclusive
+Reading Funeral Thought: staff16_exclusive
+Detecting Never Part
+Reading Never Part: reproduced_default
+Reading Never Part: staff16
+Reading Never Part: baseline_exclusive
+Reading Never Part: staff16_exclusive
+Detecting New Prospect
+Reading New Prospect: reproduced_default
+Reading New Prospect: staff16
+Reading New Prospect: baseline_exclusive
+Reading New Prospect: staff16_exclusive
+Detecting Rees
+Reading Rees: reproduced_default
+Reading Rees: staff16
+Reading Rees: baseline_exclusive
+Reading Rees: staff16_exclusive
+Detecting Friendship
+Reading Friendship: reproduced_default
+Reading Friendship: staff16
+Reading Friendship: baseline_exclusive
+Reading Friendship: staff16_exclusive
+Detecting Chester
+Reading Chester: reproduced_default
+Reading Chester: staff16
+Reading Chester: baseline_exclusive
+Reading Chester: staff16_exclusive
+Detecting Burdette
+Reading Burdette: reproduced_default
+Reading Burdette: staff16
+Reading Burdette: baseline_exclusive
+Reading Burdette: staff16_exclusive
+Detecting Kelley
+Reading Kelley: reproduced_default
+Reading Kelley: staff16
+Reading Kelley: baseline_exclusive
+Reading Kelley: staff16_exclusive
+Detecting Devotion
+Reading Devotion: reproduced_default
+Reading Devotion: staff16
+Reading Devotion: baseline_exclusive
+Reading Devotion: staff16_exclusive
+Detecting The Weary Soul
+Reading The Weary Soul: reproduced_default
+Reading The Weary Soul: staff16
+Reading The Weary Soul: baseline_exclusive
+Reading The Weary Soul: staff16_exclusive
+{
+  "Bethel": {
+    "reproduced_default": 10.85,
+    "staff16": 12.4,
+    "baseline_exclusive": 10.85,
+    "staff16_exclusive": 10.85
+  },
+  "Lenox": {
+    "reproduced_default": 31.67,
+    "staff16": 20.0,
+    "baseline_exclusive": 31.67,
+    "staff16_exclusive": 17.78
+  },
+  "Tribulation": {
+    "reproduced_default": 49.02,
+    "staff16": 39.22,
+    "baseline_exclusive": 49.02,
+    "staff16_exclusive": 39.22
+  },
+  "Abbeville": {
+    "reproduced_default": 13.67,
+    "staff16": 8.63,
+    "baseline_exclusive": 13.67,
+    "staff16_exclusive": 8.63
+  },
+  "Parting Hand": {
+    "reproduced_default": 17.84,
+    "staff16": 15.57,
+    "baseline_exclusive": 17.84,
+    "staff16_exclusive": 15.02
+  },
+  "Mulberry Grove": {
+    "reproduced_default": 16.4,
+    "staff16": 7.41,
+    "baseline_exclusive": 16.4,
+    "staff16_exclusive": 6.35
+  },
+  "Funeral Thought": {
+    "reproduced_default": 11.65,
+    "staff16": 4.82,
+    "baseline_exclusive": 11.65,
+    "staff16_exclusive": 4.82
+  },
+  "Never Part": {
+    "reproduced_default": 50.76,
+    "staff16": 45.26,
+    "baseline_exclusive": 50.76,
+    "staff16_exclusive": 44.65
+  },
+  "New Prospect": {
+    "reproduced_default": 18.41,
+    "staff16": 11.72,
+    "baseline_exclusive": 18.41,
+    "staff16_exclusive": 11.3
+  },
+  "Rees": {
+    "reproduced_default": 59.89,
+    "staff16": 41.81,
+    "baseline_exclusive": 59.89,
+    "staff16_exclusive": 41.24
+  },
+  "Friendship": {
+    "reproduced_default": 39.52,
+    "staff16": 21.43,
+    "baseline_exclusive": 39.52,
+    "staff16_exclusive": 20.48
+  },
+  "Chester": {
+    "reproduced_default": 44.07,
+    "staff16": 26.55,
+    "baseline_exclusive": 44.07,
+    "staff16_exclusive": 26.55
+  },
+  "Burdette": {
+    "reproduced_default": 23.44,
+    "staff16": 12.5,
+    "baseline_exclusive": 23.44,
+    "staff16_exclusive": 10.94
+  },
+  "Kelley": {
+    "reproduced_default": 25.89,
+    "staff16": 15.18,
+    "baseline_exclusive": 25.89,
+    "staff16_exclusive": 14.29
+  },
+  "Devotion": {
+    "reproduced_default": 35.25,
+    "staff16": 23.74,
+    "baseline_exclusive": 35.25,
+    "staff16_exclusive": 23.74
+  },
+  "The Weary Soul": {
+    "reproduced_default": 12.85,
+    "staff16": 3.35,
+    "baseline_exclusive": 12.85,
+    "staff16_exclusive": 3.35
+  }
+}

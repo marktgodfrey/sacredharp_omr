@@ -1,0 +1,64 @@
+{
+  "layout": "two-parts-one-staff",
+  "octave_shifts": {
+    "Tenor": 0,
+    "Alto": 0,
+    "Treble": 1,
+    "Bass": 0
+  },
+  "fallback_notes": 94,
+  "ambiguities": [
+    "source part 2/staff 1: equal-pitch source voices routed by voice order",
+    "source part 2/staff 1: fused chord split by pitch",
+    "source part 1/staff 1: fused chord split by pitch",
+    "source part 2/staff 1: isolated singleton copied to both lines as an inferred unison",
+    "Alto measure 5: same-onset events rendered as chords",
+    "Alto measure 7: same-onset events rendered as chords",
+    "Tenor measure 7: overlapping events retained in voice 2",
+    "Tenor measure 9: overlapping events retained in voice 2",
+    "Tenor measure 9: same-onset events rendered as chords"
+  ],
+  "beams_removed": 10,
+  "review_needed_count": 94,
+  "initial_octave_shifts": {
+    "Treble": 1,
+    "Alto": 0,
+    "Tenor": 0,
+    "Bass": 0
+  },
+  "register_fit": {
+    "source_key": "A",
+    "source_mode_reason": "tenor and bass cadence agree with tonic",
+    "target_key": "Bb",
+    "semitones": 1,
+    "diatonic_steps": 1,
+    "octave_adjustments": {
+      "Treble": 0,
+      "Alto": 0,
+      "Tenor": 0,
+      "Bass": 0
+    },
+    "ranges": {
+      "Treble": [
+        "Bb3",
+        "F5"
+      ],
+      "Alto": [
+        "C#4",
+        "Eb5"
+      ],
+      "Tenor": [
+        "E4",
+        "F5"
+      ],
+      "Bass": [
+        "Bb2",
+        "D4"
+      ]
+    },
+    "tenor_below_E4": 0,
+    "tenor_above_F5": 0,
+    "explicit_target": false,
+    "mode_needs_review": false
+  }
+}

@@ -1,0 +1,25 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.egg-info/
+node_modules/
+.env
+.env.*
+!.env.example
+.aws/
+*.pem
+*.key
+
+# Complete data and generated outputs live in the workspace snapshot release.
+/benchmarks/sacred-harp-1911/experiments/
+/benchmarks/sacred-harp-1911/diagnostics/
+/benchmarks/sacred-harp-1911/sources/
+/benchmarks/sacred-harp-1911/reader-gallery/
+/benchmarks/sacred-harp-1911/reference/
+/benchmarks/sacred-harp-1911/predictions/
+/benchmarks/sacred-harp-1911/inputs/
+/benchmarks/sacred-harp-1911/error-examples/
+/sites/
+/workspace-snapshots/

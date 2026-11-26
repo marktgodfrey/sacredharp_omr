@@ -1,0 +1,15 @@
+{
+  "backend": "CoreML neural stages + Python layout/decoding",
+  "compute_units": "CPU_ONLY",
+  "input": "../examples/samples/0224-217_298_do-not-i-love-thee.png",
+  "detector_size": 1024,
+  "detections": 198,
+  "clean_layout": true,
+  "staves": 4,
+  "systems": 2,
+  "symbols": 195,
+  "elapsed_seconds": 0.7216747477650642,
+  "shape_key_assumed_C_major": false,
+  "four_staff": false,
+  "arrangement": null
+}

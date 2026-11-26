@@ -1,0 +1,18 @@
+{
+  "layout": "two-parts-one-staff",
+  "octave_shifts": {
+    "Treble": 1,
+    "Alto": 1,
+    "Tenor": 0,
+    "Bass": 0
+  },
+  "fallback_notes": 243,
+  "ambiguities": [
+    "source part 1/staff 1: only one explicit voice; assigned to upper line",
+    "source part 2/staff 1: only one explicit voice; assigned to upper line",
+    "source part 1/staff 1: fused chord split by pitch",
+    "source part 2/staff 1: fused chord split by pitch"
+  ],
+  "beams_removed": 0,
+  "review_needed_count": 243
+}

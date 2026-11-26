@@ -1,0 +1,744 @@
+{
+  "0292-1597": {
+    "accepted": false,
+    "reason": "Final source audit: 1911 Traveling Pilgrim has one sharp (E minor), while the 2025 278b reference has two flats; transposed edition excluded from absolute-pitch comparison.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "278b",
+    "chosen_reference": "278b TRAVELING PILGRIM.musicxml.xml",
+    "crop": [
+      0,
+      1577,
+      3996,
+      3451
+    ]
+  },
+  "0296-434": {
+    "accepted": true,
+    "reason": "Complete song; two four-part systems, one-flat signature matches.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "282",
+    "chosen_reference": "282 I\u2019M GOING HOME.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      3987,
+      3458
+    ]
+  },
+  "0304-402": {
+    "accepted": true,
+    "reason": "Complete song; two four-part systems, two-flat signature matches.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "290",
+    "chosen_reference": "290 VICTORIA.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4004,
+      3496
+    ]
+  },
+  "0308-370": {
+    "accepted": true,
+    "reason": "Complete song; two four-part systems, one-flat signature matches.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "294",
+    "chosen_reference": "94 NEVER PART.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      3983,
+      3423
+    ]
+  },
+  "0312-394": {
+    "accepted": true,
+    "reason": "Complete song; two four-part systems, three-sharp signature matches.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "298",
+    "chosen_reference": "298 PROVIDENCE.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      3960,
+      3408
+    ]
+  },
+  "0316-421": {
+    "accepted": true,
+    "reason": "Complete song; two four-part systems, one-flat signature matches despite caption wording.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "302",
+    "chosen_reference": "301 GREENLAND.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      3954,
+      3420
+    ]
+  },
+  "0320-404": {
+    "accepted": false,
+    "reason": "Morgan is marked Concluded and continues from the prior page; incomplete piece.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "306t",
+    "chosen_reference": "304 MORGAN.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      3930,
+      1583
+    ]
+  },
+  "0320-1673": {
+    "accepted": false,
+    "reason": "Final source audit: Oxford continues onto the next page; bottom system ends with single bars and unfinished text. Incomplete page excluded.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "306b",
+    "chosen_reference": "306 OXFORD.musicxml.xml",
+    "crop": [
+      0,
+      1653,
+      3930,
+      3411
+    ]
+  },
+  "0324-437": {
+    "accepted": true,
+    "reason": "Complete song; actual one-flat signature selects 310 reference over duplicate 33t.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "310",
+    "chosen_reference": "310 WEEPING SAVIOR.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4008,
+      3539
+    ]
+  },
+  "0332-331": {
+    "accepted": false,
+    "reason": "Source shows no key-signature glyphs; reference has three sharps, so this is a different version/key.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "318",
+    "chosen_reference": "163t MORNING.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4051,
+      3516
+    ]
+  },
+  "0340-485": {
+    "accepted": true,
+    "reason": "Complete song; two four-part systems, one-sharp signature matches.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "326",
+    "chosen_reference": "326 WEARY PILGRIM.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4002,
+      3496
+    ]
+  },
+  "0344-434": {
+    "accepted": true,
+    "reason": "Complete upper song; isolated from Sacred Music below; four parts and no signature match.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "330t",
+    "chosen_reference": "30t LOVE DIVINE.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4004,
+      1741
+    ]
+  },
+  "0352-483": {
+    "accepted": true,
+    "reason": "Complete song; two three-staff systems match the three-part reference; three sharps match.",
+    "expected_staves": 6,
+    "expected_systems": 2,
+    "printed_page": "338",
+    "chosen_reference": "338 SAWYER\u2019S EXIT.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4011,
+      3552
+    ]
+  },
+  "0356-435": {
+    "accepted": false,
+    "reason": "Printed systems have three staves each (six total); reference has four vocal parts.",
+    "expected_staves": 6,
+    "expected_systems": 2,
+    "printed_page": "342",
+    "chosen_reference": "342 THE OLD-FASHIONED BIBLE.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4011,
+      3504
+    ]
+  },
+  "0360-402": {
+    "accepted": true,
+    "reason": "Complete song; two three-staff systems match the three-part reference; one flat matches.",
+    "expected_staves": 6,
+    "expected_systems": 2,
+    "printed_page": "346",
+    "chosen_reference": "346 THE AMERICAN STAR.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4000,
+      3476
+    ]
+  },
+  "0368-1451": {
+    "accepted": true,
+    "reason": "Complete lower song on shared page; isolated crop; four parts and one flat match. Crop starts20px above title to exclude neighboring music.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "354b",
+    "chosen_reference": "354b HAPPY LAND.musicxml.xml",
+    "crop": [
+      0,
+      1431,
+      4004,
+      3527
+    ]
+  },
+  "0372-394": {
+    "accepted": false,
+    "reason": "Source has three flats; reference has one flat, a clear key mismatch.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "358",
+    "chosen_reference": "358 MURILLO\u2019S LESSON.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      3996,
+      3516
+    ]
+  },
+  "0376-450": {
+    "accepted": false,
+    "reason": "Title is marked Concluded; incomplete continuation from the prior page.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "362t",
+    "chosen_reference": "361 LOVING JESUS.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4000,
+      1579
+    ]
+  },
+  "0376-1669": {
+    "accepted": false,
+    "reason": "Final source audit: Norwich is an opening fragment continuing onto the next page; not a complete counterpart to the modern reference.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "362b",
+    "chosen_reference": "362 NORWICH.musicxml.xml",
+    "crop": [
+      0,
+      1649,
+      4000,
+      3463
+    ]
+  },
+  "0380-405": {
+    "accepted": false,
+    "reason": "Title is marked Concluded; incomplete continuation from the prior page.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "366",
+    "chosen_reference": "364 SOUTHWELL.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4042,
+      3521
+    ]
+  },
+  "0384-425": {
+    "accepted": true,
+    "reason": "Complete song; two four-part systems; no signature matches reference.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "370",
+    "chosen_reference": "370 MONROE.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4034,
+      3459
+    ]
+  },
+  "0388-416": {
+    "accepted": true,
+    "reason": "Complete song; two four-part systems; one sharp matches.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "374",
+    "chosen_reference": "374 OH, SING WITH ME!.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4011,
+      3476
+    ]
+  },
+  "0392-447": {
+    "accepted": true,
+    "reason": "Complete upper song; isolated crop; four parts and three sharps match.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "378t",
+    "chosen_reference": "378t HEAVENLY PORT.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      3986,
+      1734
+    ]
+  },
+  "0400-444": {
+    "accepted": false,
+    "reason": "Printed systems have three staves each; reference has four vocal parts.",
+    "expected_staves": 6,
+    "expected_systems": 2,
+    "printed_page": "386",
+    "chosen_reference": "567 THE GREAT DAY.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4011,
+      3503
+    ]
+  },
+  "0404-414": {
+    "accepted": true,
+    "reason": "Complete song; two four-part systems; one sharp matches.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "390",
+    "chosen_reference": "390 NEW PROSPECT.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4008,
+      3501
+    ]
+  },
+  "0408-441": {
+    "accepted": true,
+    "reason": "Complete song; two four-part systems; one flat matches.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "394",
+    "chosen_reference": "394 THE MESSIAH\u2019S PRAISE.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4019,
+      3480
+    ]
+  },
+  "0412-309": {
+    "accepted": true,
+    "reason": "Complete upper song on shared page; isolated crop; four parts and two flats match.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "398t",
+    "chosen_reference": "69b FAREWELL TO ALL.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      3988,
+      1589
+    ]
+  },
+  "0412-1609": {
+    "accepted": false,
+    "reason": "Final source audit: The Dying Boy continues onto the next page; lower tune ends with single bars and the word And. Incomplete page excluded.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "398b",
+    "chosen_reference": "398 THE DYING BOY.musicxml.xml",
+    "crop": [
+      0,
+      1589,
+      3988,
+      3528
+    ]
+  },
+  "0416-510": {
+    "accepted": true,
+    "reason": "Complete song; actual three-flat signature selects 402 reference, not duplicate 187.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "402",
+    "chosen_reference": "402 PROTECTION.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4015,
+      3536
+    ]
+  },
+  "0420-558": {
+    "accepted": true,
+    "reason": "Complete full-page song with two four-part systems and one sharp; final audit corrected expected layout from one to two systems.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "406",
+    "chosen_reference": "406 NEW HARMONY.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4004,
+      3481
+    ]
+  },
+  "0424-471": {
+    "accepted": false,
+    "reason": "Printed song has three staves; reference has four vocal parts.",
+    "expected_staves": 3,
+    "expected_systems": 1,
+    "printed_page": "410",
+    "chosen_reference": "410t THE DYING CALIFORNIAN.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4012,
+      3498
+    ]
+  },
+  "0432-466": {
+    "accepted": true,
+    "reason": "Complete song; two four-part systems; two sharps match the Rees reference.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "418",
+    "chosen_reference": "418 REES.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      3986,
+      3480
+    ]
+  },
+  "0436-1684": {
+    "accepted": true,
+    "reason": "Complete lower song; isolated from Song of Texas above; four parts and three sharps match. Crop starts20px above title to exclude neighboring music.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "422b",
+    "chosen_reference": "448b THE GRIEVED SOUL.musicxml.xml",
+    "crop": [
+      0,
+      1664,
+      4011,
+      3513
+    ]
+  },
+  "0444-1152": {
+    "accepted": true,
+    "reason": "Complete song below editorial text; four parts and one sharp match. Crop starts20px above title to exclude neighboring music.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "430",
+    "chosen_reference": "410b MUTUAL LOVE.musicxml.xml",
+    "crop": [
+      0,
+      1132,
+      4004,
+      3485
+    ]
+  },
+  "0448-382": {
+    "accepted": true,
+    "reason": "Complete song; two four-part systems; one flat matches.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "434",
+    "chosen_reference": "434 FILLMORE.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4048,
+      3462
+    ]
+  },
+  "0452-1672": {
+    "accepted": false,
+    "reason": "Final source audit: Jewett starts in the lower-right quadrant beside the continuation of Missouri and itself continues onto the next page; existing crop contains adjacent music and no complete tune.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "438b",
+    "chosen_reference": "105 JEWETT.musicxml.xml",
+    "crop": [
+      0,
+      1652,
+      3996,
+      3440
+    ]
+  },
+  "0456-540": {
+    "accepted": true,
+    "reason": "Complete upper song on shared page; isolated crop; four parts and no signature match.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "442t",
+    "chosen_reference": "176b BLOOMING YOUTH.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4011,
+      1889
+    ]
+  },
+  "0464-366": {
+    "accepted": true,
+    "reason": "Complete song; two four-part systems; four sharps match.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "450",
+    "chosen_reference": "450 ELDER.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4019,
+      3492
+    ]
+  },
+  "0472-366": {
+    "accepted": true,
+    "reason": "Complete song; two four-part systems; two flats match.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "458",
+    "chosen_reference": "458 FRIENDSHIP.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      3946,
+      3432
+    ]
+  },
+  "0484-412": {
+    "accepted": true,
+    "reason": "Complete song; two four-part systems; one sharp matches.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "470",
+    "chosen_reference": "460 SARDIS.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4011,
+      3448
+    ]
+  },
+  "0488-367": {
+    "accepted": true,
+    "reason": "Complete song; two four-part systems; three flats match.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "474",
+    "chosen_reference": "154 REST FOR THE WEARY.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4004,
+      3451
+    ]
+  },
+  "0492-1052": {
+    "accepted": true,
+    "reason": "Complete song below editorial heading; four parts and one flat match.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "478",
+    "chosen_reference": "479 CHESTER.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4004,
+      3454
+    ]
+  },
+  "0496-479": {
+    "accepted": false,
+    "reason": "Source has no key-signature glyphs; reference has two sharps, a clear key mismatch.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "482",
+    "chosen_reference": "327 INVITATION.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4035,
+      3549
+    ]
+  },
+  "0508-329": {
+    "accepted": true,
+    "reason": "Complete song; two four-part systems; one sharp matches.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "494",
+    "chosen_reference": "84 AMSTERDAM.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4043,
+      3398
+    ]
+  },
+  "0512-402": {
+    "accepted": true,
+    "reason": "Complete song; two four-part systems; three sharps match.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "498",
+    "chosen_reference": "114 SAINT\u2019S DELIGHT.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4035,
+      3421
+    ]
+  },
+  "0516-469": {
+    "accepted": false,
+    "reason": "Final source audit: Logan continues onto the next page; second system ends with single bars and extended unfinished text. Incomplete page excluded.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "502",
+    "chosen_reference": "302 LOGAN.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4009,
+      3418
+    ]
+  },
+  "0520-381": {
+    "accepted": true,
+    "reason": "Complete song; two four-part systems; actual one-sharp signature selects 206 reference over duplicate 134.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "506",
+    "chosen_reference": "206 CHRISTIAN\u2019S HOPE.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4008,
+      3417
+    ]
+  },
+  "0532-442": {
+    "accepted": false,
+    "reason": "New Hope is marked Concluded and continues from the prior page; incomplete piece.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "518t",
+    "chosen_reference": "316 NEW HOPE.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4024,
+      1597
+    ]
+  },
+  "0532-1687": {
+    "accepted": true,
+    "reason": "Complete lower song; isolated from concluded New Hope continuation; four parts and one sharp match. Crop starts20px above title to exclude neighboring music.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "518b",
+    "chosen_reference": "317 JACKSON.musicxml.xml",
+    "crop": [
+      0,
+      1667,
+      4024,
+      3469
+    ]
+  },
+  "0536-491": {
+    "accepted": true,
+    "reason": "Complete song; two four-part systems; one flat matches.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "522",
+    "chosen_reference": "422 BURDETTE.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4043,
+      3473
+    ]
+  },
+  "0540-432": {
+    "accepted": true,
+    "reason": "Complete upper song on shared page; isolated crop; four parts and one sharp match.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "526t",
+    "chosen_reference": "426t KELLEY.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4051,
+      1889
+    ]
+  },
+  "0540-1909": {
+    "accepted": false,
+    "reason": "Final source audit: Jasper is an opening fragment continuing onto the next page; not a complete counterpart to the modern reference.",
+    "expected_staves": 4,
+    "expected_systems": 1,
+    "printed_page": "526b",
+    "chosen_reference": "426b JASPER.musicxml.xml",
+    "crop": [
+      0,
+      1889,
+      4051,
+      3431
+    ]
+  },
+  "0544-354": {
+    "accepted": true,
+    "reason": "Complete song; two four-part systems; three sharps match.",
+    "expected_staves": 8,
+    "expected_systems": 2,
+    "printed_page": "530",
+    "chosen_reference": "430 ARBACOOCHEE.musicxml.xml",
+    "crop": [
+      0,
+      0,
+      4076,
+      3416
+    ]
+  }
+}

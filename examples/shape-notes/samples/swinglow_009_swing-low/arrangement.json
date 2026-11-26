@@ -1,0 +1,70 @@
+{
+  "layout": "two-staves-one-part",
+  "octave_shifts": {
+    "Tenor": 0,
+    "Alto": 0,
+    "Treble": 1,
+    "Bass": 0
+  },
+  "fallback_notes": 109,
+  "ambiguities": [
+    "source part 1/staff 2: only one explicit voice; assigned to upper line",
+    "source part 1/staff 1: fused chord split by pitch",
+    "source part 1/staff 2: preserved ambiguous chord with 3 notes",
+    "source part 1/staff 2: fused chord split by pitch",
+    "source part 1/staff 1: isolated singleton copied to both lines as an inferred unison",
+    "Treble measure 4: overlapping events retained in voice 2",
+    "Treble measure 4: same-onset events rendered as chords",
+    "Treble measure 8: overlapping events retained in voice 2",
+    "Treble measure 13: overlapping events retained in voice 2",
+    "Treble measure 17: overlapping events retained in voice 2",
+    "Tenor measure 15: overlapping events retained in voice 2",
+    "Bass measure 4: overlapping events retained in voice 2",
+    "Bass measure 8: overlapping events retained in voice 2",
+    "Bass measure 13: overlapping events retained in voice 2",
+    "Bass measure 17: overlapping events retained in voice 2"
+  ],
+  "beams_removed": 22,
+  "review_needed_count": 109,
+  "initial_octave_shifts": {
+    "Treble": 1,
+    "Alto": 0,
+    "Tenor": 0,
+    "Bass": 0
+  },
+  "register_fit": {
+    "source_key": "G",
+    "source_mode_reason": "tenor and bass cadence agree with tonic",
+    "target_key": "A",
+    "semitones": 2,
+    "diatonic_steps": 1,
+    "octave_adjustments": {
+      "Treble": 0,
+      "Alto": 0,
+      "Tenor": 0,
+      "Bass": 0
+    },
+    "ranges": {
+      "Treble": [
+        "A4",
+        "E5"
+      ],
+      "Alto": [
+        "E4",
+        "A4"
+      ],
+      "Tenor": [
+        "E4",
+        "F#5"
+      ],
+      "Bass": [
+        "A2",
+        "A3"
+      ]
+    },
+    "tenor_below_E4": 0,
+    "tenor_above_F5": 0,
+    "explicit_target": false,
+    "mode_needs_review": false
+  }
+}

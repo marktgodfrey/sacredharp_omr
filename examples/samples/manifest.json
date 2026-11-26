@@ -1,0 +1,158 @@
+[
+  {
+    "id": "0006-1_001_a-charge-to-keep-boylston",
+    "title": "A Charge to Keep I Have (Boylston)",
+    "image": "0006-1_001_a-charge-to-keep-boylston.png",
+    "source": "../0006=1.jpg",
+    "crop_xyxy": [
+      0,
+      145,
+      640,
+      570
+    ],
+    "has_notation": true
+  },
+  {
+    "id": "0006-1_001_a-charge-to-keep-laban",
+    "title": "A Charge to Keep I Have (Laban)",
+    "image": "0006-1_001_a-charge-to-keep-laban.png",
+    "source": "../0006=1.jpg",
+    "crop_xyxy": [
+      0,
+      570,
+      640,
+      974
+    ],
+    "has_notation": true
+  },
+  {
+    "id": "0120-117_106_do-not-i-love-thee",
+    "title": "Do Not I Love Thee, O My Lord?",
+    "image": "0120-117_106_do-not-i-love-thee.png",
+    "source": "../0120=117.jpg",
+    "crop_xyxy": [
+      0,
+      0,
+      962,
+      730
+    ],
+    "has_notation": true
+  },
+  {
+    "id": "0120-117_107_hosanna",
+    "title": "Hosanna! Be the Children's Song",
+    "image": "0120-117_107_hosanna.png",
+    "source": "../0120=117.jpg",
+    "crop_xyxy": [
+      0,
+      730,
+      962,
+      1462
+    ],
+    "has_notation": true
+  },
+  {
+    "id": "0123-118_170_king-jesus-reign",
+    "title": "King Jesus, Reign",
+    "image": "0123-118_170_king-jesus-reign.png",
+    "source": "../0123=118.jpg",
+    "crop_xyxy": [
+      0,
+      0,
+      2881,
+      1525
+    ],
+    "has_notation": true
+  },
+  {
+    "id": "0123-118_171_know-my-soul",
+    "title": "Know, My Soul, Thy Full Salvation",
+    "image": "0123-118_171_know-my-soul.png",
+    "source": "../0123=118.jpg",
+    "crop_xyxy": [
+      0,
+      1525,
+      2881,
+      2195
+    ],
+    "has_notation": false
+  },
+  {
+    "id": "0123-118_172_lamp-of-our-feet",
+    "title": "Lamp of Our Feet",
+    "image": "0123-118_172_lamp-of-our-feet.png",
+    "source": "../0123=118.jpg",
+    "crop_xyxy": [
+      0,
+      2195,
+      2881,
+      4038
+    ],
+    "has_notation": true
+  },
+  {
+    "id": "0174-169_250_praise-god",
+    "title": "Praise God, From Whom All Blessings Flow",
+    "image": "0174-169_250_praise-god.png",
+    "source": "../0174=169.jpg",
+    "crop_xyxy": [
+      0,
+      0,
+      2644,
+      1475
+    ],
+    "has_notation": true
+  },
+  {
+    "id": "0174-169_251_praise-the-lord",
+    "title": "Praise the Lord, Ye Heavens, Adore Him",
+    "image": "0174-169_251_praise-the-lord.png",
+    "source": "../0174=169.jpg",
+    "crop_xyxy": [
+      0,
+      1475,
+      2644,
+      4025
+    ],
+    "has_notation": true
+  },
+  {
+    "id": "0246-241_352_we-give-thee",
+    "title": "We Give Thee But Thine Own",
+    "image": "0246-241_352_we-give-thee.png",
+    "source": "../0246=241.jpg",
+    "crop_xyxy": [
+      0,
+      0,
+      640,
+      390
+    ],
+    "has_notation": true
+  },
+  {
+    "id": "0246-241_353_we-praise-thee",
+    "title": "We Praise Thee, O God",
+    "image": "0246-241_353_we-praise-thee.png",
+    "source": "../0246=241.jpg",
+    "crop_xyxy": [
+      0,
+      390,
+      640,
+      972
+    ],
+    "has_notation": true
+  },
+  {
+    "id": "swinglow_009_swing-low",
+    "title": "Swing Low",
+    "image": "swinglow_009_swing-low.png",
+    "source": "../swinglow.jpg",
+    "crop_xyxy": [
+      0,
+      0,
+      2140,
+      3280
+    ],
+    "has_notation": true
+  }
+]

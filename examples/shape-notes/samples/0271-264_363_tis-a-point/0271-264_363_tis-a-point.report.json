@@ -1,0 +1,15 @@
+{
+  "backend": "CoreML neural stages + Python layout/decoding",
+  "compute_units": "CPU_ONLY",
+  "input": "../examples/samples/0271-264_363_tis-a-point.png",
+  "detector_size": 992,
+  "detections": 223,
+  "clean_layout": true,
+  "staves": 4,
+  "systems": 2,
+  "symbols": 211,
+  "elapsed_seconds": 0.7705665845423937,
+  "shape_key_assumed_C_major": false,
+  "four_staff": false,
+  "arrangement": null
+}
