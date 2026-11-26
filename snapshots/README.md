@@ -21,3 +21,8 @@ Xcode settings are excluded. The gallery's hosting is unchanged.
 The manifest includes a SHA-256 for each file and each archive. Restoring the
 snapshot refuses to replace a different existing file. Preserve historical
 artifact contents and provenance hashes when continuing research.
+
+Validation: a fresh clone from GitHub checked out the pinned submodule and
+restored all 29,829 data files. The restored checkout passed 196 tests across
+the benchmark, writer/layout, and snapshot utility suites. All eleven archive
+checksums and every archived member checksum were verified before publication.
