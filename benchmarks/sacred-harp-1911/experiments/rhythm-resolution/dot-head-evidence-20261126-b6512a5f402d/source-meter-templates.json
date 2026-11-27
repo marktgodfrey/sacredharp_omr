@@ -1,0 +1,248 @@
+{
+  "build": {
+    "source_samples": 120,
+    "eligible_parallel_labels": 85,
+    "excluded_labels": 7,
+    "templates_per_meter": {
+      "2/2": 1,
+      "2/4": 8,
+      "3/2": 2,
+      "3/4": 3,
+      "4/4": 8,
+      "6/4": 8,
+      "6/8": 6
+    }
+  },
+  "templates": {
+    "2/2": [
+      {
+        "sample_id": "1911-s0080-gainsville",
+        "symbol_id": 71,
+        "confidence": 0.997,
+        "staff_space": 30.51333138178049
+      }
+    ],
+    "2/4": [
+      {
+        "sample_id": "1911-holdout-s0146-morality",
+        "symbol_id": 109,
+        "confidence": 0.998,
+        "staff_space": 30.74342018455343
+      },
+      {
+        "sample_id": "1911-s0508-amsterdam",
+        "symbol_id": 172,
+        "confidence": 0.996,
+        "staff_space": 31.75
+      },
+      {
+        "sample_id": "1911-s0472-friendship",
+        "symbol_id": 145,
+        "confidence": 0.996,
+        "staff_space": 30.521689872888885
+      },
+      {
+        "sample_id": "1911-s0168-funeral-thought",
+        "symbol_id": 24,
+        "confidence": 0.999,
+        "staff_space": 31.900000000000034
+      },
+      {
+        "sample_id": "1911-s0408-the-messiah-s-praise",
+        "symbol_id": 164,
+        "confidence": 0.996,
+        "staff_space": 30.92500000000001
+      },
+      {
+        "sample_id": "1911-s0432-rees",
+        "symbol_id": 91,
+        "confidence": 0.995,
+        "staff_space": 30.149999999999977
+      },
+      {
+        "sample_id": "1911-s0368-happy-land",
+        "symbol_id": 77,
+        "confidence": 0.996,
+        "staff_space": 30.82499999999999
+      },
+      {
+        "sample_id": "1911-holdout-s0158-jefferson",
+        "symbol_id": 176,
+        "confidence": 0.996,
+        "staff_space": 30.630218281211768
+      }
+    ],
+    "3/2": [
+      {
+        "sample_id": "1911-29b-tribulation",
+        "symbol_id": 61,
+        "confidence": 0.994,
+        "staff_space": 31.125
+      },
+      {
+        "sample_id": "1911-47b-idumea",
+        "symbol_id": 58,
+        "confidence": 0.996,
+        "staff_space": 30.641426237704877
+      }
+    ],
+    "3/4": [
+      {
+        "sample_id": "1911-30b-prospect",
+        "symbol_id": 26,
+        "confidence": 0.998,
+        "staff_space": 30.2486520173008
+      },
+      {
+        "sample_id": "1911-33b-abbeville",
+        "symbol_id": 13,
+        "confidence": 0.999,
+        "staff_space": 30.275000000000006
+      },
+      {
+        "sample_id": "1911-s0404-new-prospect",
+        "symbol_id": 43,
+        "confidence": 0.998,
+        "staff_space": 30.34334205835441
+      }
+    ],
+    "4/4": [
+      {
+        "sample_id": "1911-28t-aylesbury",
+        "symbol_id": 88,
+        "confidence": 0.996,
+        "staff_space": 30.899465811217226
+      },
+      {
+        "sample_id": "1911-s0448-fillmore",
+        "symbol_id": 17,
+        "confidence": 0.998,
+        "staff_space": 31.849999999999994
+      },
+      {
+        "sample_id": "1911-holdout-s0182-harmony",
+        "symbol_id": 62,
+        "confidence": 0.995,
+        "staff_space": 31.25
+      },
+      {
+        "sample_id": "1911-s0196-sherburne",
+        "symbol_id": 55,
+        "confidence": 0.997,
+        "staff_space": 30.44999999999999
+      },
+      {
+        "sample_id": "1911-36b-ninety-fifth",
+        "symbol_id": 43,
+        "confidence": 0.998,
+        "staff_space": 30.25
+      },
+      {
+        "sample_id": "1911-s0324-weeping-savior",
+        "symbol_id": 17,
+        "confidence": 0.999,
+        "staff_space": 30.599999999999994
+      },
+      {
+        "sample_id": "1911-holdout-s0190-vermont",
+        "symbol_id": 17,
+        "confidence": 0.999,
+        "staff_space": 30.32499999999999
+      },
+      {
+        "sample_id": "1911-29t-fairfield",
+        "symbol_id": 0,
+        "confidence": 0.999,
+        "staff_space": 29.149999999999977
+      }
+    ],
+    "6/4": [
+      {
+        "sample_id": "1911-holdout-s0118-weeping-sinners",
+        "symbol_id": 79,
+        "confidence": 0.992,
+        "staff_space": 30.775000000000034
+      },
+      {
+        "sample_id": "1911-holdout-s0134-the-dying-minister",
+        "symbol_id": 82,
+        "confidence": 0.996,
+        "staff_space": 31.274999999999977
+      },
+      {
+        "sample_id": "1911-s0464-elder",
+        "symbol_id": 138,
+        "confidence": 0.996,
+        "staff_space": 30.825000000000017
+      },
+      {
+        "sample_id": "1911-s0352-sawyer-s-exit",
+        "symbol_id": 64,
+        "confidence": 0.997,
+        "staff_space": 31.100000000000023
+      },
+      {
+        "sample_id": "1911-s0340-weary-pilgrim",
+        "symbol_id": 170,
+        "confidence": 0.989,
+        "staff_space": 31.0
+      },
+      {
+        "sample_id": "1911-s0084-king-of-peace",
+        "symbol_id": 79,
+        "confidence": 0.99,
+        "staff_space": 31.35
+      },
+      {
+        "sample_id": "1911-s0156-hallelujah",
+        "symbol_id": 137,
+        "confidence": 0.994,
+        "staff_space": 30.549879855380368
+      },
+      {
+        "sample_id": "1911-s0360-the-american-star",
+        "symbol_id": 62,
+        "confidence": 0.987,
+        "staff_space": 31.674999999999955
+      }
+    ],
+    "6/8": [
+      {
+        "sample_id": "1911-holdout-s0053-primrose-hill",
+        "symbol_id": 10,
+        "confidence": 0.999,
+        "staff_space": 31.400000000000006
+      },
+      {
+        "sample_id": "1911-s0388-oh-sing-with-me",
+        "symbol_id": 267,
+        "confidence": 0.991,
+        "staff_space": 31.274999999999977
+      },
+      {
+        "sample_id": "1911-s0392-heavenly-port",
+        "symbol_id": 7,
+        "confidence": 0.999,
+        "staff_space": 31.19999999999999
+      },
+      {
+        "sample_id": "1911-s0074-nashville",
+        "symbol_id": 42,
+        "confidence": 0.999,
+        "staff_space": 31.024999999999977
+      },
+      {
+        "sample_id": "1911-s0144-the-christian-s-hope",
+        "symbol_id": 3,
+        "confidence": 0.999,
+        "staff_space": 30.77608002850303
+      },
+      {
+        "sample_id": "1911-holdout-s0206-alabama",
+        "symbol_id": 67,
+        "confidence": 0.998,
+        "staff_space": 30.975000000000023
+      }
+    ]
+  }
+}

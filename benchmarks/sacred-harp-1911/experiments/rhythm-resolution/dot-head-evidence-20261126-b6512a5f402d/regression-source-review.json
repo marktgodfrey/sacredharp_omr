@@ -1,0 +1,33 @@
+{
+  "cases": [
+    {
+      "song_id": "1911-s0448-fillmore",
+      "title": "Fillmore",
+      "source_input": "sources/1911-Origin-JPK-0448.jpg",
+      "source_sha256": "2a515019d5f903b581224d72f961b5280bbb8f16ec8a11ebdfd528f45dbe7746",
+      "column": 18,
+      "measure": 19,
+      "part": 2,
+      "rejected_id": 600,
+      "source_box": [
+        3663.4,
+        1971.2,
+        3694.1,
+        2003.0
+      ],
+      "source_crop": "fillmore-regression-source.png",
+      "source_crop_box": [
+        3511,
+        1435,
+        3988,
+        2739
+      ],
+      "status": "non_head_rejection_source_confirmed_other_rhythm_unresolved",
+      "finding": "600 covers a staff line and small residual speck below the real hollow square; no physical head is present. Keep the rejection. The shared cut is now four quarters, supported by the other parts. The alto encoded end remains 13/4 before padding, with competing note interpretations around the hollow square and unresolved values in the final beamed group. A capacity-resolved bar does not adjudicate those source rhythms. Do not restore the false head to improve the reference metric.",
+      "pd_change": 1,
+      "time_aware_f1_change": -0.0025385628058321452,
+      "complete_bar_source_values_adjudicated": false
+    }
+  ],
+  "prediction_rules_changed_after_generation": false
+}

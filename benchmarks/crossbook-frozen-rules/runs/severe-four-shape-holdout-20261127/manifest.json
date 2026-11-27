@@ -1,0 +1,211 @@
+{
+  "scope": "Eight complete tunes on six source-reviewed Southern Harmony pages; both layouts; source-enriched sample, not book-wide accuracy.",
+  "variants": [
+    "default",
+    "clean_layout"
+  ],
+  "samples": [
+    {
+      "id": "1835-Southern-1-liverpool",
+      "book": "1835-Southern-Oberlin-IA",
+      "title": "liverpool",
+      "pdf_page_ordinal": 35,
+      "printed_page": 1,
+      "source": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/pages/1835-render-035.png",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-1-liverpool.png",
+      "crop_xyxy": [
+        50,
+        470,
+        2090,
+        980
+      ],
+      "source_size": [
+        2188,
+        1321
+      ],
+      "input_size": [
+        2040,
+        510
+      ],
+      "expected_source_staves": 3,
+      "reference": null
+    },
+    {
+      "id": "1835-Southern-2-invitation",
+      "book": "1835-Southern-Oberlin-IA",
+      "title": "invitation",
+      "pdf_page_ordinal": 36,
+      "printed_page": 2,
+      "source": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/pages/1835-render-036.png",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-2-invitation.png",
+      "crop_xyxy": [
+        155,
+        20,
+        2215,
+        1210
+      ],
+      "source_size": [
+        2246,
+        1305
+      ],
+      "input_size": [
+        2060,
+        1190
+      ],
+      "expected_source_staves": 6,
+      "reference": null
+    },
+    {
+      "id": "1835-Southern-4-meditation",
+      "book": "1835-Southern-Oberlin-IA",
+      "title": "meditation",
+      "pdf_page_ordinal": 38,
+      "printed_page": 4,
+      "source": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/pages/1835-render-038.png",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-4-meditation.png",
+      "crop_xyxy": [
+        160,
+        40,
+        2200,
+        570
+      ],
+      "source_size": [
+        2246,
+        1305
+      ],
+      "input_size": [
+        2040,
+        530
+      ],
+      "expected_source_staves": 3,
+      "reference": null
+    },
+    {
+      "id": "1835-Southern-4-hanover",
+      "book": "1835-Southern-Oberlin-IA",
+      "title": "hanover",
+      "pdf_page_ordinal": 38,
+      "printed_page": 4,
+      "source": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/pages/1835-render-038.png",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-4-hanover.png",
+      "crop_xyxy": [
+        155,
+        580,
+        2205,
+        1050
+      ],
+      "source_size": [
+        2246,
+        1305
+      ],
+      "input_size": [
+        2050,
+        470
+      ],
+      "expected_source_staves": 3,
+      "reference": null
+    },
+    {
+      "id": "1835-Southern-9-converted-thief",
+      "book": "1835-Southern-Oberlin-IA",
+      "title": "converted-thief",
+      "pdf_page_ordinal": 43,
+      "printed_page": 9,
+      "source": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/pages/1835-render-043.png",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-9-converted-thief.png",
+      "crop_xyxy": [
+        45,
+        35,
+        2100,
+        1195
+      ],
+      "source_size": [
+        2188,
+        1321
+      ],
+      "input_size": [
+        2055,
+        1160
+      ],
+      "expected_source_staves": 6,
+      "reference": null
+    },
+    {
+      "id": "1835-Southern-12-salem",
+      "book": "1835-Southern-Oberlin-IA",
+      "title": "salem",
+      "pdf_page_ordinal": 46,
+      "printed_page": 12,
+      "source": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/pages/1835-render-046.png",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-12-salem.png",
+      "crop_xyxy": [
+        135,
+        38,
+        2205,
+        1110
+      ],
+      "source_size": [
+        2246,
+        1305
+      ],
+      "input_size": [
+        2070,
+        1072
+      ],
+      "expected_source_staves": 6,
+      "reference": null
+    },
+    {
+      "id": "1835-Southern-13-dublin",
+      "book": "1835-Southern-Oberlin-IA",
+      "title": "dublin",
+      "pdf_page_ordinal": 47,
+      "printed_page": 13,
+      "source": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/pages/1835-render-047.png",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-13-dublin.png",
+      "crop_xyxy": [
+        75,
+        15,
+        2115,
+        625
+      ],
+      "source_size": [
+        2188,
+        1321
+      ],
+      "input_size": [
+        2040,
+        610
+      ],
+      "expected_source_staves": 4,
+      "reference": null
+    },
+    {
+      "id": "1835-Southern-13-devotion",
+      "book": "1835-Southern-Oberlin-IA",
+      "title": "devotion",
+      "pdf_page_ordinal": 47,
+      "printed_page": 13,
+      "source": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/pages/1835-render-047.png",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-13-devotion.png",
+      "crop_xyxy": [
+        65,
+        665,
+        2115,
+        1200
+      ],
+      "source_size": [
+        2188,
+        1321
+      ],
+      "input_size": [
+        2050,
+        535
+      ],
+      "expected_source_staves": 3,
+      "reference": null
+    }
+  ],
+  "selection_prediction_blind": true,
+  "references_used": false
+}

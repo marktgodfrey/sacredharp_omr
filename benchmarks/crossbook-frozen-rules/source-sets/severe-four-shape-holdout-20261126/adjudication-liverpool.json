@@ -1,0 +1,256 @@
+{
+  "source": "Southern Harmony, 1835, printed page 1 (PDF ordinal 35)",
+  "review_scope": [
+    "1835-render-035.png",
+    "1835-render-006.png",
+    "1835-render-007.png",
+    "1835-render-008.png",
+    "1835-p1-diamond-square-probes.png",
+    "1835-p1-triangle-probes.png",
+    "1835-candidate-probe.png"
+  ],
+  "method": "Source-only visual review. Primer pages identify diamond=mi, triangle=fa, oval=sol, square=law and show their ordinary hollow/filled forms. Enlarged probes are display-only native source pixels; no prediction or reference data consulted. Boxes are approximate native-pixel head bounds.",
+  "status": "visual_adjudication_partial",
+  "candidates": [
+    {
+      "box": [
+        327,
+        558,
+        355,
+        590
+      ],
+      "center": [
+        338,
+        571
+      ],
+      "shape": "square",
+      "fill": "filled",
+      "severity": "severe",
+      "status": "confirmed_source_ink_loss",
+      "rationale": "The enlarged filled square has a broad pale void and open outer contour across a substantial part of the body. This is not an ordinary counter for a filled square; the surviving square outline and staff placement support identity."
+    },
+    {
+      "box": [
+        366,
+        555,
+        394,
+        589
+      ],
+      "center": [
+        378,
+        572
+      ],
+      "shape": "square",
+      "fill": "filled",
+      "severity": "moderate",
+      "status": "confirmed_source_ink_loss",
+      "rationale": "Enlargement resolves irregular pale breaks through the filled square body and a disrupted edge. Definite but visually smaller loss than the severe square at (338,571)."
+    },
+    {
+      "box": [
+        816,
+        590,
+        840,
+        624
+      ],
+      "center": [
+        828,
+        607
+      ],
+      "shape": "square",
+      "fill": "filled",
+      "severity": "severe",
+      "status": "confirmed_source_ink_loss",
+      "rationale": "Multiple elongated pale breaks split the filled square body; loss affects a substantial fraction of expected solid ink. Not a normal hollow counter."
+    },
+    {
+      "box": [
+        728,
+        568,
+        760,
+        604
+      ],
+      "center": [
+        743,
+        585
+      ],
+      "shape": "oval",
+      "fill": "hollow",
+      "severity": "ambiguous",
+      "status": "ambiguous",
+      "rationale": "The oval's central opening is an ordinary hollow-note counter. The enlarged view suggests possible outer-contour loss, but the apparent opening/edge cannot be confidently separated from the unusual printed contour and staff overlap."
+    },
+    {
+      "box": [
+        581,
+        585,
+        605,
+        631
+      ],
+      "center": [
+        592,
+        608
+      ],
+      "shape": "triangle",
+      "fill": "filled",
+      "severity": "ambiguous",
+      "status": "ambiguous",
+      "rationale": "Probe shows only a cropped/overlapped fragment at this center; identity and damage cannot be judged safely."
+    },
+    {
+      "box": [
+        618,
+        580,
+        650,
+        621
+      ],
+      "center": [
+        630,
+        603
+      ],
+      "shape": "triangle",
+      "fill": "filled",
+      "severity": "severe",
+      "status": "confirmed_source_ink_loss",
+      "rationale": "The enlarged triangle consists of separated surviving regions with a missing connection/contour and substantial absent body. Primer's triangle is solid; its expected point and corners do not account for this gap."
+    },
+    {
+      "box": [
+        774,
+        585,
+        800,
+        628
+      ],
+      "center": [
+        786,
+        607
+      ],
+      "shape": "triangle",
+      "fill": "filled",
+      "severity": "moderate",
+      "status": "confirmed_source_ink_loss",
+      "rationale": "A clear pale break interrupts the otherwise solid triangular body; the remaining shape is connected and more than a minor corner irregularity, but does not clearly reach the severe threshold."
+    },
+    {
+      "box": [
+        858,
+        584,
+        884,
+        626
+      ],
+      "center": [
+        870,
+        605
+      ],
+      "shape": "triangle",
+      "fill": "filled",
+      "severity": "moderate",
+      "status": "confirmed_source_ink_loss",
+      "rationale": "Enlargement shows pale breaks through the filled body, but a connected recognizable triangular mass remains; damage is definite and appears below the severe body-loss threshold."
+    },
+    {
+      "box": [
+        620,
+        893,
+        660,
+        937
+      ],
+      "center": [
+        640,
+        915
+      ],
+      "shape": "diamond",
+      "fill": "filled",
+      "severity": "severe",
+      "status": "confirmed_source_ink_loss",
+      "rationale": "The enlarged solid diamond has a broad missing lower-left portion and a disrupted contour; loss is substantial. Its surviving pointed contour and staff placement support diamond identity."
+    },
+    {
+      "box": [
+        750,
+        892,
+        774,
+        932
+      ],
+      "center": [
+        762,
+        912
+      ],
+      "shape": "triangle",
+      "fill": "filled",
+      "severity": "none",
+      "status": "intact_control",
+      "rationale": "This triangle's solid body and outline are continuous apart from ordinary triangular point/corner form and staff overlap. Do not label it damaged."
+    }
+  ],
+  "intact_controls": [
+    {
+      "box": [
+        998,
+        558,
+        1014,
+        578
+      ],
+      "center": [
+        1006,
+        568
+      ],
+      "shape": "diamond",
+      "fill": "hollow",
+      "status": "intact_control",
+      "rationale": "The small center opening is an ordinary hollow diamond counter; outline appears continuous."
+    },
+    {
+      "box": [
+        1632,
+        576,
+        1656,
+        608
+      ],
+      "center": [
+        1644,
+        591
+      ],
+      "shape": "oval",
+      "fill": "hollow",
+      "status": "intact_control",
+      "rationale": "Ordinary hollow oval with its expected counter; no definite source contour loss."
+    },
+    {
+      "box": [
+        1825,
+        580,
+        1849,
+        610
+      ],
+      "center": [
+        1837,
+        595
+      ],
+      "shape": "oval",
+      "fill": "hollow",
+      "status": "intact_control",
+      "rationale": "Ordinary hollow oval with intact outer contour and counter."
+    },
+    {
+      "box": [
+        1640,
+        889,
+        1660,
+        921
+      ],
+      "center": [
+        1650,
+        905
+      ],
+      "shape": "oval",
+      "fill": "hollow",
+      "status": "intact_control",
+      "rationale": "The apparent interior hole is the normal hollow-oval counter; no definite damage."
+    }
+  ],
+  "limitations": [
+    "Only the provided labeled probes were reviewed. This does not establish first-three severe and first-three moderate heads per shape or first-two intact controls per shape across the page.",
+    "The oval at (743,585) remains ambiguous; ordinary hollow counters are excluded from damage counts."
+  ]
+}

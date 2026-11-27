@@ -13,6 +13,7 @@ from run_local_recovery import ROOT, read, save, sha, samples
 from run_rhythm_resolution import PREVIOUS
 from run_proposal_rhythm_recovery import PROPOSALS
 from source_saved_events import source_saved_events
+from false_head_evidence import proven_non_head
 
 
 def event_pitch_set(trace):
@@ -145,9 +146,7 @@ def main():
         previous_xml = previous_xml_path.read_text()
         current_xml = prediction.read_text()
         removed=trace.get('rhythm_resolution_details',{}).get('duplicate_serialized_events_removed',[])
-        non_heads={int(x['sym_id']) for x in removed if
-                   (x.get('reason')=='beam_stroke_misread_as_notehead' and x.get('source_geometry_evidence',{}).get('beam_region'))
-                   or (x.get('reason')=='empty_source_box_misread_as_notehead' and x.get('source_geometry_evidence',{}).get('empty_head_box'))}
+        non_heads={int(x['sym_id']) for x in removed if proven_non_head(x)}
         removed_non_heads += [{'id':sid,'title':row['title'],**x} for x in removed if int(x['sym_id']) in non_heads]
 
         # Physical notes are compared by source ID and pitch, not serialized multiplicity.

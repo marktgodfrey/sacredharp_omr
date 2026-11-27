@@ -21,3 +21,16 @@ def test_source_beam_fragment_is_distinct_from_its_two_actual_heads():
     result=beam_region_evidence(pixels,syms[555]['box'],sp,peers)
     assert result['beam_region'] and set(result['other_head_ids'])=={575,652}
     assert not beam_region_evidence(pixels,syms[575]['box'],sp,peers[1:])['beam_region']
+
+
+def test_short_connector_requires_ink_joining_both_endpoint_heads():
+    im=Image.new('L',(180,180),255);d=ImageDraw.Draw(im)
+    d.polygon([(70,45),(100,39),(100,47),(70,53)],fill=0)
+    d.rectangle((52,100,70,118),fill=0);d.rectangle((82,94,100,112),fill=0)
+    peers=[{'si':1,'x':61,'box':(52,100,70,118)}, {'si':2,'x':91,'box':(82,94,100,112)}]
+    box=(69,39,101,54)
+    # A slanted stroke and unrelated heads are not enough.
+    assert not beam_region_evidence(np.asarray(im),box,20,peers)['beam_region']
+    d.line((70,48,70,107),fill=0,width=2);d.line((100,43,100,101),fill=0,width=2)
+    result=beam_region_evidence(np.asarray(im),box,20,peers)
+    assert result['beam_region'] and len(result['endpoint_stems'])==2

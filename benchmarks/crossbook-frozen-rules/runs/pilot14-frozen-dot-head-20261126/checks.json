@@ -1,0 +1,21 @@
+{
+  "adapter_tests_passed": 3,
+  "baseline_captures": 28,
+  "policy_outputs": 56,
+  "prediction_failures": 0,
+  "baseline_xml_parity": 28,
+  "all_generation_hash_guards_passed": true,
+  "reference_opened_during_generation": false,
+  "timing_invariant_failure_configurations": 1,
+  "timing_invariant_failed_engines": [
+    "prior",
+    "current"
+  ],
+  "new_rule_source_false_positive_distinct_objects": 1,
+  "new_rule_correct_non_head_rejection_distinct_objects": 1,
+  "new_rule_portability_passed": false,
+  "defaults_enabled": false,
+  "gallery_updated": false,
+  "historical_pilot_sealed_hashes_verified": 195,
+  "source_review_completed": true
+}

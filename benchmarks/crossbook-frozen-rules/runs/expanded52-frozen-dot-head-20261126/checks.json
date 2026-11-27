@@ -1,0 +1,31 @@
+{
+  "source_crops": 52,
+  "matched_tunes_per_book": 26,
+  "configurations": 104,
+  "added_configurations": 76,
+  "baseline_captures_reused": 28,
+  "new_cpu_only_captures": 76,
+  "policy_outputs": 208,
+  "prediction_failures": 0,
+  "generation_hash_guards_passed": true,
+  "reference_opened_during_generation": false,
+  "original_pilot_baseline_xml_parity": 28,
+  "unequal_part_span_configurations": 16,
+  "unequal_part_span_configuration_layouts": {
+    "default": 14,
+    "clean_layout": 2
+  },
+  "source_review": {
+    "distinct_new_objects": 12,
+    "confirmed_non_head_boxes": 10,
+    "confirmed_genuine_head_losses": 1,
+    "localization_ambiguities": 1
+  },
+  "new_dot_or_short_beam_emitted_changes": 0,
+  "adapter_scoring_tests_passed": 4,
+  "new_rule_portability_passed": false,
+  "rules_tuned_on_target_data": false,
+  "defaults_enabled": false,
+  "gallery_updated": false,
+  "scope": "Frozen postprocessing on baseline event pools; earlier JPK upstream recovery stages are not reproduced"
+}

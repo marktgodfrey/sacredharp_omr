@@ -1,0 +1,6 @@
+{
+  "copied_from": "benchmarks/historical-sacred-harp/manifest-two-books-expanded.json",
+  "sha256": "7241680e4d8eeb99732016165f43d6e426f0f3e9a9649e2618bcef585067d28b",
+  "selection_before_new_inference": true,
+  "rules_remain_unchanged": true
+}

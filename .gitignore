@@ -23,3 +23,13 @@ node_modules/
 /benchmarks/sacred-harp-1911/error-examples/
 /sites/
 /workspace-snapshots/
+/benchmarks/historical-sacred-harp/sources/
+/benchmarks/historical-sacred-harp/inputs/
+/benchmarks/historical-sacred-harp/reference/
+/benchmarks/historical-sacred-harp/runs/
+/benchmarks/crossbook-frozen-rules/runs/
+/benchmarks/crossbook-frozen-rules/engines/
+/benchmarks/crossbook-frozen-rules/diagnostics/
+/benchmarks/crossbook-frozen-rules/source-sets/*/raw/
+/benchmarks/crossbook-frozen-rules/source-sets/*/pages/
+/benchmarks/crossbook-frozen-rules/source-sets/*/inputs/

@@ -1,0 +1,419 @@
+{
+  "review_basis": "All18 unique current abstention/removal boxes visually inspected, with enlarged source and wider context; output-guided exploratory audit, separate from frozen primary annotations.",
+  "decisions": [
+    {
+      "sample_id": "1835-Southern-1-liverpool",
+      "kind": "abstain",
+      "symbol_id": 232,
+      "input_box": [
+        430.8,
+        102.9,
+        453.7,
+        124.5
+      ],
+      "source_box": [
+        480.8,
+        572.9,
+        503.7,
+        594.5
+      ],
+      "judgment": "shifted_duplicate",
+      "rationale": "Staff-line box one staffspace above intact hollow square. Real head209 remains emitted in both policies.",
+      "review_after_inference": true,
+      "primary_label_changed": false
+    },
+    {
+      "sample_id": "1835-Southern-1-liverpool",
+      "kind": "abstain",
+      "symbol_id": 225,
+      "input_box": [
+        1551.0,
+        424.3,
+        1572.0,
+        445.5
+      ],
+      "source_box": [
+        1601.0,
+        894.3,
+        1622.0,
+        915.5
+      ],
+      "judgment": "shifted_duplicate",
+      "rationale": "Box shifted above triangle; actual head150 already emitted in both policies.",
+      "review_after_inference": true,
+      "primary_label_changed": false
+    },
+    {
+      "sample_id": "1835-Southern-12-salem",
+      "kind": "abstain",
+      "symbol_id": 390,
+      "input_box": [
+        1398.6,
+        252.4,
+        1415.5,
+        272.9
+      ],
+      "source_box": [
+        1533.6,
+        290.4,
+        1550.5,
+        310.9
+      ],
+      "judgment": "uncertain_mislocalized_head",
+      "rationale": "Box largely empty above filled triangle and overlaps its upper-left tip; no nearby emitted note. Association with actual head plausible, but not certified rescue.",
+      "review_after_inference": true,
+      "primary_label_changed": false
+    },
+    {
+      "sample_id": "1835-Southern-12-salem",
+      "kind": "abstain",
+      "symbol_id": 354,
+      "input_box": [
+        1655.0,
+        817.6,
+        1677.3,
+        838.3
+      ],
+      "source_box": [
+        1790.0,
+        855.6,
+        1812.3,
+        876.3
+      ],
+      "judgment": "shifted_duplicate",
+      "rationale": "Box above actual oval; real head339 already emitted.",
+      "review_after_inference": true,
+      "primary_label_changed": false
+    },
+    {
+      "sample_id": "1835-Southern-12-salem",
+      "kind": "abstain",
+      "symbol_id": 242,
+      "input_box": [
+        313.9,
+        973.1,
+        336.3,
+        992.1
+      ],
+      "source_box": [
+        448.9,
+        1011.1,
+        471.3,
+        1030.1
+      ],
+      "judgment": "genuine_head_candidate_retained",
+      "rationale": "Broken hollow triangle with visible diagonal/base fragments and stem; no other prior emitted note within40px. Added note candidate, pitch/duration not certified.",
+      "review_after_inference": true,
+      "primary_label_changed": false
+    },
+    {
+      "sample_id": "1835-Southern-12-salem",
+      "kind": "abstain",
+      "symbol_id": 330,
+      "input_box": [
+        881.1,
+        970.5,
+        903.3,
+        990.9
+      ],
+      "source_box": [
+        1016.1,
+        1008.5,
+        1038.3,
+        1028.9
+      ],
+      "judgment": "genuine_head_candidate_retained",
+      "rationale": "Hollow triangle with rim break, attached stem and base. No nearby prior emitted note. Current renders half although candidate class quarter; correctness not certified.",
+      "review_after_inference": true,
+      "primary_label_changed": false
+    },
+    {
+      "sample_id": "1835-Southern-12-salem",
+      "kind": "remove",
+      "symbol_id": 386,
+      "input_box": [
+        1900.6,
+        125.1,
+        1918.6,
+        143.5
+      ],
+      "source_box": [
+        2035.6,
+        163.1,
+        2053.6,
+        181.5
+      ],
+      "judgment": "shifted_duplicate_removed",
+      "rationale": "Mostly empty box above triangle; actual note347 remains emitted. Narrow existing empty-box rule unchanged.",
+      "review_after_inference": true,
+      "primary_label_changed": false
+    },
+    {
+      "sample_id": "1835-Southern-12-salem",
+      "kind": "remove",
+      "symbol_id": 377,
+      "input_box": [
+        316.3,
+        578.2,
+        336.0,
+        596.9
+      ],
+      "source_box": [
+        451.3,
+        616.2,
+        471.0,
+        634.9
+      ],
+      "judgment": "shifted_duplicate_removed",
+      "rationale": "Mostly empty box above hollow triangle; actual note375 remains emitted. Narrow existing empty-box rule unchanged.",
+      "review_after_inference": true,
+      "primary_label_changed": false
+    },
+    {
+      "sample_id": "1835-Southern-13-devotion",
+      "kind": "abstain",
+      "symbol_id": 198,
+      "input_box": [
+        721.6,
+        116.9,
+        745.4,
+        134.8
+      ],
+      "source_box": [
+        786.6,
+        781.9,
+        810.4,
+        799.8
+      ],
+      "judgment": "shifted_duplicate",
+      "rationale": "Overlaps upper rim of existing hollow square; source138 already emitted.",
+      "review_after_inference": true,
+      "primary_label_changed": false
+    },
+    {
+      "sample_id": "1835-Southern-13-devotion",
+      "kind": "abstain",
+      "symbol_id": 220,
+      "input_box": [
+        899.9,
+        106.5,
+        921.5,
+        129.2
+      ],
+      "source_box": [
+        964.9,
+        771.5,
+        986.5,
+        794.2
+      ],
+      "judgment": "shifted_duplicate",
+      "rationale": "Staff-line box below existing hollow square; source155 already emitted.",
+      "review_after_inference": true,
+      "primary_label_changed": false
+    },
+    {
+      "sample_id": "1835-Southern-13-dublin",
+      "kind": "abstain",
+      "symbol_id": 262,
+      "input_box": [
+        197.3,
+        136.8,
+        220.0,
+        159.5
+      ],
+      "source_box": [
+        272.3,
+        151.8,
+        295.0,
+        174.5
+      ],
+      "judgment": "shifted_duplicate_unchanged",
+      "rationale": "Overlaps lower rim of existing hollow square249. Candidate262 already emitted by prior as well; abstention is not a new rescue.",
+      "review_after_inference": true,
+      "primary_label_changed": false
+    },
+    {
+      "sample_id": "1835-Southern-13-dublin",
+      "kind": "abstain",
+      "symbol_id": 251,
+      "input_box": [
+        1247.6,
+        122.0,
+        1269.7,
+        136.4
+      ],
+      "source_box": [
+        1322.6,
+        137.0,
+        1344.7,
+        151.4
+      ],
+      "judgment": "shifted_duplicate",
+      "rationale": "Overlaps upper rim of hollow square; existing note241 already emitted.",
+      "review_after_inference": true,
+      "primary_label_changed": false
+    },
+    {
+      "sample_id": "1835-Southern-13-dublin",
+      "kind": "abstain",
+      "symbol_id": 218,
+      "input_box": [
+        1617.4,
+        400.9,
+        1641.2,
+        421.5
+      ],
+      "source_box": [
+        1692.4,
+        415.9,
+        1716.2,
+        436.5
+      ],
+      "judgment": "genuine_head_candidate_retained",
+      "rationale": "Fragmented hollow triangular head: diagonal and base remain. No nearby prior emitted note. Correct serialization/pitch not certified.",
+      "review_after_inference": true,
+      "primary_label_changed": false
+    },
+    {
+      "sample_id": "1835-Southern-13-dublin",
+      "kind": "abstain",
+      "symbol_id": 258,
+      "input_box": [
+        1739.6,
+        500.2,
+        1763.0,
+        525.8
+      ],
+      "source_box": [
+        1814.6,
+        515.2,
+        1838.0,
+        540.8
+      ],
+      "judgment": "genuine_head_candidate_retained",
+      "rationale": "Broken hollow square rim with upper-left and base/right fragments. No nearby prior emitted note; added source candidate.",
+      "review_after_inference": true,
+      "primary_label_changed": false
+    },
+    {
+      "sample_id": "1835-Southern-13-dublin",
+      "kind": "abstain",
+      "symbol_id": 277,
+      "input_box": [
+        1866.2,
+        531.0,
+        1891.5,
+        552.9
+      ],
+      "source_box": [
+        1941.2,
+        546.0,
+        1966.5,
+        567.9
+      ],
+      "judgment": "genuine_head_candidate_retained",
+      "rationale": "Hollow square contour with worn/weak rim, attached stem. Prior rejected actual head candidate; no nearby prior emitted note.",
+      "review_after_inference": true,
+      "primary_label_changed": false
+    },
+    {
+      "sample_id": "1835-Southern-4-hanover",
+      "kind": "abstain",
+      "symbol_id": 255,
+      "input_box": [
+        454.1,
+        448.1,
+        472.3,
+        465.0
+      ],
+      "source_box": [
+        609.1,
+        1028.1,
+        627.3,
+        1045.0
+      ],
+      "judgment": "uncertain_mislocalized_head",
+      "rationale": "Box mainly on lower staff line/rim below an actual hollow square. No nearby emitted note, but geometry does not securely establish a correctly localized head rescue.",
+      "review_after_inference": true,
+      "primary_label_changed": false
+    },
+    {
+      "sample_id": "1835-Southern-4-meditation",
+      "kind": "remove",
+      "symbol_id": 238,
+      "input_box": [
+        1082.6,
+        232.2,
+        1109.7,
+        300.3
+      ],
+      "source_box": [
+        1242.6,
+        272.2,
+        1269.7,
+        340.3
+      ],
+      "judgment": "duplicate_rest_removed",
+      "rationale": "Tall rest candidate spans source hollow square and stem/dots; same physical head198 emitted as note. Same removal in both policies.",
+      "review_after_inference": true,
+      "primary_label_changed": false
+    },
+    {
+      "sample_id": "1835-Southern-9-converted-thief",
+      "kind": "abstain",
+      "symbol_id": 331,
+      "input_box": [
+        93.3,
+        861.5,
+        114.8,
+        882.6
+      ],
+      "source_box": [
+        138.3,
+        896.5,
+        159.8,
+        917.6
+      ],
+      "judgment": "genuine_head_candidate_retained",
+      "rationale": "Wide context shows first hollow square after clef in second system tenor, partly absent rim and attached stem. No nearby prior emitted note; retained candidate corresponds to source head.",
+      "review_after_inference": true,
+      "primary_label_changed": false
+    }
+  ],
+  "paired_layout_checks": [
+    {
+      "id": "1835-Southern-1-liverpool",
+      "policy_objects_identical_across_layouts": true
+    },
+    {
+      "id": "1835-Southern-2-invitation",
+      "policy_objects_identical_across_layouts": true
+    },
+    {
+      "id": "1835-Southern-4-meditation",
+      "policy_objects_identical_across_layouts": true
+    },
+    {
+      "id": "1835-Southern-4-hanover",
+      "policy_objects_identical_across_layouts": true
+    },
+    {
+      "id": "1835-Southern-9-converted-thief",
+      "policy_objects_identical_across_layouts": true
+    },
+    {
+      "id": "1835-Southern-12-salem",
+      "policy_objects_identical_across_layouts": true
+    },
+    {
+      "id": "1835-Southern-13-dublin",
+      "policy_objects_identical_across_layouts": true
+    },
+    {
+      "id": "1835-Southern-13-devotion",
+      "policy_objects_identical_across_layouts": true
+    }
+  ],
+  "conclusion": "15 unique abstentions:6 genuine source-head candidates retained;6 new shifted duplicate/artifact note candidates retained;2 mislocalized-head associations uncertain;1 duplicate already emitted by prior. These are exploratory presence judgments, not source-correct note/pitch/duration scores.",
+  "independent_review_limit": "Independent review supports head presence for Salem330/Dublin277, disputes or cannot establish Salem242/Dublin218/Dublin258/Converted Thief331. Preserve these four as disputed exploratory recoveries; no primary-label or generation changes. Main used wider native source context; differences are not resolved by model output."
+}

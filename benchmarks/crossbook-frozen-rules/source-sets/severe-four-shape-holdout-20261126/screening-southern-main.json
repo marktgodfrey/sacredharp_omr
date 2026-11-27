@@ -1,0 +1,560 @@
+{
+  "status": "complete",
+  "pages": [
+    {
+      "pdf_ordinal": 35,
+      "printed_page": 1,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped/fragmented ink; candidate extraction pending. No model outputs consulted."
+    },
+    {
+      "pdf_ordinal": 36,
+      "printed_page": 2,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped/fragmented ink; candidate extraction pending. No model outputs consulted."
+    },
+    {
+      "pdf_ordinal": 37,
+      "printed_page": 3,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped/fragmented ink; candidate extraction pending. No model outputs consulted."
+    },
+    {
+      "pdf_ordinal": 38,
+      "printed_page": 4,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped/fragmented ink; candidate extraction pending. No model outputs consulted."
+    },
+    {
+      "pdf_ordinal": 39,
+      "printed_page": 5,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped/fragmented ink; candidate extraction pending. No model outputs consulted."
+    },
+    {
+      "pdf_ordinal": 40,
+      "printed_page": 6,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped/fragmented ink; candidate extraction pending. No model outputs consulted."
+    },
+    {
+      "pdf_ordinal": 41,
+      "printed_page": 7,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped/fragmented ink; candidate extraction pending. No model outputs consulted."
+    },
+    {
+      "pdf_ordinal": 42,
+      "printed_page": 8,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped/fragmented ink; candidate extraction pending. No model outputs consulted."
+    },
+    {
+      "pdf_ordinal": 43,
+      "printed_page": 9,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped/fragmented ink; candidate extraction pending. No model outputs consulted."
+    },
+    {
+      "pdf_ordinal": 44,
+      "printed_page": 10,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped/fragmented ink; candidate extraction pending. No model outputs consulted."
+    },
+    {
+      "pdf_ordinal": 45,
+      "printed_page": 11,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped/fragmented ink; candidate extraction pending. No model outputs consulted."
+    },
+    {
+      "pdf_ordinal": 46,
+      "printed_page": 12,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Screened source-only; chipped-head candidates in earliest pages remain under severity adjudication."
+    },
+    {
+      "pdf_ordinal": 47,
+      "printed_page": 13,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Screened source-only; chipped-head candidates in earliest pages remain under severity adjudication."
+    },
+    {
+      "pdf_ordinal": 48,
+      "printed_page": 14,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Screened source-only; chipped-head candidates in earliest pages remain under severity adjudication."
+    },
+    {
+      "pdf_ordinal": 49,
+      "printed_page": 15,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Screened source-only; chipped-head candidates in earliest pages remain under severity adjudication."
+    },
+    {
+      "pdf_ordinal": 50,
+      "printed_page": 16,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 51,
+      "printed_page": 17,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 52,
+      "printed_page": 18,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 53,
+      "printed_page": 19,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 54,
+      "printed_page": 20,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 55,
+      "printed_page": 21,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 56,
+      "printed_page": 22,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 57,
+      "printed_page": 23,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 58,
+      "printed_page": 24,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 59,
+      "printed_page": 25,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 60,
+      "printed_page": 26,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 61,
+      "printed_page": 27,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": ""
+    },
+    {
+      "pdf_ordinal": 62,
+      "printed_page": 28,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": ""
+    },
+    {
+      "pdf_ordinal": 63,
+      "printed_page": 29,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": ""
+    },
+    {
+      "pdf_ordinal": 64,
+      "printed_page": 30,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": ""
+    },
+    {
+      "pdf_ordinal": 65,
+      "printed_page": 33,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Printed31-32 absent: ordinal65 jumps to33."
+    },
+    {
+      "pdf_ordinal": 66,
+      "printed_page": 34,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": ""
+    },
+    {
+      "pdf_ordinal": 67,
+      "printed_page": 35,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 68,
+      "printed_page": 36,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 69,
+      "printed_page": 37,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 70,
+      "printed_page": 38,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 71,
+      "printed_page": 39,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 72,
+      "printed_page": 40,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 73,
+      "printed_page": 41,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 74,
+      "printed_page": 42,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 75,
+      "printed_page": 43,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 76,
+      "printed_page": 44,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 77,
+      "printed_page": 45,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 78,
+      "printed_page": 46,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference"
+    },
+    {
+      "pdf_ordinal": 79,
+      "printed_page": 47,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; earlier candidate quota adjudication pending."
+    },
+    {
+      "pdf_ordinal": 80,
+      "printed_page": 48,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; earlier candidate quota adjudication pending."
+    },
+    {
+      "pdf_ordinal": 81,
+      "printed_page": 49,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; earlier candidate quota adjudication pending."
+    },
+    {
+      "pdf_ordinal": 82,
+      "printed_page": 50,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; earlier candidate quota adjudication pending."
+    },
+    {
+      "pdf_ordinal": 83,
+      "printed_page": 51,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; earlier candidate quota adjudication pending."
+    },
+    {
+      "pdf_ordinal": 84,
+      "printed_page": 52,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; earlier candidate quota adjudication pending."
+    },
+    {
+      "pdf_ordinal": 85,
+      "printed_page": 53,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; earlier candidate quota adjudication pending."
+    },
+    {
+      "pdf_ordinal": 86,
+      "printed_page": 54,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; earlier candidate quota adjudication pending."
+    },
+    {
+      "pdf_ordinal": 87,
+      "printed_page": 55,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; earlier candidate quota adjudication pending."
+    },
+    {
+      "pdf_ordinal": 88,
+      "printed_page": 56,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; earlier candidate quota adjudication pending."
+    },
+    {
+      "pdf_ordinal": 89,
+      "printed_page": 57,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; earlier candidate quota adjudication pending."
+    },
+    {
+      "pdf_ordinal": 90,
+      "printed_page": 58,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; earlier candidate quota adjudication pending."
+    },
+    {
+      "pdf_ordinal": 91,
+      "printed_page": 59,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; earlier candidate quota adjudication pending."
+    },
+    {
+      "pdf_ordinal": 92,
+      "printed_page": 60,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; earlier candidate quota adjudication pending."
+    },
+    {
+      "pdf_ordinal": 93,
+      "printed_page": 61,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; earlier candidate quota adjudication pending."
+    },
+    {
+      "pdf_ordinal": 94,
+      "printed_page": 62,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; earlier candidate quota adjudication pending."
+    },
+    {
+      "pdf_ordinal": 95,
+      "printed_page": 63,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; earlier candidate quota adjudication pending."
+    },
+    {
+      "pdf_ordinal": 96,
+      "printed_page": 64,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; earlier candidate quota adjudication pending."
+    },
+    {
+      "pdf_ordinal": 97,
+      "printed_page": 65,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; earlier candidate quota adjudication pending."
+    },
+    {
+      "pdf_ordinal": 98,
+      "printed_page": 66,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; earlier candidate quota adjudication pending."
+    },
+    {
+      "pdf_ordinal": 99,
+      "printed_page": 67,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; later pages not substituted for earlier eligible cases."
+    },
+    {
+      "pdf_ordinal": 100,
+      "printed_page": 68,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; later pages not substituted for earlier eligible cases."
+    },
+    {
+      "pdf_ordinal": 101,
+      "printed_page": 69,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; later pages not substituted for earlier eligible cases."
+    },
+    {
+      "pdf_ordinal": 102,
+      "printed_page": 70,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; later pages not substituted for earlier eligible cases."
+    },
+    {
+      "pdf_ordinal": 103,
+      "printed_page": 71,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; later pages not substituted for earlier eligible cases."
+    },
+    {
+      "pdf_ordinal": 104,
+      "printed_page": 72,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; later pages not substituted for earlier eligible cases."
+    },
+    {
+      "pdf_ordinal": 105,
+      "printed_page": 73,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; later pages not substituted for earlier eligible cases."
+    },
+    {
+      "pdf_ordinal": 106,
+      "printed_page": 74,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; later pages not substituted for earlier eligible cases."
+    },
+    {
+      "pdf_ordinal": 107,
+      "printed_page": 75,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; later pages not substituted for earlier eligible cases."
+    },
+    {
+      "pdf_ordinal": 108,
+      "printed_page": 76,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; later pages not substituted for earlier eligible cases."
+    },
+    {
+      "pdf_ordinal": 109,
+      "printed_page": 77,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; later pages not substituted for earlier eligible cases."
+    },
+    {
+      "pdf_ordinal": 110,
+      "printed_page": 78,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; later pages not substituted for earlier eligible cases."
+    },
+    {
+      "pdf_ordinal": 111,
+      "printed_page": 79,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; later pages not substituted for earlier eligible cases."
+    },
+    {
+      "pdf_ordinal": 112,
+      "printed_page": 80,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; later pages not substituted for earlier eligible cases."
+    },
+    {
+      "pdf_ordinal": 113,
+      "printed_page": 81,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; later pages not substituted for earlier eligible cases."
+    },
+    {
+      "pdf_ordinal": 114,
+      "printed_page": 82,
+      "reviewed_native_composite": true,
+      "status": "source_reviewed_before_inference",
+      "notes": "Chipped source ink; later pages not substituted for earlier eligible cases."
+    }
+  ],
+  "reviewer": "main",
+  "predictions_seen": false,
+  "native_pixel_method": "fixed300dpi composite PNG; enlarge display only",
+  "pool": {
+    "pdf_ordinals": [
+      35,
+      114
+    ],
+    "available_music_pages": 80,
+    "printed_pages": [
+      1,
+      82
+    ],
+    "missing_printed_pages": [
+      31,
+      32
+    ]
+  }
+}

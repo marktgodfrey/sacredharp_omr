@@ -1,0 +1,1355 @@
+{
+  "status": "locked_before_inference",
+  "locked_utc": "2026-11-27T21:17:01.480542+00:00",
+  "predictions_seen": false,
+  "reference_xml_opened": false,
+  "annotations": [
+    {
+      "annotation_id": "A01",
+      "sample_id": "1835-Southern-1-liverpool",
+      "shape": "square",
+      "fill": "filled",
+      "severity": "severe",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        325,
+        558,
+        351,
+        584
+      ],
+      "input_bbox_xyxy": [
+        275,
+        88,
+        301,
+        114
+      ],
+      "source_rationale": "Irregular missing solid body; approximately >=third of expected ink absent. Main and enlarged-source reviewer agree."
+    },
+    {
+      "annotation_id": "A02",
+      "sample_id": "1835-Southern-1-liverpool",
+      "shape": "square",
+      "fill": "filled",
+      "severity": "severe",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        815,
+        594,
+        841,
+        620
+      ],
+      "input_bbox_xyxy": [
+        765,
+        124,
+        791,
+        150
+      ],
+      "source_rationale": "Irregular missing solid body; approximately >=third of expected ink absent. Main and enlarged-source reviewer agree."
+    },
+    {
+      "annotation_id": "A03",
+      "sample_id": "1835-Southern-1-liverpool",
+      "shape": "triangle",
+      "fill": "filled",
+      "severity": "severe",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        614,
+        590,
+        646,
+        616
+      ],
+      "input_bbox_xyxy": [
+        564,
+        120,
+        596,
+        146
+      ],
+      "source_rationale": "Disconnected triangular head fragments with missing connecting contour. Main and enlarged-source reviewer agree."
+    },
+    {
+      "annotation_id": "A04",
+      "sample_id": "1835-Southern-4-hanover",
+      "shape": "square",
+      "fill": "filled",
+      "severity": "severe",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        1164,
+        695,
+        1190,
+        721
+      ],
+      "input_bbox_xyxy": [
+        1009,
+        115,
+        1035,
+        141
+      ],
+      "source_rationale": "Broad irregular X-shaped white void and open lower body; visually >=third solid body missing. Main source judgment."
+    },
+    {
+      "annotation_id": "A05",
+      "sample_id": "1835-Southern-12-salem",
+      "shape": "oval",
+      "fill": "hollow",
+      "severity": "severe",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        880,
+        144,
+        916,
+        172
+      ],
+      "input_bbox_xyxy": [
+        745,
+        106,
+        781,
+        134
+      ],
+      "source_rationale": "Approximately quarter of hollow rim missing; open contour. Main and independent enlarged-source reviewer agree."
+    },
+    {
+      "annotation_id": "A06",
+      "sample_id": "1835-Southern-12-salem",
+      "shape": "oval",
+      "fill": "hollow",
+      "severity": "severe",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        519,
+        316,
+        555,
+        344
+      ],
+      "input_bbox_xyxy": [
+        384,
+        278,
+        420,
+        306
+      ],
+      "source_rationale": "Approximately quarter of hollow rim missing; open contour. Main and independent enlarged-source reviewer agree."
+    },
+    {
+      "annotation_id": "A07",
+      "sample_id": "1835-Southern-13-dublin",
+      "shape": "triangle",
+      "fill": "hollow",
+      "severity": "severe",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        535,
+        119,
+        565,
+        149
+      ],
+      "input_bbox_xyxy": [
+        460,
+        104,
+        490,
+        134
+      ],
+      "source_rationale": "Left rim leg substantially absent with disconnected lower-left contour; >=quarter perimeter loss. Main and independent reviewer agree."
+    },
+    {
+      "annotation_id": "A08",
+      "sample_id": "1835-Southern-13-dublin",
+      "shape": "diamond",
+      "fill": "hollow",
+      "severity": "severe",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        851,
+        129,
+        881,
+        159
+      ],
+      "input_bbox_xyxy": [
+        776,
+        114,
+        806,
+        144
+      ],
+      "source_rationale": "Approximately quarter rim missing; final diamond has two disconnected opposing fragments. Main and independent reviewer agree."
+    },
+    {
+      "annotation_id": "A09",
+      "sample_id": "1835-Southern-13-dublin",
+      "shape": "diamond",
+      "fill": "hollow",
+      "severity": "severe",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        1252,
+        129,
+        1282,
+        159
+      ],
+      "input_bbox_xyxy": [
+        1177,
+        114,
+        1207,
+        144
+      ],
+      "source_rationale": "Approximately quarter rim missing; final diamond has two disconnected opposing fragments. Main and independent reviewer agree."
+    },
+    {
+      "annotation_id": "A10",
+      "sample_id": "1835-Southern-13-dublin",
+      "shape": "diamond",
+      "fill": "hollow",
+      "severity": "severe",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        1573,
+        129,
+        1603,
+        159
+      ],
+      "input_bbox_xyxy": [
+        1498,
+        114,
+        1528,
+        144
+      ],
+      "source_rationale": "Approximately quarter rim missing; final diamond has two disconnected opposing fragments. Main and independent reviewer agree."
+    },
+    {
+      "annotation_id": "A11",
+      "sample_id": "1835-Southern-1-liverpool",
+      "shape": "square",
+      "fill": "filled",
+      "severity": "moderate",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        365,
+        559,
+        391,
+        585
+      ],
+      "input_bbox_xyxy": [
+        315,
+        89,
+        341,
+        115
+      ],
+      "source_rationale": "Smaller definite irregular body/edge void; not a normal hollow minim counter."
+    },
+    {
+      "annotation_id": "A12",
+      "sample_id": "1835-Southern-1-liverpool",
+      "shape": "square",
+      "fill": "filled",
+      "severity": "moderate",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        585,
+        592,
+        611,
+        618
+      ],
+      "input_bbox_xyxy": [
+        535,
+        122,
+        561,
+        148
+      ],
+      "source_rationale": "Smaller definite irregular body/edge void; not a normal hollow minim counter."
+    },
+    {
+      "annotation_id": "A13",
+      "sample_id": "1835-Southern-1-liverpool",
+      "shape": "square",
+      "fill": "filled",
+      "severity": "moderate",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        1267,
+        566,
+        1293,
+        592
+      ],
+      "input_bbox_xyxy": [
+        1217,
+        96,
+        1243,
+        122
+      ],
+      "source_rationale": "Smaller definite irregular body/edge void; not a normal hollow minim counter."
+    },
+    {
+      "annotation_id": "A14",
+      "sample_id": "1835-Southern-1-liverpool",
+      "shape": "triangle",
+      "fill": "filled",
+      "severity": "moderate",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        771,
+        594,
+        801,
+        620
+      ],
+      "input_bbox_xyxy": [
+        721,
+        124,
+        751,
+        150
+      ],
+      "source_rationale": "Smaller definite irregular body break, below severe body-loss criterion."
+    },
+    {
+      "annotation_id": "A15",
+      "sample_id": "1835-Southern-1-liverpool",
+      "shape": "triangle",
+      "fill": "filled",
+      "severity": "moderate",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        855,
+        592,
+        885,
+        618
+      ],
+      "input_bbox_xyxy": [
+        805,
+        122,
+        835,
+        148
+      ],
+      "source_rationale": "Smaller definite irregular body break, below severe body-loss criterion."
+    },
+    {
+      "annotation_id": "A16",
+      "sample_id": "1835-Southern-1-liverpool",
+      "shape": "triangle",
+      "fill": "filled",
+      "severity": "moderate",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        945,
+        547,
+        975,
+        573
+      ],
+      "input_bbox_xyxy": [
+        895,
+        77,
+        925,
+        103
+      ],
+      "source_rationale": "Smaller definite irregular body break, below severe body-loss criterion."
+    },
+    {
+      "annotation_id": "A17",
+      "sample_id": "1835-Southern-1-liverpool",
+      "shape": "oval",
+      "fill": "hollow",
+      "severity": "moderate",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        429,
+        571,
+        465,
+        597
+      ],
+      "input_bbox_xyxy": [
+        379,
+        101,
+        415,
+        127
+      ],
+      "source_rationale": "Small open lower-rim gap; ordinary hollow center excluded."
+    },
+    {
+      "annotation_id": "A18",
+      "sample_id": "1835-Southern-1-liverpool",
+      "shape": "oval",
+      "fill": "filled",
+      "severity": "moderate",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        543,
+        602,
+        567,
+        626
+      ],
+      "input_bbox_xyxy": [
+        493,
+        132,
+        517,
+        156
+      ],
+      "source_rationale": "Small irregular white body break in small filled head; contour otherwise preserved."
+    },
+    {
+      "annotation_id": "A19",
+      "sample_id": "1835-Southern-2-invitation",
+      "shape": "oval",
+      "fill": "filled",
+      "severity": "moderate",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        473,
+        355,
+        497,
+        381
+      ],
+      "input_bbox_xyxy": [
+        318,
+        335,
+        342,
+        361
+      ],
+      "source_rationale": "Small irregular white body void and lower-left nick; contour otherwise retained."
+    },
+    {
+      "annotation_id": "A20",
+      "sample_id": "1835-Southern-1-liverpool",
+      "shape": "oval",
+      "fill": "uncertain",
+      "severity": "uncertain",
+      "status": "ambiguous",
+      "source_bbox_xyxy": [
+        728,
+        570,
+        758,
+        600
+      ],
+      "input_bbox_xyxy": [
+        678,
+        100,
+        708,
+        130
+      ],
+      "source_rationale": "Outer body/rim damage suspected by main; independent reviewer cannot distinguish unusual counter/fill. Excluded from primary damage counts."
+    },
+    {
+      "annotation_id": "A21",
+      "sample_id": "1835-Southern-1-liverpool",
+      "shape": "diamond",
+      "fill": "filled",
+      "severity": "uncertain",
+      "status": "ambiguous",
+      "source_bbox_xyxy": [
+        625,
+        900,
+        655,
+        930
+      ],
+      "input_bbox_xyxy": [
+        575,
+        430,
+        605,
+        460
+      ],
+      "source_rationale": "Definite missing lower-left body; main calls moderate while independent reviewer calls severe. Excluded from primary severity counts."
+    },
+    {
+      "annotation_id": "A22",
+      "sample_id": "1835-Southern-1-liverpool",
+      "shape": "diamond",
+      "fill": "uncertain",
+      "severity": "uncertain",
+      "status": "ambiguous",
+      "source_bbox_xyxy": [
+        1629,
+        576,
+        1659,
+        606
+      ],
+      "input_bbox_xyxy": [
+        1579,
+        106,
+        1609,
+        136
+      ],
+      "source_rationale": "Pointed contour suggests diamond to main; reviewer calls oval and normal hollow counter. Identity/fill uncertain."
+    },
+    {
+      "annotation_id": "A23",
+      "sample_id": "1835-Southern-12-salem",
+      "shape": "oval",
+      "fill": "hollow",
+      "severity": "uncertain",
+      "status": "ambiguous",
+      "source_bbox_xyxy": [
+        1009,
+        176,
+        1045,
+        204
+      ],
+      "input_bbox_xyxy": [
+        874,
+        138,
+        910,
+        166
+      ],
+      "source_rationale": "Definite upper-rim gap; main calls severe and independent reviewer moderate. Excluded from primary severity counts."
+    },
+    {
+      "annotation_id": "A24",
+      "sample_id": "1835-Southern-13-dublin",
+      "shape": "triangle",
+      "fill": "hollow",
+      "severity": "uncertain",
+      "status": "ambiguous",
+      "source_bbox_xyxy": [
+        1203,
+        550,
+        1233,
+        580
+      ],
+      "input_bbox_xyxy": [
+        1128,
+        535,
+        1158,
+        565
+      ],
+      "source_rationale": "Possible largely missing left rim; attached contour and exact loss uncertain. No third severe triangle forced."
+    },
+    {
+      "annotation_id": "A25",
+      "sample_id": "1835-Southern-1-liverpool",
+      "shape": "oval",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        279,
+        571,
+        311,
+        597
+      ],
+      "input_bbox_xyxy": [
+        229,
+        101,
+        261,
+        127
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A26",
+      "sample_id": "1835-Southern-1-liverpool",
+      "shape": "oval",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        660,
+        572,
+        692,
+        598
+      ],
+      "input_bbox_xyxy": [
+        610,
+        102,
+        642,
+        128
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A27",
+      "sample_id": "1835-Southern-1-liverpool",
+      "shape": "square",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        479,
+        592,
+        505,
+        618
+      ],
+      "input_bbox_xyxy": [
+        429,
+        122,
+        455,
+        148
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A28",
+      "sample_id": "1835-Southern-1-liverpool",
+      "shape": "square",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        1034,
+        565,
+        1060,
+        591
+      ],
+      "input_bbox_xyxy": [
+        984,
+        95,
+        1010,
+        121
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A29",
+      "sample_id": "1835-Southern-1-liverpool",
+      "shape": "triangle",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        666,
+        896,
+        692,
+        922
+      ],
+      "input_bbox_xyxy": [
+        616,
+        426,
+        642,
+        452
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A30",
+      "sample_id": "1835-Southern-1-liverpool",
+      "shape": "triangle",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        749,
+        899,
+        775,
+        925
+      ],
+      "input_bbox_xyxy": [
+        699,
+        429,
+        725,
+        455
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A31",
+      "sample_id": "1835-Southern-1-liverpool",
+      "shape": "diamond",
+      "fill": "filled",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        908,
+        706,
+        934,
+        732
+      ],
+      "input_bbox_xyxy": [
+        858,
+        236,
+        884,
+        262
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A32",
+      "sample_id": "1835-Southern-2-invitation",
+      "shape": "triangle",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        412,
+        145,
+        438,
+        171
+      ],
+      "input_bbox_xyxy": [
+        257,
+        125,
+        283,
+        151
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A33",
+      "sample_id": "1835-Southern-2-invitation",
+      "shape": "triangle",
+      "fill": "filled",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        678,
+        148,
+        704,
+        174
+      ],
+      "input_bbox_xyxy": [
+        523,
+        128,
+        549,
+        154
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A34",
+      "sample_id": "1835-Southern-2-invitation",
+      "shape": "square",
+      "fill": "filled",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        463,
+        124,
+        489,
+        150
+      ],
+      "input_bbox_xyxy": [
+        308,
+        104,
+        334,
+        130
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A35",
+      "sample_id": "1835-Southern-2-invitation",
+      "shape": "square",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        573,
+        124,
+        599,
+        150
+      ],
+      "input_bbox_xyxy": [
+        418,
+        104,
+        444,
+        130
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A36",
+      "sample_id": "1835-Southern-2-invitation",
+      "shape": "oval",
+      "fill": "filled",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        506,
+        135,
+        532,
+        161
+      ],
+      "input_bbox_xyxy": [
+        351,
+        115,
+        377,
+        141
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A37",
+      "sample_id": "1835-Southern-2-invitation",
+      "shape": "oval",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        619,
+        136,
+        651,
+        162
+      ],
+      "input_bbox_xyxy": [
+        464,
+        116,
+        496,
+        142
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A38",
+      "sample_id": "1835-Southern-4-meditation",
+      "shape": "triangle",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        313,
+        153,
+        339,
+        179
+      ],
+      "input_bbox_xyxy": [
+        153,
+        113,
+        179,
+        139
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A39",
+      "sample_id": "1835-Southern-4-meditation",
+      "shape": "triangle",
+      "fill": "filled",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        618,
+        153,
+        644,
+        179
+      ],
+      "input_bbox_xyxy": [
+        458,
+        113,
+        484,
+        139
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A40",
+      "sample_id": "1835-Southern-4-meditation",
+      "shape": "square",
+      "fill": "filled",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        359,
+        171,
+        385,
+        197
+      ],
+      "input_bbox_xyxy": [
+        199,
+        131,
+        225,
+        157
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A41",
+      "sample_id": "1835-Southern-4-meditation",
+      "shape": "square",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        710,
+        131,
+        736,
+        157
+      ],
+      "input_bbox_xyxy": [
+        550,
+        91,
+        576,
+        117
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A42",
+      "sample_id": "1835-Southern-4-meditation",
+      "shape": "oval",
+      "fill": "filled",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        402,
+        182,
+        428,
+        208
+      ],
+      "input_bbox_xyxy": [
+        242,
+        142,
+        268,
+        168
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A43",
+      "sample_id": "1835-Southern-4-meditation",
+      "shape": "oval",
+      "fill": "filled",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        513,
+        184,
+        539,
+        210
+      ],
+      "input_bbox_xyxy": [
+        353,
+        144,
+        379,
+        170
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A44",
+      "sample_id": "1835-Southern-4-hanover",
+      "shape": "diamond",
+      "fill": "filled",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        514,
+        687,
+        540,
+        713
+      ],
+      "input_bbox_xyxy": [
+        359,
+        107,
+        385,
+        133
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A45",
+      "sample_id": "1835-Southern-4-hanover",
+      "shape": "diamond",
+      "fill": "filled",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        559,
+        687,
+        585,
+        713
+      ],
+      "input_bbox_xyxy": [
+        404,
+        107,
+        430,
+        133
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A46",
+      "sample_id": "1835-Southern-9-converted-thief",
+      "shape": "triangle",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        344,
+        138,
+        370,
+        164
+      ],
+      "input_bbox_xyxy": [
+        299,
+        103,
+        325,
+        129
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A47",
+      "sample_id": "1835-Southern-9-converted-thief",
+      "shape": "triangle",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        615,
+        139,
+        641,
+        165
+      ],
+      "input_bbox_xyxy": [
+        570,
+        104,
+        596,
+        130
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A48",
+      "sample_id": "1835-Southern-9-converted-thief",
+      "shape": "square",
+      "fill": "filled",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        482,
+        116,
+        508,
+        142
+      ],
+      "input_bbox_xyxy": [
+        437,
+        81,
+        463,
+        107
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A49",
+      "sample_id": "1835-Southern-9-converted-thief",
+      "shape": "square",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        784,
+        122,
+        810,
+        148
+      ],
+      "input_bbox_xyxy": [
+        739,
+        87,
+        765,
+        113
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A50",
+      "sample_id": "1835-Southern-9-converted-thief",
+      "shape": "oval",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        431,
+        127,
+        463,
+        153
+      ],
+      "input_bbox_xyxy": [
+        386,
+        92,
+        418,
+        118
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A51",
+      "sample_id": "1835-Southern-9-converted-thief",
+      "shape": "oval",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        544,
+        171,
+        576,
+        197
+      ],
+      "input_bbox_xyxy": [
+        499,
+        136,
+        531,
+        162
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A52",
+      "sample_id": "1835-Southern-12-salem",
+      "shape": "oval",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        622,
+        139,
+        654,
+        165
+      ],
+      "input_bbox_xyxy": [
+        487,
+        101,
+        519,
+        127
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A53",
+      "sample_id": "1835-Southern-12-salem",
+      "shape": "oval",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        1227,
+        144,
+        1259,
+        170
+      ],
+      "input_bbox_xyxy": [
+        1092,
+        106,
+        1124,
+        132
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A54",
+      "sample_id": "1835-Southern-12-salem",
+      "shape": "diamond",
+      "fill": "filled",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        794,
+        119,
+        820,
+        145
+      ],
+      "input_bbox_xyxy": [
+        659,
+        81,
+        685,
+        107
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A55",
+      "sample_id": "1835-Southern-13-dublin",
+      "shape": "square",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        272,
+        137,
+        298,
+        163
+      ],
+      "input_bbox_xyxy": [
+        197,
+        122,
+        223,
+        148
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A56",
+      "sample_id": "1835-Southern-13-dublin",
+      "shape": "square",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        448,
+        96,
+        474,
+        122
+      ],
+      "input_bbox_xyxy": [
+        373,
+        81,
+        399,
+        107
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A57",
+      "sample_id": "1835-Southern-13-dublin",
+      "shape": "oval",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        377,
+        105,
+        409,
+        131
+      ],
+      "input_bbox_xyxy": [
+        302,
+        90,
+        334,
+        116
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A58",
+      "sample_id": "1835-Southern-13-dublin",
+      "shape": "oval",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        481,
+        107,
+        513,
+        133
+      ],
+      "input_bbox_xyxy": [
+        406,
+        92,
+        438,
+        118
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A59",
+      "sample_id": "1835-Southern-13-dublin",
+      "shape": "triangle",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        582,
+        121,
+        608,
+        147
+      ],
+      "input_bbox_xyxy": [
+        507,
+        106,
+        533,
+        132
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A60",
+      "sample_id": "1835-Southern-13-dublin",
+      "shape": "triangle",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        934,
+        122,
+        960,
+        148
+      ],
+      "input_bbox_xyxy": [
+        859,
+        107,
+        885,
+        133
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A61",
+      "sample_id": "1835-Southern-13-dublin",
+      "shape": "diamond",
+      "fill": "filled",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        1878,
+        135,
+        1904,
+        161
+      ],
+      "input_bbox_xyxy": [
+        1803,
+        120,
+        1829,
+        146
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    },
+    {
+      "annotation_id": "A62",
+      "sample_id": "1835-Southern-13-dublin",
+      "shape": "diamond",
+      "fill": "hollow",
+      "severity": "intact",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        1951,
+        423,
+        1977,
+        449
+      ],
+      "input_bbox_xyxy": [
+        1876,
+        408,
+        1902,
+        434
+      ],
+      "source_rationale": "Visually continuous contour/solid body; normal hollow center and staff crossings excluded from damage."
+    }
+  ],
+  "source_coverage": {
+    "1850_native_ordinals": [
+      70,
+      369
+    ],
+    "1850_qualifying_heads": 0,
+    "1835_native_ordinals": [
+      35,
+      114
+    ],
+    "1835_available_pages": 80,
+    "1835_missing_printed_pages": [
+      31,
+      32
+    ],
+    "1884_excluded": "Seven-shape notation in preface"
+  },
+  "selection_deviation": "Full finite page pools were screened, but exact first-three eligible-head ordering across every page cannot be certified from full-page screening. Locked cohort uses earliest enlarged/adjudicated candidates, capped at three per shape/severity. Severe oval and triangle have only two confirmed cases each; ambiguous candidates retained, not replaced to fill quotas. No outputs were viewed. Moderate diamond cohort is empty. Intact-control shortfalls remain explicit; controls are source examples, not independently measured ink reconstructions.",
+  "quota_shortfalls": {
+    "severe": {
+      "oval": 1,
+      "triangle": 1
+    },
+    "moderate": {
+      "diamond": 3
+    }
+  },
+  "control_shortfalls": {
+    "35": {
+      "diamond": 1
+    },
+    "36": {
+      "diamond": 2
+    },
+    "38": {},
+    "43": {
+      "diamond": 2
+    },
+    "46": {
+      "triangle": 2,
+      "square": 2,
+      "diamond": 1
+    },
+    "47": {}
+  }
+}

@@ -1,0 +1,2016 @@
+{
+  "schema_version": 2,
+  "scope": "26 matched tunes per book, 52 reviewed source crops across printed pages 27–470; non-random portability sample, not a book-wide accuracy estimate.",
+  "selection": "Retain all seven pilot tunes per book. Review both books at preselected printed pages 48,64,82,100,122,146,170,202,222,270,302,326,354,370,402,430,450,470; include every complete matched tune on these pages. Page430 is prose; include only complete Happy Land on354, excluding the preceding Red Sea Anthem continuation. Retain key/clef/repeat differences and every inference outcome.",
+  "variants": [
+    "default",
+    "clean_layout"
+  ],
+  "samples": [
+    {
+      "id": "1911-Sacred-EMU-27-bethel",
+      "book": "1911-Sacred-EMU",
+      "title": "Bethel",
+      "printed_page": "27",
+      "scan": "0033",
+      "source": "sources/1911-Sacred-EMU-0033.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0033.tiff/full/full/0/default.jpg",
+      "crop": [
+        170,
+        1043,
+        3371,
+        2182
+      ],
+      "input": "inputs/1911-Sacred-EMU-27-bethel.png",
+      "reference": "reference/27t BETHEL.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/27t BETHEL.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": -3,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, staves, key and meter before inference. Crop in full-resolution source pixels.",
+      "edition_note": "Source has three flats; 2025 XML has four flats. Written-pitch scores retain this edition key difference.",
+      "cohort": "pilot"
+    },
+    {
+      "id": "1911-Sacred-EMU-28t-aylesbury",
+      "book": "1911-Sacred-EMU",
+      "title": "Aylesbury",
+      "printed_page": "28t",
+      "scan": "0034",
+      "source": "sources/1911-Sacred-EMU-0034.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0034.tiff/full/full/0/default.jpg",
+      "crop": [
+        503,
+        252,
+        3689,
+        1258
+      ],
+      "input": "inputs/1911-Sacred-EMU-28t-aylesbury.png",
+      "reference": "reference/28t AYLESBURY.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/28t AYLESBURY.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "source_key_fifths": 0,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, staves, key and meter before inference. Crop in full-resolution source pixels.",
+      "edition_note": "No manual pitch, octave, duration, repeat or arrangement correction.",
+      "cohort": "pilot"
+    },
+    {
+      "id": "1911-Sacred-EMU-28b-wells",
+      "book": "1911-Sacred-EMU",
+      "title": "Wells",
+      "printed_page": "28b",
+      "scan": "0034",
+      "source": "sources/1911-Sacred-EMU-0034.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0034.tiff/full/full/0/default.jpg",
+      "crop": [
+        503,
+        1282,
+        3689,
+        2276
+      ],
+      "input": "inputs/1911-Sacred-EMU-28b-wells.png",
+      "reference": "reference/28b WELLS.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/28b WELLS.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "source_key_fifths": 1,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, staves, key and meter before inference. Crop in full-resolution source pixels.",
+      "edition_note": "No manual pitch, octave, duration, repeat or arrangement correction.",
+      "cohort": "pilot"
+    },
+    {
+      "id": "1911-Sacred-EMU-30t-rochester",
+      "book": "1911-Sacred-EMU",
+      "title": "Rochester",
+      "printed_page": "30t",
+      "scan": "0036",
+      "source": "sources/1911-Sacred-EMU-0036.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0036.tiff/full/full/0/default.jpg",
+      "crop": [
+        519,
+        241,
+        3656,
+        1255
+      ],
+      "input": "inputs/1911-Sacred-EMU-30t-rochester.png",
+      "reference": "reference/27b ROCHESTER.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/27b ROCHESTER.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "source_key_fifths": 3,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, staves, key and meter before inference. Crop in full-resolution source pixels.",
+      "edition_note": "No manual pitch, octave, duration, repeat or arrangement correction.",
+      "cohort": "pilot"
+    },
+    {
+      "id": "1911-Sacred-EMU-30b-prospect",
+      "book": "1911-Sacred-EMU",
+      "title": "Prospect",
+      "printed_page": "30b",
+      "scan": "0036",
+      "source": "sources/1911-Sacred-EMU-0036.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0036.tiff/full/full/0/default.jpg",
+      "crop": [
+        519,
+        1279,
+        3656,
+        2268
+      ],
+      "input": "inputs/1911-Sacred-EMU-30b-prospect.png",
+      "reference": "reference/30b PROSPECT.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/30b PROSPECT.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": 0,
+      "source_meter": "3/4",
+      "review": "Visually reviewed complete song, printed title, staves, key and meter before inference. Crop in full-resolution source pixels.",
+      "edition_note": "No manual pitch, octave, duration, repeat or arrangement correction.",
+      "cohort": "pilot"
+    },
+    {
+      "id": "1911-Sacred-EMU-45t-new-britain",
+      "book": "1911-Sacred-EMU",
+      "title": "New Britain",
+      "printed_page": "45t",
+      "scan": "0051",
+      "source": "sources/1911-Sacred-EMU-0051.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0051.tiff/full/full/0/default.jpg",
+      "crop": [
+        183,
+        243,
+        3407,
+        1363
+      ],
+      "input": "inputs/1911-Sacred-EMU-45t-new-britain.png",
+      "reference": "reference/45t NEW BRITAIN.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/45t NEW BRITAIN.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": 0,
+      "source_meter": "3/4",
+      "review": "Visually reviewed complete song, printed title, staves, key and meter before inference. Crop in full-resolution source pixels.",
+      "edition_note": "No manual pitch, octave, duration, repeat or arrangement correction.",
+      "cohort": "pilot"
+    },
+    {
+      "id": "1911-Sacred-EMU-45b-supplication",
+      "book": "1911-Sacred-EMU",
+      "title": "Supplication",
+      "printed_page": "45b",
+      "scan": "0051",
+      "source": "sources/1911-Sacred-EMU-0051.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0051.tiff/full/full/0/default.jpg",
+      "crop": [
+        170,
+        1412,
+        3383,
+        2263
+      ],
+      "input": "inputs/1911-Sacred-EMU-45b-supplication.png",
+      "reference": "reference/497b SUPPLICATION.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/497b SUPPLICATION.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": 0,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, staves, key and meter before inference. Crop in full-resolution source pixels.",
+      "edition_note": "No manual pitch, octave, duration, repeat or arrangement correction.",
+      "cohort": "pilot"
+    },
+    {
+      "id": "1870-Sacred-MTS-27-bethel",
+      "book": "1870-Sacred-MTS",
+      "title": "Bethel",
+      "printed_page": "27",
+      "scan": "0032",
+      "source": "sources/1870-Sacred-MTS-0032.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0032.tiff/full/full/0/default.jpg",
+      "crop": [
+        258,
+        963,
+        3382,
+        2061
+      ],
+      "input": "inputs/1870-Sacred-MTS-27-bethel.png",
+      "reference": "reference/27t BETHEL.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/27t BETHEL.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": -3,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, staves, key and meter before inference. Crop in full-resolution source pixels.",
+      "edition_note": "Source has three flats; 2025 XML has four flats. Written-pitch scores retain this edition key difference.",
+      "cohort": "pilot"
+    },
+    {
+      "id": "1870-Sacred-MTS-28t-aylesbury",
+      "book": "1870-Sacred-MTS",
+      "title": "Aylesbury",
+      "printed_page": "28t",
+      "scan": "0033",
+      "source": "sources/1870-Sacred-MTS-0033.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0033.tiff/full/full/0/default.jpg",
+      "crop": [
+        214,
+        169,
+        3402,
+        1149
+      ],
+      "input": "inputs/1870-Sacred-MTS-28t-aylesbury.png",
+      "reference": "reference/28t AYLESBURY.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/28t AYLESBURY.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "source_key_fifths": 0,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, staves, key and meter before inference. Crop in full-resolution source pixels.",
+      "edition_note": "No manual pitch, octave, duration, repeat or arrangement correction.",
+      "cohort": "pilot"
+    },
+    {
+      "id": "1870-Sacred-MTS-28b-wells",
+      "book": "1870-Sacred-MTS",
+      "title": "Wells",
+      "printed_page": "28b",
+      "scan": "0033",
+      "source": "sources/1870-Sacred-MTS-0033.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0033.tiff/full/full/0/default.jpg",
+      "crop": [
+        203,
+        1183,
+        3402,
+        2174
+      ],
+      "input": "inputs/1870-Sacred-MTS-28b-wells.png",
+      "reference": "reference/28b WELLS.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/28b WELLS.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "source_key_fifths": 1,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, staves, key and meter before inference. Crop in full-resolution source pixels.",
+      "edition_note": "No manual pitch, octave, duration, repeat or arrangement correction.",
+      "cohort": "pilot"
+    },
+    {
+      "id": "1870-Sacred-MTS-30t-rochester",
+      "book": "1870-Sacred-MTS",
+      "title": "Rochester",
+      "printed_page": "30t",
+      "scan": "0035",
+      "source": "sources/1870-Sacred-MTS-0035.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0035.tiff/full/full/0/default.jpg",
+      "crop": [
+        169,
+        157,
+        3352,
+        1181
+      ],
+      "input": "inputs/1870-Sacred-MTS-30t-rochester.png",
+      "reference": "reference/27b ROCHESTER.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/27b ROCHESTER.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "source_key_fifths": 3,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, staves, key and meter before inference. Crop in full-resolution source pixels.",
+      "edition_note": "No manual pitch, octave, duration, repeat or arrangement correction.",
+      "cohort": "pilot"
+    },
+    {
+      "id": "1870-Sacred-MTS-30b-prospect",
+      "book": "1870-Sacred-MTS",
+      "title": "Prospect",
+      "printed_page": "30b",
+      "scan": "0035",
+      "source": "sources/1870-Sacred-MTS-0035.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0035.tiff/full/full/0/default.jpg",
+      "crop": [
+        169,
+        1260,
+        3352,
+        2193
+      ],
+      "input": "inputs/1870-Sacred-MTS-30b-prospect.png",
+      "reference": "reference/30b PROSPECT.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/30b PROSPECT.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": 0,
+      "source_meter": "3/4",
+      "review": "Visually reviewed complete song, printed title, staves, key and meter before inference. Crop in full-resolution source pixels.",
+      "edition_note": "No manual pitch, octave, duration, repeat or arrangement correction.",
+      "cohort": "pilot"
+    },
+    {
+      "id": "1870-Sacred-MTS-45t-new-britain",
+      "book": "1870-Sacred-MTS",
+      "title": "New Britain",
+      "printed_page": "45t",
+      "scan": "0050",
+      "source": "sources/1870-Sacred-MTS-0050.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0050.tiff/full/full/0/default.jpg",
+      "crop": [
+        202,
+        101,
+        3395,
+        1210
+      ],
+      "input": "inputs/1870-Sacred-MTS-45t-new-britain.png",
+      "reference": "reference/45t NEW BRITAIN.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/45t NEW BRITAIN.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": 0,
+      "source_meter": "3/4",
+      "review": "Visually reviewed complete song, printed title, staves, key and meter before inference. Crop in full-resolution source pixels.",
+      "edition_note": "No manual pitch, octave, duration, repeat or arrangement correction.",
+      "cohort": "pilot"
+    },
+    {
+      "id": "1870-Sacred-MTS-45b-supplication",
+      "book": "1870-Sacred-MTS",
+      "title": "Supplication",
+      "printed_page": "45b",
+      "scan": "0050",
+      "source": "sources/1870-Sacred-MTS-0050.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0050.tiff/full/full/0/default.jpg",
+      "crop": [
+        202,
+        1255,
+        3395,
+        2107
+      ],
+      "input": "inputs/1870-Sacred-MTS-45b-supplication.png",
+      "reference": "reference/497b SUPPLICATION.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/497b SUPPLICATION.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": 0,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, staves, key and meter before inference. Crop in full-resolution source pixels.",
+      "edition_note": "No manual pitch, octave, duration, repeat or arrangement correction.",
+      "cohort": "pilot"
+    },
+    {
+      "id": "1911-Sacred-EMU-48t-devotion",
+      "book": "1911-Sacred-EMU",
+      "title": "Devotion",
+      "printed_page": "48t",
+      "scan": "0054",
+      "cohort": "added",
+      "source": "sources/1911-Sacred-EMU-0054.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0054.tiff/full/full/0/default.jpg",
+      "crop": [
+        496,
+        266,
+        3713,
+        1234
+      ],
+      "input": "inputs/1911-Sacred-EMU-48t-devotion.png",
+      "reference": "reference/48t DEVOTION.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/48t DEVOTION.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": 0,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored.",
+      "reference_match_note": "Opening Sweet is the day of sacred rest and printed setting match existing 48t DEVOTION reference; modern 50t is an alternate setting. Visually checked source treble incipit C5 E5 E5 D5 B4 C5 A4 G4 agrees with48t, whereas50t differs after fourth note."
+    },
+    {
+      "id": "1911-Sacred-EMU-48b-kedron",
+      "book": "1911-Sacred-EMU",
+      "title": "Kedron",
+      "printed_page": "48b",
+      "scan": "0054",
+      "cohort": "added",
+      "source": "sources/1911-Sacred-EMU-0054.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0054.tiff/full/full/0/default.jpg",
+      "crop": [
+        484,
+        1306,
+        3713,
+        2249
+      ],
+      "input": "inputs/1911-Sacred-EMU-48b-kedron.png",
+      "reference": "reference/48b KEDRON.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/48b KEDRON.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": 1,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1911-Sacred-EMU-64-nashville",
+      "book": "1911-Sacred-EMU",
+      "title": "Nashville",
+      "printed_page": "64",
+      "scan": "0070",
+      "cohort": "added",
+      "source": "sources/1911-Sacred-EMU-0070.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0070.tiff/full/full/0/default.jpg",
+      "crop": [
+        477,
+        263,
+        3676,
+        2291
+      ],
+      "input": "inputs/1911-Sacred-EMU-64-nashville.png",
+      "reference": "reference/64 NASHVILLE.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/64 NASHVILLE.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": 3,
+      "source_meter": "6/8",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1911-Sacred-EMU-82t-bound-for-canaan",
+      "book": "1911-Sacred-EMU",
+      "title": "Bound for Canaan",
+      "printed_page": "82t",
+      "scan": "0088",
+      "cohort": "added",
+      "source": "sources/1911-Sacred-EMU-0088.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0088.tiff/full/full/0/default.jpg",
+      "crop": [
+        528,
+        252,
+        3711,
+        1237
+      ],
+      "input": "inputs/1911-Sacred-EMU-82t-bound-for-canaan.png",
+      "reference": "reference/82t BOUND FOR CANAAN.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/82t BOUND FOR CANAAN.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": -2,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1911-Sacred-EMU-82b-edgefield",
+      "book": "1911-Sacred-EMU",
+      "title": "Edgefield",
+      "printed_page": "82b",
+      "scan": "0088",
+      "cohort": "added",
+      "source": "sources/1911-Sacred-EMU-0088.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0088.tiff/full/full/0/default.jpg",
+      "crop": [
+        528,
+        1321,
+        3711,
+        2258
+      ],
+      "input": "inputs/1911-Sacred-EMU-82b-edgefield.png",
+      "reference": "reference/82b EDGEFIELD.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/82b EDGEFIELD.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": 3,
+      "source_meter": "6/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1911-Sacred-EMU-100-the-bower-of-prayer",
+      "book": "1911-Sacred-EMU",
+      "title": "The Bower of Prayer",
+      "printed_page": "100",
+      "scan": "0106",
+      "cohort": "added",
+      "source": "sources/1911-Sacred-EMU-0106.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0106.tiff/full/full/0/default.jpg",
+      "crop": [
+        515,
+        264,
+        3701,
+        2252
+      ],
+      "input": "inputs/1911-Sacred-EMU-100-the-bower-of-prayer.png",
+      "reference": "reference/100 THE BOWER OF PRAYER.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/100 THE BOWER OF PRAYER.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": 3,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1911-Sacred-EMU-122-all-is-well",
+      "book": "1911-Sacred-EMU",
+      "title": "All Is Well",
+      "printed_page": "122",
+      "scan": "0128",
+      "cohort": "added",
+      "source": "sources/1911-Sacred-EMU-0128.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0128.tiff/full/full/0/default.jpg",
+      "crop": [
+        477,
+        239,
+        3688,
+        2244
+      ],
+      "input": "inputs/1911-Sacred-EMU-122-all-is-well.png",
+      "reference": "reference/122 ALL IS WELL.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/122 ALL IS WELL.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": 3,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1911-Sacred-EMU-146-hallelujah",
+      "book": "1911-Sacred-EMU",
+      "title": "Hallelujah",
+      "printed_page": "146",
+      "scan": "0152",
+      "cohort": "added",
+      "source": "sources/1911-Sacred-EMU-0152.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0152.tiff/full/full/0/default.jpg",
+      "crop": [
+        528,
+        240,
+        3706,
+        2279
+      ],
+      "input": "inputs/1911-Sacred-EMU-146-hallelujah.png",
+      "reference": "reference/146 HALLELUJAH.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/146 HALLELUJAH.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": -2,
+      "source_meter": "6/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "Historical source has two flats; 2025 XML has four flats. No key normalization applied."
+    },
+    {
+      "id": "1911-Sacred-EMU-170-exhilaration",
+      "book": "1911-Sacred-EMU",
+      "title": "Exhilaration",
+      "printed_page": "170",
+      "scan": "0176",
+      "cohort": "added",
+      "source": "sources/1911-Sacred-EMU-0176.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0176.tiff/full/full/0/default.jpg",
+      "crop": [
+        525,
+        286,
+        3700,
+        2303
+      ],
+      "input": "inputs/1911-Sacred-EMU-170-exhilaration.png",
+      "reference": "reference/170 EXHILARATION.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/170 EXHILARATION.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": -1,
+      "source_meter": "2/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1911-Sacred-EMU-202-new-lebanon",
+      "book": "1911-Sacred-EMU",
+      "title": "New Lebanon",
+      "printed_page": "202",
+      "scan": "0208",
+      "cohort": "added",
+      "source": "sources/1911-Sacred-EMU-0208.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0208.tiff/full/full/0/default.jpg",
+      "crop": [
+        488,
+        238,
+        3675,
+        2319
+      ],
+      "input": "inputs/1911-Sacred-EMU-202-new-lebanon.png",
+      "reference": "reference/202 NEW LEBANON.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/202 NEW LEBANON.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "source_key_fifths": -3,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1911-Sacred-EMU-222-ocean",
+      "book": "1911-Sacred-EMU",
+      "title": "Ocean",
+      "printed_page": "222",
+      "scan": "0228",
+      "cohort": "added",
+      "source": "sources/1911-Sacred-EMU-0228.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0228.tiff/full/full/0/default.jpg",
+      "crop": [
+        348,
+        216,
+        3783,
+        2378
+      ],
+      "input": "inputs/1911-Sacred-EMU-222-ocean.png",
+      "reference": "reference/222 OCEAN.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/222 OCEAN.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "source_key_fifths": -1,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1911-Sacred-EMU-270-confidence",
+      "book": "1911-Sacred-EMU",
+      "title": "Confidence",
+      "printed_page": "270",
+      "scan": "0276",
+      "cohort": "added",
+      "source": "sources/1911-Sacred-EMU-0276.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0276.tiff/full/full/0/default.jpg",
+      "crop": [
+        483,
+        278,
+        3709,
+        2332
+      ],
+      "input": "inputs/1911-Sacred-EMU-270-confidence.png",
+      "reference": "reference/270 CONFIDENCE.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/270 CONFIDENCE.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": 3,
+      "source_meter": "2/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1911-Sacred-EMU-302-greenland",
+      "book": "1911-Sacred-EMU",
+      "title": "Greenland",
+      "printed_page": "302",
+      "scan": "0308",
+      "cohort": "added",
+      "source": "sources/1911-Sacred-EMU-0308.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0308.tiff/full/full/0/default.jpg",
+      "crop": [
+        494,
+        265,
+        3712,
+        2326
+      ],
+      "input": "inputs/1911-Sacred-EMU-302-greenland.png",
+      "reference": "reference/301 GREENLAND.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/301 GREENLAND.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": -1,
+      "source_meter": "2/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored.",
+      "source_meter_changes": [
+        "2/4",
+        "6/8",
+        "3/4"
+      ],
+      "reference_match_note": "Historical page 302 matches 2025 file 301 by W.F. Moore and opening text With songs and honors sounding loud."
+    },
+    {
+      "id": "1911-Sacred-EMU-326-weary-pilgrim",
+      "book": "1911-Sacred-EMU",
+      "title": "Weary Pilgrim",
+      "printed_page": "326",
+      "scan": "0332",
+      "cohort": "added",
+      "source": "sources/1911-Sacred-EMU-0332.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0332.tiff/full/full/0/default.jpg",
+      "crop": [
+        497,
+        279,
+        3722,
+        2340
+      ],
+      "input": "inputs/1911-Sacred-EMU-326-weary-pilgrim.png",
+      "reference": "reference/326 WEARY PILGRIM.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/326 WEARY PILGRIM.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": 1,
+      "source_meter": "6/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1911-Sacred-EMU-354b-happy-land",
+      "book": "1911-Sacred-EMU",
+      "title": "Happy Land",
+      "printed_page": "354b",
+      "scan": "0360",
+      "cohort": "added",
+      "source": "sources/1911-Sacred-EMU-0360.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0360.tiff/full/full/0/default.jpg",
+      "crop": [
+        556,
+        1184,
+        3733,
+        2247
+      ],
+      "input": "inputs/1911-Sacred-EMU-354b-happy-land.png",
+      "reference": "reference/354b HAPPY LAND.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/354b HAPPY LAND.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": -1,
+      "source_meter": "2/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1911-Sacred-EMU-370-monroe",
+      "book": "1911-Sacred-EMU",
+      "title": "Monroe",
+      "printed_page": "370",
+      "scan": "0376",
+      "cohort": "added",
+      "source": "sources/1911-Sacred-EMU-0376.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0376.tiff/full/full/0/default.jpg",
+      "crop": [
+        531,
+        241,
+        3728,
+        2220
+      ],
+      "input": "inputs/1911-Sacred-EMU-370-monroe.png",
+      "reference": "reference/370 MONROE.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/370 MONROE.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": 0,
+      "source_meter": "6/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1911-Sacred-EMU-402-protection",
+      "book": "1911-Sacred-EMU",
+      "title": "Protection",
+      "printed_page": "402",
+      "scan": "0408",
+      "cohort": "added",
+      "source": "sources/1911-Sacred-EMU-0408.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0408.tiff/full/full/0/default.jpg",
+      "crop": [
+        594,
+        218,
+        3771,
+        2328
+      ],
+      "input": "inputs/1911-Sacred-EMU-402-protection.png",
+      "reference": "reference/402 PROTECTION.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/402 PROTECTION.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "source_key_fifths": -3,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored.",
+      "reference_match_note": "Second Protection, C.F. Letson, The Lord my pasture shall prepare; distinct from first Protection at modern page 187."
+    },
+    {
+      "id": "1911-Sacred-EMU-450-elder",
+      "book": "1911-Sacred-EMU",
+      "title": "Elder",
+      "printed_page": "450",
+      "scan": "0456",
+      "cohort": "added",
+      "source": "sources/1911-Sacred-EMU-0456.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0456.tiff/full/full/0/default.jpg",
+      "crop": [
+        505,
+        264,
+        3703,
+        2320
+      ],
+      "input": "inputs/1911-Sacred-EMU-450-elder.png",
+      "reference": "reference/450 ELDER.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/450 ELDER.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "source_key_fifths": 4,
+      "source_meter": "6/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored.",
+      "source_clef_note": "Second (counter/alto) part uses bass clef. Preserve written pitches and physical vocal order."
+    },
+    {
+      "id": "1911-Sacred-EMU-470-sardis",
+      "book": "1911-Sacred-EMU",
+      "title": "Sardis",
+      "printed_page": "470",
+      "scan": "0476",
+      "cohort": "added",
+      "source": "sources/1911-Sacred-EMU-0476.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1911-Sacred-EMU-0476.tiff/full/full/0/default.jpg",
+      "crop": [
+        567,
+        229,
+        3728,
+        2305
+      ],
+      "input": "inputs/1911-Sacred-EMU-470-sardis.png",
+      "reference": "reference/460 SARDIS.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/460 SARDIS.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "source_key_fifths": 1,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored.",
+      "reference_match_note": "Historical page 470 matches 2025 file 460: Sarah Lancaster, Come on my fellow pilgrims come. Printed composer is Sarah Lancaster; XML metadata says Sarah Lawrence. Pairing rests on matching title, text and musical incipit; metadata discrepancy retained."
+    },
+    {
+      "id": "1870-Sacred-MTS-48t-devotion",
+      "book": "1870-Sacred-MTS",
+      "title": "Devotion",
+      "printed_page": "48t",
+      "scan": "0053",
+      "cohort": "added",
+      "source": "sources/1870-Sacred-MTS-0053.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0053.tiff/full/full/0/default.jpg",
+      "crop": [
+        201,
+        123,
+        3378,
+        1085
+      ],
+      "input": "inputs/1870-Sacred-MTS-48t-devotion.png",
+      "reference": "reference/48t DEVOTION.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/48t DEVOTION.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": 0,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored.",
+      "reference_match_note": "Opening Sweet is the day of sacred rest and printed setting match existing 48t DEVOTION reference; modern 50t is an alternate setting. Visually checked source treble incipit C5 E5 E5 D5 B4 C5 A4 G4 agrees with48t, whereas50t differs after fourth note."
+    },
+    {
+      "id": "1870-Sacred-MTS-48b-kedron",
+      "book": "1870-Sacred-MTS",
+      "title": "Kedron",
+      "printed_page": "48b",
+      "scan": "0053",
+      "cohort": "added",
+      "source": "sources/1870-Sacred-MTS-0053.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0053.tiff/full/full/0/default.jpg",
+      "crop": [
+        201,
+        1174,
+        3378,
+        2091
+      ],
+      "input": "inputs/1870-Sacred-MTS-48b-kedron.png",
+      "reference": "reference/48b KEDRON.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/48b KEDRON.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": 1,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1870-Sacred-MTS-64-nashville",
+      "book": "1870-Sacred-MTS",
+      "title": "Nashville",
+      "printed_page": "64",
+      "scan": "0069",
+      "cohort": "added",
+      "source": "sources/1870-Sacred-MTS-0069.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0069.tiff/full/full/0/default.jpg",
+      "crop": [
+        214,
+        226,
+        3429,
+        2211
+      ],
+      "input": "inputs/1870-Sacred-MTS-64-nashville.png",
+      "reference": "reference/64 NASHVILLE.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/64 NASHVILLE.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": 3,
+      "source_meter": "6/8",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1870-Sacred-MTS-82t-bound-for-canaan",
+      "book": "1870-Sacred-MTS",
+      "title": "Bound for Canaan",
+      "printed_page": "82t",
+      "scan": "0087",
+      "cohort": "added",
+      "source": "sources/1870-Sacred-MTS-0087.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0087.tiff/full/full/0/default.jpg",
+      "crop": [
+        112,
+        134,
+        3286,
+        1140
+      ],
+      "input": "inputs/1870-Sacred-MTS-82t-bound-for-canaan.png",
+      "reference": "reference/82t BOUND FOR CANAAN.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/82t BOUND FOR CANAAN.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": -2,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1870-Sacred-MTS-82b-edgefield",
+      "book": "1870-Sacred-MTS",
+      "title": "Edgefield",
+      "printed_page": "82b",
+      "scan": "0087",
+      "cohort": "added",
+      "source": "sources/1870-Sacred-MTS-0087.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0087.tiff/full/full/0/default.jpg",
+      "crop": [
+        112,
+        1230,
+        3286,
+        2169
+      ],
+      "input": "inputs/1870-Sacred-MTS-82b-edgefield.png",
+      "reference": "reference/82b EDGEFIELD.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/82b EDGEFIELD.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": 3,
+      "source_meter": "6/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1870-Sacred-MTS-100-the-bower-of-prayer",
+      "book": "1870-Sacred-MTS",
+      "title": "The Bower of Prayer",
+      "printed_page": "100",
+      "scan": "0105",
+      "cohort": "added",
+      "source": "sources/1870-Sacred-MTS-0105.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0105.tiff/full/full/0/default.jpg",
+      "crop": [
+        201,
+        134,
+        3391,
+        2104
+      ],
+      "input": "inputs/1870-Sacred-MTS-100-the-bower-of-prayer.png",
+      "reference": "reference/100 THE BOWER OF PRAYER.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/100 THE BOWER OF PRAYER.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": 3,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1870-Sacred-MTS-122-all-is-well",
+      "book": "1870-Sacred-MTS",
+      "title": "All Is Well",
+      "printed_page": "122",
+      "scan": "0127",
+      "cohort": "added",
+      "source": "sources/1870-Sacred-MTS-0127.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0127.tiff/full/full/0/default.jpg",
+      "crop": [
+        201,
+        212,
+        3405,
+        2210
+      ],
+      "input": "inputs/1870-Sacred-MTS-122-all-is-well.png",
+      "reference": "reference/122 ALL IS WELL.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/122 ALL IS WELL.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": 3,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1870-Sacred-MTS-146-hallelujah",
+      "book": "1870-Sacred-MTS",
+      "title": "Hallelujah",
+      "printed_page": "146",
+      "scan": "0151",
+      "cohort": "added",
+      "source": "sources/1870-Sacred-MTS-0151.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0151.tiff/full/full/0/default.jpg",
+      "crop": [
+        247,
+        135,
+        3436,
+        2156
+      ],
+      "input": "inputs/1870-Sacred-MTS-146-hallelujah.png",
+      "reference": "reference/146 HALLELUJAH.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/146 HALLELUJAH.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": -2,
+      "source_meter": "6/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "Historical source has two flats; 2025 XML has four flats. No key normalization applied."
+    },
+    {
+      "id": "1870-Sacred-MTS-170-exhilaration",
+      "book": "1870-Sacred-MTS",
+      "title": "Exhilaration",
+      "printed_page": "170",
+      "scan": "0175",
+      "cohort": "added",
+      "source": "sources/1870-Sacred-MTS-0175.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0175.tiff/full/full/0/default.jpg",
+      "crop": [
+        222,
+        155,
+        3409,
+        2121
+      ],
+      "input": "inputs/1870-Sacred-MTS-170-exhilaration.png",
+      "reference": "reference/170 EXHILARATION.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/170 EXHILARATION.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": -1,
+      "source_meter": "2/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1870-Sacred-MTS-202-new-lebanon",
+      "book": "1870-Sacred-MTS",
+      "title": "New Lebanon",
+      "printed_page": "202",
+      "scan": "0207",
+      "cohort": "added",
+      "source": "sources/1870-Sacred-MTS-0207.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0207.tiff/full/full/0/default.jpg",
+      "crop": [
+        213,
+        134,
+        3436,
+        2193
+      ],
+      "input": "inputs/1870-Sacred-MTS-202-new-lebanon.png",
+      "reference": "reference/202 NEW LEBANON.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/202 NEW LEBANON.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "source_key_fifths": -3,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1870-Sacred-MTS-222-ocean",
+      "book": "1870-Sacred-MTS",
+      "title": "Ocean",
+      "printed_page": "222",
+      "scan": "0227",
+      "cohort": "added",
+      "source": "sources/1870-Sacred-MTS-0227.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0227.tiff/full/full/0/default.jpg",
+      "crop": [
+        224,
+        134,
+        3428,
+        2196
+      ],
+      "input": "inputs/1870-Sacred-MTS-222-ocean.png",
+      "reference": "reference/222 OCEAN.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/222 OCEAN.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "source_key_fifths": -1,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1870-Sacred-MTS-270-confidence",
+      "book": "1870-Sacred-MTS",
+      "title": "Confidence",
+      "printed_page": "270",
+      "scan": "0275",
+      "cohort": "added",
+      "source": "sources/1870-Sacred-MTS-0275.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0275.tiff/full/full/0/default.jpg",
+      "crop": [
+        210,
+        133,
+        3421,
+        2170
+      ],
+      "input": "inputs/1870-Sacred-MTS-270-confidence.png",
+      "reference": "reference/270 CONFIDENCE.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/270 CONFIDENCE.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": 3,
+      "source_meter": "2/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1870-Sacred-MTS-302-greenland",
+      "book": "1870-Sacred-MTS",
+      "title": "Greenland",
+      "printed_page": "302",
+      "scan": "0307",
+      "cohort": "added",
+      "source": "sources/1870-Sacred-MTS-0307.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0307.tiff/full/full/0/default.jpg",
+      "crop": [
+        222,
+        100,
+        3429,
+        2120
+      ],
+      "input": "inputs/1870-Sacred-MTS-302-greenland.png",
+      "reference": "reference/301 GREENLAND.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/301 GREENLAND.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": -1,
+      "source_meter": "2/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored.",
+      "source_meter_changes": [
+        "2/4",
+        "6/8",
+        "3/4"
+      ],
+      "reference_match_note": "Historical page 302 matches 2025 file 301 by W.F. Moore and opening text With songs and honors sounding loud."
+    },
+    {
+      "id": "1870-Sacred-MTS-326-weary-pilgrim",
+      "book": "1870-Sacred-MTS",
+      "title": "Weary Pilgrim",
+      "printed_page": "326",
+      "scan": "0331",
+      "cohort": "added",
+      "source": "sources/1870-Sacred-MTS-0331.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0331.tiff/full/full/0/default.jpg",
+      "crop": [
+        210,
+        155,
+        3405,
+        2200
+      ],
+      "input": "inputs/1870-Sacred-MTS-326-weary-pilgrim.png",
+      "reference": "reference/326 WEARY PILGRIM.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/326 WEARY PILGRIM.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": 1,
+      "source_meter": "6/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1870-Sacred-MTS-354b-happy-land",
+      "book": "1870-Sacred-MTS",
+      "title": "Happy Land",
+      "printed_page": "354b",
+      "scan": "0359",
+      "cohort": "added",
+      "source": "sources/1870-Sacred-MTS-0359.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0359.tiff/full/full/0/default.jpg",
+      "crop": [
+        244,
+        1133,
+        3433,
+        2189
+      ],
+      "input": "inputs/1870-Sacred-MTS-354b-happy-land.png",
+      "reference": "reference/354b HAPPY LAND.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/354b HAPPY LAND.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": -1,
+      "source_meter": "2/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1870-Sacred-MTS-370-monroe",
+      "book": "1870-Sacred-MTS",
+      "title": "Monroe",
+      "printed_page": "370",
+      "scan": "0375",
+      "cohort": "added",
+      "source": "sources/1870-Sacred-MTS-0375.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0375.tiff/full/full/0/default.jpg",
+      "crop": [
+        200,
+        144,
+        3397,
+        2142
+      ],
+      "input": "inputs/1870-Sacred-MTS-370-monroe.png",
+      "reference": "reference/370 MONROE.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/370 MONROE.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": 0,
+      "source_meter": "6/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored."
+    },
+    {
+      "id": "1870-Sacred-MTS-402-protection",
+      "book": "1870-Sacred-MTS",
+      "title": "Protection",
+      "printed_page": "402",
+      "scan": "0407",
+      "cohort": "added",
+      "source": "sources/1870-Sacred-MTS-0407.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0407.tiff/full/full/0/default.jpg",
+      "crop": [
+        235,
+        179,
+        3414,
+        2239
+      ],
+      "input": "inputs/1870-Sacred-MTS-402-protection.png",
+      "reference": "reference/402 PROTECTION.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/402 PROTECTION.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "source_key_fifths": -3,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored.",
+      "reference_match_note": "Second Protection, C.F. Letson, The Lord my pasture shall prepare; distinct from first Protection at modern page 187."
+    },
+    {
+      "id": "1870-Sacred-MTS-450-elder",
+      "book": "1870-Sacred-MTS",
+      "title": "Elder",
+      "printed_page": "450",
+      "scan": "0455",
+      "cohort": "added",
+      "source": "sources/1870-Sacred-MTS-0455.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0455.tiff/full/full/0/default.jpg",
+      "crop": [
+        280,
+        179,
+        3467,
+        2215
+      ],
+      "input": "inputs/1870-Sacred-MTS-450-elder.png",
+      "reference": "reference/450 ELDER.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/450 ELDER.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "source_key_fifths": 4,
+      "source_meter": "6/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored.",
+      "source_clef_note": "Second (counter/alto) part uses bass clef. Preserve written pitches and physical vocal order."
+    },
+    {
+      "id": "1870-Sacred-MTS-470-sardis",
+      "book": "1870-Sacred-MTS",
+      "title": "Sardis",
+      "printed_page": "470",
+      "scan": "0475",
+      "cohort": "added",
+      "source": "sources/1870-Sacred-MTS-0475.jpg",
+      "source_url": "https://iip.readux.io/iiif/2/1870-Sacred-MTS-0475.tiff/full/full/0/default.jpg",
+      "crop": [
+        190,
+        157,
+        3370,
+        2217
+      ],
+      "input": "inputs/1870-Sacred-MTS-470-sardis.png",
+      "reference": "reference/460 SARDIS.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/460 SARDIS.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "source_key_fifths": 1,
+      "source_meter": "4/4",
+      "review": "Visually reviewed complete song, printed title, physical voice order, systems, key and meter before inference. Same matched title in both historical books; reference selected by title and text/incipit. Crop in full-resolution pixels.",
+      "edition_note": "No transposition, octave correction, unfolding or manual note correction; edition differences remain scored.",
+      "reference_match_note": "Historical page 470 matches 2025 file 460: Sarah Lancaster, Come on my fellow pilgrims come. Printed composer is Sarah Lancaster; XML metadata says Sarah Lawrence. Pairing rests on matching title, text and musical incipit; metadata discrepancy retained."
+    }
+  ],
+  "parent_run": "runs/pilot-coreml-2026-11-26",
+  "candidate_review": [
+    {
+      "printed_page": "430",
+      "status": "excluded_before_inference",
+      "books": [
+        "1911-Sacred-EMU",
+        "1870-Sacred-MTS"
+      ],
+      "reason": "New appendix committee report; no music on the sampled page."
+    },
+    {
+      "printed_page": "354t",
+      "title": "The Red Sea Anthem (concluded)",
+      "status": "excluded_before_inference",
+      "books": [
+        "1911-Sacred-EMU",
+        "1870-Sacred-MTS"
+      ],
+      "reason": "Continuation only; song starts on earlier pages. Complete Happy Land at bottom of354 retained."
+    }
+  ],
+  "reviewed_sources": [
+    "sources/1911-Sacred-EMU-0054.jpg",
+    "sources/1911-Sacred-EMU-0070.jpg",
+    "sources/1911-Sacred-EMU-0088.jpg",
+    "sources/1911-Sacred-EMU-0106.jpg",
+    "sources/1911-Sacred-EMU-0128.jpg",
+    "sources/1911-Sacred-EMU-0152.jpg",
+    "sources/1911-Sacred-EMU-0176.jpg",
+    "sources/1911-Sacred-EMU-0208.jpg",
+    "sources/1911-Sacred-EMU-0228.jpg",
+    "sources/1911-Sacred-EMU-0276.jpg",
+    "sources/1911-Sacred-EMU-0308.jpg",
+    "sources/1911-Sacred-EMU-0332.jpg",
+    "sources/1911-Sacred-EMU-0360.jpg",
+    "sources/1911-Sacred-EMU-0376.jpg",
+    "sources/1911-Sacred-EMU-0408.jpg",
+    "sources/1911-Sacred-EMU-0436.jpg",
+    "sources/1911-Sacred-EMU-0456.jpg",
+    "sources/1911-Sacred-EMU-0476.jpg",
+    "sources/1870-Sacred-MTS-0053.jpg",
+    "sources/1870-Sacred-MTS-0069.jpg",
+    "sources/1870-Sacred-MTS-0087.jpg",
+    "sources/1870-Sacred-MTS-0105.jpg",
+    "sources/1870-Sacred-MTS-0127.jpg",
+    "sources/1870-Sacred-MTS-0151.jpg",
+    "sources/1870-Sacred-MTS-0175.jpg",
+    "sources/1870-Sacred-MTS-0207.jpg",
+    "sources/1870-Sacred-MTS-0227.jpg",
+    "sources/1870-Sacred-MTS-0275.jpg",
+    "sources/1870-Sacred-MTS-0307.jpg",
+    "sources/1870-Sacred-MTS-0331.jpg",
+    "sources/1870-Sacred-MTS-0359.jpg",
+    "sources/1870-Sacred-MTS-0375.jpg",
+    "sources/1870-Sacred-MTS-0407.jpg",
+    "sources/1870-Sacred-MTS-0435.jpg",
+    "sources/1870-Sacred-MTS-0455.jpg",
+    "sources/1870-Sacred-MTS-0475.jpg"
+  ],
+  "discovery_artifacts": [
+    "sources/expansion-ocr-candidates.json",
+    "sources/ocr/1870-Sacred-MTS-0053.json",
+    "sources/ocr/1870-Sacred-MTS-0069.json",
+    "sources/ocr/1870-Sacred-MTS-0087.json",
+    "sources/ocr/1870-Sacred-MTS-0105.json",
+    "sources/ocr/1870-Sacred-MTS-0127.json",
+    "sources/ocr/1870-Sacred-MTS-0151.json",
+    "sources/ocr/1870-Sacred-MTS-0175.json",
+    "sources/ocr/1870-Sacred-MTS-0207.json",
+    "sources/ocr/1870-Sacred-MTS-0227.json",
+    "sources/ocr/1870-Sacred-MTS-0275.json",
+    "sources/ocr/1870-Sacred-MTS-0307.json",
+    "sources/ocr/1870-Sacred-MTS-0331.json",
+    "sources/ocr/1870-Sacred-MTS-0359.json",
+    "sources/ocr/1870-Sacred-MTS-0375.json",
+    "sources/ocr/1870-Sacred-MTS-0407.json",
+    "sources/ocr/1870-Sacred-MTS-0435.json",
+    "sources/ocr/1870-Sacred-MTS-0455.json",
+    "sources/ocr/1870-Sacred-MTS-0475.json",
+    "sources/ocr/1911-Sacred-EMU-0054.json",
+    "sources/ocr/1911-Sacred-EMU-0070.json",
+    "sources/ocr/1911-Sacred-EMU-0088.json",
+    "sources/ocr/1911-Sacred-EMU-0106.json",
+    "sources/ocr/1911-Sacred-EMU-0128.json",
+    "sources/ocr/1911-Sacred-EMU-0152.json",
+    "sources/ocr/1911-Sacred-EMU-0176.json",
+    "sources/ocr/1911-Sacred-EMU-0208.json",
+    "sources/ocr/1911-Sacred-EMU-0228.json",
+    "sources/ocr/1911-Sacred-EMU-0276.json",
+    "sources/ocr/1911-Sacred-EMU-0308.json",
+    "sources/ocr/1911-Sacred-EMU-0332.json",
+    "sources/ocr/1911-Sacred-EMU-0360.json",
+    "sources/ocr/1911-Sacred-EMU-0376.json",
+    "sources/ocr/1911-Sacred-EMU-0408.json",
+    "sources/ocr/1911-Sacred-EMU-0436.json",
+    "sources/ocr/1911-Sacred-EMU-0456.json",
+    "sources/ocr/1911-Sacred-EMU-0476.json"
+  ]
+}

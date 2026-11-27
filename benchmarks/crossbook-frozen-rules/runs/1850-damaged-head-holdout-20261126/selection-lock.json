@@ -1,0 +1,24 @@
+{
+  "locked_utc": "2026-11-27T07:26:44.722662+00:00",
+  "predictions_started": false,
+  "source_url": "https://drive.google.com/file/d/1lgGobvG-rYBaw9NjntowSK9jbfdTYl5P/view",
+  "catalog_url": "https://vermontearlymusicproject.org/shapes-notes-move-south-1835-southern-harmony-and-1844-sacred-harp",
+  "sha256": {
+    "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/raw/1850-sacred-vemp.pdf": "b8550255666785fe62da11ba839c06307726874f5a3eecbf81784d716dedc6f8",
+    "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/PRESELECTION.md": "84515b39061337dd73c58bca9557e57637011499cd1f37ca7cc51ae4c2f3da28",
+    "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/manifest.json": "dbc3dc0d914950e6600171dfa012f108cf8180a38205b01479fd0b585f2232fe",
+    "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/selection.json": "82820dfa659b6c200441ab191118b4ea2c7af293d8e9ecfd14fba1752d25550f",
+    "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/PROTOCOL.md": "4c9c26d4d345197eac6f9373fb2efcc7a734408f3a53f803ad5b2c0890496aa8",
+    "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/engines.json": "11402cb4f776c6404bd6c21da368aeacd60a0bf0baa44f7bef85471a6c921ac1",
+    "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/pages/pdf-043.jpg": "01f031490b6c3c8b0aba36f87a5a6403bf8d930523c1f309d2797192a668ddde",
+    "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-40-lenox.png": "2451e05a97a14641ab89f282d03dccc193e924a615ac742329b784b410407257",
+    "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/pages/pdf-049.jpg": "72433226a6392997f604b576b5b8febc768eaa24394c34b5c1c8e99cdf028857",
+    "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-46t-dublin.png": "1e29dde34d4f45d6c921fdf3c9e1ee3718e26fa3fc19e7468aaaa93aaa9d9f11",
+    "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-46b-hanover.png": "7ca99b4f44f53ac7d3dcbf6b1001a5695c3fba37b4b24f22d8b64757e7f373c9",
+    "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/pages/pdf-053.jpg": "4859fa4d4bfc0c52d91fbca3dbf5e06b4ed86ad92ebd420a91ae16ae4823a52d",
+    "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-50t-consolation.png": "793d7e28cc03c75f7f87c4ab27ded22e3fead0a195c51a31cd536ee341f2c094",
+    "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-50b-distress.png": "db91c5b216d2202f1dcf148c2eba280fe75991179b4d7cff11bde15c403fe625",
+    "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/pages/pdf-063.jpg": "a0585f06afee716f7037c1a7d2dd35bd7f85767250bacbcfc92fdb5ba2d7d336",
+    "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-60-portugal.png": "6092b0411bca5dd75739c814bca1295caad779b3596e800d08ff08968d1db679"
+  }
+}

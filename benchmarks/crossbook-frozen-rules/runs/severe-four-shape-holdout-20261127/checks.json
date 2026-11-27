@@ -1,0 +1,38 @@
+{
+  "stage_cases_expected": 48,
+  "stage_cases_completed": 48,
+  "stage_failures": 0,
+  "primary_severe_source_heads": 10,
+  "primary_severe_note_emissions_distinct": 6,
+  "primary_damaged_source_heads": 19,
+  "primary_damaged_note_emissions_distinct": 13,
+  "intact_controls": 38,
+  "intact_controls_as_notes": 29,
+  "premarked_abstention_observations": 0,
+  "current_abstention_observations": 30,
+  "unique_abstention_candidates": 15,
+  "current_removal_observations": 6,
+  "new_removals_vs_prior": 0,
+  "source_event_differences": 28,
+  "xml_pairs_different": 12,
+  "cut_changes": 6,
+  "layout_grouping_failure_configurations": 12,
+  "unequal_span_failure_configurations": 2,
+  "labels_changed_after_inference": false,
+  "rules_models_templates_changed": false,
+  "reference_xml_opened": false,
+  "quota_shortfalls": {
+    "severe": {
+      "oval": 1,
+      "triangle": 1
+    },
+    "moderate": {
+      "diamond": 3
+    }
+  },
+  "final_hash_guards_passed": true,
+  "source_screen_reviewed_1850_pages": 300,
+  "source_screen_reviewed_1835_available_pages": 80,
+  "independent_policy_review_decisions": 18,
+  "no_selected_note_id_lost_vs_prior": true
+}

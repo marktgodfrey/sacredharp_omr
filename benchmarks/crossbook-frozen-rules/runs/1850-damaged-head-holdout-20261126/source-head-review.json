@@ -1,0 +1,3793 @@
+{
+  "reference_xml_opened": false,
+  "all_hash_guards_passed": true,
+  "annotations_unchanged_sha256": "82820dfa659b6c200441ab191118b4ea2c7af293d8e9ecfd14fba1752d25550f",
+  "counts": {
+    "likely_damaged": {
+      "distinct_annotated_objects": 3,
+      "layout_observations": 6,
+      "matched_frontend_symbols": 6,
+      "baseline_emitted_note": 6,
+      "prior_emitted_note": 6,
+      "current_emitted_note": 6,
+      "current_abstention_observations": 0
+    },
+    "ambiguous": {
+      "distinct_annotated_objects": 1,
+      "layout_observations": 2,
+      "matched_frontend_symbols": 2,
+      "baseline_emitted_note": 2,
+      "prior_emitted_note": 2,
+      "current_emitted_note": 2,
+      "current_abstention_observations": 0
+    },
+    "intact_control": {
+      "distinct_annotated_objects": 8,
+      "layout_observations": 16,
+      "matched_frontend_symbols": 16,
+      "baseline_emitted_note": 14,
+      "prior_emitted_note": 14,
+      "current_emitted_note": 14,
+      "current_abstention_observations": 0
+    }
+  },
+  "configurations": [
+    {
+      "id": "1850-Sacred-VEMP-40-lenox",
+      "variant": "clean_layout",
+      "baseline_note_ids_lost_in_current": [],
+      "prior_note_ids_lost_in_current": [],
+      "prior_current_writer_events_identical": true,
+      "current_abstentions": [],
+      "current_removals": [],
+      "unequal_part_span_columns": {
+        "prior": [],
+        "current": []
+      },
+      "baseline_staff_count": 8
+    },
+    {
+      "id": "1850-Sacred-VEMP-40-lenox",
+      "variant": "default",
+      "baseline_note_ids_lost_in_current": [],
+      "prior_note_ids_lost_in_current": [],
+      "prior_current_writer_events_identical": true,
+      "current_abstentions": [],
+      "current_removals": [],
+      "unequal_part_span_columns": {
+        "prior": [],
+        "current": []
+      },
+      "baseline_staff_count": 8
+    },
+    {
+      "id": "1850-Sacred-VEMP-46b-hanover",
+      "variant": "clean_layout",
+      "baseline_note_ids_lost_in_current": [],
+      "prior_note_ids_lost_in_current": [],
+      "prior_current_writer_events_identical": true,
+      "current_abstentions": [],
+      "current_removals": [],
+      "unequal_part_span_columns": {
+        "prior": [],
+        "current": []
+      },
+      "baseline_staff_count": 3
+    },
+    {
+      "id": "1850-Sacred-VEMP-46b-hanover",
+      "variant": "default",
+      "baseline_note_ids_lost_in_current": [],
+      "prior_note_ids_lost_in_current": [],
+      "prior_current_writer_events_identical": true,
+      "current_abstentions": [],
+      "current_removals": [],
+      "unequal_part_span_columns": {
+        "prior": [],
+        "current": []
+      },
+      "baseline_staff_count": 3
+    },
+    {
+      "id": "1850-Sacred-VEMP-46t-dublin",
+      "variant": "clean_layout",
+      "baseline_note_ids_lost_in_current": [],
+      "prior_note_ids_lost_in_current": [],
+      "prior_current_writer_events_identical": true,
+      "current_abstentions": [],
+      "current_removals": [],
+      "unequal_part_span_columns": {
+        "prior": [],
+        "current": []
+      },
+      "baseline_staff_count": 4
+    },
+    {
+      "id": "1850-Sacred-VEMP-46t-dublin",
+      "variant": "default",
+      "baseline_note_ids_lost_in_current": [],
+      "prior_note_ids_lost_in_current": [],
+      "prior_current_writer_events_identical": true,
+      "current_abstentions": [],
+      "current_removals": [],
+      "unequal_part_span_columns": {
+        "prior": [],
+        "current": []
+      },
+      "baseline_staff_count": 4
+    },
+    {
+      "id": "1850-Sacred-VEMP-50b-distress",
+      "variant": "clean_layout",
+      "baseline_note_ids_lost_in_current": [],
+      "prior_note_ids_lost_in_current": [],
+      "prior_current_writer_events_identical": true,
+      "current_abstentions": [],
+      "current_removals": [],
+      "unequal_part_span_columns": {
+        "prior": [],
+        "current": []
+      },
+      "baseline_staff_count": 2
+    },
+    {
+      "id": "1850-Sacred-VEMP-50b-distress",
+      "variant": "default",
+      "baseline_note_ids_lost_in_current": [],
+      "prior_note_ids_lost_in_current": [],
+      "prior_current_writer_events_identical": true,
+      "current_abstentions": [],
+      "current_removals": [],
+      "unequal_part_span_columns": {
+        "prior": [],
+        "current": []
+      },
+      "baseline_staff_count": 2
+    },
+    {
+      "id": "1850-Sacred-VEMP-50t-consolation",
+      "variant": "clean_layout",
+      "baseline_note_ids_lost_in_current": [],
+      "prior_note_ids_lost_in_current": [],
+      "prior_current_writer_events_identical": true,
+      "current_abstentions": [],
+      "current_removals": [],
+      "unequal_part_span_columns": {
+        "prior": [],
+        "current": []
+      },
+      "baseline_staff_count": 3
+    },
+    {
+      "id": "1850-Sacred-VEMP-50t-consolation",
+      "variant": "default",
+      "baseline_note_ids_lost_in_current": [],
+      "prior_note_ids_lost_in_current": [],
+      "prior_current_writer_events_identical": true,
+      "current_abstentions": [],
+      "current_removals": [],
+      "unequal_part_span_columns": {
+        "prior": [],
+        "current": []
+      },
+      "baseline_staff_count": 3
+    },
+    {
+      "id": "1850-Sacred-VEMP-60-portugal",
+      "variant": "clean_layout",
+      "baseline_note_ids_lost_in_current": [],
+      "prior_note_ids_lost_in_current": [],
+      "prior_current_writer_events_identical": true,
+      "current_abstentions": [],
+      "current_removals": [],
+      "unequal_part_span_columns": {
+        "prior": [],
+        "current": []
+      },
+      "baseline_staff_count": 8
+    },
+    {
+      "id": "1850-Sacred-VEMP-60-portugal",
+      "variant": "default",
+      "baseline_note_ids_lost_in_current": [],
+      "prior_note_ids_lost_in_current": [],
+      "prior_current_writer_events_identical": true,
+      "current_abstentions": [],
+      "current_removals": [],
+      "unequal_part_span_columns": {
+        "prior": [],
+        "current": []
+      },
+      "baseline_staff_count": 8
+    }
+  ],
+  "annotations": [
+    {
+      "annotation_id": "D1",
+      "sample_id": "1850-Sacred-VEMP-46t-dublin",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        432,
+        347,
+        445,
+        360
+      ],
+      "input_bbox_xyxy": [
+        247,
+        293,
+        260,
+        306
+      ],
+      "description": "Hollow square bass head: left rim is much weaker/missing while top, bottom and right edges survive. Stem descends from lower-left corner. Exact pitch/duration not adjudicated.",
+      "source_only_reviews": {
+        "main": "likely damaged; weak/missing left rim",
+        "independent": "likely clear damaged/missing left rim"
+      },
+      "variant": "default",
+      "match": {
+        "symbol": {
+          "i": 201,
+          "cls": "note_half",
+          "post": {
+            "225": 1.0
+          },
+          "p": 0.974,
+          "n": 1,
+          "box": [
+            242.7,
+            289.7,
+            255.9,
+            301.8
+          ],
+          "attrs": {
+            "staff_position": "4",
+            "stem_dir": "down",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 0.9944,
+            "stem_dir": 0.9992,
+            "dots": 0.9976,
+            "grace": 1.0,
+            "voice_slot": 1.0
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "down": 0.9992
+            },
+            "dots": {
+              "<na>": 0.9976
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 1.0
+            }
+          },
+          "staff": 3,
+          "bar": 3,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 5.630497313737029,
+        "staff_space": 11.950000000000003,
+        "annotation_overlap_fraction": 0.4634319526627228
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 201,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 201,
+              "kind": "note",
+              "x": 249.3,
+              "step": "A",
+              "octave": 3,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "4"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 201,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 201,
+              "kind": "note",
+              "x": 249.3,
+              "step": "A",
+              "octave": 3,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "4"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 201,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 201,
+              "kind": "note",
+              "x": 249.3,
+              "step": "A",
+              "octave": 3,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "4"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "D1",
+      "sample_id": "1850-Sacred-VEMP-46t-dublin",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        432,
+        347,
+        445,
+        360
+      ],
+      "input_bbox_xyxy": [
+        247,
+        293,
+        260,
+        306
+      ],
+      "description": "Hollow square bass head: left rim is much weaker/missing while top, bottom and right edges survive. Stem descends from lower-left corner. Exact pitch/duration not adjudicated.",
+      "source_only_reviews": {
+        "main": "likely damaged; weak/missing left rim",
+        "independent": "likely clear damaged/missing left rim"
+      },
+      "variant": "clean_layout",
+      "match": {
+        "symbol": {
+          "i": 201,
+          "cls": "note_half",
+          "post": {
+            "225": 1.0
+          },
+          "p": 0.974,
+          "n": 1,
+          "box": [
+            242.7,
+            289.7,
+            255.9,
+            301.8
+          ],
+          "attrs": {
+            "staff_position": "4",
+            "stem_dir": "down",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 0.9944,
+            "stem_dir": 0.9992,
+            "dots": 0.9976,
+            "grace": 1.0,
+            "voice_slot": 1.0
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "down": 0.9992
+            },
+            "dots": {
+              "<na>": 0.9976
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 1.0
+            }
+          },
+          "staff": 3,
+          "bar": 3,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 5.630497313737029,
+        "staff_space": 11.950000000000003,
+        "annotation_overlap_fraction": 0.4634319526627228
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 201,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 201,
+              "kind": "note",
+              "x": 249.3,
+              "step": "A",
+              "octave": 3,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "4"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 201,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 201,
+              "kind": "note",
+              "x": 249.3,
+              "step": "A",
+              "octave": 3,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "4"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 201,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 201,
+              "kind": "note",
+              "x": 249.3,
+              "step": "A",
+              "octave": 3,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "4"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "D2",
+      "sample_id": "1850-Sacred-VEMP-50b-distress",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        711,
+        505,
+        732,
+        520
+      ],
+      "input_bbox_xyxy": [
+        525,
+        39,
+        546,
+        54
+      ],
+      "description": "Hollow oval treble head: open gap in upper arc; surrounding arcs remain dark.",
+      "source_only_reviews": {
+        "main": "clear visible upper rim break",
+        "independent": "likely damaged/broken upper rim"
+      },
+      "variant": "default",
+      "match": {
+        "symbol": {
+          "i": 49,
+          "cls": "note_half",
+          "post": {
+            "225": 1.0
+          },
+          "p": 0.994,
+          "n": 1,
+          "box": [
+            528.5,
+            40.8,
+            544.5,
+            52.8
+          ],
+          "attrs": {
+            "staff_position": "2",
+            "stem_dir": "down",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 1.0,
+            "stem_dir": 0.9998,
+            "dots": 0.9999,
+            "grace": 1.0,
+            "voice_slot": 0.9999
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "down": 0.9998
+            },
+            "dots": {
+              "<na>": 0.9999
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 0.9999
+            }
+          },
+          "staff": 0,
+          "bar": 6,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 1.0440306508910542,
+        "staff_space": 11.0,
+        "annotation_overlap_fraction": 0.6095238095238096
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 49,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 49,
+              "kind": "note",
+              "x": 536.5,
+              "step": "D",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": 1,
+              "measure_number": "7"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 49,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 49,
+              "kind": "note",
+              "x": 536.5,
+              "step": "D",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": 1,
+              "measure_number": "7"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 49,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 49,
+              "kind": "note",
+              "x": 536.5,
+              "step": "D",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": 1,
+              "measure_number": "7"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "D2",
+      "sample_id": "1850-Sacred-VEMP-50b-distress",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        711,
+        505,
+        732,
+        520
+      ],
+      "input_bbox_xyxy": [
+        525,
+        39,
+        546,
+        54
+      ],
+      "description": "Hollow oval treble head: open gap in upper arc; surrounding arcs remain dark.",
+      "source_only_reviews": {
+        "main": "clear visible upper rim break",
+        "independent": "likely damaged/broken upper rim"
+      },
+      "variant": "clean_layout",
+      "match": {
+        "symbol": {
+          "i": 49,
+          "cls": "note_half",
+          "post": {
+            "225": 1.0
+          },
+          "p": 0.994,
+          "n": 1,
+          "box": [
+            528.5,
+            40.8,
+            544.5,
+            52.8
+          ],
+          "attrs": {
+            "staff_position": "2",
+            "stem_dir": "down",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 1.0,
+            "stem_dir": 0.9998,
+            "dots": 0.9999,
+            "grace": 1.0,
+            "voice_slot": 0.9999
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "down": 0.9998
+            },
+            "dots": {
+              "<na>": 0.9999
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 0.9999
+            }
+          },
+          "staff": 0,
+          "bar": 6,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 1.0440306508910542,
+        "staff_space": 11.0,
+        "annotation_overlap_fraction": 0.6095238095238096
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 49,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 49,
+              "kind": "note",
+              "x": 536.5,
+              "step": "D",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": 1,
+              "measure_number": "7"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 49,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 49,
+              "kind": "note",
+              "x": 536.5,
+              "step": "D",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": 1,
+              "measure_number": "7"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 49,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 49,
+              "kind": "note",
+              "x": 536.5,
+              "step": "D",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": 1,
+              "measure_number": "7"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "D3",
+      "sample_id": "1850-Sacred-VEMP-60-portugal",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        749,
+        84,
+        768,
+        98
+      ],
+      "input_bbox_xyxy": [
+        681,
+        56,
+        700,
+        70
+      ],
+      "description": "Hollow oval treble head: lower-left rim is absent/very weak beside surviving dark arcs.",
+      "source_only_reviews": {
+        "main": "visible lower-left rim break",
+        "independent": "likely damaged/broken lower-left rim"
+      },
+      "variant": "default",
+      "match": {
+        "symbol": {
+          "i": 195,
+          "cls": "note_whole",
+          "post": {
+            "228": 1.0
+          },
+          "p": 0.99,
+          "n": 1,
+          "box": [
+            682.2,
+            55.5,
+            699.3,
+            66.8
+          ],
+          "attrs": {
+            "staff_position": "-1",
+            "stem_dir": "<na>",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 0.9999,
+            "stem_dir": 0.9997,
+            "dots": 1.0,
+            "grace": 1.0,
+            "voice_slot": 0.999
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "<na>": 0.9997
+            },
+            "dots": {
+              "<na>": 1.0
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 0.999
+            }
+          },
+          "staff": 0,
+          "bar": 8,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 1.8668154702594484,
+        "staff_space": 11.775000000000002,
+        "annotation_overlap_fraction": 0.6942857142857104
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 195,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 195,
+              "kind": "note",
+              "x": 690.75,
+              "step": "A",
+              "octave": 4,
+              "alter": 0,
+              "typ": "whole",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "4",
+              "dur": 48,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "9"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 195,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 195,
+              "kind": "note",
+              "x": 690.75,
+              "step": "A",
+              "octave": 4,
+              "alter": 0,
+              "typ": "whole",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "4",
+              "dur": 48,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "9"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 195,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 195,
+              "kind": "note",
+              "x": 690.75,
+              "step": "A",
+              "octave": 4,
+              "alter": 0,
+              "typ": "whole",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "4",
+              "dur": 48,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "9"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "D3",
+      "sample_id": "1850-Sacred-VEMP-60-portugal",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        749,
+        84,
+        768,
+        98
+      ],
+      "input_bbox_xyxy": [
+        681,
+        56,
+        700,
+        70
+      ],
+      "description": "Hollow oval treble head: lower-left rim is absent/very weak beside surviving dark arcs.",
+      "source_only_reviews": {
+        "main": "visible lower-left rim break",
+        "independent": "likely damaged/broken lower-left rim"
+      },
+      "variant": "clean_layout",
+      "match": {
+        "symbol": {
+          "i": 195,
+          "cls": "note_whole",
+          "post": {
+            "228": 1.0
+          },
+          "p": 0.99,
+          "n": 1,
+          "box": [
+            682.2,
+            55.5,
+            699.3,
+            66.8
+          ],
+          "attrs": {
+            "staff_position": "-1",
+            "stem_dir": "<na>",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 0.9999,
+            "stem_dir": 0.9997,
+            "dots": 1.0,
+            "grace": 1.0,
+            "voice_slot": 0.999
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "<na>": 0.9997
+            },
+            "dots": {
+              "<na>": 1.0
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 0.999
+            }
+          },
+          "staff": 0,
+          "bar": 8,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 1.8668154702594484,
+        "staff_space": 11.775000000000002,
+        "annotation_overlap_fraction": 0.6942857142857104
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 195,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 195,
+              "kind": "note",
+              "x": 690.75,
+              "step": "A",
+              "octave": 4,
+              "alter": 0,
+              "typ": "whole",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "4",
+              "dur": 48,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "9"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 195,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 195,
+              "kind": "note",
+              "x": 690.75,
+              "step": "A",
+              "octave": 4,
+              "alter": 0,
+              "typ": "whole",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "4",
+              "dur": 48,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "9"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 195,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 195,
+              "kind": "note",
+              "x": 690.75,
+              "step": "A",
+              "octave": 4,
+              "alter": 0,
+              "typ": "whole",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "4",
+              "dur": 48,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "9"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "A1",
+      "sample_id": "1850-Sacred-VEMP-40-lenox",
+      "status": "ambiguous",
+      "source_bbox_xyxy": [
+        777,
+        106,
+        796,
+        120
+      ],
+      "input_bbox_xyxy": [
+        612,
+        73,
+        631,
+        87
+      ],
+      "description": "Hollow oval treble head with apparent open lower-left rim. Main judged visible damage; independent reviewer could not distinguish damage from thin-ink variation/design. Retain as secondary, exclude from clear-damage success denominator.",
+      "source_only_reviews": {
+        "main": "apparent broken rim",
+        "independent": "ambiguous leaning normal hollow/design"
+      },
+      "variant": "default",
+      "match": {
+        "symbol": {
+          "i": 314,
+          "cls": "note_half",
+          "post": {
+            "225": 1.0
+          },
+          "p": 0.948,
+          "n": 1,
+          "box": [
+            615.3,
+            75.7,
+            631.2,
+            86.5
+          ],
+          "attrs": {
+            "staff_position": "-2",
+            "stem_dir": "up",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 1.0,
+            "stem_dir": 1.0,
+            "dots": 1.0,
+            "grace": 1.0,
+            "voice_slot": 0.9999
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "up": 1.0
+            },
+            "dots": {
+              "<na>": 1.0
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 0.9999
+            }
+          },
+          "staff": 0,
+          "bar": 5,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 2.0670026608594356,
+        "staff_space": 11.482385528658632,
+        "annotation_overlap_fraction": 0.6374436090225581
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 314,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 314,
+              "kind": "note",
+              "x": 623.25,
+              "step": "G",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "6"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 314,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 314,
+              "kind": "note",
+              "x": 623.25,
+              "step": "G",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "6"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 314,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 314,
+              "kind": "note",
+              "x": 623.25,
+              "step": "G",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "6"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "A1",
+      "sample_id": "1850-Sacred-VEMP-40-lenox",
+      "status": "ambiguous",
+      "source_bbox_xyxy": [
+        777,
+        106,
+        796,
+        120
+      ],
+      "input_bbox_xyxy": [
+        612,
+        73,
+        631,
+        87
+      ],
+      "description": "Hollow oval treble head with apparent open lower-left rim. Main judged visible damage; independent reviewer could not distinguish damage from thin-ink variation/design. Retain as secondary, exclude from clear-damage success denominator.",
+      "source_only_reviews": {
+        "main": "apparent broken rim",
+        "independent": "ambiguous leaning normal hollow/design"
+      },
+      "variant": "clean_layout",
+      "match": {
+        "symbol": {
+          "i": 314,
+          "cls": "note_half",
+          "post": {
+            "225": 1.0
+          },
+          "p": 0.948,
+          "n": 1,
+          "box": [
+            615.3,
+            75.7,
+            631.2,
+            86.5
+          ],
+          "attrs": {
+            "staff_position": "-2",
+            "stem_dir": "up",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 1.0,
+            "stem_dir": 1.0,
+            "dots": 1.0,
+            "grace": 1.0,
+            "voice_slot": 0.9999
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "up": 1.0
+            },
+            "dots": {
+              "<na>": 1.0
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 0.9999
+            }
+          },
+          "staff": 0,
+          "bar": 5,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 2.0670026608594356,
+        "staff_space": 11.482385528658632,
+        "annotation_overlap_fraction": 0.6374436090225581
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 314,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 314,
+              "kind": "note",
+              "x": 623.25,
+              "step": "G",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "6"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 314,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 314,
+              "kind": "note",
+              "x": 623.25,
+              "step": "G",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "6"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 314,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 314,
+              "kind": "note",
+              "x": 623.25,
+              "step": "G",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "6"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "C1",
+      "sample_id": "1850-Sacred-VEMP-40-lenox",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        280,
+        91,
+        296,
+        102
+      ],
+      "input_bbox_xyxy": [
+        115,
+        58,
+        131,
+        69
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      },
+      "variant": "default",
+      "match": {
+        "symbol": {
+          "i": 355,
+          "cls": "rest_half",
+          "post": {
+            "244": 1.0
+          },
+          "p": 0.817,
+          "n": 1,
+          "box": [
+            117.0,
+            57.3,
+            128.6,
+            68.2
+          ],
+          "attrs": {
+            "staff_position": "0",
+            "stem_dir": "<na>",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 0.9156,
+            "stem_dir": 0.9998,
+            "dots": 1.0,
+            "grace": 1.0,
+            "voice_slot": 0.9999
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "<na>": 0.9998
+            },
+            "dots": {
+              "<na>": 1.0
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 0.9999
+            }
+          },
+          "staff": 0,
+          "bar": 0,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 0.7762087348130019,
+        "staff_space": 11.482385528658632,
+        "annotation_overlap_fraction": 0.6722727272727271
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 355,
+          "emitted_as_note": false,
+          "events": [
+            {
+              "e.si": 355,
+              "kind": "rest",
+              "x": 122.8,
+              "step": "C",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 355,
+          "emitted_as_note": false,
+          "events": [
+            {
+              "e.si": 355,
+              "kind": "rest",
+              "x": 122.8,
+              "step": "C",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 355,
+          "emitted_as_note": false,
+          "events": [
+            {
+              "e.si": 355,
+              "kind": "rest",
+              "x": 122.8,
+              "step": "C",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "C1",
+      "sample_id": "1850-Sacred-VEMP-40-lenox",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        280,
+        91,
+        296,
+        102
+      ],
+      "input_bbox_xyxy": [
+        115,
+        58,
+        131,
+        69
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      },
+      "variant": "clean_layout",
+      "match": {
+        "symbol": {
+          "i": 355,
+          "cls": "rest_half",
+          "post": {
+            "244": 1.0
+          },
+          "p": 0.817,
+          "n": 1,
+          "box": [
+            117.0,
+            57.3,
+            128.6,
+            68.2
+          ],
+          "attrs": {
+            "staff_position": "0",
+            "stem_dir": "<na>",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 0.9156,
+            "stem_dir": 0.9998,
+            "dots": 1.0,
+            "grace": 1.0,
+            "voice_slot": 0.9999
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "<na>": 0.9998
+            },
+            "dots": {
+              "<na>": 1.0
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 0.9999
+            }
+          },
+          "staff": 0,
+          "bar": 0,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 0.7762087348130019,
+        "staff_space": 11.482385528658632,
+        "annotation_overlap_fraction": 0.6722727272727271
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 355,
+          "emitted_as_note": false,
+          "events": [
+            {
+              "e.si": 355,
+              "kind": "rest",
+              "x": 122.8,
+              "step": "C",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 355,
+          "emitted_as_note": false,
+          "events": [
+            {
+              "e.si": 355,
+              "kind": "rest",
+              "x": 122.8,
+              "step": "C",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 355,
+          "emitted_as_note": false,
+          "events": [
+            {
+              "e.si": 355,
+              "kind": "rest",
+              "x": 122.8,
+              "step": "C",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "C2",
+      "sample_id": "1850-Sacred-VEMP-40-lenox",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        333,
+        78,
+        346,
+        91
+      ],
+      "input_bbox_xyxy": [
+        168,
+        45,
+        181,
+        58
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      },
+      "variant": "default",
+      "match": {
+        "symbol": {
+          "i": 241,
+          "cls": "note_quarter",
+          "post": {
+            "227": 1.0
+          },
+          "p": 0.99,
+          "n": 1,
+          "box": [
+            168.6,
+            44.8,
+            180.4,
+            57.2
+          ],
+          "attrs": {
+            "staff_position": "3",
+            "stem_dir": "down",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 0.9993,
+            "stem_dir": 0.9984,
+            "dots": 1.0,
+            "grace": 1.0,
+            "voice_slot": 0.9998
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "down": 0.9984
+            },
+            "dots": {
+              "<na>": 1.0
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 0.9998
+            }
+          },
+          "staff": 0,
+          "bar": 1,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 0.5,
+        "staff_space": 11.482385528658632,
+        "annotation_overlap_fraction": 0.8518343195266282
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 241,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 241,
+              "kind": "note",
+              "x": 174.5,
+              "step": "E",
+              "octave": 5,
+              "alter": 0,
+              "typ": "quarter",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "1",
+              "dur": 1,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 241,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 241,
+              "kind": "note",
+              "x": 174.5,
+              "step": "E",
+              "octave": 5,
+              "alter": 0,
+              "typ": "quarter",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "1",
+              "dur": 1,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 241,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 241,
+              "kind": "note",
+              "x": 174.5,
+              "step": "E",
+              "octave": 5,
+              "alter": 0,
+              "typ": "quarter",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "1",
+              "dur": 1,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "C2",
+      "sample_id": "1850-Sacred-VEMP-40-lenox",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        333,
+        78,
+        346,
+        91
+      ],
+      "input_bbox_xyxy": [
+        168,
+        45,
+        181,
+        58
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      },
+      "variant": "clean_layout",
+      "match": {
+        "symbol": {
+          "i": 241,
+          "cls": "note_quarter",
+          "post": {
+            "227": 1.0
+          },
+          "p": 0.99,
+          "n": 1,
+          "box": [
+            168.6,
+            44.8,
+            180.4,
+            57.2
+          ],
+          "attrs": {
+            "staff_position": "3",
+            "stem_dir": "down",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 0.9993,
+            "stem_dir": 0.9984,
+            "dots": 1.0,
+            "grace": 1.0,
+            "voice_slot": 0.9998
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "down": 0.9984
+            },
+            "dots": {
+              "<na>": 1.0
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 0.9998
+            }
+          },
+          "staff": 0,
+          "bar": 1,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 0.5,
+        "staff_space": 11.482385528658632,
+        "annotation_overlap_fraction": 0.8518343195266282
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 241,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 241,
+              "kind": "note",
+              "x": 174.5,
+              "step": "E",
+              "octave": 5,
+              "alter": 0,
+              "typ": "quarter",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "1",
+              "dur": 1,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 241,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 241,
+              "kind": "note",
+              "x": 174.5,
+              "step": "E",
+              "octave": 5,
+              "alter": 0,
+              "typ": "quarter",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "1",
+              "dur": 1,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 241,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 241,
+              "kind": "note",
+              "x": 174.5,
+              "step": "E",
+              "octave": 5,
+              "alter": 0,
+              "typ": "quarter",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "1",
+              "dur": 1,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "C3",
+      "sample_id": "1850-Sacred-VEMP-46t-dublin",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        271,
+        128,
+        286,
+        141
+      ],
+      "input_bbox_xyxy": [
+        86,
+        74,
+        101,
+        87
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      },
+      "variant": "default",
+      "match": {
+        "symbol": {
+          "i": 233,
+          "cls": "note_half",
+          "post": {
+            "225": 1.0
+          },
+          "p": 0.926,
+          "n": 1,
+          "box": [
+            88.0,
+            73.3,
+            101.1,
+            85.7
+          ],
+          "attrs": {
+            "staff_position": "-1",
+            "stem_dir": "up",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 0.9999,
+            "stem_dir": 1.0,
+            "dots": 0.9997,
+            "grace": 1.0,
+            "voice_slot": 1.0
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "up": 1.0
+            },
+            "dots": {
+              "<na>": 0.9997
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 1.0
+            }
+          },
+          "staff": 0,
+          "bar": 0,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 1.449999999999998,
+        "staff_space": 11.874999999999998,
+        "annotation_overlap_fraction": 0.7800000000000001
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 233,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 233,
+              "kind": "note",
+              "x": 94.55,
+              "step": "A",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 233,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 233,
+              "kind": "note",
+              "x": 94.55,
+              "step": "A",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 233,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 233,
+              "kind": "note",
+              "x": 94.55,
+              "step": "A",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "C3",
+      "sample_id": "1850-Sacred-VEMP-46t-dublin",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        271,
+        128,
+        286,
+        141
+      ],
+      "input_bbox_xyxy": [
+        86,
+        74,
+        101,
+        87
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      },
+      "variant": "clean_layout",
+      "match": {
+        "symbol": {
+          "i": 233,
+          "cls": "note_half",
+          "post": {
+            "225": 1.0
+          },
+          "p": 0.926,
+          "n": 1,
+          "box": [
+            88.0,
+            73.3,
+            101.1,
+            85.7
+          ],
+          "attrs": {
+            "staff_position": "-1",
+            "stem_dir": "up",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 0.9999,
+            "stem_dir": 1.0,
+            "dots": 0.9997,
+            "grace": 1.0,
+            "voice_slot": 1.0
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "up": 1.0
+            },
+            "dots": {
+              "<na>": 0.9997
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 1.0
+            }
+          },
+          "staff": 0,
+          "bar": 0,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 1.449999999999998,
+        "staff_space": 11.874999999999998,
+        "annotation_overlap_fraction": 0.7800000000000001
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 233,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 233,
+              "kind": "note",
+              "x": 94.55,
+              "step": "A",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 233,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 233,
+              "kind": "note",
+              "x": 94.55,
+              "step": "A",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 233,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 233,
+              "kind": "note",
+              "x": 94.55,
+              "step": "A",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "C4",
+      "sample_id": "1850-Sacred-VEMP-46t-dublin",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        307,
+        117,
+        324,
+        129
+      ],
+      "input_bbox_xyxy": [
+        122,
+        63,
+        139,
+        75
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      },
+      "variant": "default",
+      "match": {
+        "symbol": {
+          "i": 281,
+          "cls": "note_half",
+          "post": {
+            "225": 1.0
+          },
+          "p": 0.474,
+          "n": 1,
+          "box": [
+            122.1,
+            62.6,
+            134.3,
+            73.3
+          ],
+          "attrs": {
+            "staff_position": "1",
+            "stem_dir": "down",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 0.6293,
+            "stem_dir": 0.9962,
+            "dots": 0.9995,
+            "grace": 1.0,
+            "voice_slot": 0.9999
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "down": 0.9962
+            },
+            "dots": {
+              "<na>": 0.9995
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 0.9999
+            }
+          },
+          "staff": 0,
+          "bar": 1,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 2.5283393759541157,
+        "staff_space": 11.874999999999998,
+        "annotation_overlap_fraction": 0.6159803921568634
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 281,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 281,
+              "kind": "note",
+              "x": 128.2,
+              "step": "C",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 281,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 281,
+              "kind": "note",
+              "x": 128.2,
+              "step": "C",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 281,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 281,
+              "kind": "note",
+              "x": 128.2,
+              "step": "C",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "C4",
+      "sample_id": "1850-Sacred-VEMP-46t-dublin",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        307,
+        117,
+        324,
+        129
+      ],
+      "input_bbox_xyxy": [
+        122,
+        63,
+        139,
+        75
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      },
+      "variant": "clean_layout",
+      "match": {
+        "symbol": {
+          "i": 281,
+          "cls": "note_half",
+          "post": {
+            "225": 1.0
+          },
+          "p": 0.474,
+          "n": 1,
+          "box": [
+            122.1,
+            62.6,
+            134.3,
+            73.3
+          ],
+          "attrs": {
+            "staff_position": "1",
+            "stem_dir": "down",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 0.6293,
+            "stem_dir": 0.9962,
+            "dots": 0.9995,
+            "grace": 1.0,
+            "voice_slot": 0.9999
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "down": 0.9962
+            },
+            "dots": {
+              "<na>": 0.9995
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 0.9999
+            }
+          },
+          "staff": 0,
+          "bar": 1,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 2.5283393759541157,
+        "staff_space": 11.874999999999998,
+        "annotation_overlap_fraction": 0.6159803921568634
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 281,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 281,
+              "kind": "note",
+              "x": 128.2,
+              "step": "C",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 281,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 281,
+              "kind": "note",
+              "x": 128.2,
+              "step": "C",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 281,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 281,
+              "kind": "note",
+              "x": 128.2,
+              "step": "C",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 4,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "C5",
+      "sample_id": "1850-Sacred-VEMP-50t-consolation",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        278,
+        166,
+        293,
+        180
+      ],
+      "input_bbox_xyxy": [
+        104,
+        104,
+        119,
+        118
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      },
+      "variant": "default",
+      "match": {
+        "symbol": {
+          "i": 164,
+          "cls": "note_half",
+          "post": {
+            "225": 1.0
+          },
+          "p": 0.914,
+          "n": 1,
+          "box": [
+            103.2,
+            105.8,
+            116.2,
+            118.6
+          ],
+          "attrs": {
+            "staff_position": "-1",
+            "stem_dir": "down",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 0.9995,
+            "stem_dir": 0.9985,
+            "dots": 0.9999,
+            "grace": 1.0,
+            "voice_slot": 0.9995
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "down": 0.9985
+            },
+            "dots": {
+              "<na>": 0.9999
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 0.9995
+            }
+          },
+          "staff": 0,
+          "bar": 0,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 2.163330765278385,
+        "staff_space": 12.150000000000002,
+        "annotation_overlap_fraction": 0.708761904761905
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 164,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 164,
+              "kind": "note",
+              "x": 109.7,
+              "step": "A",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 164,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 164,
+              "kind": "note",
+              "x": 109.7,
+              "step": "A",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 164,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 164,
+              "kind": "note",
+              "x": 109.7,
+              "step": "A",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "C5",
+      "sample_id": "1850-Sacred-VEMP-50t-consolation",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        278,
+        166,
+        293,
+        180
+      ],
+      "input_bbox_xyxy": [
+        104,
+        104,
+        119,
+        118
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      },
+      "variant": "clean_layout",
+      "match": {
+        "symbol": {
+          "i": 164,
+          "cls": "note_half",
+          "post": {
+            "225": 1.0
+          },
+          "p": 0.914,
+          "n": 1,
+          "box": [
+            103.2,
+            105.8,
+            116.2,
+            118.6
+          ],
+          "attrs": {
+            "staff_position": "-1",
+            "stem_dir": "down",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 0.9995,
+            "stem_dir": 0.9985,
+            "dots": 0.9999,
+            "grace": 1.0,
+            "voice_slot": 0.9995
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "down": 0.9985
+            },
+            "dots": {
+              "<na>": 0.9999
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 0.9995
+            }
+          },
+          "staff": 0,
+          "bar": 0,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 2.163330765278385,
+        "staff_space": 12.150000000000002,
+        "annotation_overlap_fraction": 0.708761904761905
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 164,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 164,
+              "kind": "note",
+              "x": 109.7,
+              "step": "A",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 164,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 164,
+              "kind": "note",
+              "x": 109.7,
+              "step": "A",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 164,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 164,
+              "kind": "note",
+              "x": 109.7,
+              "step": "A",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "C6",
+      "sample_id": "1850-Sacred-VEMP-50t-consolation",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        310,
+        144,
+        326,
+        158
+      ],
+      "input_bbox_xyxy": [
+        136,
+        82,
+        152,
+        96
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      },
+      "variant": "default",
+      "match": {
+        "symbol": {
+          "i": 181,
+          "cls": "note_half",
+          "post": {
+            "225": 1.0
+          },
+          "p": 0.875,
+          "n": 1,
+          "box": [
+            135.3,
+            80.1,
+            149.4,
+            93.6
+          ],
+          "attrs": {
+            "staff_position": "3",
+            "stem_dir": "down",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 0.9977,
+            "stem_dir": 0.9913,
+            "dots": 0.9995,
+            "grace": 1.0,
+            "voice_slot": 0.9998
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "<na>": 0.0083,
+              "down": 0.9913
+            },
+            "dots": {
+              "<na>": 0.9995
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 0.9998
+            }
+          },
+          "staff": 0,
+          "bar": 1,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 2.710166046573521,
+        "staff_space": 12.150000000000002,
+        "annotation_overlap_fraction": 0.6939285714285715
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 181,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 181,
+              "kind": "note",
+              "x": 142.35000000000002,
+              "step": "E",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 181,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 181,
+              "kind": "note",
+              "x": 142.35000000000002,
+              "step": "E",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 181,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 181,
+              "kind": "note",
+              "x": 142.35000000000002,
+              "step": "E",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "C6",
+      "sample_id": "1850-Sacred-VEMP-50t-consolation",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        310,
+        144,
+        326,
+        158
+      ],
+      "input_bbox_xyxy": [
+        136,
+        82,
+        152,
+        96
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      },
+      "variant": "clean_layout",
+      "match": {
+        "symbol": {
+          "i": 181,
+          "cls": "note_half",
+          "post": {
+            "225": 1.0
+          },
+          "p": 0.875,
+          "n": 1,
+          "box": [
+            135.3,
+            80.1,
+            149.4,
+            93.6
+          ],
+          "attrs": {
+            "staff_position": "3",
+            "stem_dir": "down",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 0.9977,
+            "stem_dir": 0.9913,
+            "dots": 0.9995,
+            "grace": 1.0,
+            "voice_slot": 0.9998
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "<na>": 0.0083,
+              "down": 0.9913
+            },
+            "dots": {
+              "<na>": 0.9995
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 0.9998
+            }
+          },
+          "staff": 0,
+          "bar": 1,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 2.710166046573521,
+        "staff_space": 12.150000000000002,
+        "annotation_overlap_fraction": 0.6939285714285715
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 181,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 181,
+              "kind": "note",
+              "x": 142.35000000000002,
+              "step": "E",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 181,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 181,
+              "kind": "note",
+              "x": 142.35000000000002,
+              "step": "E",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 181,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 181,
+              "kind": "note",
+              "x": 142.35000000000002,
+              "step": "E",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 2,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "C7",
+      "sample_id": "1850-Sacred-VEMP-60-portugal",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        192,
+        73,
+        211,
+        88
+      ],
+      "input_bbox_xyxy": [
+        124,
+        45,
+        143,
+        60
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      },
+      "variant": "default",
+      "match": {
+        "symbol": {
+          "i": 44,
+          "cls": "note_half",
+          "post": {
+            "225": 1.0
+          },
+          "p": 0.998,
+          "n": 1,
+          "box": [
+            124.2,
+            47.0,
+            141.7,
+            58.9
+          ],
+          "attrs": {
+            "staff_position": "2",
+            "stem_dir": "down",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 0.9999,
+            "stem_dir": 0.9997,
+            "dots": 0.9997,
+            "grace": 1.0,
+            "voice_slot": 0.9996
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "down": 0.9997
+            },
+            "dots": {
+              "<na>": 0.9997
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 0.9996
+            }
+          },
+          "staff": 0,
+          "bar": 0,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 0.7106335201776054,
+        "staff_space": 11.775000000000002,
+        "annotation_overlap_fraction": 0.7307017543859642
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 44,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 44,
+              "kind": "note",
+              "x": 132.95,
+              "step": "D",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 24,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 44,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 44,
+              "kind": "note",
+              "x": 132.95,
+              "step": "D",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 24,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 44,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 44,
+              "kind": "note",
+              "x": 132.95,
+              "step": "D",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 24,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "C7",
+      "sample_id": "1850-Sacred-VEMP-60-portugal",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        192,
+        73,
+        211,
+        88
+      ],
+      "input_bbox_xyxy": [
+        124,
+        45,
+        143,
+        60
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      },
+      "variant": "clean_layout",
+      "match": {
+        "symbol": {
+          "i": 44,
+          "cls": "note_half",
+          "post": {
+            "225": 1.0
+          },
+          "p": 0.998,
+          "n": 1,
+          "box": [
+            124.2,
+            47.0,
+            141.7,
+            58.9
+          ],
+          "attrs": {
+            "staff_position": "2",
+            "stem_dir": "down",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 0.9999,
+            "stem_dir": 0.9997,
+            "dots": 0.9997,
+            "grace": 1.0,
+            "voice_slot": 0.9996
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "down": 0.9997
+            },
+            "dots": {
+              "<na>": 0.9997
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 0.9996
+            }
+          },
+          "staff": 0,
+          "bar": 0,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 0.7106335201776054,
+        "staff_space": 11.775000000000002,
+        "annotation_overlap_fraction": 0.7307017543859642
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 44,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 44,
+              "kind": "note",
+              "x": 132.95,
+              "step": "D",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 24,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 44,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 44,
+              "kind": "note",
+              "x": 132.95,
+              "step": "D",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 24,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 44,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 44,
+              "kind": "note",
+              "x": 132.95,
+              "step": "D",
+              "octave": 5,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 24,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "1"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "C8",
+      "sample_id": "1850-Sacred-VEMP-60-portugal",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        227,
+        84,
+        242,
+        99
+      ],
+      "input_bbox_xyxy": [
+        159,
+        56,
+        174,
+        71
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      },
+      "variant": "default",
+      "match": {
+        "symbol": {
+          "i": 277,
+          "cls": "note_half",
+          "post": {
+            "225": 1.0
+          },
+          "p": 0.949,
+          "n": 1,
+          "box": [
+            158.4,
+            57.2,
+            172.1,
+            69.9
+          ],
+          "attrs": {
+            "staff_position": "0",
+            "stem_dir": "down",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 0.9998,
+            "stem_dir": 0.9999,
+            "dots": 0.9996,
+            "grace": 1.0,
+            "voice_slot": 0.9996
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "down": 0.9999
+            },
+            "dots": {
+              "<na>": 0.9996
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 0.9996
+            }
+          },
+          "staff": 0,
+          "bar": 1,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 1.2509996003196806,
+        "staff_space": 11.775000000000002,
+        "annotation_overlap_fraction": 0.7394222222222221
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 277,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 277,
+              "kind": "note",
+              "x": 165.25,
+              "step": "B",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 24,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 277,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 277,
+              "kind": "note",
+              "x": 165.25,
+              "step": "B",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 24,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 277,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 277,
+              "kind": "note",
+              "x": 165.25,
+              "step": "B",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 24,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    },
+    {
+      "annotation_id": "C8",
+      "sample_id": "1850-Sacred-VEMP-60-portugal",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        227,
+        84,
+        242,
+        99
+      ],
+      "input_bbox_xyxy": [
+        159,
+        56,
+        174,
+        71
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      },
+      "variant": "clean_layout",
+      "match": {
+        "symbol": {
+          "i": 277,
+          "cls": "note_half",
+          "post": {
+            "225": 1.0
+          },
+          "p": 0.949,
+          "n": 1,
+          "box": [
+            158.4,
+            57.2,
+            172.1,
+            69.9
+          ],
+          "attrs": {
+            "staff_position": "0",
+            "stem_dir": "down",
+            "dots": "<na>",
+            "grace": "<na>",
+            "voice_slot": "1"
+          },
+          "attr_p": {
+            "staff_position": 0.9998,
+            "stem_dir": 0.9999,
+            "dots": 0.9996,
+            "grace": 1.0,
+            "voice_slot": 0.9996
+          },
+          "attr_dist": {
+            "stem_dir": {
+              "down": 0.9999
+            },
+            "dots": {
+              "<na>": 0.9996
+            },
+            "grace": {
+              "<na>": 1.0
+            },
+            "voice_slot": {
+              "1": 0.9996
+            }
+          },
+          "staff": 0,
+          "bar": 1,
+          "synthetic": false,
+          "cand": false
+        },
+        "distance_px": 1.2509996003196806,
+        "staff_space": 11.775000000000002,
+        "annotation_overlap_fraction": 0.7394222222222221
+      },
+      "matching_method": "Atomic note/rest box overlapping annotation, center within 0.75 assigned staff-space; highest annotation overlap then nearest. Source context manually reviewed; merged front-end symbol, not raw detector tensor.",
+      "stages": {
+        "baseline": {
+          "source_id": 277,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 277,
+              "kind": "note",
+              "x": 165.25,
+              "step": "B",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 24,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "prior": {
+          "source_id": 277,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 277,
+              "kind": "note",
+              "x": 165.25,
+              "step": "B",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 24,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        },
+        "current": {
+          "source_id": 277,
+          "emitted_as_note": true,
+          "events": [
+            {
+              "e.si": 277,
+              "kind": "note",
+              "x": 165.25,
+              "step": "B",
+              "octave": 4,
+              "alter": 0,
+              "typ": "half",
+              "dots": 0,
+              "tup": "none",
+              "e.dur": "2",
+              "dur": 24,
+              "voice": 1,
+              "staff_no": null,
+              "measure_number": "2"
+            }
+          ],
+          "abstentions": [],
+          "removals": []
+        }
+      }
+    }
+  ],
+  "conclusion": "Premarked damaged-head survival was exercised. Revised abstention was not exercised; zero rescue evidence and no prior/current event differences. This is not broad generalization validation."
+}

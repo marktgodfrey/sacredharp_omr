@@ -1,0 +1,247 @@
+{
+  "cases": [
+    {
+      "id": "1850-Sacred-VEMP-40-lenox",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.47111883299658075,
+      "xml_sha256": "9ad26595ad61d3335a17d2457ed94a5595387c929c62e02f02ab03b74487458f",
+      "trace_sha256": "5fe497670d104c841056d72f4710558e31cdaf4151ae4a7b9e21c2086b436069",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 19,
+      "duration_changes": 4
+    },
+    {
+      "id": "1850-Sacred-VEMP-46t-dublin",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.19705658400198445,
+      "xml_sha256": "5459e904e73797336d60795a94941974a78078f1912a6bffd08b05db5994d7e6",
+      "trace_sha256": "5d446bcf2397f42ab5c40e8f95001c5f7ccd97a4f340a3bab408ae46109e697a",
+      "physical_heads_retained": true,
+      "opening_meter": "2/2",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "2/2"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 18,
+      "duration_changes": 5
+    },
+    {
+      "id": "1850-Sacred-VEMP-46b-hanover",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.23642224998911843,
+      "xml_sha256": "68f989326c85a32f10592185190633736a353914e034540106f622f7c0aca4ee",
+      "trace_sha256": "894748d4089785662db4b2d9c626a506c2f91ef8e5f30a62790092b9eb533aee",
+      "physical_heads_retained": true,
+      "opening_meter": "2/2",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "2/2"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 14,
+      "duration_changes": 5
+    },
+    {
+      "id": "1850-Sacred-VEMP-50t-consolation",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.16296912499819882,
+      "xml_sha256": "4412dbbc849b272b21af4d40af4f32bbeae45c9eae26ebdb100e9d34949c6dcf",
+      "trace_sha256": "9b444dde86bdb85dec5086bd5c0985b44e0cc59fbfe6ead1b7fd9f42e6521c7a",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 17,
+      "duration_changes": 3
+    },
+    {
+      "id": "1850-Sacred-VEMP-50b-distress",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.17063395798322745,
+      "xml_sha256": "7f1998a811bda849f0987f3346f9209e4a95c59937e30594f8709974c23d147b",
+      "trace_sha256": "8015c7f8fd7d0ed228fb2da092fa49e4a1c7dccd975a902282d3ea3970c9107c",
+      "physical_heads_retained": true,
+      "opening_meter": "2/2",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "2/2"
+        ]
+      ],
+      "unresolved_columns": 10,
+      "columns": 16,
+      "duration_changes": 7
+    },
+    {
+      "id": "1850-Sacred-VEMP-60-portugal",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.3163549590099137,
+      "xml_sha256": "31d1942e1e667ce85f8080c043e7d78546693f64947a1773d8df4ea708a1c442",
+      "trace_sha256": "552a29a154e045ccc11aac9c6b62a5a4aac9a5233b40a82db3e8c5ab14d25ea3",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 19,
+      "duration_changes": 10
+    },
+    {
+      "id": "1850-Sacred-VEMP-40-lenox",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.31781462498474866,
+      "xml_sha256": "9ad26595ad61d3335a17d2457ed94a5595387c929c62e02f02ab03b74487458f",
+      "trace_sha256": "59cd23cffeaf217fa99beeeffbe6f8441f3997da39bc90080fef5f60256b1506",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 19,
+      "duration_changes": 4
+    },
+    {
+      "id": "1850-Sacred-VEMP-46t-dublin",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.19547191599849612,
+      "xml_sha256": "5459e904e73797336d60795a94941974a78078f1912a6bffd08b05db5994d7e6",
+      "trace_sha256": "eefc0291ccd5474467632d545247a18ff966b4edc095db989f0c06bd0ff52db3",
+      "physical_heads_retained": true,
+      "opening_meter": "2/2",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "2/2"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 18,
+      "duration_changes": 5
+    },
+    {
+      "id": "1850-Sacred-VEMP-46b-hanover",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.2107566669874359,
+      "xml_sha256": "68f989326c85a32f10592185190633736a353914e034540106f622f7c0aca4ee",
+      "trace_sha256": "72bf55069587ff55dff6acba76aeab06de8c57ac3b25c56203df573b44d4a2fd",
+      "physical_heads_retained": true,
+      "opening_meter": "2/2",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "2/2"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 14,
+      "duration_changes": 5
+    },
+    {
+      "id": "1850-Sacred-VEMP-50t-consolation",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.1813068749906961,
+      "xml_sha256": "4412dbbc849b272b21af4d40af4f32bbeae45c9eae26ebdb100e9d34949c6dcf",
+      "trace_sha256": "329eccb419410de8e275d9f2d63bf6e5933a912062cf20621d9e68fdcfd0b929",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 17,
+      "duration_changes": 3
+    },
+    {
+      "id": "1850-Sacred-VEMP-50b-distress",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.16601945899310522,
+      "xml_sha256": "7f1998a811bda849f0987f3346f9209e4a95c59937e30594f8709974c23d147b",
+      "trace_sha256": "853829e7b594f0e3174c1d2e52ad7131fc3f73edf4f8132efdc79ab6f52be861",
+      "physical_heads_retained": true,
+      "opening_meter": "2/2",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "2/2"
+        ]
+      ],
+      "unresolved_columns": 10,
+      "columns": 16,
+      "duration_changes": 7
+    },
+    {
+      "id": "1850-Sacred-VEMP-60-portugal",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.3219065830053296,
+      "xml_sha256": "31d1942e1e667ce85f8080c043e7d78546693f64947a1773d8df4ea708a1c442",
+      "trace_sha256": "bdc2c01538553ff77eac3c3ab0f740e2918c0366381ed408e30b05e18f56455e",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 19,
+      "duration_changes": 10
+    }
+  ],
+  "hash_guard_passed": true,
+  "references_opened": false,
+  "frozen_template_sha256": "03e0523b64fceb9313f4656b19ba6ae9927bbb3cfcea13547329ecfed08d6faf"
+}

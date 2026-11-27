@@ -1,0 +1,31 @@
+{
+  "command": "copisteria/.venv/bin/python -m pytest -q benchmarks/sacred-harp-1911 copisteria/tests/test_front_write.py copisteria/tests/test_read_layout.py",
+  "passed": 188,
+  "seconds": 50.79,
+  "generation_code_frozen": true,
+  "validation_code_sha256": {
+    "summarize_rhythm_resolution.py": "1eed805f84d560dedfcbe24a565058da3084e6479821e7dd3e01c44ed49cf30b",
+    "verify_source_timing_cases.py": "497d5539f6ca3d9536a188999dd74e970d3c594539500af0f5921fd3a34446ec"
+  },
+  "defaults_enabled": false,
+  "gallery_updated": false,
+  "source_case_checks_passed": true,
+  "all_part_measure_spans_verified": 8334,
+  "reviewed_heads_retained": 18,
+  "adjudicated_durations_matched": 17,
+  "parent_artifact_hashes_and_file_sets_verified": {
+    "proposal_rhythm": 399,
+    "source_timing": 372
+  },
+  "remaining_shared_columns": 87,
+  "remaining_voice_decisions": 153,
+  "printed_meter_conflict_columns_preserved": 14,
+  "other_columns_for_source_review": 73,
+  "pd_regressions_vs_previous": 12,
+  "time_aware_regressions_vs_previous": 26,
+  "regression_union_vs_previous": 30,
+  "checkpoint_date": "2026-11-26",
+  "broad_enablement_ready": false,
+  "handoff_sha256": "5bbcdbf02cdbbfe8b65903079ad465da94ed9ba817663b7471b7f569c4f76592",
+  "generation_and_validation_python_unchanged": true
+}

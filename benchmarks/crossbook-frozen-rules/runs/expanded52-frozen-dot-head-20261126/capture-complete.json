@@ -1,0 +1,762 @@
+{
+  "cases": [
+    {
+      "id": "1911-Sacred-EMU-27-bethel",
+      "variant": "default",
+      "xml_sha256": "38df568f67bee69488a2d39e8ccda202c102abb533328043a4dbe4d9e585cc74",
+      "trace_sha256": "8fe2597ef52ac3a5a2a58e2e2d16c80bc3f46c87c49ef856c6525fd215ea9724",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/default/predictions/1911-Sacred-EMU-27-bethel.musicxml"
+    },
+    {
+      "id": "1911-Sacred-EMU-28t-aylesbury",
+      "variant": "default",
+      "xml_sha256": "df7c3d56d0749ae1c310b87002b3283432cc4eea9ed4684b048228d3370f7fe1",
+      "trace_sha256": "74af5afc8e3a417c948b32eb3fdd59c5407ae42524069b159e98fe4bcb0d0ab4",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/default/predictions/1911-Sacred-EMU-28t-aylesbury.musicxml"
+    },
+    {
+      "id": "1911-Sacred-EMU-28b-wells",
+      "variant": "default",
+      "xml_sha256": "c8840430be4d2ab9bcab6492a489fcb863c454356936641c8b532df12193246d",
+      "trace_sha256": "bce30c5510e923cdd8a3fdacfeb0c47b0be55a4156aa86683cb8233c7dd3c9af",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/default/predictions/1911-Sacred-EMU-28b-wells.musicxml"
+    },
+    {
+      "id": "1911-Sacred-EMU-30t-rochester",
+      "variant": "default",
+      "xml_sha256": "f6675858c054de5ffa5672f48a6a9ae47a99051d4c3e40177217a8d29fcac20e",
+      "trace_sha256": "6f31fe44047a2c881c8dd10400abdcfa3861ec447e72bbbb6fad0b10a65b62a1",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/default/predictions/1911-Sacred-EMU-30t-rochester.musicxml"
+    },
+    {
+      "id": "1911-Sacred-EMU-30b-prospect",
+      "variant": "default",
+      "xml_sha256": "100648a52bd4e746a4094a1af62fb60aa211b1345a86b4527c661bcbb2756940",
+      "trace_sha256": "516b8509b1726ad1160aa2560e73437b66ace1c76e401f1745151f5fd4dccfad",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/default/predictions/1911-Sacred-EMU-30b-prospect.musicxml"
+    },
+    {
+      "id": "1911-Sacred-EMU-45t-new-britain",
+      "variant": "default",
+      "xml_sha256": "1df717087bdd53b74dd9c7f5324b542d159a3bf2e79bc311634bae962d4aa6d7",
+      "trace_sha256": "81f9e480ce172d5854b32c9ee4734d6b6b5b75a73d0a1edf356b5716c59ae270",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/default/predictions/1911-Sacred-EMU-45t-new-britain.musicxml"
+    },
+    {
+      "id": "1911-Sacred-EMU-45b-supplication",
+      "variant": "default",
+      "xml_sha256": "75948b1d6e09d750ff8d313cca9c4bbbc52379d4008d3ed5284a197076cee6e4",
+      "trace_sha256": "dab2b7710fad52cf274a4da18eaf89d9aa2ce7ea5d70d393d4c308b58d0c0043",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/default/predictions/1911-Sacred-EMU-45b-supplication.musicxml"
+    },
+    {
+      "id": "1870-Sacred-MTS-27-bethel",
+      "variant": "default",
+      "xml_sha256": "42ecd28968f05cb480ed37d5a9b93504e14a6636157a024b494d5c10514f1452",
+      "trace_sha256": "c24089951e5506c43155eb687b512fed5f49fa08c35feb4d65ca499c4130e5fc",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/default/predictions/1870-Sacred-MTS-27-bethel.musicxml"
+    },
+    {
+      "id": "1870-Sacred-MTS-28t-aylesbury",
+      "variant": "default",
+      "xml_sha256": "f28e7b33a597fa9ce58de96fcb38a65b1d3fa13da1434764afa4b3eac5d9377c",
+      "trace_sha256": "d1329caeebe80c188e8e3f72cc538e660dc9ec880a7b8df3cf6b6043470b4987",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/default/predictions/1870-Sacred-MTS-28t-aylesbury.musicxml"
+    },
+    {
+      "id": "1870-Sacred-MTS-28b-wells",
+      "variant": "default",
+      "xml_sha256": "48dc2603574516c52594588b1b2a7446dea4a2e8438c191bc5ad49d74f13dcaf",
+      "trace_sha256": "96fd7e92859f7d10c1c731a2efb8531c7e56572d4a33d8341dd139a869781164",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/default/predictions/1870-Sacred-MTS-28b-wells.musicxml"
+    },
+    {
+      "id": "1870-Sacred-MTS-30t-rochester",
+      "variant": "default",
+      "xml_sha256": "4834e81a0ee531c7839dece8f744b5d3042aad8f825103e17620c67635ba941f",
+      "trace_sha256": "6ec342815ef2f53d2b5d35078ceb330b43ac20e643911ca9391a695c45f70ee5",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/default/predictions/1870-Sacred-MTS-30t-rochester.musicxml"
+    },
+    {
+      "id": "1870-Sacred-MTS-30b-prospect",
+      "variant": "default",
+      "xml_sha256": "4e575deacee0a278e229bca0b9c5b5e36154893ab963b2464ec7fc0343e9ff45",
+      "trace_sha256": "784918740bfe1e371dba23d440c31b68133e0b8e65fbc8b528fe25b335cb28ad",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/default/predictions/1870-Sacred-MTS-30b-prospect.musicxml"
+    },
+    {
+      "id": "1870-Sacred-MTS-45t-new-britain",
+      "variant": "default",
+      "xml_sha256": "f86f48c807e2794ed28c1dfc003cac5116c416787d03251178d9ec4dd77cf8d6",
+      "trace_sha256": "8634fea53e97ec7962bca2fd4a2b5e646b80d927b5a8672c25af8f426f410d33",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/default/predictions/1870-Sacred-MTS-45t-new-britain.musicxml"
+    },
+    {
+      "id": "1870-Sacred-MTS-45b-supplication",
+      "variant": "default",
+      "xml_sha256": "aedf2e7beec53807c18d879befd67fcb468ddb48d5b791d8ba458ada4ef4e4c8",
+      "trace_sha256": "c8ce86731413e05e11b1bf0eb759eb89657d97247ca9ef44d3cbb618696623ad",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/default/predictions/1870-Sacred-MTS-45b-supplication.musicxml"
+    },
+    {
+      "id": "1911-Sacred-EMU-48t-devotion",
+      "variant": "default",
+      "xml_sha256": "a79b7a1d4aa8247013caa829e95836ab404598979a4545fe1607ad4db25cdc50",
+      "trace_sha256": "fe5cf3b4ab1398064d79a2d5e6b9240f2b969ca7b4523d8213b9a8e80f986bfe",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-48b-kedron",
+      "variant": "default",
+      "xml_sha256": "be530a44b249627d8ebeb69be70a5c432e7f253ff7776a7b3d83e9eeaa8d93c1",
+      "trace_sha256": "f01c518604d4f7263b7ea7219c03a98d68b5e15617278fdafc83cc89d109f84a",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-64-nashville",
+      "variant": "default",
+      "xml_sha256": "9dc152bbd6afb9a5af2113fc6beb9e019eaca6b9e35d09d41197359c51e35314",
+      "trace_sha256": "3be2292ff4545527f0825b40d9592741277063c6a9fb715189efac73440ee070",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-82t-bound-for-canaan",
+      "variant": "default",
+      "xml_sha256": "865b649ede9e55b4ebd6a5ea38c61077a781b595990c53d9fff5a84487c5c4d9",
+      "trace_sha256": "c617df7f7a3105402a969dbb88062cf1c44fcd0585e1defdb3dcb76d003430ce",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-82b-edgefield",
+      "variant": "default",
+      "xml_sha256": "b427285463d3e98032fba256b57a975c2b677bcba21df4755e6500cb64bf6b64",
+      "trace_sha256": "7a0ad7b226b5ceae42f2aa2c775fca0ee9d3a287e59340bef0bb824589585ba1",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-100-the-bower-of-prayer",
+      "variant": "default",
+      "xml_sha256": "127f77a0270e033197a756551d412668f893dd60cee011a2265508fc39fa4f1c",
+      "trace_sha256": "d4fbcdb58f5e850da6524a909a772f8ebb14f0bf028c1e2b27c4cfeb9c47f8d9",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-122-all-is-well",
+      "variant": "default",
+      "xml_sha256": "b86fd83c1f71d66769f917960096215db8dd6a9d9fedda2d67094e270a03c0e1",
+      "trace_sha256": "407d3ef564dd6ac82cb153153fffdee195ef8ba5996e7fc010cf8c5b39dd70d9",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-146-hallelujah",
+      "variant": "default",
+      "xml_sha256": "109c1e963a5f3015e434e172a0f5266de9ca9a32a6c771bc9e088954f47348a2",
+      "trace_sha256": "6b57bfc1cd215734e51e930b2c53566c825b1f8340e7b8efabbee77c688411ea",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-170-exhilaration",
+      "variant": "default",
+      "xml_sha256": "316d34b43b8e1a2ffadd67bd17c094a2002aa3c7571025c423cf6e515410c0f6",
+      "trace_sha256": "909731a078b2251c8bd55e15a372b0bb1af94ee6baa57df9f21a610c90bdd4f0",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-202-new-lebanon",
+      "variant": "default",
+      "xml_sha256": "5e516d2c6b24a1dc2b02ac0be2e2c733795aebf3048642bc007b9e007a2a5731",
+      "trace_sha256": "258bab7a2e841df36e0900ad7730bd09c671fd60d4a3af59999f0e0ddc9d14bf",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-222-ocean",
+      "variant": "default",
+      "xml_sha256": "c733c990401c981610453f75f116779f57c181b9ca716e3a62be5c523e293b35",
+      "trace_sha256": "82fb2ab4b7b27f43368527680a563727ef1c0203ad066d26d9421d4131bfeb0f",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-270-confidence",
+      "variant": "default",
+      "xml_sha256": "fc82363358b6de1fa012a83ff41f7cc21e2f1560fbc8b163c8d63c8187173df5",
+      "trace_sha256": "ba1ed57898c9869f61923391a71b8e1df391020f0b3e199001a6a377af01d2b0",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-302-greenland",
+      "variant": "default",
+      "xml_sha256": "c87cc12725a3b764a2f19e2528e84361077ae3564646f5af371231aab82b71ac",
+      "trace_sha256": "577dd87e0ba89fa1ae00b84135394a79ebd5d1613db64daac78dd75b09ec4311",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-326-weary-pilgrim",
+      "variant": "default",
+      "xml_sha256": "04519919639ff34b41617194f31e498488be79695edce2b4bcd425eb88279fb9",
+      "trace_sha256": "dc163342637af99316378d954cebffbcd2d9d5a961427ef98b0cecbc3c0a20d2",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-354b-happy-land",
+      "variant": "default",
+      "xml_sha256": "58a5ab1a6f84e56f8fa1bf007b0c3d278b2a11f8259ad9616955d9c5d4dcdb7d",
+      "trace_sha256": "ce681a15b5670cf0c48c8ef6b5e37fb6f8e2efd8bab1dde038f077ad6100eddb",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-370-monroe",
+      "variant": "default",
+      "xml_sha256": "e84bd32fae4f2bb31bcec84bbc4f4b09dfc94fbc6cd91b6a5867cd1cd40f3e19",
+      "trace_sha256": "85dee5b60502708ec34b18ccb2a546d7d25d201c2b4ef1b25731b41295e8a5fc",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-402-protection",
+      "variant": "default",
+      "xml_sha256": "b825b9ecb2fe961c80520248685edf4d0010410974c3776548e79fc4d81c68c7",
+      "trace_sha256": "2740d2ad335cda31baaa122cca3442f35c4091cb10e843b65bcc4749b3659ab9",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-450-elder",
+      "variant": "default",
+      "xml_sha256": "2dec1686b81f5ad877a919f829cc1150f85a76b6423aed8925f1d0386a377816",
+      "trace_sha256": "69bb836da3e852c3f2a126a215cf12fdfa1e2cdf2a1e14caae1a8c6169cbe31f",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-470-sardis",
+      "variant": "default",
+      "xml_sha256": "467820cb698e68ef8db455f72c6cc276cd53953562829aab45508b9dd0b57c65",
+      "trace_sha256": "ae0d2e15cbc69a6b44806166f4f2bddaa86035609fe28c9e59e342ddf2079951",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-48t-devotion",
+      "variant": "default",
+      "xml_sha256": "210de19ae345155bb2878ce35cd1cd5517cfcb880f613aa2e7f14348a05778cd",
+      "trace_sha256": "5745677e55361a3fe463bbf633b872d32697f9e91a1cf36aa397a6c136626f77",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-48b-kedron",
+      "variant": "default",
+      "xml_sha256": "8a4c8c90f79d0f8f1be1aba727da9ce0ba8106eb76a5af7d03cea9c4e4992c8e",
+      "trace_sha256": "134bd4f47fc10294989e1519492e2450de031917f872a2e8af2cda3d9ca3ddc4",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-64-nashville",
+      "variant": "default",
+      "xml_sha256": "aa97256daa23a9d5141a5d9315ba1e39044b8e6a3da4ee03f59e903a55207330",
+      "trace_sha256": "e70cd8e42d7dcaf85884ce792fb5ffdba8e6ebe3627ee95f4c918d9c65a8d7e0",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-82t-bound-for-canaan",
+      "variant": "default",
+      "xml_sha256": "ceb5e660d059b9d80777a796e724d46a3599c120fb92aeb3f76dc979e7dc6b6e",
+      "trace_sha256": "194792bc7cea1f9eb74185520170d919870527cfae18ca1712767b253a15f467",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-82b-edgefield",
+      "variant": "default",
+      "xml_sha256": "8c755909200e6eb6917c9c51b820c20786b039570e5510ac207216e1afdc4729",
+      "trace_sha256": "18fcdf243fa2f55690a39672e8d77d36f2720b68824c67ff14baba9bfcac43bb",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-100-the-bower-of-prayer",
+      "variant": "default",
+      "xml_sha256": "246216eef8799185fa8457dc3a0108ab051ff56311ddc7b1d1b30c1070f5b8e9",
+      "trace_sha256": "b5fb9d8965c610778f9fcc3252ea9c8ed850009d6e05b09af8c82660927d08b4",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-122-all-is-well",
+      "variant": "default",
+      "xml_sha256": "a64c88c54fd95dc6484f7e0b761804969ffef3161dce520bdb5d778351fcdef2",
+      "trace_sha256": "879d0253659e57f6115e6fa472c49dcd7610e63dee2aa770ced52e124edc84ae",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-146-hallelujah",
+      "variant": "default",
+      "xml_sha256": "869e7f42d223b85360b63378b9c4d6f81ebf10201469d6309dcc87517d57e80d",
+      "trace_sha256": "03738322c27a2605709e4e1ae3ac05c15383341e591ef6897dd9e8e75147c8e3",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-170-exhilaration",
+      "variant": "default",
+      "xml_sha256": "488c45f35f038ad07b230a4f4b3a8468199c9f9689fd15a188db8c634c19736c",
+      "trace_sha256": "3e5a5219eefd15aa322384dea8b662f728c24c4b4aac63ec485c0a6351e7ed73",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-202-new-lebanon",
+      "variant": "default",
+      "xml_sha256": "7113c793199ff43dde062545ec1c02e13fc86c455ea33f3a666aa57d596ded92",
+      "trace_sha256": "62b9b50781bf2ee29e6a4118c4df7822386cfd6a5fca88301583584da5288779",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-222-ocean",
+      "variant": "default",
+      "xml_sha256": "6e200cdca3a6e680d8d53e6565f3b39b70dc89466c1b15e1fa95aa11e07f36d7",
+      "trace_sha256": "0f933baa0c9ddcf4505b0419864ece0a38f303fab3f63e49a025cc400be7e702",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-270-confidence",
+      "variant": "default",
+      "xml_sha256": "77efaf6f66d49990591aef816e798a012fede392ad4bf2cc5d863dbbe8019e3a",
+      "trace_sha256": "e34ab2de33efd9cd3b6c7f8be48182c008bd5b743344143796ac33691e49b618",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-302-greenland",
+      "variant": "default",
+      "xml_sha256": "450d93dcf72015630a2e1a14d2b181f2d69ae2dbf39018bf87569d74e8f7f485",
+      "trace_sha256": "e28a283c6fd96d729f3d761451757c8d9696a2ba91530a1c7071a19e02a58a72",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-326-weary-pilgrim",
+      "variant": "default",
+      "xml_sha256": "1dc57613dce0417894ed0561fa97286aef3d81dc7fc7773e55037cabc8ca5d5a",
+      "trace_sha256": "31b6688e0360d7744252e50b4caa873b9104d91207ddde5045ddeb73d0deed10",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-354b-happy-land",
+      "variant": "default",
+      "xml_sha256": "28f38f58679d8c938947d5cfa51ae2179a444b1bedf27b6ed2c0b90a0f279f11",
+      "trace_sha256": "5be00a6ac43660b40b0120bb772c6aa57ecdb0babbed37fcb93c656b2223f08d",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-370-monroe",
+      "variant": "default",
+      "xml_sha256": "0b20466d5acb13a0419397dd6c4b3b7b619a0fda750779af7d2faa89de1a85f4",
+      "trace_sha256": "181641d5be158097d9b409ceda6f5a03dcca3e9d069b9b6878cdb603a55e1c30",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-402-protection",
+      "variant": "default",
+      "xml_sha256": "90d229c1b701502e23c5c78743fbb45352b9c6fc79a3bcbbe575a3ceace6d23f",
+      "trace_sha256": "9230679d50378e14f45a056c2cb800b2be8cdc1cd8c50e008ca1d04a16f7902b",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-450-elder",
+      "variant": "default",
+      "xml_sha256": "f422e41879e65daad288c0056d6444ecc7957f7a2c3da735b1b254a3e2dce1bb",
+      "trace_sha256": "8a2e5eee2ab7386981697e0b5f789cfacf227cc91597f761fbeb887cf0e28cc2",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-470-sardis",
+      "variant": "default",
+      "xml_sha256": "29b94df06c81962b4c6839cd2d177c9f9a62385790c2381c9cfbfafe79953372",
+      "trace_sha256": "ac22775d6544970814e9b71f5f5063e9634293d6e6b43b90dbdccfa981f565a0",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-27-bethel",
+      "variant": "clean_layout",
+      "xml_sha256": "2299e4c917f55166d65fcce177c55785556379a1df7de89a3af3eb9de022f2db",
+      "trace_sha256": "5afd3e7b6ef72c8eb6d69d9ec81cc6200e4a1c735f73113a4c2058aadde61ad9",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/clean_layout/predictions/1911-Sacred-EMU-27-bethel.musicxml"
+    },
+    {
+      "id": "1911-Sacred-EMU-28t-aylesbury",
+      "variant": "clean_layout",
+      "xml_sha256": "3d5dc6445d068fd44a8597db2c6424262966bad1628173e158b8a5dee2ae5e14",
+      "trace_sha256": "2c12e346ef310ee29396632da9a7b0123415006b40fde9c88f32820db2a0ab30",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/clean_layout/predictions/1911-Sacred-EMU-28t-aylesbury.musicxml"
+    },
+    {
+      "id": "1911-Sacred-EMU-28b-wells",
+      "variant": "clean_layout",
+      "xml_sha256": "c8840430be4d2ab9bcab6492a489fcb863c454356936641c8b532df12193246d",
+      "trace_sha256": "bce30c5510e923cdd8a3fdacfeb0c47b0be55a4156aa86683cb8233c7dd3c9af",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/clean_layout/predictions/1911-Sacred-EMU-28b-wells.musicxml"
+    },
+    {
+      "id": "1911-Sacred-EMU-30t-rochester",
+      "variant": "clean_layout",
+      "xml_sha256": "f6675858c054de5ffa5672f48a6a9ae47a99051d4c3e40177217a8d29fcac20e",
+      "trace_sha256": "6f31fe44047a2c881c8dd10400abdcfa3861ec447e72bbbb6fad0b10a65b62a1",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/clean_layout/predictions/1911-Sacred-EMU-30t-rochester.musicxml"
+    },
+    {
+      "id": "1911-Sacred-EMU-30b-prospect",
+      "variant": "clean_layout",
+      "xml_sha256": "100648a52bd4e746a4094a1af62fb60aa211b1345a86b4527c661bcbb2756940",
+      "trace_sha256": "516b8509b1726ad1160aa2560e73437b66ace1c76e401f1745151f5fd4dccfad",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/clean_layout/predictions/1911-Sacred-EMU-30b-prospect.musicxml"
+    },
+    {
+      "id": "1911-Sacred-EMU-45t-new-britain",
+      "variant": "clean_layout",
+      "xml_sha256": "1df717087bdd53b74dd9c7f5324b542d159a3bf2e79bc311634bae962d4aa6d7",
+      "trace_sha256": "49b81a07702d9b450627b1225c85a30c00d9c0d47876a9af0169d5c47daae523",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/clean_layout/predictions/1911-Sacred-EMU-45t-new-britain.musicxml"
+    },
+    {
+      "id": "1911-Sacred-EMU-45b-supplication",
+      "variant": "clean_layout",
+      "xml_sha256": "bc404f62b54cd10bab0e808fa82a9191e2ab9301ec721fa33794b1a35e0b61d8",
+      "trace_sha256": "1b077c3d6f3f0cb74b6b1b446e9d021cda4c4105d326b079acc64332de37a865",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/clean_layout/predictions/1911-Sacred-EMU-45b-supplication.musicxml"
+    },
+    {
+      "id": "1870-Sacred-MTS-27-bethel",
+      "variant": "clean_layout",
+      "xml_sha256": "42ecd28968f05cb480ed37d5a9b93504e14a6636157a024b494d5c10514f1452",
+      "trace_sha256": "e9361286d3dda4607391febfcddebe2ebbc986747e2f7a06efb3aa3417dffb2e",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/clean_layout/predictions/1870-Sacred-MTS-27-bethel.musicxml"
+    },
+    {
+      "id": "1870-Sacred-MTS-28t-aylesbury",
+      "variant": "clean_layout",
+      "xml_sha256": "62e040472a39519b9ba5e847a34853efdb1f18a4b9fb78536d2c688cabe357fc",
+      "trace_sha256": "e32ff50124d55f7fbdf334c278641ba3784435d003c4ff7787accae9d73b363c",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/clean_layout/predictions/1870-Sacred-MTS-28t-aylesbury.musicxml"
+    },
+    {
+      "id": "1870-Sacred-MTS-28b-wells",
+      "variant": "clean_layout",
+      "xml_sha256": "48dc2603574516c52594588b1b2a7446dea4a2e8438c191bc5ad49d74f13dcaf",
+      "trace_sha256": "96fd7e92859f7d10c1c731a2efb8531c7e56572d4a33d8341dd139a869781164",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/clean_layout/predictions/1870-Sacred-MTS-28b-wells.musicxml"
+    },
+    {
+      "id": "1870-Sacred-MTS-30t-rochester",
+      "variant": "clean_layout",
+      "xml_sha256": "4834e81a0ee531c7839dece8f744b5d3042aad8f825103e17620c67635ba941f",
+      "trace_sha256": "570b24a40a9e8f999578a4d6e94a8be12c56dc087a12784b4c57fcddca57d53d",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/clean_layout/predictions/1870-Sacred-MTS-30t-rochester.musicxml"
+    },
+    {
+      "id": "1870-Sacred-MTS-30b-prospect",
+      "variant": "clean_layout",
+      "xml_sha256": "4e575deacee0a278e229bca0b9c5b5e36154893ab963b2464ec7fc0343e9ff45",
+      "trace_sha256": "11c59661baa4bae538f037e1ad93c5d1c42e6057a208473c15679087eaea1772",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/clean_layout/predictions/1870-Sacred-MTS-30b-prospect.musicxml"
+    },
+    {
+      "id": "1870-Sacred-MTS-45t-new-britain",
+      "variant": "clean_layout",
+      "xml_sha256": "f86f48c807e2794ed28c1dfc003cac5116c416787d03251178d9ec4dd77cf8d6",
+      "trace_sha256": "78ec14e4cf0bcab0015092e5dd38304cf5ec81686d41eddfb2eab76171c9c2c1",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/clean_layout/predictions/1870-Sacred-MTS-45t-new-britain.musicxml"
+    },
+    {
+      "id": "1870-Sacred-MTS-45b-supplication",
+      "variant": "clean_layout",
+      "xml_sha256": "84f6c9bb0f38a6a02e423062ba56459156db3b048bea3139ec0ce62df5aa5dad",
+      "trace_sha256": "cbd574f4cfa3e6c34f1743bc86c0bdb60e77696eb66d52bc091721c2c4a2a32c",
+      "sealed_pilot_score_xml_identical": true,
+      "cache_origin": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/seeds/clean_layout/predictions/1870-Sacred-MTS-45b-supplication.musicxml"
+    },
+    {
+      "id": "1911-Sacred-EMU-48t-devotion",
+      "variant": "clean_layout",
+      "xml_sha256": "a79b7a1d4aa8247013caa829e95836ab404598979a4545fe1607ad4db25cdc50",
+      "trace_sha256": "fe5cf3b4ab1398064d79a2d5e6b9240f2b969ca7b4523d8213b9a8e80f986bfe",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-48b-kedron",
+      "variant": "clean_layout",
+      "xml_sha256": "13f10ad5399b5d365c76ea767c4ec34c9c512d8ab5ee7be5318f4a518d67affe",
+      "trace_sha256": "40d721a989b590e8a316d17ac10fc9e1b23b74a9f52fe368d44fe9805e20ba44",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-64-nashville",
+      "variant": "clean_layout",
+      "xml_sha256": "94868ae93ac360774f3f05aa07451e62b6a39eb479713d297f34a5af4dd4f054",
+      "trace_sha256": "3e51d6ab3f1039c55512edd066e826d607a7c32580606d3e6ac3cf26147edd8c",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-82t-bound-for-canaan",
+      "variant": "clean_layout",
+      "xml_sha256": "865b649ede9e55b4ebd6a5ea38c61077a781b595990c53d9fff5a84487c5c4d9",
+      "trace_sha256": "80f506724b184b028e54af56ccf6da1682858eea6b54e3d3924f99ca67f41582",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-82b-edgefield",
+      "variant": "clean_layout",
+      "xml_sha256": "b427285463d3e98032fba256b57a975c2b677bcba21df4755e6500cb64bf6b64",
+      "trace_sha256": "3257346a55ba84f186515a579454fa889a20bfbb6487ad4da9caee1349f22827",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-100-the-bower-of-prayer",
+      "variant": "clean_layout",
+      "xml_sha256": "127f77a0270e033197a756551d412668f893dd60cee011a2265508fc39fa4f1c",
+      "trace_sha256": "f18c6a2063140b1d91390cddb1ae40da7f096bcac3a9787a38acc8b689123f66",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-122-all-is-well",
+      "variant": "clean_layout",
+      "xml_sha256": "b3695b22ae8dcad0b2f7f161c22e4de5ef718e3888566cc4fcf786e1331c3c35",
+      "trace_sha256": "c29c8def90032807b483e93534e7a171cbbdb9d1dd63724c450a33c69b158cb4",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-146-hallelujah",
+      "variant": "clean_layout",
+      "xml_sha256": "109c1e963a5f3015e434e172a0f5266de9ca9a32a6c771bc9e088954f47348a2",
+      "trace_sha256": "09a1d7c0ab243713730fd97939bc01f3a904d5193cb786b3e1386b7ea915a584",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-170-exhilaration",
+      "variant": "clean_layout",
+      "xml_sha256": "316d34b43b8e1a2ffadd67bd17c094a2002aa3c7571025c423cf6e515410c0f6",
+      "trace_sha256": "909731a078b2251c8bd55e15a372b0bb1af94ee6baa57df9f21a610c90bdd4f0",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-202-new-lebanon",
+      "variant": "clean_layout",
+      "xml_sha256": "5e516d2c6b24a1dc2b02ac0be2e2c733795aebf3048642bc007b9e007a2a5731",
+      "trace_sha256": "258bab7a2e841df36e0900ad7730bd09c671fd60d4a3af59999f0e0ddc9d14bf",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-222-ocean",
+      "variant": "clean_layout",
+      "xml_sha256": "261a28f6e1a4e374fc303551c1cba0658b330133cc89337e744076dbf04550e0",
+      "trace_sha256": "95a742947b7334cde85219c030cd48cef1d495e077c3a62cb620776d0b5d3684",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-270-confidence",
+      "variant": "clean_layout",
+      "xml_sha256": "4162b80c7b23610e18e1cde309f7ea078472f4455d827ec4a2d13260cdd18356",
+      "trace_sha256": "9a56c85d6fac329ee579297d9bc4b9c92fb588e620c27e1c94602cb51b033651",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-302-greenland",
+      "variant": "clean_layout",
+      "xml_sha256": "049fac1c7cd27780d22e9d39e8ac1cc9cfb86c5144cc1eb5f77b2c99ab24c6b6",
+      "trace_sha256": "1b316674d6eca19235d593c91244ab3d7d6597d884e62e9f4de9f8de43c4dcc0",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-326-weary-pilgrim",
+      "variant": "clean_layout",
+      "xml_sha256": "b5b900c1b77184734bd7d420a36d172edc58e9e6afd65fed9a80e3f654266df3",
+      "trace_sha256": "6e25ea1bde053b1d351f73cbec423e9718e863e330f0984c4791d9aede0a07a1",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-354b-happy-land",
+      "variant": "clean_layout",
+      "xml_sha256": "58a5ab1a6f84e56f8fa1bf007b0c3d278b2a11f8259ad9616955d9c5d4dcdb7d",
+      "trace_sha256": "e683ae105bd1a325599ef23e67b0ce83c58dd7bfe6bbbb3b77373f0d9db078ec",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-370-monroe",
+      "variant": "clean_layout",
+      "xml_sha256": "9616a381a2e69abaebdcbf08f9e85025b000fc380fc40066ad886e15ffc87152",
+      "trace_sha256": "b3135c1553615009069b71b47fd8ea6d9efc219edf74ac44a242b50140f021a4",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-402-protection",
+      "variant": "clean_layout",
+      "xml_sha256": "b825b9ecb2fe961c80520248685edf4d0010410974c3776548e79fc4d81c68c7",
+      "trace_sha256": "2740d2ad335cda31baaa122cca3442f35c4091cb10e843b65bcc4749b3659ab9",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-450-elder",
+      "variant": "clean_layout",
+      "xml_sha256": "be354e49e35b2d99fed8f2b853c7c5b94cb34cafa04b2e2702f2361b2332c289",
+      "trace_sha256": "3e79edb580eeb2b4f9b9806a447e2133a916df638a66277855e5bf24ff59003f",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1911-Sacred-EMU-470-sardis",
+      "variant": "clean_layout",
+      "xml_sha256": "7dd565afca242da4842af0990891219b6cdeceb4065417adc5ca395949f48c50",
+      "trace_sha256": "474dcc8bb97dac393bbb83b5a44695ee3e72b2a89612c95d662e742980a456e6",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-48t-devotion",
+      "variant": "clean_layout",
+      "xml_sha256": "210de19ae345155bb2878ce35cd1cd5517cfcb880f613aa2e7f14348a05778cd",
+      "trace_sha256": "9704617cc4148362e07688d2cb594880c31a10a13167f6190cd10da7684f0f30",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-48b-kedron",
+      "variant": "clean_layout",
+      "xml_sha256": "206a7995c0708307367f17dc088fdfd837be4b6326b1259adbe3191103aa5a83",
+      "trace_sha256": "27417e4036e07b4f9aa5cfb65a11b6ecd9142ebceb635ed02f7861af167dfc4f",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-64-nashville",
+      "variant": "clean_layout",
+      "xml_sha256": "aa97256daa23a9d5141a5d9315ba1e39044b8e6a3da4ee03f59e903a55207330",
+      "trace_sha256": "7d58755a31b8cb1f70f04dd1e369bf9d0c162f89c3068a9b7a0350f7f4c8a261",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-82t-bound-for-canaan",
+      "variant": "clean_layout",
+      "xml_sha256": "ceb5e660d059b9d80777a796e724d46a3599c120fb92aeb3f76dc979e7dc6b6e",
+      "trace_sha256": "6e04e815b9bcebafe5a172ae624064c5ea5f2464620b4eae1de31b928a9b3204",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-82b-edgefield",
+      "variant": "clean_layout",
+      "xml_sha256": "8c755909200e6eb6917c9c51b820c20786b039570e5510ac207216e1afdc4729",
+      "trace_sha256": "95f04ad2d14ce15d9646bc2b6e5b2fb9c6194337b0412e71eb797be14cd44bef",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-100-the-bower-of-prayer",
+      "variant": "clean_layout",
+      "xml_sha256": "59854b71e5fdde6d13eee23854c5bb5db90fb6573407ecc68d4e571b5b14337b",
+      "trace_sha256": "46d08cbee8efb5391900f1d0ae8fb38f5a1b357bce9a36ea844100b5be23e265",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-122-all-is-well",
+      "variant": "clean_layout",
+      "xml_sha256": "87007ba8c3f4cacc6f549709707cd9bf32a1243259a6629604c2cf9554814eee",
+      "trace_sha256": "d5b8f6108c3a9def2a050960e596a98edf1a550081906e5a9f69478cb34031c3",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-146-hallelujah",
+      "variant": "clean_layout",
+      "xml_sha256": "b96f3afbc6e856f8f8c38a21ce7b3c45e209d52c411a70ff82c218239fd534b2",
+      "trace_sha256": "f5a12b25280f201cb83575216e17ebeb3a79b3869d42caec53fd11747af2fb28",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-170-exhilaration",
+      "variant": "clean_layout",
+      "xml_sha256": "7cd45e8b0ff223b579c86646e88f70b8fda95052479dc6fd2ebaa1167c99c14c",
+      "trace_sha256": "57c501c9f445603c315d8b26db0c610859c277495d56bcb2d585c3a35bbba10f",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-202-new-lebanon",
+      "variant": "clean_layout",
+      "xml_sha256": "7113c793199ff43dde062545ec1c02e13fc86c455ea33f3a666aa57d596ded92",
+      "trace_sha256": "b61921c05b1099c4e80c76dd7d09ad6dbd397603fa5f8687232d283ac60a7053",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-222-ocean",
+      "variant": "clean_layout",
+      "xml_sha256": "6e200cdca3a6e680d8d53e6565f3b39b70dc89466c1b15e1fa95aa11e07f36d7",
+      "trace_sha256": "aa161625749acacf4692bf9aa4d311b4391f7ba591876964ca2eef4ef6ac6054",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-270-confidence",
+      "variant": "clean_layout",
+      "xml_sha256": "3256acb3dc79a737722029479b5e9d1b79ccef209ba563c4317917f3f10d21c8",
+      "trace_sha256": "0e330fab365d53b1b70e6cb4aa8f8bd88ea91937dfd06cade9e52aa002dfd6ce",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-302-greenland",
+      "variant": "clean_layout",
+      "xml_sha256": "8dcfce1c0af2336b101b2f659d08f84b78f244b8e0f7ce5f298c29cf821faf8b",
+      "trace_sha256": "f1e9048b51b4da2ee2b4df09c39363154aca3dee9b3c851adf95f9df0ac3df47",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-326-weary-pilgrim",
+      "variant": "clean_layout",
+      "xml_sha256": "9637769d34c132d1c6da679f8db3a42d7be1d85275b1e81b00f4093b647c6465",
+      "trace_sha256": "5936b7fa0c202239ccf90b133c0e71bb7ba6027149aa2c656c96da850d63ce89",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-354b-happy-land",
+      "variant": "clean_layout",
+      "xml_sha256": "fe6034a4410ff02fbe208a52b6e6668be1766e803eea18d68d15dbcdc8dc2844",
+      "trace_sha256": "8f886558775ac0fc01b5768b3916bfe2014d80bef5fefa52bdec1b9935c3eb8c",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-370-monroe",
+      "variant": "clean_layout",
+      "xml_sha256": "5d079bb6568d6647b014eb214f3c29cd9670c08d88afbbaa604ccc1ad04fb713",
+      "trace_sha256": "4b9f74e7784f8ee5e7020ab4ea1d7baa78362f187efa050161f4024441b22e99",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-402-protection",
+      "variant": "clean_layout",
+      "xml_sha256": "90d229c1b701502e23c5c78743fbb45352b9c6fc79a3bcbbe575a3ceace6d23f",
+      "trace_sha256": "9df1f90c4eaaf6836bac93e4069530d96f7fe2cad111fc781afb14a79b6e31ff",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-450-elder",
+      "variant": "clean_layout",
+      "xml_sha256": "40fcdf97a4867809658e9704d3728aa286b3b6b6c6cf394f957f9d49ec2b3faf",
+      "trace_sha256": "ccb05c954547ce85de8a6138e4f2196a08dec453a67d516dffe5159cd184a627",
+      "sealed_pilot_score_xml_identical": null
+    },
+    {
+      "id": "1870-Sacred-MTS-470-sardis",
+      "variant": "clean_layout",
+      "xml_sha256": "d1d6ce61a8464210061ced679e0ff6cf64cd5dccc421ff5ff81e131282da9e91",
+      "trace_sha256": "2b3367d6bd1a4098c1e0a5e41809f02634f579cb3e89e331cbb53b38693a1212",
+      "sealed_pilot_score_xml_identical": null
+    }
+  ],
+  "hash_guard_passed": true,
+  "references_opened": false
+}

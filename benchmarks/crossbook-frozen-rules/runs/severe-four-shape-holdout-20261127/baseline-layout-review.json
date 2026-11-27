@@ -1,0 +1,460 @@
+{
+  "review_after_inference": true,
+  "source_staff_grouping_basis": "Original complete source tunes, no reference score. Locked manifest already binds total source staff count; system grouping reviewed from same source pages.",
+  "cases": [
+    {
+      "id": "1835-Southern-1-liverpool",
+      "variant": "default",
+      "source_expected_staff_count": 3,
+      "baseline_staff_count": 3,
+      "source_expected_system_groups": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "baseline_system_groups": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "correct_system_grouping": true
+    },
+    {
+      "id": "1835-Southern-1-liverpool",
+      "variant": "clean_layout",
+      "source_expected_staff_count": 3,
+      "baseline_staff_count": 3,
+      "source_expected_system_groups": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "baseline_system_groups": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "correct_system_grouping": true
+    },
+    {
+      "id": "1835-Southern-2-invitation",
+      "variant": "default",
+      "source_expected_staff_count": 6,
+      "baseline_staff_count": 6,
+      "source_expected_system_groups": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5
+        ]
+      ],
+      "baseline_system_groups": [
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ]
+      ],
+      "correct_system_grouping": false
+    },
+    {
+      "id": "1835-Southern-2-invitation",
+      "variant": "clean_layout",
+      "source_expected_staff_count": 6,
+      "baseline_staff_count": 6,
+      "source_expected_system_groups": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5
+        ]
+      ],
+      "baseline_system_groups": [
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ]
+      ],
+      "correct_system_grouping": false
+    },
+    {
+      "id": "1835-Southern-4-meditation",
+      "variant": "default",
+      "source_expected_staff_count": 3,
+      "baseline_staff_count": 3,
+      "source_expected_system_groups": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "baseline_system_groups": [
+        [
+          0,
+          1
+        ],
+        [
+          2
+        ]
+      ],
+      "correct_system_grouping": false
+    },
+    {
+      "id": "1835-Southern-4-meditation",
+      "variant": "clean_layout",
+      "source_expected_staff_count": 3,
+      "baseline_staff_count": 3,
+      "source_expected_system_groups": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "baseline_system_groups": [
+        [
+          0,
+          1
+        ],
+        [
+          2
+        ]
+      ],
+      "correct_system_grouping": false
+    },
+    {
+      "id": "1835-Southern-4-hanover",
+      "variant": "default",
+      "source_expected_staff_count": 3,
+      "baseline_staff_count": 3,
+      "source_expected_system_groups": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "baseline_system_groups": [
+        [
+          0,
+          1
+        ],
+        [
+          2
+        ]
+      ],
+      "correct_system_grouping": false
+    },
+    {
+      "id": "1835-Southern-4-hanover",
+      "variant": "clean_layout",
+      "source_expected_staff_count": 3,
+      "baseline_staff_count": 3,
+      "source_expected_system_groups": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "baseline_system_groups": [
+        [
+          0,
+          1
+        ],
+        [
+          2
+        ]
+      ],
+      "correct_system_grouping": false
+    },
+    {
+      "id": "1835-Southern-9-converted-thief",
+      "variant": "default",
+      "source_expected_staff_count": 6,
+      "baseline_staff_count": 6,
+      "source_expected_system_groups": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5
+        ]
+      ],
+      "baseline_system_groups": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5
+        ]
+      ],
+      "correct_system_grouping": true
+    },
+    {
+      "id": "1835-Southern-9-converted-thief",
+      "variant": "clean_layout",
+      "source_expected_staff_count": 6,
+      "baseline_staff_count": 6,
+      "source_expected_system_groups": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5
+        ]
+      ],
+      "baseline_system_groups": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5
+        ]
+      ],
+      "correct_system_grouping": true
+    },
+    {
+      "id": "1835-Southern-12-salem",
+      "variant": "default",
+      "source_expected_staff_count": 6,
+      "baseline_staff_count": 6,
+      "source_expected_system_groups": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5
+        ]
+      ],
+      "baseline_system_groups": [
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ]
+      ],
+      "correct_system_grouping": false
+    },
+    {
+      "id": "1835-Southern-12-salem",
+      "variant": "clean_layout",
+      "source_expected_staff_count": 6,
+      "baseline_staff_count": 6,
+      "source_expected_system_groups": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5
+        ]
+      ],
+      "baseline_system_groups": [
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ]
+      ],
+      "correct_system_grouping": false
+    },
+    {
+      "id": "1835-Southern-13-dublin",
+      "variant": "default",
+      "source_expected_staff_count": 4,
+      "baseline_staff_count": 4,
+      "source_expected_system_groups": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "baseline_system_groups": [
+        [
+          0,
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ]
+      ],
+      "correct_system_grouping": false
+    },
+    {
+      "id": "1835-Southern-13-dublin",
+      "variant": "clean_layout",
+      "source_expected_staff_count": 4,
+      "baseline_staff_count": 4,
+      "source_expected_system_groups": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "baseline_system_groups": [
+        [
+          0,
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ]
+      ],
+      "correct_system_grouping": false
+    },
+    {
+      "id": "1835-Southern-13-devotion",
+      "variant": "default",
+      "source_expected_staff_count": 3,
+      "baseline_staff_count": 3,
+      "source_expected_system_groups": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "baseline_system_groups": [
+        [
+          0,
+          1
+        ],
+        [
+          2
+        ]
+      ],
+      "correct_system_grouping": false
+    },
+    {
+      "id": "1835-Southern-13-devotion",
+      "variant": "clean_layout",
+      "source_expected_staff_count": 3,
+      "baseline_staff_count": 3,
+      "source_expected_system_groups": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "baseline_system_groups": [
+        [
+          0,
+          1
+        ],
+        [
+          2
+        ]
+      ],
+      "correct_system_grouping": false
+    }
+  ],
+  "staff_count_mismatches": 0,
+  "system_grouping_failures": 12
+}

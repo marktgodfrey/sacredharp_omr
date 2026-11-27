@@ -1,0 +1,405 @@
+{
+  "review_order": "Source adjudication completed before opening 2025 reference scores",
+  "all_current_non_head_removals_reviewed": true,
+  "current_non_head_removals": 0,
+  "changed_distinct_objects": 4,
+  "abstention_occurrences": 8,
+  "retained_artifacts": 4,
+  "confirmed_genuine_heads_rescued_in_holdout": 0,
+  "confirmed_genuine_heads_deleted_by_revision": 0,
+  "heldout_damaged_head_protection_directly_exercised": false,
+  "rules_tuned_after_holdout": false,
+  "cases": [
+    {
+      "id": "1860-Sacred-IMSLP-145-hallelujah",
+      "symbol_id": 326,
+      "source_input": "inputs/1860-Sacred-IMSLP-145-hallelujah.png",
+      "source_box": [
+        1269.7,
+        669.0,
+        1287.3,
+        683.2
+      ],
+      "crop_box": [
+        1232,
+        624,
+        1324,
+        727
+      ],
+      "crop_file": "source-1860-Sacred-IMSLP-145-hallelujah-326.png",
+      "layouts": [
+        "default",
+        "clean_layout"
+      ],
+      "abstention_evidence": {
+        "line_or_blemish": false,
+        "abstained": true,
+        "reason": "unexplained_ink_may_be_damaged_or_mislocalized_head",
+        "verification": {
+          "stem_found": false,
+          "stem_score": 0.0,
+          "direction": null,
+          "stem_x": null,
+          "reason": "no_head_ink",
+          "head_ink_fraction": 0.074,
+          "supported_quadrants": 3,
+          "ink_threshold": 130.0
+        },
+        "morphology": {
+          "central_ink_fraction": 0.0,
+          "edge_coverage": {
+            "top": 0.15789473684210525,
+            "bottom": 0.3157894736842105,
+            "left": 0.6666666666666666,
+            "right": 0.2
+          },
+          "hollow_square": false,
+          "enclosed_white_area_fraction": 0.0,
+          "largest_hole_pixels": 0,
+          "hollow_head": false
+        },
+        "threshold": 130.0,
+        "supported_staff_rows": [
+          682,
+          683
+        ],
+        "unexplained_ink_pixels": 21,
+        "remaining_components": [
+          {
+            "area": 3,
+            "box": [
+              1285,
+              669,
+              1288,
+              670
+            ]
+          },
+          {
+            "area": 18,
+            "box": [
+              1269,
+              674,
+              1272,
+              682
+            ]
+          }
+        ]
+      },
+      "source_sha256": "7f617b25e10b841fe907f7495157ab6ec310f80c07e7fcb10d64dd3b864f7a18",
+      "source_review_status": "artifact_retained_due_to_conservative_abstention",
+      "source_finding": "Upper stem/staff intersection above a separate square head; the rejected candidate box has no independent head body.",
+      "source_duration_adjudicated": false
+    },
+    {
+      "id": "1860-Sacred-IMSLP-145-hallelujah",
+      "symbol_id": 328,
+      "source_input": "inputs/1860-Sacred-IMSLP-145-hallelujah.png",
+      "source_box": [
+        721.7,
+        843.9,
+        737.4,
+        861.0
+      ],
+      "crop_box": [
+        684,
+        799,
+        774,
+        905
+      ],
+      "crop_file": "source-1860-Sacred-IMSLP-145-hallelujah-328.png",
+      "layouts": [
+        "default",
+        "clean_layout"
+      ],
+      "abstention_evidence": {
+        "line_or_blemish": false,
+        "abstained": true,
+        "reason": "unexplained_ink_may_be_damaged_or_mislocalized_head",
+        "verification": {
+          "stem_found": false,
+          "stem_score": 0.0,
+          "direction": null,
+          "stem_x": null,
+          "reason": "no_head_ink",
+          "head_ink_fraction": 0.121,
+          "supported_quadrants": 2,
+          "ink_threshold": 130.0
+        },
+        "morphology": {
+          "central_ink_fraction": 0.1,
+          "edge_coverage": {
+            "top": 0.5294117647058824,
+            "bottom": 1.0,
+            "left": 0.3333333333333333,
+            "right": 0.4444444444444444
+          },
+          "hollow_square": false,
+          "enclosed_white_area_fraction": 0.0,
+          "largest_hole_pixels": 0,
+          "hollow_head": false
+        },
+        "threshold": 130.0,
+        "supported_staff_rows": [
+          856,
+          857
+        ],
+        "unexplained_ink_pixels": 37,
+        "remaining_components": [
+          {
+            "area": 1,
+            "box": [
+              721,
+              843,
+              722,
+              844
+            ]
+          },
+          {
+            "area": 26,
+            "box": [
+              730,
+              843,
+              738,
+              849
+            ]
+          },
+          {
+            "area": 10,
+            "box": [
+              722,
+              858,
+              727,
+              861
+            ]
+          }
+        ]
+      },
+      "source_sha256": "7f617b25e10b841fe907f7495157ab6ec310f80c07e7fcb10d64dd3b864f7a18",
+      "source_review_status": "artifact_retained_due_to_conservative_abstention",
+      "source_finding": "Lower edge/stem-line fragment below the triangle. Correctly located triangle symbol 179 remains selected; 328 is an extra interpretation, not a second physical head.",
+      "source_duration_adjudicated": false
+    },
+    {
+      "id": "1860-Sacred-IMSLP-45b-supplication",
+      "symbol_id": 234,
+      "source_input": "inputs/1860-Sacred-IMSLP-45b-supplication.png",
+      "source_box": [
+        1247.6,
+        151.7,
+        1263.7,
+        164.5
+      ],
+      "crop_box": [
+        1211,
+        108,
+        1300,
+        208
+      ],
+      "crop_file": "source-1860-Sacred-IMSLP-45b-supplication-234.png",
+      "layouts": [
+        "default",
+        "clean_layout"
+      ],
+      "abstention_evidence": {
+        "line_or_blemish": false,
+        "abstained": true,
+        "reason": "unexplained_ink_may_be_damaged_or_mislocalized_head",
+        "verification": {
+          "stem_found": false,
+          "stem_score": 0.0,
+          "direction": null,
+          "stem_x": null,
+          "reason": "no_head_ink",
+          "head_ink_fraction": 0.067,
+          "supported_quadrants": 3,
+          "ink_threshold": 130.0
+        },
+        "morphology": {
+          "central_ink_fraction": 0.0,
+          "edge_coverage": {
+            "top": 0.058823529411764705,
+            "bottom": 1.0,
+            "left": 0.42857142857142855,
+            "right": 0.35714285714285715
+          },
+          "hollow_square": false,
+          "enclosed_white_area_fraction": 0.0,
+          "largest_hole_pixels": 0,
+          "hollow_head": false
+        },
+        "threshold": 130.0,
+        "supported_staff_rows": [
+          162,
+          163
+        ],
+        "unexplained_ink_pixels": 16,
+        "remaining_components": [
+          {
+            "area": 3,
+            "box": [
+              1263,
+              154,
+              1264,
+              157
+            ]
+          },
+          {
+            "area": 8,
+            "box": [
+              1247,
+              155,
+              1251,
+              158
+            ]
+          },
+          {
+            "area": 5,
+            "box": [
+              1248,
+              164,
+              1253,
+              165
+            ]
+          }
+        ]
+      },
+      "source_sha256": "1808f382e1331dadc4a7a23ec70d7a25f77746c362aef90e088393bc7c52c620",
+      "source_review_status": "artifact_retained_due_to_conservative_abstention",
+      "source_finding": "Staff stroke and upper stem region above the retained real triangular head 162; no independent head inside the proposed higher box.",
+      "source_duration_adjudicated": false
+    },
+    {
+      "id": "1860-Sacred-IMSLP-82t-bound-for-canaan",
+      "symbol_id": 255,
+      "source_input": "inputs/1860-Sacred-IMSLP-82t-bound-for-canaan.png",
+      "source_box": [
+        136.1,
+        88.7,
+        150.6,
+        104.2
+      ],
+      "crop_box": [
+        100,
+        46,
+        185,
+        146
+      ],
+      "crop_file": "source-1860-Sacred-IMSLP-82t-bound-for-canaan-255.png",
+      "layouts": [
+        "default",
+        "clean_layout"
+      ],
+      "abstention_evidence": {
+        "line_or_blemish": false,
+        "abstained": true,
+        "reason": "unexplained_ink_may_be_damaged_or_mislocalized_head",
+        "verification": {
+          "stem_found": false,
+          "stem_score": 0.0,
+          "direction": null,
+          "stem_x": null,
+          "reason": "no_head_ink",
+          "head_ink_fraction": 0.161,
+          "supported_quadrants": 4,
+          "ink_threshold": 130.0
+        },
+        "morphology": {
+          "central_ink_fraction": 0.20987654320987653,
+          "edge_coverage": {
+            "top": 0.4666666666666667,
+            "bottom": 0.4666666666666667,
+            "left": 0.23529411764705882,
+            "right": 0.35294117647058826
+          },
+          "hollow_square": false,
+          "enclosed_white_area_fraction": 0.0,
+          "largest_hole_pixels": 0,
+          "hollow_head": false
+        },
+        "threshold": 130.0,
+        "supported_staff_rows": [
+          96
+        ],
+        "unexplained_ink_pixels": 41,
+        "remaining_components": [
+          {
+            "area": 4,
+            "box": [
+              136,
+              89,
+              140,
+              90
+            ]
+          },
+          {
+            "area": 1,
+            "box": [
+              142,
+              91,
+              143,
+              92
+            ]
+          },
+          {
+            "area": 2,
+            "box": [
+              140,
+              92,
+              141,
+              94
+            ]
+          },
+          {
+            "area": 10,
+            "box": [
+              142,
+              92,
+              151,
+              96
+            ]
+          },
+          {
+            "area": 5,
+            "box": [
+              146,
+              95,
+              151,
+              96
+            ]
+          },
+          {
+            "area": 6,
+            "box": [
+              146,
+              97,
+              151,
+              99
+            ]
+          },
+          {
+            "area": 3,
+            "box": [
+              142,
+              100,
+              144,
+              102
+            ]
+          },
+          {
+            "area": 10,
+            "box": [
+              136,
+              102,
+              141,
+              105
+            ]
+          }
+        ]
+      },
+      "source_sha256": "604bc9c4f089480f783fca6275b78cd1dd75b02789dc0824a5fb4b54b110e1b7",
+      "source_review_status": "artifact_retained_due_to_conservative_abstention",
+      "source_finding": "Staff/upper stem region above retained hollow triangular head 230, adjacent to a repeat column; no independent head in the proposed box.",
+      "source_duration_adjudicated": false
+    }
+  ]
+}

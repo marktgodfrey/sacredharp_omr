@@ -1,0 +1,289 @@
+{
+  "book": "1850 Auburn/VEMP Sacred Harp",
+  "review_scope": {
+    "pdf_ordinals": [
+      184,
+      219
+    ],
+    "printed_labels": [
+      181,
+      216
+    ],
+    "direction": "ascending"
+  },
+  "source_only": true,
+  "method": "Direct visual review of each assigned native JPEG page at native resolution; no model outputs, reference XML, inference, or recognition results consulted.",
+  "pages": [
+    {
+      "pdf_ordinal": 184,
+      "native_image": "pages/1850-pdf-184.jpg",
+      "printed_label": 181,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 185,
+      "native_image": "pages/1850-pdf-185.jpg",
+      "printed_label": 182,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 186,
+      "native_image": "pages/1850-pdf-186.jpg",
+      "printed_label": 183,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 187,
+      "native_image": "pages/1850-pdf-187.jpg",
+      "printed_label": 184,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 188,
+      "native_image": "pages/1850-pdf-188.jpg",
+      "printed_label": 185,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 189,
+      "native_image": "pages/1850-pdf-189.jpg",
+      "printed_label": 186,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 190,
+      "native_image": "pages/1850-pdf-190.jpg",
+      "printed_label": 187,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 191,
+      "native_image": "pages/1850-pdf-191.jpg",
+      "printed_label": 188,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 192,
+      "native_image": "pages/1850-pdf-192.jpg",
+      "printed_label": 189,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 193,
+      "native_image": "pages/1850-pdf-193.jpg",
+      "printed_label": 190,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 194,
+      "native_image": "pages/1850-pdf-194.jpg",
+      "printed_label": 191,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 195,
+      "native_image": "pages/1850-pdf-195.jpg",
+      "printed_label": 192,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 196,
+      "native_image": "pages/1850-pdf-196.jpg",
+      "printed_label": 193,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 197,
+      "native_image": "pages/1850-pdf-197.jpg",
+      "printed_label": 194,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 198,
+      "native_image": "pages/1850-pdf-198.jpg",
+      "printed_label": 195,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 199,
+      "native_image": "pages/1850-pdf-199.jpg",
+      "printed_label": 196,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 200,
+      "native_image": "pages/1850-pdf-200.jpg",
+      "printed_label": 197,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 201,
+      "native_image": "pages/1850-pdf-201.jpg",
+      "printed_label": 198,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 202,
+      "native_image": "pages/1850-pdf-202.jpg",
+      "printed_label": 199,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 203,
+      "native_image": "pages/1850-pdf-203.jpg",
+      "printed_label": 200,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 204,
+      "native_image": "pages/1850-pdf-204.jpg",
+      "printed_label": 201,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 205,
+      "native_image": "pages/1850-pdf-205.jpg",
+      "printed_label": 202,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 206,
+      "native_image": "pages/1850-pdf-206.jpg",
+      "printed_label": 203,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 207,
+      "native_image": "pages/1850-pdf-207.jpg",
+      "printed_label": 204,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 208,
+      "native_image": "pages/1850-pdf-208.jpg",
+      "printed_label": 205,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 209,
+      "native_image": "pages/1850-pdf-209.jpg",
+      "printed_label": 206,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 210,
+      "native_image": "pages/1850-pdf-210.jpg",
+      "printed_label": 207,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 211,
+      "native_image": "pages/1850-pdf-211.jpg",
+      "printed_label": 208,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 212,
+      "native_image": "pages/1850-pdf-212.jpg",
+      "printed_label": 209,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 213,
+      "native_image": "pages/1850-pdf-213.jpg",
+      "printed_label": 210,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 214,
+      "native_image": "pages/1850-pdf-214.jpg",
+      "printed_label": 211,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 215,
+      "native_image": "pages/1850-pdf-215.jpg",
+      "printed_label": 212,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 216,
+      "native_image": "pages/1850-pdf-216.jpg",
+      "printed_label": 213,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 217,
+      "native_image": "pages/1850-pdf-217.jpg",
+      "printed_label": 214,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 218,
+      "native_image": "pages/1850-pdf-218.jpg",
+      "printed_label": 215,
+      "screened": true,
+      "candidates": []
+    },
+    {
+      "pdf_ordinal": 219,
+      "native_image": "pages/1850-pdf-219.jpg",
+      "printed_label": 216,
+      "screened": true,
+      "candidates": []
+    }
+  ],
+  "review_summary": "No definite moderate, severe, or ambiguous missing notehead ink observed in this gap. Faint but continuous printing, normal hollow counters, staff/stem overlaps, and paper wear outside head contours were not counted.",
+  "pagination_verification": {
+    "scope": "Verification only; not a full damage search.",
+    "pages": [
+      {
+        "pdf_ordinal": 266,
+        "native_image": "pages/1850-pdf-266.jpg",
+        "printed_label": 268,
+        "description": "Appendix title/text leaf; no music."
+      },
+      {
+        "pdf_ordinal": 267,
+        "native_image": "pages/1850-pdf-267.jpg",
+        "printed_label": 264,
+        "description": "Music page headed DUKE STREET."
+      }
+    ],
+    "confirmed_observation": "The printed pagination jumps from appendix leaf 268 at PDF ordinal 266 to music page 264 at ordinal 267. This confirms the anomaly recorded in screening-late.json."
+  }
+}

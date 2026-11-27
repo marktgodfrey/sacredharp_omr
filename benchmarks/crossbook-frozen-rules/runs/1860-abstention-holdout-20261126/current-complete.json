@@ -1,0 +1,761 @@
+{
+  "cases": [
+    {
+      "id": "1860-Sacred-IMSLP-27-bethel",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.38403241700143553,
+      "xml_sha256": "f90f1856d1682cdc757f93acc204c6c4bc3c74611e86bd1a16fd9692ef6239e2",
+      "trace_sha256": "9440b7f569cf28baabd82188125a8d367a228471e6dd0a6c55fcef6e52104993",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 17,
+      "duration_changes": 8
+    },
+    {
+      "id": "1860-Sacred-IMSLP-28t-aylesbury",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.1827703750168439,
+      "xml_sha256": "fd7ce751774fb41cb265c2cb89b571e4505ad1b8d888b29e248ce6ab02fe8c48",
+      "trace_sha256": "012f3c27c32460f278b1e2e395cef31e65ed25987eb78534106293e2f2d17305",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 13,
+      "duration_changes": 11
+    },
+    {
+      "id": "1860-Sacred-IMSLP-28b-wells",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.2705291250022128,
+      "xml_sha256": "2b410ce48341c6d014d3b7dbfd77f153fa72658572601c8a917583b5adbf9650",
+      "trace_sha256": "b31ed530fa3b839cf1b8b1355a3f41271d1771ba8f29a311b56ac018537a5e54",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 16,
+      "duration_changes": 13
+    },
+    {
+      "id": "1860-Sacred-IMSLP-30t-rochester",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.41867799998726696,
+      "xml_sha256": "560e90697c582ee9943c41f0f0ff445806c8423315b35f2c865a8f5e22f2691f",
+      "trace_sha256": "c88998fef2f83ee3007ee32015f09fd425ad63ed1c73c09665d35d7dc08f55d5",
+      "physical_heads_retained": true,
+      "opening_meter": "2/2",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "2/2"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 14,
+      "duration_changes": 1
+    },
+    {
+      "id": "1860-Sacred-IMSLP-30b-prospect",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.25310162498499267,
+      "xml_sha256": "c0c3de2be4a43e3f035abb5a3c395b85044d83b4e4603138641d5055fdf9c888",
+      "trace_sha256": "bde2c2103f59571426c843c39cd5e54fdaa1e2d85b96756ee52883dd83736aa1",
+      "physical_heads_retained": true,
+      "opening_meter": "3/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "3/4"
+        ]
+      ],
+      "unresolved_columns": 2,
+      "columns": 17,
+      "duration_changes": 2
+    },
+    {
+      "id": "1860-Sacred-IMSLP-45t-new-britain",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.22537391702644527,
+      "xml_sha256": "eaa265ed30a443f674306be9628754aa6ed5fddf11d0b355dc4ec6184e19268f",
+      "trace_sha256": "a7c179ddc31f7df3ff02534e64f75f5a73bb8ef1bc9fd0410110efbb99f355c9",
+      "physical_heads_retained": true,
+      "opening_meter": "3/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "3/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 16,
+      "duration_changes": 2
+    },
+    {
+      "id": "1860-Sacred-IMSLP-45b-supplication",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.20197487500263378,
+      "xml_sha256": "558a4c8320ab3a9f6760cba9add3f72a5ca16b35d2bfa4e4525ee58fdd081c06",
+      "trace_sha256": "652b40c081efcd421b3176224aff311c0e57bfb6e41952efc3590d50b1059c68",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 13,
+      "duration_changes": 8
+    },
+    {
+      "id": "1860-Sacred-IMSLP-82t-bound-for-canaan",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.22647295802016743,
+      "xml_sha256": "0c2138355b6ea706e22915dfb1a19047e7c6260139c282acd816984dec37d832",
+      "trace_sha256": "aa6e79f058bec7174b8ef3bf154535375a7240ff4216e14c5e2396278a36a2b1",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 14,
+      "duration_changes": 4
+    },
+    {
+      "id": "1860-Sacred-IMSLP-82b-edgefield",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.2288667910033837,
+      "xml_sha256": "a859a97e0df3fda8a3b0032c3be23a08729a162d821dec37cf04713df491211e",
+      "trace_sha256": "ae7519ab19c9187a104f23831859998fc2b9452930be4d5b3310db1e7fa85537",
+      "physical_heads_retained": true,
+      "opening_meter": "6/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "6/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 11,
+      "duration_changes": 10
+    },
+    {
+      "id": "1860-Sacred-IMSLP-100-the-bower-of-prayer",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.4974924580019433,
+      "xml_sha256": "273f2b0dbda6757320f5ae10e0ce80d97ebb33e3bcd9dd1191bb95139c79c3f1",
+      "trace_sha256": "af266e44a4517927a7be1d50704eee6a8de43b5415eef3aa8fb0966efbbc07c8",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 21,
+      "duration_changes": 8
+    },
+    {
+      "id": "1860-Sacred-IMSLP-122-all-is-well",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.3741965419903863,
+      "xml_sha256": "5a5d7ccd90ec10079e096fbd55f4ec01d44e4593ceb1f8559824d008982213b5",
+      "trace_sha256": "baa02f547e11a7d60a1206fe15f5a2e3f4380cecd3347890e01747e64d3c65dd",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 17,
+      "duration_changes": 4
+    },
+    {
+      "id": "1860-Sacred-IMSLP-145-hallelujah",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.33628645801218227,
+      "xml_sha256": "1f7db3521f1e54a6777f7058b726cfdfbe1eed4bb2e1d34ec87adbf483806939",
+      "trace_sha256": "4a21916cfa95029537060fd531ab75840eeef73e6b24be25d2058031b2d41b3d",
+      "physical_heads_retained": true,
+      "opening_meter": "6/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "6/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 32,
+      "duration_changes": 7
+    },
+    {
+      "id": "1860-Sacred-IMSLP-170-exhilaration",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.5261461670161225,
+      "xml_sha256": "af93c0b6b9b8e0d4ede2b46900600dc73122ba3be509f3b4486ba335ce61b4b9",
+      "trace_sha256": "e86e3b7395dc21c694f76b947432219c527d26fc90cb2d8ed26ff6685dd2e9f2",
+      "physical_heads_retained": true,
+      "opening_meter": "2/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "2/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 30,
+      "duration_changes": 2
+    },
+    {
+      "id": "1860-Sacred-IMSLP-202-new-lebanon",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.7545050409971736,
+      "xml_sha256": "d2f8f25b2bdce8caa65c7b42b8b6ffdce0bcd35e91b78b278661d34cf70194ea",
+      "trace_sha256": "d075e52523e833879e6d4e3044386359bb83723b06171930eddbf7d2ba170892",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 21,
+      "duration_changes": 5
+    },
+    {
+      "id": "1860-Sacred-IMSLP-222-ocean",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.8386342499870807,
+      "xml_sha256": "a9891cab1cbd085e0d9c4320472b498ddd9fb9e5af389a80a9151f7bf695f985",
+      "trace_sha256": "77f7d481df04247f5b66c7dc89d5f454e8c337e7ff8d0bb21be4b481e06c5604",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 3,
+      "columns": 28,
+      "duration_changes": 3
+    },
+    {
+      "id": "1860-Sacred-IMSLP-270-confidence",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.41459937498439103,
+      "xml_sha256": "055a1adb290251b6045e05fefd16af464b9a7624c4d7a2155ad043739afd02ca",
+      "trace_sha256": "5997dc18c0b4e2df3f9af5246a880b3c471d3d723ad42bb099eac61bae2bb914",
+      "physical_heads_retained": true,
+      "opening_meter": "2/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "2/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 29,
+      "duration_changes": 4
+    },
+    {
+      "id": "1860-Sacred-IMSLP-326-weary-pilgrim",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.39413691600202583,
+      "xml_sha256": "58b7efe54f8cdf0ad93c9520bbba21690e6c79787f10e6d59562e407b53852bb",
+      "trace_sha256": "cd846ebd805eabd08ff3a4b2e599bcaba51080802ab2edb91d7d1078adac85bd",
+      "physical_heads_retained": true,
+      "opening_meter": "6/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "6/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 16,
+      "duration_changes": 20
+    },
+    {
+      "id": "1860-Sacred-IMSLP-354b-happy-land",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.20746449998114258,
+      "xml_sha256": "6427b4b00595e1f65e54cac4637fae7d47fc72d21525311eb02c0ad08e7bd145",
+      "trace_sha256": "eec8401b16231a43ad039301cb68f92db5adb9aebc5d618ee0a924fc3f8c8385",
+      "physical_heads_retained": true,
+      "opening_meter": "2/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "2/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 12,
+      "duration_changes": 1
+    },
+    {
+      "id": "1860-Sacred-IMSLP-370-monroe",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.336195374984527,
+      "xml_sha256": "20239aff59721d848606a1939a5bb7fc891fcfce12e661f3b9687a5f24e383da",
+      "trace_sha256": "70d7f2222240dcb4295eee44292579288c27ef12e7d84be7d5a0d110695902ea",
+      "physical_heads_retained": true,
+      "opening_meter": "6/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "6/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 12,
+      "duration_changes": 4
+    },
+    {
+      "id": "1860-Sacred-IMSLP-27-bethel",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.18833154201274738,
+      "xml_sha256": "f90f1856d1682cdc757f93acc204c6c4bc3c74611e86bd1a16fd9692ef6239e2",
+      "trace_sha256": "3df252cab5142ef85b74bff598b12088fc832ab8a2e1a7bb8cfe3159d9408fca",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 17,
+      "duration_changes": 8
+    },
+    {
+      "id": "1860-Sacred-IMSLP-28t-aylesbury",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.17610241600777954,
+      "xml_sha256": "fd7ce751774fb41cb265c2cb89b571e4505ad1b8d888b29e248ce6ab02fe8c48",
+      "trace_sha256": "0e76318a82fd3ccc4c20adb991f58c315dd724498f6f42348dd034d99f324bec",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 13,
+      "duration_changes": 11
+    },
+    {
+      "id": "1860-Sacred-IMSLP-28b-wells",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.26618483298807405,
+      "xml_sha256": "2b410ce48341c6d014d3b7dbfd77f153fa72658572601c8a917583b5adbf9650",
+      "trace_sha256": "310c01c686e9c216645ae8790ec64596bd294abcd37e232b37d3bbafb84a41d8",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 16,
+      "duration_changes": 13
+    },
+    {
+      "id": "1860-Sacred-IMSLP-30t-rochester",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.3923861249932088,
+      "xml_sha256": "560e90697c582ee9943c41f0f0ff445806c8423315b35f2c865a8f5e22f2691f",
+      "trace_sha256": "6e96afa4b2565c7ffe09221085ff699789a664de6ea0a1595e9e9dc5a0bf9b81",
+      "physical_heads_retained": true,
+      "opening_meter": "2/2",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "2/2"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 14,
+      "duration_changes": 1
+    },
+    {
+      "id": "1860-Sacred-IMSLP-30b-prospect",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.2275917500082869,
+      "xml_sha256": "c0c3de2be4a43e3f035abb5a3c395b85044d83b4e4603138641d5055fdf9c888",
+      "trace_sha256": "493d16ac1aa3ee5a332fea9ef609d345ad74fd58c243f202f7954e280cf19644",
+      "physical_heads_retained": true,
+      "opening_meter": "3/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "3/4"
+        ]
+      ],
+      "unresolved_columns": 2,
+      "columns": 17,
+      "duration_changes": 2
+    },
+    {
+      "id": "1860-Sacred-IMSLP-45t-new-britain",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.21884583300561644,
+      "xml_sha256": "eaa265ed30a443f674306be9628754aa6ed5fddf11d0b355dc4ec6184e19268f",
+      "trace_sha256": "9ef258fd06c891eb1991e417e1d89d2a587932c7fdbba4d0a0410aa9534883f8",
+      "physical_heads_retained": true,
+      "opening_meter": "3/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "3/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 16,
+      "duration_changes": 2
+    },
+    {
+      "id": "1860-Sacred-IMSLP-45b-supplication",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.1993725420034025,
+      "xml_sha256": "558a4c8320ab3a9f6760cba9add3f72a5ca16b35d2bfa4e4525ee58fdd081c06",
+      "trace_sha256": "203e237aa43af4fa18f657793c0a4e6b2c11e611e1ff1650f2f4d48092e05cbd",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 13,
+      "duration_changes": 8
+    },
+    {
+      "id": "1860-Sacred-IMSLP-82t-bound-for-canaan",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.24961237498791888,
+      "xml_sha256": "0c2138355b6ea706e22915dfb1a19047e7c6260139c282acd816984dec37d832",
+      "trace_sha256": "a4b9609ec4870b1380fc6bde07a2cd2df52df9d103bec320a7946225320b0756",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 14,
+      "duration_changes": 4
+    },
+    {
+      "id": "1860-Sacred-IMSLP-82b-edgefield",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.21776195798884146,
+      "xml_sha256": "a859a97e0df3fda8a3b0032c3be23a08729a162d821dec37cf04713df491211e",
+      "trace_sha256": "b41a42fade1490c9390aa7602e5519d561124db70b5908e27593444b8378339b",
+      "physical_heads_retained": true,
+      "opening_meter": "6/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "6/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 11,
+      "duration_changes": 10
+    },
+    {
+      "id": "1860-Sacred-IMSLP-100-the-bower-of-prayer",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.5075257089920342,
+      "xml_sha256": "273f2b0dbda6757320f5ae10e0ce80d97ebb33e3bcd9dd1191bb95139c79c3f1",
+      "trace_sha256": "82ede825690c98dc74e2b697261593b287dc9e450483327faa8bf6f45b32bcf5",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 21,
+      "duration_changes": 8
+    },
+    {
+      "id": "1860-Sacred-IMSLP-122-all-is-well",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.3754134160117246,
+      "xml_sha256": "5a5d7ccd90ec10079e096fbd55f4ec01d44e4593ceb1f8559824d008982213b5",
+      "trace_sha256": "55d2022f1271db463902f31663a3820068522d3140c19ded5e052d84a04c7ea0",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 17,
+      "duration_changes": 4
+    },
+    {
+      "id": "1860-Sacred-IMSLP-145-hallelujah",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.3632917090144474,
+      "xml_sha256": "b11b3c7f391f92712aed779632572faed4890020026afa7752aa76c775816d81",
+      "trace_sha256": "38a7fd2acaadd00a5b0c18f901af49ce24c649873e32b8f1a2d794f9ba94bdbe",
+      "physical_heads_retained": true,
+      "opening_meter": "6/4",
+      "source_meter_transitions": [],
+      "unresolved_columns": 0,
+      "columns": 41,
+      "duration_changes": 7
+    },
+    {
+      "id": "1860-Sacred-IMSLP-170-exhilaration",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.5341142080142163,
+      "xml_sha256": "af93c0b6b9b8e0d4ede2b46900600dc73122ba3be509f3b4486ba335ce61b4b9",
+      "trace_sha256": "15959b5b592d1c96bda2677f2ed20009b7dcf7bb332a092c77748002f6e0bd77",
+      "physical_heads_retained": true,
+      "opening_meter": "2/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "2/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 30,
+      "duration_changes": 2
+    },
+    {
+      "id": "1860-Sacred-IMSLP-202-new-lebanon",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.7399473340192344,
+      "xml_sha256": "d2f8f25b2bdce8caa65c7b42b8b6ffdce0bcd35e91b78b278661d34cf70194ea",
+      "trace_sha256": "812bc60946aba7c969bbf567e39723534a3aae4e9e676d0bf822cdb2cd63371e",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 21,
+      "duration_changes": 5
+    },
+    {
+      "id": "1860-Sacred-IMSLP-222-ocean",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.6842115829931572,
+      "xml_sha256": "eee35c995b3e819baced6d997e4714b59c55dcbb8b3ea2cc6337e02e3cc03603",
+      "trace_sha256": "e28b8ea9df017ba54aca3d6708156b0dab87bc55f1839cfe4783fb240fedf161",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 3,
+      "columns": 25,
+      "duration_changes": 6
+    },
+    {
+      "id": "1860-Sacred-IMSLP-270-confidence",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.3693012500007171,
+      "xml_sha256": "055a1adb290251b6045e05fefd16af464b9a7624c4d7a2155ad043739afd02ca",
+      "trace_sha256": "abef8dab0d7281167cfe4eda42da30678574d506070e0a06ef6c0f9ba03799ec",
+      "physical_heads_retained": true,
+      "opening_meter": "2/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "2/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 29,
+      "duration_changes": 4
+    },
+    {
+      "id": "1860-Sacred-IMSLP-326-weary-pilgrim",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.3877240419969894,
+      "xml_sha256": "58b7efe54f8cdf0ad93c9520bbba21690e6c79787f10e6d59562e407b53852bb",
+      "trace_sha256": "9a0240c843a4770bd14b2916a48e2d47e192e72c18ebb6ceb6b7d61b5b414436",
+      "physical_heads_retained": true,
+      "opening_meter": "6/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "6/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 16,
+      "duration_changes": 20
+    },
+    {
+      "id": "1860-Sacred-IMSLP-354b-happy-land",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.20035020800423808,
+      "xml_sha256": "6427b4b00595e1f65e54cac4637fae7d47fc72d21525311eb02c0ad08e7bd145",
+      "trace_sha256": "eb7f342b3b3ec8b2bfbf4087deab8f2342b8367c160d98a549eb363148a0d20c",
+      "physical_heads_retained": true,
+      "opening_meter": "2/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "2/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 12,
+      "duration_changes": 1
+    },
+    {
+      "id": "1860-Sacred-IMSLP-370-monroe",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.3061114580195863,
+      "xml_sha256": "20239aff59721d848606a1939a5bb7fc891fcfce12e661f3b9687a5f24e383da",
+      "trace_sha256": "07636364f755cef64d67bcef054ba4bb40b87db448c09886ad9c4f11eb59f3d4",
+      "physical_heads_retained": true,
+      "opening_meter": "6/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "6/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 12,
+      "duration_changes": 4
+    }
+  ],
+  "hash_guard_passed": true,
+  "references_opened": false,
+  "frozen_template_sha256": "03e0523b64fceb9313f4656b19ba6ae9927bbb3cfcea13547329ecfed08d6faf"
+}

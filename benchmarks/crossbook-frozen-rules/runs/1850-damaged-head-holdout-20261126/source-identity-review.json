@@ -1,0 +1,13 @@
+{
+  "locked_selection_changed": false,
+  "reviewed_after_inference": [
+    "all annotated source-to-symbol matches",
+    "C1 source identity independently rechecked without prediction access"
+  ],
+  "C1": {
+    "identity": "Intact hollow triangular notehead; possibly stemless whole. Main and independent source reviewer agree.",
+    "baseline": "Symbol 355 classified rest_half and serialized as rest in both layouts. Prior/current preserve the same error.",
+    "new_regression": false
+  },
+  "matching_notes": "D1 center is about 0.5 staff-space from prediction center, with overlapping boxes on the same physical square. D2/D3/A1 and all eight controls have a close corresponding atomic symbol. No distant note substituted for C1."
+}

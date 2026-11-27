@@ -50,10 +50,10 @@ def recover(s,bank,*,rhythm_resolution=False):
     old_xml=(PARENT/'predictions'/f'{sid}.musicxml').read_text()
     source=Image.open(ROOT/s['input']).convert('L');rd=_reading(copy.deepcopy(trace),source)
     events,source_metadata=source_saved_events(trace,old_xml)
-    duplicate_events=[]
+    duplicate_events=[];head_abstentions=[]
     if rhythm_resolution:
         from source_rhythm_resolution import unique_physical_events
-        events,duplicate_events=unique_physical_events(events,rd,np.asarray(source))
+        events,duplicate_events=unique_physical_events(events,rd,np.asarray(source),abstentions=head_abstentions)
     before=source_meter_state(rd);before_open=opening_event(before)
     flat=[e for evs in events.values() for e in evs]
     ink=None;ink_probe=None;saved_opening=previous_opening(old_xml)
@@ -105,9 +105,8 @@ def recover(s,bank,*,rhythm_resolution=False):
         return base(built,meter)
     xml,emitted,timing,selected=write_timed(rd,image=source,opening=opening,bar_transform=transform)
     lost=sorted(emitted_head_ids(trace['writer'])-emitted_head_ids(emitted))
-    non_heads={d['sym_id'] for d in duplicate_events if
-               (d['reason']=='beam_stroke_misread_as_notehead' and d.get('source_geometry_evidence',{}).get('beam_region'))
-               or (d['reason']=='empty_source_box_misread_as_notehead' and d.get('source_geometry_evidence',{}).get('empty_head_box'))}
+    from false_head_evidence import proven_non_head
+    non_heads={d['sym_id'] for d in duplicate_events if proven_non_head(d)}
     assert not set(lost)-non_heads,(s['id'],'lost physical heads',lost)
     for a,b in zip(trace['syms'],rd.layout.syms):
         if a['cls']!='measure':assert a['i']==b.i and a['box']==list(b.box) and a['staff']==b.staff
@@ -120,7 +119,8 @@ def recover(s,bank,*,rhythm_resolution=False):
         'source_opening_ink_evidence':ink,'source_opening_ink_probe':ink_probe,'source_bar_grid':grid,'source_duration_options':choices,
         'source_bar_fit_decisions':decisions,'final_timing':timing,'source_selected_events':_json_safe(selected['built']),
         'saved_source_event_metadata':source_metadata,
-        'rhythm_resolution_details':{'enabled':rhythm_resolution,'duplicate_serialized_events_removed':duplicate_events},
+        'rhythm_resolution_details':{'enabled':rhythm_resolution,'duplicate_serialized_events_removed':duplicate_events,
+                                     'source_head_abstentions':head_abstentions},
         'parent_stage':str(PARENT.relative_to(ROOT)),
         'prior_evidence_geometry_stage':'Input token/proposal evidence retained; final bar identities are in syms/staves/systems and final_timing.'}
     saved['prior_timing_metadata']={k:saved.pop(k) for k in ('fixed_column_cuts','fixed_opening_meter') if k in saved}

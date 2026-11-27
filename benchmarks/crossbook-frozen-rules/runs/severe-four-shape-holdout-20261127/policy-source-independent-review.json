@@ -1,0 +1,271 @@
+{
+  "method": "Independent review of source crops/pages and labeled enlarged decision panels. Source annotations and thresholds were not modified. Head presence is judged from source ink only; same physical head representation is separately noted from current trace symbol boxes as a serialization caveat, not as evidence for source presence.",
+  "decisions": [
+    {
+      "sample_id": "1835-Southern-1-liverpool",
+      "kind": "abstain",
+      "symbol_id": 232,
+      "source_box": [
+        480.8,
+        572.9,
+        503.7,
+        594.5
+      ],
+      "source_head_status": "head_present_shifted_onto_rim",
+      "rationale": "The box mainly covers staff lines, but its lower edge meets the upper rim of the hollow head immediately below; this is a real head at a shifted position, not a separate damaged-head region.",
+      "same_head_other_id": "209",
+      "serialized_rescue": "No new head-level rescue: current trace has note_half ID 209 overlapping the same physical hollow head."
+    },
+    {
+      "sample_id": "1835-Southern-1-liverpool",
+      "kind": "abstain",
+      "symbol_id": 225,
+      "source_box": [
+        1601,
+        894.3,
+        1622,
+        915.5
+      ],
+      "source_head_status": "head_present_shifted_onto_rim",
+      "rationale": "The box covers a staff crossing and the upper portion of the nearby head contour; it is not a separate head-shaped source mark.",
+      "same_head_other_id": "150",
+      "serialized_rescue": "No new head-level rescue: note_quarter ID 150 overlaps the same physical head."
+    },
+    {
+      "sample_id": "1835-Southern-12-salem",
+      "kind": "abstain",
+      "symbol_id": 390,
+      "source_box": [
+        1533.6,
+        290.4,
+        1550.5,
+        310.9
+      ],
+      "source_head_status": "head_present_shifted_onto_rim",
+      "rationale": "A small surviving part of a notehead enters the box at the lower-left; most of the candidate box is staff/blank paper. The head itself is represented just below/adjacent.",
+      "same_head_other_id": "401",
+      "serialized_rescue": "No new head-level rescue: note_quarter ID 401 overlaps the same physical head."
+    },
+    {
+      "sample_id": "1835-Southern-12-salem",
+      "kind": "abstain",
+      "symbol_id": 354,
+      "source_box": [
+        1790,
+        855.6,
+        1812.3,
+        876.3
+      ],
+      "source_head_status": "uncertain_shifted_rim",
+      "rationale": "The box sits on a staff line just above a hollow oval; the enlarged view suggests it may touch the oval's upper rim, but source pixels do not make the overlap conclusive.",
+      "same_head_other_id": "339?",
+      "serialized_rescue": "Likely no new head-level rescue if ID 339 is the adjacent oval; the source-box/head alignment is uncertain."
+    },
+    {
+      "sample_id": "1835-Southern-12-salem",
+      "kind": "abstain",
+      "symbol_id": 242,
+      "source_box": [
+        448.9,
+        1011.1,
+        471.3,
+        1030.1
+      ],
+      "source_head_status": "uncertain_possible_head",
+      "rationale": "The enlarged crop contains a small irregular mark at the box edge, but it is not enough to distinguish a hollow head fragment from staff/beam ink with confidence.",
+      "serialized_rescue": "No reliable conclusion; no current note-symbol box clearly matches this candidate."
+    },
+    {
+      "sample_id": "1835-Southern-12-salem",
+      "kind": "abstain",
+      "symbol_id": 330,
+      "source_box": [
+        1016.1,
+        1008.5,
+        1038.3,
+        1028.9
+      ],
+      "source_head_status": "head_present_probable_square",
+      "rationale": "A compact square-like notehead occupies the candidate area. Its interior/edge is worn, but the rectangular head form and staff placement support a physical head rather than line-only ink.",
+      "serialized_rescue": "No other current note-symbol box clearly matches the same head; a policy change could affect serialization, subject to the uncertain exact class/shape."
+    },
+    {
+      "sample_id": "1835-Southern-12-salem",
+      "kind": "remove",
+      "symbol_id": 386,
+      "source_box": [
+        2035.6,
+        163.1,
+        2053.6,
+        181.5
+      ],
+      "source_head_status": "head_present_shifted_onto_rim",
+      "rationale": "The box catches the upper edge of the neighboring head; the rest is staff-line/blank area, so it is shifted rather than a separate spurious mark.",
+      "same_head_other_id": "347",
+      "serialized_rescue": "No unique head-level loss: current note_quarter ID 347 overlaps the same physical head."
+    },
+    {
+      "sample_id": "1835-Southern-12-salem",
+      "kind": "remove",
+      "symbol_id": 377,
+      "source_box": [
+        451.3,
+        616.2,
+        471,
+        634.9
+      ],
+      "source_head_status": "uncertain_staff_or_rim",
+      "rationale": "The box lies just above a hollow head and on a staff line. A tiny contour fragment may touch the box, but the enlargement does not separate it confidently from the line.",
+      "same_head_other_id": "375?",
+      "serialized_rescue": "Likely no unique head-level loss if ID 375 is the adjacent hollow head; overlap remains uncertain."
+    },
+    {
+      "sample_id": "1835-Southern-13-devotion",
+      "kind": "abstain",
+      "symbol_id": 198,
+      "source_box": [
+        786.6,
+        781.9,
+        810.4,
+        799.8
+      ],
+      "source_head_status": "head_present_shifted_onto_rim",
+      "rationale": "The box covers a staffline crossing the upper rim of a square/rectangular hollow head; the neighboring contour makes head presence clear.",
+      "same_head_other_id": "138",
+      "serialized_rescue": "No new head-level rescue: note_half ID 138 overlaps the same physical head."
+    },
+    {
+      "sample_id": "1835-Southern-13-devotion",
+      "kind": "abstain",
+      "symbol_id": 220,
+      "source_box": [
+        964.9,
+        771.5,
+        986.5,
+        794.2
+      ],
+      "source_head_status": "head_present_shifted_onto_rim",
+      "rationale": "The red box sits on the staff line and upper edge of a hollow square head; it is not a separate head-free area.",
+      "same_head_other_id": "155",
+      "serialized_rescue": "No new head-level rescue: note_half ID 155 overlaps the same physical head."
+    },
+    {
+      "sample_id": "1835-Southern-13-dublin",
+      "kind": "abstain",
+      "symbol_id": 262,
+      "source_box": [
+        272.3,
+        151.8,
+        295,
+        174.5
+      ],
+      "source_head_status": "head_present_shifted_onto_rim",
+      "rationale": "The candidate intersects the upper edge of a hollow oval head; staff-line/edge overlap explains the apparent mark.",
+      "same_head_other_id": "249",
+      "serialized_rescue": "No new head-level rescue: note_half ID 249 overlaps the same physical head."
+    },
+    {
+      "sample_id": "1835-Southern-13-dublin",
+      "kind": "abstain",
+      "symbol_id": 251,
+      "source_box": [
+        1322.6,
+        137,
+        1344.7,
+        151.4
+      ],
+      "source_head_status": "head_present_shifted_onto_rim",
+      "rationale": "The box covers the top contour of a nearby hollow oval along with the staff line. The surviving oval contour supports head presence.",
+      "same_head_other_id": "241",
+      "serialized_rescue": "No new head-level rescue: note_half ID 241 overlaps the same physical head."
+    },
+    {
+      "sample_id": "1835-Southern-13-dublin",
+      "kind": "abstain",
+      "symbol_id": 218,
+      "source_box": [
+        1692.4,
+        415.9,
+        1716.2,
+        436.5
+      ],
+      "source_head_status": "no_head_staff_or_artifact",
+      "rationale": "The candidate region contains broken horizontal staff ink and blank paper; no closed or shape-consistent notehead contour is visible."
+    },
+    {
+      "sample_id": "1835-Southern-13-dublin",
+      "kind": "abstain",
+      "symbol_id": 258,
+      "source_box": [
+        1814.6,
+        515.2,
+        1838,
+        540.8
+      ],
+      "source_head_status": "no_head_staff_or_artifact",
+      "rationale": "The box falls on staff ink/blank paper between nearby noteheads; the nearby hollow oval is outside this box and does not establish a head here."
+    },
+    {
+      "sample_id": "1835-Southern-13-dublin",
+      "kind": "abstain",
+      "symbol_id": 277,
+      "source_box": [
+        1941.2,
+        546,
+        1966.5,
+        567.9
+      ],
+      "source_head_status": "head_present_probable_square",
+      "rationale": "A compact square-like filled head is visible at the candidate location amid staff-line ink. The source supports a physical head, although the small crop limits confidence in exact contour completeness.",
+      "serialized_rescue": "No other current note-symbol box clearly matches the same head; potential new serialization is not established by source presence alone."
+    },
+    {
+      "sample_id": "1835-Southern-4-hanover",
+      "kind": "abstain",
+      "symbol_id": 255,
+      "source_box": [
+        609.1,
+        1028.1,
+        627.3,
+        1045
+      ],
+      "source_head_status": "no_head_staff_or_artifact",
+      "rationale": "The box lies on staff lines below the neighboring square head; no head contour falls within the candidate region."
+    },
+    {
+      "sample_id": "1835-Southern-4-meditation",
+      "kind": "remove",
+      "symbol_id": 238,
+      "source_box": [
+        1242.6,
+        272.2,
+        1269.7,
+        340.3
+      ],
+      "source_head_status": "no_head_rest_or_staff_artifact",
+      "rationale": "This is a tall rest-shaped candidate region crossing staff lines and a vertical stroke, not a notehead. The nearby square note lies outside the marked source area.",
+      "same_head_other_id": "198",
+      "serialized_rescue": "No head-level rescue; current note_quarter ID 198 represents a separate nearby physical note."
+    },
+    {
+      "sample_id": "1835-Southern-9-converted-thief",
+      "kind": "abstain",
+      "symbol_id": 331,
+      "source_box": [
+        138.3,
+        896.5,
+        159.8,
+        917.6
+      ],
+      "source_head_status": "no_head_staff_or_artifact",
+      "rationale": "The candidate region contains clef/staff-context fragments but no head-shaped closed contour; adjacent notes are outside the box."
+    }
+  ],
+  "summary": {
+    "total_decisions": 18,
+    "likely_real_heads_or_head_rims": 10,
+    "uncertain_source_head_presence": 3,
+    "no_head_or_non_head_artifact": 5,
+    "caveat": "A source head overlapping a candidate box is not by itself a new serialized-note rescue; several are already represented by another current trace symbol as listed above. Counts reflect source-box presence, not event-level correctness."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "checked_utc": "2026-11-27T21:23:45.654332+00:00",
+  "older_runs": [
+    {
+      "run": "1850-damaged-head-holdout-20261126",
+      "artifacts": 534,
+      "mismatches": []
+    },
+    {
+      "run": "1860-abstention-holdout-20261126",
+      "artifacts": 737,
+      "mismatches": []
+    },
+    {
+      "run": "expanded52-frozen-dot-head-20261126",
+      "artifacts": 1334,
+      "mismatches": []
+    },
+    {
+      "run": "pilot14-frozen-dot-head-20261126",
+      "artifacts": 594,
+      "mismatches": []
+    }
+  ]
+}

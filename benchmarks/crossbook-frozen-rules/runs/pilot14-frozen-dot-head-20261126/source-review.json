@@ -1,0 +1,49 @@
+{
+  "scope": "Two distinct source objects, each in both layouts; no rule tuning",
+  "cases": [
+    {
+      "id": "1911-Sacred-EMU-28t-aylesbury",
+      "symbol_id": 186,
+      "source_input": "inputs/1911-Sacred-EMU-28t-aylesbury.png",
+      "source_sha256": "7108a8d413833cca791276a4c09126770c214397a854c735e2e13ae6a2283c87",
+      "box": [
+        1825.8,
+        166.9,
+        1860.9,
+        195.5
+      ],
+      "status": "false_positive_genuine_damaged_head_removed",
+      "physical_head_present": true,
+      "duration_adjudicated": false,
+      "evidence": "Lower curved head rim connected to downward stem; upper/fill ink is damaged. No alternative head remains on this physical staff.",
+      "crop": "1911-Sacred-EMU-28t-aylesbury-rejected-186.png",
+      "affected_layouts": [
+        "default",
+        "clean_layout"
+      ]
+    },
+    {
+      "id": "1911-Sacred-EMU-45b-supplication",
+      "symbol_id": 211,
+      "source_input": "inputs/1911-Sacred-EMU-45b-supplication.png",
+      "source_sha256": "13db25a1e1755c302f4cd6d9df0c585dbf82b9903ba89b5aed66d1f40ecd1cd6",
+      "box": [
+        2297.5,
+        660.9,
+        2335.2,
+        685.6
+      ],
+      "status": "correct_staff_line_non_head_rejection",
+      "physical_head_present": false,
+      "evidence": "Thin horizontal staff stroke above a separate retained real source object; no head rim in rejected box.",
+      "crop": "1911-Sacred-EMU-45b-supplication-rejected-211.png",
+      "affected_layouts": [
+        "default",
+        "clean_layout"
+      ]
+    }
+  ],
+  "dot_and_short_beam_output_changes_observed": false,
+  "new_rule_portability_passed": false,
+  "rules_changed_after_target_observation": false
+}

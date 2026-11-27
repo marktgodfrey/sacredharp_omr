@@ -1,0 +1,337 @@
+{
+  "copied_from": "benchmarks/historical-sacred-harp/manifest.json",
+  "source_manifest_sha256": "25628a392cbc5117938e074891c44ee7b59b53fd1f7258ce3222602f3544a60e",
+  "selection_filter": "book == '1860-Sacred-IMSLP'",
+  "sample_count": 19,
+  "variants": [
+    "default",
+    "clean_layout"
+  ],
+  "selection_caveats_preserved": true,
+  "reference_files_exist_checked_without_opening": true,
+  "source_and_input_hashes_and_crop_dimensions": [
+    {
+      "id": "1860-Sacred-IMSLP-27-bethel",
+      "source": "sources/1860-Sacred-IMSLP-0025.jpg",
+      "source_sha256": "5ec2245eb6f0e2708bdd4f93ee2cae179d4965fce201996920c5d7243ed3d44e",
+      "input": "inputs/1860-Sacred-IMSLP-27-bethel.png",
+      "input_sha256": "bc63e992ba3150316c67c1d9c0900bfa2f868d16f3605cb77e0671860eac6604",
+      "crop_bbox": [
+        110,
+        400,
+        1490,
+        865
+      ],
+      "crop_dimensions_px": [
+        1380,
+        465
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-28t-aylesbury",
+      "source": "sources/1860-Sacred-IMSLP-0026.jpg",
+      "source_sha256": "3e452375dde3aa7d4c23518ab80db1b6686c44477b19f98be19a4f08c68b6780",
+      "input": "inputs/1860-Sacred-IMSLP-28t-aylesbury.png",
+      "input_sha256": "d446795e700189f429441d26915c03f38cd6e30669e670476b4facc4c5f974d2",
+      "crop_bbox": [
+        80,
+        30,
+        1455,
+        450
+      ],
+      "crop_dimensions_px": [
+        1375,
+        420
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-28b-wells",
+      "source": "sources/1860-Sacred-IMSLP-0026.jpg",
+      "source_sha256": "3e452375dde3aa7d4c23518ab80db1b6686c44477b19f98be19a4f08c68b6780",
+      "input": "inputs/1860-Sacred-IMSLP-28b-wells.png",
+      "input_sha256": "c82048ff4a99a85515f88db73b28ac235e3831b75f554faae25060824a1933ab",
+      "crop_bbox": [
+        80,
+        465,
+        1455,
+        885
+      ],
+      "crop_dimensions_px": [
+        1375,
+        420
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-30t-rochester",
+      "source": "sources/1860-Sacred-IMSLP-0028.jpg",
+      "source_sha256": "6465fbe54e08bf0167f29ed7ec440ae458cb7c5ab8e2a1228f80ddc335da0106",
+      "input": "inputs/1860-Sacred-IMSLP-30t-rochester.png",
+      "input_sha256": "e2a76f02f670097b2e77f7a1f47954e611ba46f4b65bb1a2424a00d543a057e4",
+      "crop_bbox": [
+        80,
+        35,
+        1460,
+        475
+      ],
+      "crop_dimensions_px": [
+        1380,
+        440
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-30b-prospect",
+      "source": "sources/1860-Sacred-IMSLP-0028.jpg",
+      "source_sha256": "6465fbe54e08bf0167f29ed7ec440ae458cb7c5ab8e2a1228f80ddc335da0106",
+      "input": "inputs/1860-Sacred-IMSLP-30b-prospect.png",
+      "input_sha256": "90be3e4d48bf9e229ef9d05c8afb9cd5fc5225953459bf21142c994071795224",
+      "crop_bbox": [
+        80,
+        510,
+        1460,
+        890
+      ],
+      "crop_dimensions_px": [
+        1380,
+        380
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-45t-new-britain",
+      "source": "sources/1860-Sacred-IMSLP-0043.jpg",
+      "source_sha256": "2952dbf2ec94c044dda089384c2b6a2f3b44f7dbe66d987b797a18ee42fce57c",
+      "input": "inputs/1860-Sacred-IMSLP-45t-new-britain.png",
+      "input_sha256": "7b8197c82509ef4a4f58fee27fdc070867ba5965074da9f402438bd78c4a1f86",
+      "crop_bbox": [
+        115,
+        15,
+        1540,
+        495
+      ],
+      "crop_dimensions_px": [
+        1425,
+        480
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-45b-supplication",
+      "source": "sources/1860-Sacred-IMSLP-0043.jpg",
+      "source_sha256": "2952dbf2ec94c044dda089384c2b6a2f3b44f7dbe66d987b797a18ee42fce57c",
+      "input": "inputs/1860-Sacred-IMSLP-45b-supplication.png",
+      "input_sha256": "1808f382e1331dadc4a7a23ec70d7a25f77746c362aef90e088393bc7c52c620",
+      "crop_bbox": [
+        115,
+        520,
+        1540,
+        875
+      ],
+      "crop_dimensions_px": [
+        1425,
+        355
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-82t-bound-for-canaan",
+      "source": "sources/1860-Sacred-IMSLP-0058.jpg",
+      "source_sha256": "1d21f1733221345c0dd7dfd27245ad29a82d21abb0f95732bc5b7ed44f5fe09f",
+      "input": "inputs/1860-Sacred-IMSLP-82t-bound-for-canaan.png",
+      "input_sha256": "604bc9c4f089480f783fca6275b78cd1dd75b02789dc0824a5fb4b54b110e1b7",
+      "crop_bbox": [
+        60,
+        5,
+        1470,
+        405
+      ],
+      "crop_dimensions_px": [
+        1410,
+        400
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-82b-edgefield",
+      "source": "sources/1860-Sacred-IMSLP-0058.jpg",
+      "source_sha256": "1d21f1733221345c0dd7dfd27245ad29a82d21abb0f95732bc5b7ed44f5fe09f",
+      "input": "inputs/1860-Sacred-IMSLP-82b-edgefield.png",
+      "input_sha256": "55f1e6be02dedcfe613d7729bac17fcb615d2f1cd7179570c76e0c4c40fbf662",
+      "crop_bbox": [
+        60,
+        445,
+        1470,
+        855
+      ],
+      "crop_dimensions_px": [
+        1410,
+        410
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-100-the-bower-of-prayer",
+      "source": "sources/1860-Sacred-IMSLP-0076.jpg",
+      "source_sha256": "c7ec64184f0f42595a6d85b877ffc0bf0dbd02f97db4124f328a28b1d607a550",
+      "input": "inputs/1860-Sacred-IMSLP-100-the-bower-of-prayer.png",
+      "input_sha256": "9d5f27b7687855b20ccff3e9a3cb615c8a82077004cda57d4b48462f4f192298",
+      "crop_bbox": [
+        45,
+        20,
+        1450,
+        855
+      ],
+      "crop_dimensions_px": [
+        1405,
+        835
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-122-all-is-well",
+      "source": "sources/1860-Sacred-IMSLP-0098.jpg",
+      "source_sha256": "bbcb563f61ec393e4813f991728d11ac71b6ff0e6160cf0040c45cfdf9324a05",
+      "input": "inputs/1860-Sacred-IMSLP-122-all-is-well.png",
+      "input_sha256": "a9d50c211a523b259f00f2a8a9f193f198f8812633d6fd6cdaba4a18a853bb88",
+      "crop_bbox": [
+        85,
+        30,
+        1480,
+        900
+      ],
+      "crop_dimensions_px": [
+        1395,
+        870
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-145-hallelujah",
+      "source": "sources/1860-Sacred-IMSLP-0121.jpg",
+      "source_sha256": "8be2e0d937de1dd6ff3e7076d807c9788f088d3956353e9b25e825631fe62e0b",
+      "input": "inputs/1860-Sacred-IMSLP-145-hallelujah.png",
+      "input_sha256": "7f617b25e10b841fe907f7495157ab6ec310f80c07e7fcb10d64dd3b864f7a18",
+      "crop_bbox": [
+        0,
+        15,
+        1415,
+        910
+      ],
+      "crop_dimensions_px": [
+        1415,
+        895
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-170-exhilaration",
+      "source": "sources/1860-Sacred-IMSLP-0146.jpg",
+      "source_sha256": "37312fc565d7a58e3145b0759e11be089497daa53cb29ec243976dd249ffc393",
+      "input": "inputs/1860-Sacred-IMSLP-170-exhilaration.png",
+      "input_sha256": "1885004b10522726467e1491b3df1ea152f9fd5a0e91411c34e2904f36f6dec1",
+      "crop_bbox": [
+        75,
+        25,
+        1480,
+        875
+      ],
+      "crop_dimensions_px": [
+        1405,
+        850
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-202-new-lebanon",
+      "source": "sources/1860-Sacred-IMSLP-0178.jpg",
+      "source_sha256": "dbb72971a0ff5e28aa83268eddf57bed8c0c3788bb0d62427db3cfe5f06f087d",
+      "input": "inputs/1860-Sacred-IMSLP-202-new-lebanon.png",
+      "input_sha256": "1bd045c722684def88c2e56daad7ad186b6f58a4b1b7045c6b93f0c6b274b2ad",
+      "crop_bbox": [
+        75,
+        25,
+        1490,
+        915
+      ],
+      "crop_dimensions_px": [
+        1415,
+        890
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-222-ocean",
+      "source": "sources/1860-Sacred-IMSLP-0198.jpg",
+      "source_sha256": "6417b12642099f4791bc164cde0203a0d9b454fd61ab8778bc09031950976120",
+      "input": "inputs/1860-Sacred-IMSLP-222-ocean.png",
+      "input_sha256": "ec1fc0f3b1bfaa8642ac877a7fba203170a8445577052e003eb11e197194a78c",
+      "crop_bbox": [
+        75,
+        25,
+        1490,
+        915
+      ],
+      "crop_dimensions_px": [
+        1415,
+        890
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-270-confidence",
+      "source": "sources/1860-Sacred-IMSLP-0246.jpg",
+      "source_sha256": "41ee5f38a75a9545146ab3cb742afcf67fbf9db8336b572d56aeb12cc1e07948",
+      "input": "inputs/1860-Sacred-IMSLP-270-confidence.png",
+      "input_sha256": "7fd0988d04044e38a429a57d734b6175a68a1d63c916e1ca56c1df267446540d",
+      "crop_bbox": [
+        75,
+        65,
+        1480,
+        905
+      ],
+      "crop_dimensions_px": [
+        1405,
+        840
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-326-weary-pilgrim",
+      "source": "sources/1860-Sacred-IMSLP-0274.jpg",
+      "source_sha256": "f7609049671aa87e1c9d1c4bcc21a0c8f0638c64dd4cc947375cbab343ae0e73",
+      "input": "inputs/1860-Sacred-IMSLP-326-weary-pilgrim.png",
+      "input_sha256": "6c345468de8d88dbbc75a29341b0f0469a246679f21035a1f95e5ea0fd4dbabc",
+      "crop_bbox": [
+        70,
+        25,
+        1480,
+        900
+      ],
+      "crop_dimensions_px": [
+        1410,
+        875
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-354b-happy-land",
+      "source": "sources/1860-Sacred-IMSLP-0302.jpg",
+      "source_sha256": "2d1ab6ac8e4cd1a9ec5fc5c1fe47c985e76c5a604d98621995c20a0079413aa7",
+      "input": "inputs/1860-Sacred-IMSLP-354b-happy-land.png",
+      "input_sha256": "b3e631f2789febc2112620be03dbd39fd691ed38f037d0638dedb5efc9aede64",
+      "crop_bbox": [
+        70,
+        420,
+        1470,
+        875
+      ],
+      "crop_dimensions_px": [
+        1400,
+        455
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-370-monroe",
+      "source": "sources/1860-Sacred-IMSLP-0318.jpg",
+      "source_sha256": "c2a7f4c74fdcc77464248edd2409b12f71c0b0abe88f5a713e10ebea09763ab0",
+      "input": "inputs/1860-Sacred-IMSLP-370-monroe.png",
+      "input_sha256": "aa2c7d20da826e5a6d47ace9d9556cca56fb1836b635f4cd694882f8ba8a91a7",
+      "crop_bbox": [
+        50,
+        15,
+        1460,
+        855
+      ],
+      "crop_dimensions_px": [
+        1410,
+        840
+      ]
+    }
+  ]
+}

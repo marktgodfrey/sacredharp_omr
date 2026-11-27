@@ -1,0 +1,80 @@
+{
+  "cases": [
+    {
+      "id": "1850-Sacred-VEMP-40-lenox",
+      "variant": "default",
+      "xml_sha256": "454e78d01384d9f566ac5c311f2ef264bc66a83eb2103ac19ebb0aecd52cc4ec",
+      "trace_sha256": "e36d0fa0e1efcfed627b33e1e0e2da8474541efa010fec4acafd06574e790a59"
+    },
+    {
+      "id": "1850-Sacred-VEMP-46t-dublin",
+      "variant": "default",
+      "xml_sha256": "deeb0bd842d32e850468fc490d6d663179961240f8e0ddcddbbb775ad0add9e6",
+      "trace_sha256": "5bd4bc813590b8096d625cf4d6000a3a7c986f77bf7364647fb7cfa2f7cb651d"
+    },
+    {
+      "id": "1850-Sacred-VEMP-46b-hanover",
+      "variant": "default",
+      "xml_sha256": "91e175473ae267e470cb79d28dedb6da4bd81ba14e47b4dc8a2552d94cb908b8",
+      "trace_sha256": "9487c34400cc91525ba728921d8d8733ff121d91f68711a42cd45e3d15f099e1"
+    },
+    {
+      "id": "1850-Sacred-VEMP-50t-consolation",
+      "variant": "default",
+      "xml_sha256": "1d7caa6002b03c5e664a0026e610aaab9dae34475932bb75c269fea8d6007e91",
+      "trace_sha256": "d91b35527e2b9742c7f0ff3a2062631c52c936bb54ac513c5f4bbdb46f45a4e6"
+    },
+    {
+      "id": "1850-Sacred-VEMP-50b-distress",
+      "variant": "default",
+      "xml_sha256": "ff8b12e0a49a7c8ac8cc9936ad6546e8393e9d037a6e71b78f4ab1ad7110ff29",
+      "trace_sha256": "787212cf18e5b419fa65adff95a96305c2039b81ac9747a21bfa666cd2c71539"
+    },
+    {
+      "id": "1850-Sacred-VEMP-60-portugal",
+      "variant": "default",
+      "xml_sha256": "69c15989ca474e9c5f89326650b1cff66775a94a1276c97e80f55e1a0ad2d463",
+      "trace_sha256": "bcd1501389bfa0e3bb076959cf238c07582317da734906546a43043458e50c4d"
+    },
+    {
+      "id": "1850-Sacred-VEMP-40-lenox",
+      "variant": "clean_layout",
+      "xml_sha256": "454e78d01384d9f566ac5c311f2ef264bc66a83eb2103ac19ebb0aecd52cc4ec",
+      "trace_sha256": "e72960d5434654a4ca9630c0fce2ccc337d4f426857bd41ed967b198fab110c4"
+    },
+    {
+      "id": "1850-Sacred-VEMP-46t-dublin",
+      "variant": "clean_layout",
+      "xml_sha256": "deeb0bd842d32e850468fc490d6d663179961240f8e0ddcddbbb775ad0add9e6",
+      "trace_sha256": "5bd4bc813590b8096d625cf4d6000a3a7c986f77bf7364647fb7cfa2f7cb651d"
+    },
+    {
+      "id": "1850-Sacred-VEMP-46b-hanover",
+      "variant": "clean_layout",
+      "xml_sha256": "91e175473ae267e470cb79d28dedb6da4bd81ba14e47b4dc8a2552d94cb908b8",
+      "trace_sha256": "9487c34400cc91525ba728921d8d8733ff121d91f68711a42cd45e3d15f099e1"
+    },
+    {
+      "id": "1850-Sacred-VEMP-50t-consolation",
+      "variant": "clean_layout",
+      "xml_sha256": "1d7caa6002b03c5e664a0026e610aaab9dae34475932bb75c269fea8d6007e91",
+      "trace_sha256": "d91b35527e2b9742c7f0ff3a2062631c52c936bb54ac513c5f4bbdb46f45a4e6"
+    },
+    {
+      "id": "1850-Sacred-VEMP-50b-distress",
+      "variant": "clean_layout",
+      "xml_sha256": "ff8b12e0a49a7c8ac8cc9936ad6546e8393e9d037a6e71b78f4ab1ad7110ff29",
+      "trace_sha256": "787212cf18e5b419fa65adff95a96305c2039b81ac9747a21bfa666cd2c71539"
+    },
+    {
+      "id": "1850-Sacred-VEMP-60-portugal",
+      "variant": "clean_layout",
+      "xml_sha256": "69c15989ca474e9c5f89326650b1cff66775a94a1276c97e80f55e1a0ad2d463",
+      "trace_sha256": "bcd1501389bfa0e3bb076959cf238c07582317da734906546a43043458e50c4d"
+    }
+  ],
+  "hash_guard_passed": true,
+  "references_opened": false,
+  "expected_cases": 12,
+  "all_cases_complete": true
+}

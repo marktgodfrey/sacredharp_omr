@@ -1,0 +1,236 @@
+{
+  "cases": [
+    {
+      "id": "1860-Sacred-IMSLP-27-bethel",
+      "variant": "default",
+      "xml_sha256": "dad6e2152b614d1179f3efb17e3ce15f53318437e84567871f02438f3c043379",
+      "trace_sha256": "2ad633cec8878b2795a69119920dc0f4be7668d59c1fb823f9002561a7e31d4e"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-28t-aylesbury",
+      "variant": "default",
+      "xml_sha256": "02cb06e50e893b363ed01e757bcb7d854aa43fab3c98776fd7fb1752108ecd4a",
+      "trace_sha256": "3dec7d720e61495d2d3e728e9cbeccc3dfbb7a0c5b10aaa904d7009e7d9fbd76"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-28b-wells",
+      "variant": "default",
+      "xml_sha256": "ed0ce61be29c8b6b921f10b277cb4a79a0dfd371d65b0e00e541fd3b691541b9",
+      "trace_sha256": "c449dfe0a9d96982b25003630703c69f563e5ece1d3f5b09cda9d73ac7d42515"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-30t-rochester",
+      "variant": "default",
+      "xml_sha256": "6d0379992d00ad88091dd5465ba0770e03220d4c4edf024c4ae8e4874cd8e3b2",
+      "trace_sha256": "323dadef2674a324973cab4cf12b3e81c2d19d324f4213fb7ff9270d0b4b4689"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-30b-prospect",
+      "variant": "default",
+      "xml_sha256": "eccdef0ccdc20c1d0775f19314ff369ca1f94836f564ff5c667018a261610cdd",
+      "trace_sha256": "d88067f87a9b4323edc8de266467237518c1db7a2ccffb618197245242f12868"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-45t-new-britain",
+      "variant": "default",
+      "xml_sha256": "c9f98e08457cabeba9a8d2a8e2230dbe0ecaf0d35e086b910684ea5412df428f",
+      "trace_sha256": "a92262605a5a68c84462912c747ed1c0000b102b3d1e68ebd79d791d4b118749"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-45b-supplication",
+      "variant": "default",
+      "xml_sha256": "f39538d645a76652de09c9cc104eca02916d1427a4ae762e59b838bfe5be2b86",
+      "trace_sha256": "7a644499f685637f3f9beb237c7e6d784c398e47d8f16942d33b6219b800fb3e"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-82t-bound-for-canaan",
+      "variant": "default",
+      "xml_sha256": "701a64d34431d6b372d184662c566622d7d89fc00091cee9ae439e5c51d41940",
+      "trace_sha256": "25c7654ca551dac3a0e22bcf92842e4c6985e62dece337da064f49f31063c50d"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-82b-edgefield",
+      "variant": "default",
+      "xml_sha256": "5645c869ef8d5133fb83e048d385929c1f75c7a8873afe811cf2d4e31ac5c83c",
+      "trace_sha256": "df96178e9583c30f6829faf3091aa465b28dafc77df0ba896b1ef0b94174ca12"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-100-the-bower-of-prayer",
+      "variant": "default",
+      "xml_sha256": "af4ca3af83a9d78a7d5d145d7ded6eac1dc514209e52fda5ac45a6d31a624a46",
+      "trace_sha256": "59194470a43e870d926c48800a8bb203ffa7299ed175bd68cba44bc1bc388af7"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-122-all-is-well",
+      "variant": "default",
+      "xml_sha256": "fd3e36f316c9a1aabd53e84fa2a44727dc57d42ea9665b978e50a37b1afe759d",
+      "trace_sha256": "a9b1742a76536ca4a69a6e8468a9a2551c22374058077c67267ed61fe57eed9e"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-145-hallelujah",
+      "variant": "default",
+      "xml_sha256": "a8efa615e073ff2a6974b26dd0bd780e4043b0c8ccd61864baebdb3d9e3ebe78",
+      "trace_sha256": "0364decf86955e4588d6c62ce8c187a5fd227b656b5d5d0bdf8bd3537f6b4214"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-170-exhilaration",
+      "variant": "default",
+      "xml_sha256": "e092d0d2f7c75e3c6b846dee4bce6f58f227e58fed401f67ebcc3a5cb217c868",
+      "trace_sha256": "a211010bcd2987daa2346f48649dd70d7a398d4ad06eebb96b1f33ed4c0acd1d"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-202-new-lebanon",
+      "variant": "default",
+      "xml_sha256": "3106ae3303b47961351455a5dccb11cb4aca04040e2b303a3f455174da653533",
+      "trace_sha256": "45c6894c1cedc83bfa750764e5f817e7e9368b4a6124f54a486e341cf40311c2"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-222-ocean",
+      "variant": "default",
+      "xml_sha256": "df8ad66aad68da22b3ff7f39f564ec4b66f2f62a12e3306db6148ae7f904bd16",
+      "trace_sha256": "cda3e9572e84c5053bcd22ff025f36c5257254c2d9ef919809a3a650d9b4e449"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-270-confidence",
+      "variant": "default",
+      "xml_sha256": "6c0701180477122fd3be993ad5c53e1543a4254db32135f9e325dd0371b89e34",
+      "trace_sha256": "6d9002f5414867c6fec6da4aea7d33e084e4edd3d00b960017cb6aba0181dd1c"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-326-weary-pilgrim",
+      "variant": "default",
+      "xml_sha256": "e02a68dc5f2fcb631e2e0718bbbdad26ed3a7785cd7b28dfbae2e5840253ef51",
+      "trace_sha256": "561b8af7005b39ad1b202d1e3e1003f0182d78164964521b825599ede096039d"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-354b-happy-land",
+      "variant": "default",
+      "xml_sha256": "4122066f2bed50dd7a673fbbd5f296a605fbd10a18793b6d153f71bffedef924",
+      "trace_sha256": "62b5929d2d5eb7d690fcf3bbcac19c0ed920c310f151f9acb5e5f0d6ded15522"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-370-monroe",
+      "variant": "default",
+      "xml_sha256": "838579b3c00d1ad43b737fb61c55b6aba628974d14b0f00c245f69571ba5dba5",
+      "trace_sha256": "f4d80291a6ce95f4637ce2faff8c567a5ef1b10760593d1718bd048721a7e80f"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-27-bethel",
+      "variant": "clean_layout",
+      "xml_sha256": "dad6e2152b614d1179f3efb17e3ce15f53318437e84567871f02438f3c043379",
+      "trace_sha256": "2ad633cec8878b2795a69119920dc0f4be7668d59c1fb823f9002561a7e31d4e"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-28t-aylesbury",
+      "variant": "clean_layout",
+      "xml_sha256": "02cb06e50e893b363ed01e757bcb7d854aa43fab3c98776fd7fb1752108ecd4a",
+      "trace_sha256": "1edd06f476ba4aac117abab02ec45bb4c681b0e90df2af0d6959dc0e682bd2cf"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-28b-wells",
+      "variant": "clean_layout",
+      "xml_sha256": "ed0ce61be29c8b6b921f10b277cb4a79a0dfd371d65b0e00e541fd3b691541b9",
+      "trace_sha256": "c449dfe0a9d96982b25003630703c69f563e5ece1d3f5b09cda9d73ac7d42515"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-30t-rochester",
+      "variant": "clean_layout",
+      "xml_sha256": "6d0379992d00ad88091dd5465ba0770e03220d4c4edf024c4ae8e4874cd8e3b2",
+      "trace_sha256": "f5b1735f0b011e12b0100194dde0407e5b34c3682cbe2c00dd6dab3561ec465e"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-30b-prospect",
+      "variant": "clean_layout",
+      "xml_sha256": "eccdef0ccdc20c1d0775f19314ff369ca1f94836f564ff5c667018a261610cdd",
+      "trace_sha256": "9ab9ae9b3188c70973223cc2ba0cedc5a59f82b4be8a78a5e68b8bceebe7d87c"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-45t-new-britain",
+      "variant": "clean_layout",
+      "xml_sha256": "c9f98e08457cabeba9a8d2a8e2230dbe0ecaf0d35e086b910684ea5412df428f",
+      "trace_sha256": "a92262605a5a68c84462912c747ed1c0000b102b3d1e68ebd79d791d4b118749"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-45b-supplication",
+      "variant": "clean_layout",
+      "xml_sha256": "f39538d645a76652de09c9cc104eca02916d1427a4ae762e59b838bfe5be2b86",
+      "trace_sha256": "27e52cd462f6ecffff427ec42866891cfbc0d94e278e1f7cb2b18077030c36a7"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-82t-bound-for-canaan",
+      "variant": "clean_layout",
+      "xml_sha256": "701a64d34431d6b372d184662c566622d7d89fc00091cee9ae439e5c51d41940",
+      "trace_sha256": "730cd8c2bbbc889e55abbad1932ccff9e92b3d7725587238728e49523022d797"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-82b-edgefield",
+      "variant": "clean_layout",
+      "xml_sha256": "5645c869ef8d5133fb83e048d385929c1f75c7a8873afe811cf2d4e31ac5c83c",
+      "trace_sha256": "0cd0ccc4a04d7cb097cc1c5d9f95c3a844378cfb6b1edaf13d6168c5e0d29602"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-100-the-bower-of-prayer",
+      "variant": "clean_layout",
+      "xml_sha256": "af4ca3af83a9d78a7d5d145d7ded6eac1dc514209e52fda5ac45a6d31a624a46",
+      "trace_sha256": "6b8bca16482da99593042ebe86acef342a2cc919d94ad5dd619c82c10c12fe4c"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-122-all-is-well",
+      "variant": "clean_layout",
+      "xml_sha256": "fd3e36f316c9a1aabd53e84fa2a44727dc57d42ea9665b978e50a37b1afe759d",
+      "trace_sha256": "b79bb172c63d8dd02a7f131d8c2156cb826d8b5073f96257bbc5d505f5870f7d"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-145-hallelujah",
+      "variant": "clean_layout",
+      "xml_sha256": "ce78a216c7fb231fd1e9457e442261e1fad59f4c78a72242aac6afa6a2de8eb3",
+      "trace_sha256": "cd25e26a4c91c0482d60149aadf5cba075bfde15555adb7a9e0d98cfe3440350"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-170-exhilaration",
+      "variant": "clean_layout",
+      "xml_sha256": "e092d0d2f7c75e3c6b846dee4bce6f58f227e58fed401f67ebcc3a5cb217c868",
+      "trace_sha256": "91e46e00e1cebe7de0cfa880ad33ce81baedcac0358a3761977edd52b94ca3d2"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-202-new-lebanon",
+      "variant": "clean_layout",
+      "xml_sha256": "3106ae3303b47961351455a5dccb11cb4aca04040e2b303a3f455174da653533",
+      "trace_sha256": "1a8a4090801d8fb812d1669ffd86861e5838ce91cf57db955f2e97a439ca74dd"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-222-ocean",
+      "variant": "clean_layout",
+      "xml_sha256": "8c793948d5e9caf3cf875b1ddce532defe6ec925d24aa3bc930d72306bfa3c7b",
+      "trace_sha256": "6c5a5e50692c18f0229a8e92b3652891a4711e83c0b1fd6fdbbd53ef5aaf30c5"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-270-confidence",
+      "variant": "clean_layout",
+      "xml_sha256": "6c0701180477122fd3be993ad5c53e1543a4254db32135f9e325dd0371b89e34",
+      "trace_sha256": "1f03687e370ae3a3c61000f3711d3c078c976558ec5300352aa560413e237308"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-326-weary-pilgrim",
+      "variant": "clean_layout",
+      "xml_sha256": "e02a68dc5f2fcb631e2e0718bbbdad26ed3a7785cd7b28dfbae2e5840253ef51",
+      "trace_sha256": "95b3e1a9d716aa7d55834f925be7c1770b418df55b6164e33bd9e4e2565937e4"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-354b-happy-land",
+      "variant": "clean_layout",
+      "xml_sha256": "4122066f2bed50dd7a673fbbd5f296a605fbd10a18793b6d153f71bffedef924",
+      "trace_sha256": "0614577ff12016ad99d3baae3532b4704c9e624c6203355e01a8826a19ec1026"
+    },
+    {
+      "id": "1860-Sacred-IMSLP-370-monroe",
+      "variant": "clean_layout",
+      "xml_sha256": "838579b3c00d1ad43b737fb61c55b6aba628974d14b0f00c245f69571ba5dba5",
+      "trace_sha256": "2be85980cf012b06cb9b84eab2e3a270edc5e609a7357f02fd6f09368f968edb"
+    }
+  ],
+  "hash_guard_passed": true,
+  "references_opened": false,
+  "expected_cases": 38,
+  "all_cases_complete": true
+}

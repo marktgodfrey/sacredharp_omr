@@ -1,0 +1,987 @@
+{
+  "schema_version": 2,
+  "scope": "Untouched 1860 holdout: all 19 complete matched source crops available in the supplied PDF, evaluated with both layouts (38 configurations). Non-random source availability sample, not whole-book accuracy.",
+  "selection": "Retain all seven pilot tunes per later book. Review both books at preselected printed pages 48, 64, 82, 100, 122, 146, 170, 202, 222, 270, 302, 326, 354, 370, 402, 430, 450 and 470; include every complete matched tune on these pages. Page 430 is prose; include only complete Happy Land on page 354, excluding the preceding Red Sea Anthem continuation. Retain key, clef and repeat differences and every inference outcome. Add the supplied 1860 PDF after visual page mapping: select every available complete match from the same 26 candidates. Unavailable pages are documented and never counted as missing OMR voices. No inference scores were used in selection.",
+  "variants": [
+    "default",
+    "clean_layout"
+  ],
+  "parent_run": "runs/pilot-coreml-2026-11-26",
+  "candidate_review": [
+    {
+      "printed_page": "430",
+      "status": "excluded_before_inference",
+      "books": [
+        "1911-Sacred-EMU",
+        "1870-Sacred-MTS"
+      ],
+      "reason": "New appendix committee report; no music on the sampled page."
+    },
+    {
+      "printed_page": "354t",
+      "title": "The Red Sea Anthem (concluded)",
+      "status": "excluded_before_inference",
+      "books": [
+        "1911-Sacred-EMU",
+        "1870-Sacred-MTS"
+      ],
+      "reason": "Continuation only; song starts on earlier pages. Complete Happy Land at bottom of354 retained."
+    },
+    {
+      "books": [
+        "1860-Sacred-IMSLP"
+      ],
+      "title": "Devotion / Kedron / Nashville",
+      "status": "unavailable_before_inference",
+      "reason": "Their expected printed pages48 and64 fall in a verified gap: PDF44 shows46, PDF45 shows67. Not scored."
+    },
+    {
+      "books": [
+        "1860-Sacred-IMSLP"
+      ],
+      "title": "Greenland",
+      "status": "unavailable_before_inference",
+      "reason": "Printed page302 falls in a verified scan gap: PDF258 is printed290, PDF259 is printed303. PDF260 prints Morgan with related text but a different tune, so it is not substituted."
+    },
+    {
+      "books": [
+        "1860-Sacred-IMSLP"
+      ],
+      "title": "Protection / Elder / Sardis",
+      "status": "unavailable_before_inference",
+      "reason": "The supplied PDF ends at printed398; historical pages402/450/470 lie outside supplied coverage. No inference attempted."
+    }
+  ],
+  "reviewed_sources": [
+    "sources/1911-Sacred-EMU-0054.jpg",
+    "sources/1911-Sacred-EMU-0070.jpg",
+    "sources/1911-Sacred-EMU-0088.jpg",
+    "sources/1911-Sacred-EMU-0106.jpg",
+    "sources/1911-Sacred-EMU-0128.jpg",
+    "sources/1911-Sacred-EMU-0152.jpg",
+    "sources/1911-Sacred-EMU-0176.jpg",
+    "sources/1911-Sacred-EMU-0208.jpg",
+    "sources/1911-Sacred-EMU-0228.jpg",
+    "sources/1911-Sacred-EMU-0276.jpg",
+    "sources/1911-Sacred-EMU-0308.jpg",
+    "sources/1911-Sacred-EMU-0332.jpg",
+    "sources/1911-Sacred-EMU-0360.jpg",
+    "sources/1911-Sacred-EMU-0376.jpg",
+    "sources/1911-Sacred-EMU-0408.jpg",
+    "sources/1911-Sacred-EMU-0436.jpg",
+    "sources/1911-Sacred-EMU-0456.jpg",
+    "sources/1911-Sacred-EMU-0476.jpg",
+    "sources/1870-Sacred-MTS-0053.jpg",
+    "sources/1870-Sacred-MTS-0069.jpg",
+    "sources/1870-Sacred-MTS-0087.jpg",
+    "sources/1870-Sacred-MTS-0105.jpg",
+    "sources/1870-Sacred-MTS-0127.jpg",
+    "sources/1870-Sacred-MTS-0151.jpg",
+    "sources/1870-Sacred-MTS-0175.jpg",
+    "sources/1870-Sacred-MTS-0207.jpg",
+    "sources/1870-Sacred-MTS-0227.jpg",
+    "sources/1870-Sacred-MTS-0275.jpg",
+    "sources/1870-Sacred-MTS-0307.jpg",
+    "sources/1870-Sacred-MTS-0331.jpg",
+    "sources/1870-Sacred-MTS-0359.jpg",
+    "sources/1870-Sacred-MTS-0375.jpg",
+    "sources/1870-Sacred-MTS-0407.jpg",
+    "sources/1870-Sacred-MTS-0435.jpg",
+    "sources/1870-Sacred-MTS-0455.jpg",
+    "sources/1870-Sacred-MTS-0475.jpg",
+    "sources/1860-Sacred-IMSLP-0001.jpg",
+    "sources/1860-Sacred-IMSLP-0044.jpg",
+    "sources/1860-Sacred-IMSLP-0045.jpg",
+    "sources/1860-Sacred-IMSLP-0120.jpg",
+    "sources/1860-Sacred-IMSLP-0123.jpg",
+    "sources/1860-Sacred-IMSLP-0258.jpg",
+    "sources/1860-Sacred-IMSLP-0259.jpg",
+    "sources/1860-Sacred-IMSLP-0260.jpg",
+    "sources/1860-Sacred-IMSLP-0346.jpg"
+  ],
+  "discovery_artifacts": [
+    "sources/expansion-ocr-candidates.json",
+    "sources/ocr/1870-Sacred-MTS-0053.json",
+    "sources/ocr/1870-Sacred-MTS-0069.json",
+    "sources/ocr/1870-Sacred-MTS-0087.json",
+    "sources/ocr/1870-Sacred-MTS-0105.json",
+    "sources/ocr/1870-Sacred-MTS-0127.json",
+    "sources/ocr/1870-Sacred-MTS-0151.json",
+    "sources/ocr/1870-Sacred-MTS-0175.json",
+    "sources/ocr/1870-Sacred-MTS-0207.json",
+    "sources/ocr/1870-Sacred-MTS-0227.json",
+    "sources/ocr/1870-Sacred-MTS-0275.json",
+    "sources/ocr/1870-Sacred-MTS-0307.json",
+    "sources/ocr/1870-Sacred-MTS-0331.json",
+    "sources/ocr/1870-Sacred-MTS-0359.json",
+    "sources/ocr/1870-Sacred-MTS-0375.json",
+    "sources/ocr/1870-Sacred-MTS-0407.json",
+    "sources/ocr/1870-Sacred-MTS-0435.json",
+    "sources/ocr/1870-Sacred-MTS-0455.json",
+    "sources/ocr/1870-Sacred-MTS-0475.json",
+    "sources/ocr/1911-Sacred-EMU-0054.json",
+    "sources/ocr/1911-Sacred-EMU-0070.json",
+    "sources/ocr/1911-Sacred-EMU-0088.json",
+    "sources/ocr/1911-Sacred-EMU-0106.json",
+    "sources/ocr/1911-Sacred-EMU-0128.json",
+    "sources/ocr/1911-Sacred-EMU-0152.json",
+    "sources/ocr/1911-Sacred-EMU-0176.json",
+    "sources/ocr/1911-Sacred-EMU-0208.json",
+    "sources/ocr/1911-Sacred-EMU-0228.json",
+    "sources/ocr/1911-Sacred-EMU-0276.json",
+    "sources/ocr/1911-Sacred-EMU-0308.json",
+    "sources/ocr/1911-Sacred-EMU-0332.json",
+    "sources/ocr/1911-Sacred-EMU-0360.json",
+    "sources/ocr/1911-Sacred-EMU-0376.json",
+    "sources/ocr/1911-Sacred-EMU-0408.json",
+    "sources/ocr/1911-Sacred-EMU-0436.json",
+    "sources/ocr/1911-Sacred-EMU-0456.json",
+    "sources/ocr/1911-Sacred-EMU-0476.json",
+    "sources/1860-source-review.json",
+    "sources/1860-native-extraction-validation.json"
+  ],
+  "required_matched_books": [
+    "1860-Sacred-IMSLP"
+  ],
+  "expected_titles_by_book": {
+    "1860-Sacred-IMSLP": [
+      "All Is Well",
+      "Aylesbury",
+      "Bethel",
+      "Bound for Canaan",
+      "Confidence",
+      "Edgefield",
+      "Exhilaration",
+      "Hallelujah",
+      "Happy Land",
+      "Monroe",
+      "New Britain",
+      "New Lebanon",
+      "Ocean",
+      "Prospect",
+      "Rochester",
+      "Supplication",
+      "The Bower of Prayer",
+      "Weary Pilgrim",
+      "Wells"
+    ]
+  },
+  "source_documents": [
+    {
+      "title": "User-supplied 1860 Sacred Harp scan (IMSLP)",
+      "book": "1860-Sacred-IMSLP",
+      "path": "/Users/mark/sacredharp/books/IMSLP979679-PMLP214197-fa-hymnals-sco_m2117-s23-1860.pdf",
+      "sha256": "db93677e56379e9b18a7ee912e572c9dc64c27ce4e0deee5c0694c94e3df50a0",
+      "pdf_pages": 346,
+      "edition_label_basis": "User-provided date and filename; supplied PDF begins at printed preface page3 and has no title page.",
+      "extraction": "Native page JPEG bytes; no upscaling, normalization, or re-encoding."
+    }
+  ],
+  "samples": [
+    {
+      "id": "1860-Sacred-IMSLP-27-bethel",
+      "book": "1860-Sacred-IMSLP",
+      "title": "Bethel",
+      "printed_page": "27",
+      "scan": "0025",
+      "source": "sources/1860-Sacred-IMSLP-0025.jpg",
+      "crop": [
+        110,
+        400,
+        1490,
+        865
+      ],
+      "input": "inputs/1860-Sacred-IMSLP-27-bethel.png",
+      "reference": "reference/27t BETHEL.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/27t BETHEL.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": -4,
+      "source_meter": "4/4",
+      "review": "Visually reviewed the actual supplied PDF page and native image: complete tune boundaries, title/text/incipit, voice order, system count, key and meter. PDF ordinal is recorded separately from printed page.",
+      "edition_note": "This supplied scan prints four flats, matching the 2025 XML key; both later-source scans print three flats. No normalization applied.",
+      "cohort": "1860_added",
+      "pdf_page": 25,
+      "source_pdf": "/Users/mark/sacredharp/books/IMSLP979679-PMLP214197-fa-hymnals-sco_m2117-s23-1860.pdf",
+      "source_extraction": "One complete native JPEG image from PDF page; bytes retained without resizing or re-encoding.",
+      "source_raster_size": [
+        1561,
+        960
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-28t-aylesbury",
+      "book": "1860-Sacred-IMSLP",
+      "title": "Aylesbury",
+      "printed_page": "28t",
+      "scan": "0026",
+      "source": "sources/1860-Sacred-IMSLP-0026.jpg",
+      "crop": [
+        80,
+        30,
+        1455,
+        450
+      ],
+      "input": "inputs/1860-Sacred-IMSLP-28t-aylesbury.png",
+      "reference": "reference/28t AYLESBURY.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/28t AYLESBURY.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "source_key_fifths": 0,
+      "source_meter": "4/4",
+      "review": "Visually reviewed the actual supplied PDF page and native image: complete tune boundaries, title/text/incipit, voice order, system count, key and meter. PDF ordinal is recorded separately from printed page.",
+      "edition_note": "User-supplied 1860 scan; 2025 edition differences and native scan quality remain in written-pitch/duration disagreement. No note, register, repeat or key correction.",
+      "cohort": "1860_added",
+      "pdf_page": 26,
+      "source_pdf": "/Users/mark/sacredharp/books/IMSLP979679-PMLP214197-fa-hymnals-sco_m2117-s23-1860.pdf",
+      "source_extraction": "One complete native JPEG image from PDF page; bytes retained without resizing or re-encoding.",
+      "source_raster_size": [
+        1559,
+        961
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-28b-wells",
+      "book": "1860-Sacred-IMSLP",
+      "title": "Wells",
+      "printed_page": "28b",
+      "scan": "0026",
+      "source": "sources/1860-Sacred-IMSLP-0026.jpg",
+      "crop": [
+        80,
+        465,
+        1455,
+        885
+      ],
+      "input": "inputs/1860-Sacred-IMSLP-28b-wells.png",
+      "reference": "reference/28b WELLS.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/28b WELLS.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "source_key_fifths": 1,
+      "source_meter": "4/4",
+      "review": "Visually reviewed the actual supplied PDF page and native image: complete tune boundaries, title/text/incipit, voice order, system count, key and meter. PDF ordinal is recorded separately from printed page.",
+      "edition_note": "User-supplied 1860 scan; 2025 edition differences and native scan quality remain in written-pitch/duration disagreement. No note, register, repeat or key correction.",
+      "cohort": "1860_added",
+      "pdf_page": 26,
+      "source_pdf": "/Users/mark/sacredharp/books/IMSLP979679-PMLP214197-fa-hymnals-sco_m2117-s23-1860.pdf",
+      "source_extraction": "One complete native JPEG image from PDF page; bytes retained without resizing or re-encoding.",
+      "source_raster_size": [
+        1559,
+        961
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-30t-rochester",
+      "book": "1860-Sacred-IMSLP",
+      "title": "Rochester",
+      "printed_page": "30t",
+      "scan": "0028",
+      "source": "sources/1860-Sacred-IMSLP-0028.jpg",
+      "crop": [
+        80,
+        35,
+        1460,
+        475
+      ],
+      "input": "inputs/1860-Sacred-IMSLP-30t-rochester.png",
+      "reference": "reference/27b ROCHESTER.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/27b ROCHESTER.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 4,
+      "expected_systems": 1,
+      "source_key_fifths": 3,
+      "source_meter": "4/4",
+      "review": "Visually reviewed the actual supplied PDF page and native image: complete tune boundaries, title/text/incipit, voice order, system count, key and meter. PDF ordinal is recorded separately from printed page.",
+      "edition_note": "User-supplied 1860 scan; 2025 edition differences and native scan quality remain in written-pitch/duration disagreement. No note, register, repeat or key correction.",
+      "cohort": "1860_added",
+      "pdf_page": 28,
+      "source_pdf": "/Users/mark/sacredharp/books/IMSLP979679-PMLP214197-fa-hymnals-sco_m2117-s23-1860.pdf",
+      "source_extraction": "One complete native JPEG image from PDF page; bytes retained without resizing or re-encoding.",
+      "source_raster_size": [
+        1559,
+        961
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-30b-prospect",
+      "book": "1860-Sacred-IMSLP",
+      "title": "Prospect",
+      "printed_page": "30b",
+      "scan": "0028",
+      "source": "sources/1860-Sacred-IMSLP-0028.jpg",
+      "crop": [
+        80,
+        510,
+        1460,
+        890
+      ],
+      "input": "inputs/1860-Sacred-IMSLP-30b-prospect.png",
+      "reference": "reference/30b PROSPECT.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/30b PROSPECT.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": 0,
+      "source_meter": "3/4",
+      "review": "Visually reviewed the actual supplied PDF page and native image: complete tune boundaries, title/text/incipit, voice order, system count, key and meter. PDF ordinal is recorded separately from printed page.",
+      "edition_note": "User-supplied 1860 scan; 2025 edition differences and native scan quality remain in written-pitch/duration disagreement. No note, register, repeat or key correction.",
+      "cohort": "1860_added",
+      "pdf_page": 28,
+      "source_pdf": "/Users/mark/sacredharp/books/IMSLP979679-PMLP214197-fa-hymnals-sco_m2117-s23-1860.pdf",
+      "source_extraction": "One complete native JPEG image from PDF page; bytes retained without resizing or re-encoding.",
+      "source_raster_size": [
+        1559,
+        961
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-45t-new-britain",
+      "book": "1860-Sacred-IMSLP",
+      "title": "New Britain",
+      "printed_page": "45t",
+      "scan": "0043",
+      "source": "sources/1860-Sacred-IMSLP-0043.jpg",
+      "crop": [
+        115,
+        15,
+        1540,
+        495
+      ],
+      "input": "inputs/1860-Sacred-IMSLP-45t-new-britain.png",
+      "reference": "reference/45t NEW BRITAIN.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/45t NEW BRITAIN.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": 0,
+      "source_meter": "3/4",
+      "review": "Visually reviewed the actual supplied PDF page and native image: complete tune boundaries, title/text/incipit, voice order, system count, key and meter. PDF ordinal is recorded separately from printed page.",
+      "edition_note": "User-supplied 1860 scan; 2025 edition differences and native scan quality remain in written-pitch/duration disagreement. No note, register, repeat or key correction.",
+      "cohort": "1860_added",
+      "pdf_page": 43,
+      "source_pdf": "/Users/mark/sacredharp/books/IMSLP979679-PMLP214197-fa-hymnals-sco_m2117-s23-1860.pdf",
+      "source_extraction": "One complete native JPEG image from PDF page; bytes retained without resizing or re-encoding.",
+      "source_raster_size": [
+        1590,
+        943
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-45b-supplication",
+      "book": "1860-Sacred-IMSLP",
+      "title": "Supplication",
+      "printed_page": "45b",
+      "scan": "0043",
+      "source": "sources/1860-Sacred-IMSLP-0043.jpg",
+      "crop": [
+        115,
+        520,
+        1540,
+        875
+      ],
+      "input": "inputs/1860-Sacred-IMSLP-45b-supplication.png",
+      "reference": "reference/497b SUPPLICATION.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/497b SUPPLICATION.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": 0,
+      "source_meter": "4/4",
+      "review": "Visually reviewed the actual supplied PDF page and native image: complete tune boundaries, title/text/incipit, voice order, system count, key and meter. PDF ordinal is recorded separately from printed page.",
+      "edition_note": "User-supplied 1860 scan; 2025 edition differences and native scan quality remain in written-pitch/duration disagreement. No note, register, repeat or key correction.",
+      "cohort": "1860_added",
+      "pdf_page": 43,
+      "source_pdf": "/Users/mark/sacredharp/books/IMSLP979679-PMLP214197-fa-hymnals-sco_m2117-s23-1860.pdf",
+      "source_extraction": "One complete native JPEG image from PDF page; bytes retained without resizing or re-encoding.",
+      "source_raster_size": [
+        1590,
+        943
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-82t-bound-for-canaan",
+      "book": "1860-Sacred-IMSLP",
+      "title": "Bound for Canaan",
+      "printed_page": "82t",
+      "scan": "0058",
+      "cohort": "1860_added",
+      "source": "sources/1860-Sacred-IMSLP-0058.jpg",
+      "crop": [
+        60,
+        5,
+        1470,
+        405
+      ],
+      "input": "inputs/1860-Sacred-IMSLP-82t-bound-for-canaan.png",
+      "reference": "reference/82t BOUND FOR CANAAN.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/82t BOUND FOR CANAAN.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": -2,
+      "source_meter": "4/4",
+      "review": "Visually reviewed the actual supplied PDF page and native image: complete tune boundaries, title/text/incipit, voice order, system count, key and meter. PDF ordinal is recorded separately from printed page.",
+      "edition_note": "User-supplied 1860 scan; 2025 edition differences and native scan quality remain in written-pitch/duration disagreement. No note, register, repeat or key correction.",
+      "pdf_page": 58,
+      "source_pdf": "/Users/mark/sacredharp/books/IMSLP979679-PMLP214197-fa-hymnals-sco_m2117-s23-1860.pdf",
+      "source_extraction": "One complete native JPEG image from PDF page; bytes retained without resizing or re-encoding.",
+      "source_raster_size": [
+        1580,
+        949
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-82b-edgefield",
+      "book": "1860-Sacred-IMSLP",
+      "title": "Edgefield",
+      "printed_page": "82b",
+      "scan": "0058",
+      "cohort": "1860_added",
+      "source": "sources/1860-Sacred-IMSLP-0058.jpg",
+      "crop": [
+        60,
+        445,
+        1470,
+        855
+      ],
+      "input": "inputs/1860-Sacred-IMSLP-82b-edgefield.png",
+      "reference": "reference/82b EDGEFIELD.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/82b EDGEFIELD.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": 3,
+      "source_meter": "6/4",
+      "review": "Visually reviewed the actual supplied PDF page and native image: complete tune boundaries, title/text/incipit, voice order, system count, key and meter. PDF ordinal is recorded separately from printed page.",
+      "edition_note": "User-supplied 1860 scan; 2025 edition differences and native scan quality remain in written-pitch/duration disagreement. No note, register, repeat or key correction.",
+      "pdf_page": 58,
+      "source_pdf": "/Users/mark/sacredharp/books/IMSLP979679-PMLP214197-fa-hymnals-sco_m2117-s23-1860.pdf",
+      "source_extraction": "One complete native JPEG image from PDF page; bytes retained without resizing or re-encoding.",
+      "source_raster_size": [
+        1580,
+        949
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-100-the-bower-of-prayer",
+      "book": "1860-Sacred-IMSLP",
+      "title": "The Bower of Prayer",
+      "printed_page": "100",
+      "scan": "0076",
+      "cohort": "1860_added",
+      "source": "sources/1860-Sacred-IMSLP-0076.jpg",
+      "crop": [
+        45,
+        20,
+        1450,
+        855
+      ],
+      "input": "inputs/1860-Sacred-IMSLP-100-the-bower-of-prayer.png",
+      "reference": "reference/100 THE BOWER OF PRAYER.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/100 THE BOWER OF PRAYER.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": 3,
+      "source_meter": "4/4",
+      "review": "Visually reviewed the actual supplied PDF page and native image: complete tune boundaries, title/text/incipit, voice order, system count, key and meter. PDF ordinal is recorded separately from printed page.",
+      "edition_note": "User-supplied 1860 scan; 2025 edition differences and native scan quality remain in written-pitch/duration disagreement. No note, register, repeat or key correction.",
+      "pdf_page": 76,
+      "source_pdf": "/Users/mark/sacredharp/books/IMSLP979679-PMLP214197-fa-hymnals-sco_m2117-s23-1860.pdf",
+      "source_extraction": "One complete native JPEG image from PDF page; bytes retained without resizing or re-encoding.",
+      "source_raster_size": [
+        1568,
+        956
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-122-all-is-well",
+      "book": "1860-Sacred-IMSLP",
+      "title": "All Is Well",
+      "printed_page": "122",
+      "scan": "0098",
+      "cohort": "1860_added",
+      "source": "sources/1860-Sacred-IMSLP-0098.jpg",
+      "crop": [
+        85,
+        30,
+        1480,
+        900
+      ],
+      "input": "inputs/1860-Sacred-IMSLP-122-all-is-well.png",
+      "reference": "reference/122 ALL IS WELL.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/122 ALL IS WELL.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": 3,
+      "source_meter": "4/4",
+      "review": "Visually reviewed the actual supplied PDF page and native image: complete tune boundaries, title/text/incipit, voice order, system count, key and meter. PDF ordinal is recorded separately from printed page.",
+      "edition_note": "User-supplied 1860 scan; 2025 edition differences and native scan quality remain in written-pitch/duration disagreement. No note, register, repeat or key correction.",
+      "pdf_page": 98,
+      "source_pdf": "/Users/mark/sacredharp/books/IMSLP979679-PMLP214197-fa-hymnals-sco_m2117-s23-1860.pdf",
+      "source_extraction": "One complete native JPEG image from PDF page; bytes retained without resizing or re-encoding.",
+      "source_raster_size": [
+        1559,
+        962
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-145-hallelujah",
+      "book": "1860-Sacred-IMSLP",
+      "title": "Hallelujah",
+      "printed_page": "145 (inferred)",
+      "scan": "0121",
+      "cohort": "1860_added",
+      "source": "sources/1860-Sacred-IMSLP-0121.jpg",
+      "crop": [
+        0,
+        15,
+        1415,
+        910
+      ],
+      "input": "inputs/1860-Sacred-IMSLP-145-hallelujah.png",
+      "reference": "reference/146 HALLELUJAH.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/146 HALLELUJAH.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": -2,
+      "source_meter": "6/4",
+      "review": "Visually reviewed the actual supplied PDF page and native image: complete tune boundaries, title/text/incipit, voice order, system count, key and meter. PDF ordinal is recorded separately from printed page.",
+      "edition_note": "User-supplied 1860 scan; 2025 edition differences and native scan quality remain in written-pitch/duration disagreement. No note, register, repeat or key correction.",
+      "pdf_page": 121,
+      "source_pdf": "/Users/mark/sacredharp/books/IMSLP979679-PMLP214197-fa-hymnals-sco_m2117-s23-1860.pdf",
+      "source_extraction": "One complete native JPEG image from PDF page; bytes retained without resizing or re-encoding.",
+      "source_damage_note": "Left margin is torn/cut: opening clefs and some key-signature ink are damaged; the printed noteheads and both systems are visible. Entire surviving raster retained at left edge. Two-flat source key differs from four-flat XML.",
+      "source_raster_size": [
+        1523,
+        984
+      ],
+      "printed_page_note": "Page number obscured; ordinal120 prints144, ordinal123 prints147. Hallelujah is ordinal121, followed by Warrenton at122. Matched by title, musical incipit and lyrics, not page number."
+    },
+    {
+      "id": "1860-Sacred-IMSLP-170-exhilaration",
+      "book": "1860-Sacred-IMSLP",
+      "title": "Exhilaration",
+      "printed_page": "170",
+      "scan": "0146",
+      "cohort": "1860_added",
+      "source": "sources/1860-Sacred-IMSLP-0146.jpg",
+      "crop": [
+        75,
+        25,
+        1480,
+        875
+      ],
+      "input": "inputs/1860-Sacred-IMSLP-170-exhilaration.png",
+      "reference": "reference/170 EXHILARATION.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/170 EXHILARATION.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": -1,
+      "source_meter": "2/4",
+      "review": "Visually reviewed the actual supplied PDF page and native image: complete tune boundaries, title/text/incipit, voice order, system count, key and meter. PDF ordinal is recorded separately from printed page.",
+      "edition_note": "User-supplied 1860 scan; 2025 edition differences and native scan quality remain in written-pitch/duration disagreement. No note, register, repeat or key correction.",
+      "pdf_page": 146,
+      "source_pdf": "/Users/mark/sacredharp/books/IMSLP979679-PMLP214197-fa-hymnals-sco_m2117-s23-1860.pdf",
+      "source_extraction": "One complete native JPEG image from PDF page; bytes retained without resizing or re-encoding.",
+      "source_raster_size": [
+        1552,
+        966
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-202-new-lebanon",
+      "book": "1860-Sacred-IMSLP",
+      "title": "New Lebanon",
+      "printed_page": "202",
+      "scan": "0178",
+      "cohort": "1860_added",
+      "source": "sources/1860-Sacred-IMSLP-0178.jpg",
+      "crop": [
+        75,
+        25,
+        1490,
+        915
+      ],
+      "input": "inputs/1860-Sacred-IMSLP-202-new-lebanon.png",
+      "reference": "reference/202 NEW LEBANON.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/202 NEW LEBANON.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "source_key_fifths": -3,
+      "source_meter": "4/4",
+      "review": "Visually reviewed the actual supplied PDF page and native image: complete tune boundaries, title/text/incipit, voice order, system count, key and meter. PDF ordinal is recorded separately from printed page.",
+      "edition_note": "User-supplied 1860 scan; 2025 edition differences and native scan quality remain in written-pitch/duration disagreement. No note, register, repeat or key correction.",
+      "pdf_page": 178,
+      "source_pdf": "/Users/mark/sacredharp/books/IMSLP979679-PMLP214197-fa-hymnals-sco_m2117-s23-1860.pdf",
+      "source_extraction": "One complete native JPEG image from PDF page; bytes retained without resizing or re-encoding.",
+      "source_raster_size": [
+        1570,
+        954
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-222-ocean",
+      "book": "1860-Sacred-IMSLP",
+      "title": "Ocean",
+      "printed_page": "222",
+      "scan": "0198",
+      "cohort": "1860_added",
+      "source": "sources/1860-Sacred-IMSLP-0198.jpg",
+      "crop": [
+        75,
+        25,
+        1490,
+        915
+      ],
+      "input": "inputs/1860-Sacred-IMSLP-222-ocean.png",
+      "reference": "reference/222 OCEAN.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/222 OCEAN.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 8,
+      "expected_systems": 2,
+      "source_key_fifths": -1,
+      "source_meter": "4/4",
+      "review": "Visually reviewed the actual supplied PDF page and native image: complete tune boundaries, title/text/incipit, voice order, system count, key and meter. PDF ordinal is recorded separately from printed page.",
+      "edition_note": "User-supplied 1860 scan; 2025 edition differences and native scan quality remain in written-pitch/duration disagreement. No note, register, repeat or key correction.",
+      "pdf_page": 198,
+      "source_pdf": "/Users/mark/sacredharp/books/IMSLP979679-PMLP214197-fa-hymnals-sco_m2117-s23-1860.pdf",
+      "source_extraction": "One complete native JPEG image from PDF page; bytes retained without resizing or re-encoding.",
+      "source_raster_size": [
+        1537,
+        975
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-270-confidence",
+      "book": "1860-Sacred-IMSLP",
+      "title": "Confidence",
+      "printed_page": "270",
+      "scan": "0246",
+      "cohort": "1860_added",
+      "source": "sources/1860-Sacred-IMSLP-0246.jpg",
+      "crop": [
+        75,
+        65,
+        1480,
+        905
+      ],
+      "input": "inputs/1860-Sacred-IMSLP-270-confidence.png",
+      "reference": "reference/270 CONFIDENCE.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/270 CONFIDENCE.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": 3,
+      "source_meter": "2/4",
+      "review": "Visually reviewed the actual supplied PDF page and native image: complete tune boundaries, title/text/incipit, voice order, system count, key and meter. PDF ordinal is recorded separately from printed page.",
+      "edition_note": "User-supplied 1860 scan; 2025 edition differences and native scan quality remain in written-pitch/duration disagreement. No note, register, repeat or key correction.",
+      "pdf_page": 246,
+      "source_pdf": "/Users/mark/sacredharp/books/IMSLP979679-PMLP214197-fa-hymnals-sco_m2117-s23-1860.pdf",
+      "source_extraction": "One complete native JPEG image from PDF page; bytes retained without resizing or re-encoding.",
+      "source_raster_size": [
+        1551,
+        967
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-326-weary-pilgrim",
+      "book": "1860-Sacred-IMSLP",
+      "title": "Weary Pilgrim",
+      "printed_page": "326",
+      "scan": "0274",
+      "cohort": "1860_added",
+      "source": "sources/1860-Sacred-IMSLP-0274.jpg",
+      "crop": [
+        70,
+        25,
+        1480,
+        900
+      ],
+      "input": "inputs/1860-Sacred-IMSLP-326-weary-pilgrim.png",
+      "reference": "reference/326 WEARY PILGRIM.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/326 WEARY PILGRIM.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": 1,
+      "source_meter": "6/4",
+      "review": "Visually reviewed the actual supplied PDF page and native image: complete tune boundaries, title/text/incipit, voice order, system count, key and meter. PDF ordinal is recorded separately from printed page.",
+      "edition_note": "User-supplied 1860 scan; 2025 edition differences and native scan quality remain in written-pitch/duration disagreement. No note, register, repeat or key correction.",
+      "pdf_page": 274,
+      "source_pdf": "/Users/mark/sacredharp/books/IMSLP979679-PMLP214197-fa-hymnals-sco_m2117-s23-1860.pdf",
+      "source_extraction": "One complete native JPEG image from PDF page; bytes retained without resizing or re-encoding.",
+      "source_raster_size": [
+        1556,
+        963
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-354b-happy-land",
+      "book": "1860-Sacred-IMSLP",
+      "title": "Happy Land",
+      "printed_page": "354b",
+      "scan": "0302",
+      "cohort": "1860_added",
+      "source": "sources/1860-Sacred-IMSLP-0302.jpg",
+      "crop": [
+        70,
+        420,
+        1470,
+        875
+      ],
+      "input": "inputs/1860-Sacred-IMSLP-354b-happy-land.png",
+      "reference": "reference/354b HAPPY LAND.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/354b HAPPY LAND.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 3,
+      "expected_systems": 1,
+      "source_key_fifths": -1,
+      "source_meter": "2/4",
+      "review": "Visually reviewed the actual supplied PDF page and native image: complete tune boundaries, title/text/incipit, voice order, system count, key and meter. PDF ordinal is recorded separately from printed page.",
+      "edition_note": "User-supplied 1860 scan; 2025 edition differences and native scan quality remain in written-pitch/duration disagreement. No note, register, repeat or key correction.",
+      "pdf_page": 302,
+      "source_pdf": "/Users/mark/sacredharp/books/IMSLP979679-PMLP214197-fa-hymnals-sco_m2117-s23-1860.pdf",
+      "source_extraction": "One complete native JPEG image from PDF page; bytes retained without resizing or re-encoding.",
+      "source_raster_size": [
+        1559,
+        962
+      ]
+    },
+    {
+      "id": "1860-Sacred-IMSLP-370-monroe",
+      "book": "1860-Sacred-IMSLP",
+      "title": "Monroe",
+      "printed_page": "370",
+      "scan": "0318",
+      "cohort": "1860_added",
+      "source": "sources/1860-Sacred-IMSLP-0318.jpg",
+      "crop": [
+        50,
+        15,
+        1460,
+        855
+      ],
+      "input": "inputs/1860-Sacred-IMSLP-370-monroe.png",
+      "reference": "reference/370 MONROE.musicxml.xml",
+      "reference_source": "/Users/mark/sacredharp/code/sh_chords/SH2025 MusicXML Files 2026-04-09/370 MONROE.musicxml.xml",
+      "source_voice_order": [
+        "treble",
+        "tenor",
+        "bass"
+      ],
+      "reference_voice_order": [
+        "treble",
+        "alto",
+        "tenor",
+        "bass"
+      ],
+      "expected_staves": 6,
+      "expected_systems": 2,
+      "source_key_fifths": 0,
+      "source_meter": "6/4",
+      "review": "Visually reviewed the actual supplied PDF page and native image: complete tune boundaries, title/text/incipit, voice order, system count, key and meter. PDF ordinal is recorded separately from printed page.",
+      "edition_note": "User-supplied 1860 scan; 2025 edition differences and native scan quality remain in written-pitch/duration disagreement. No note, register, repeat or key correction.",
+      "pdf_page": 318,
+      "source_pdf": "/Users/mark/sacredharp/books/IMSLP979679-PMLP214197-fa-hymnals-sco_m2117-s23-1860.pdf",
+      "source_extraction": "One complete native JPEG image from PDF page; bytes retained without resizing or re-encoding.",
+      "source_raster_size": [
+        1553,
+        965
+      ]
+    }
+  ],
+  "parent_selection_scope": "26 matched tunes in each of the 1870 and 1911 books (52 crops), plus 19 matched surviving tunes from the user-supplied 1860 PDF: 71 crops and 142 CPU_ONLY predictions. Nineteen titles form an all-three-source matched subset. This is a non-random sample, not a book-wide accuracy estimate."
+}

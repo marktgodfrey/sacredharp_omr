@@ -1,0 +1,40 @@
+{
+  "tests_passed_before_holdout": 214,
+  "protected_development_heads": 18,
+  "reviewed_development_durations": 17,
+  "printed_3_4_safeguard_passed": true,
+  "lenox_ragan_duane_development_controls_passed": true,
+  "source_crops": 19,
+  "configurations": 38,
+  "fresh_cpu_only_captures": 38,
+  "policy_outputs": 76,
+  "prediction_failures": 0,
+  "generation_hash_guards_passed": true,
+  "rules_unchanged_during_holdout": true,
+  "source_review_completed_before_reference_scoring": true,
+  "source_review_sha256": "4f926621cf5b55a713e9df83b3b3206370caabca9ec841e3b5650a677c61680a",
+  "current_non_head_rejections": 0,
+  "abstention_objects": 4,
+  "abstention_occurrences": 8,
+  "retained_artifact_objects": 4,
+  "genuine_heldout_heads_rescued": 0,
+  "confirmed_genuine_heads_deleted": 0,
+  "all_baseline_selected_note_id_pitch_sets_retained": true,
+  "damaged_head_generalization_established": false,
+  "pd_edit_change_total_across_layouts": 7,
+  "pd_better_tied_worse": [
+    0,
+    32,
+    6
+  ],
+  "f1_better_tied_worse": [
+    0,
+    33,
+    5
+  ],
+  "timing_invariant_failure_configurations_both_versions": 3,
+  "broad_enablement_ready": false,
+  "defaults_enabled": false,
+  "gallery_updated": false,
+  "no_heldout_threshold_tuning": true
+}

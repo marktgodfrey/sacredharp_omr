@@ -1,0 +1,251 @@
+{
+  "heads_present": 18,
+  "duration_checks": 17,
+  "cases": [
+    {
+      "case_id": "M013",
+      "song_id": "1911-s0224-repentance",
+      "head_id": 834,
+      "expected_duration": "1"
+    },
+    {
+      "case_id": "M014",
+      "song_id": "1911-s0224-repentance",
+      "head_id": 852,
+      "expected_duration": "1"
+    },
+    {
+      "case_id": "M015",
+      "song_id": "1911-s0224-repentance",
+      "head_id": 830,
+      "expected_duration": "1"
+    },
+    {
+      "case_id": "M016",
+      "song_id": "1911-s0224-repentance",
+      "head_id": 832,
+      "expected_duration": "1"
+    },
+    {
+      "case_id": "M017",
+      "song_id": "1911-s0224-repentance",
+      "head_id": 838,
+      "expected_duration": "1"
+    },
+    {
+      "case_id": "M018",
+      "song_id": "1911-s0224-repentance",
+      "head_id": 833,
+      "expected_duration": "1"
+    },
+    {
+      "case_id": "M019",
+      "song_id": "1911-s0224-repentance",
+      "head_id": 836,
+      "expected_duration": "1"
+    },
+    {
+      "case_id": "M020",
+      "song_id": "1911-s0224-repentance",
+      "head_id": 843,
+      "expected_duration": "1"
+    },
+    {
+      "case_id": "M021",
+      "song_id": "1911-s0224-repentance",
+      "head_id": 857,
+      "expected_duration": "1"
+    },
+    {
+      "case_id": "M033",
+      "song_id": "1911-s0416-protection",
+      "head_id": 591,
+      "expected_duration": null
+    },
+    {
+      "case_id": "M034",
+      "song_id": "1911-s0416-protection",
+      "head_id": 593,
+      "expected_duration": "1"
+    },
+    {
+      "case_id": "M035",
+      "song_id": "1911-s0416-protection",
+      "head_id": 596,
+      "expected_duration": "1"
+    },
+    {
+      "case_id": "M055",
+      "song_id": "1911-s0316-greenland",
+      "head_id": 829,
+      "expected_duration": "3/2"
+    },
+    {
+      "case_id": "M056",
+      "song_id": "1911-s0316-greenland",
+      "head_id": 855,
+      "expected_duration": "1"
+    },
+    {
+      "case_id": "M057",
+      "song_id": "1911-s0316-greenland",
+      "head_id": 844,
+      "expected_duration": "1/2"
+    },
+    {
+      "case_id": "M059",
+      "song_id": "1911-s0316-greenland",
+      "head_id": 837,
+      "expected_duration": "1"
+    },
+    {
+      "case_id": "M087",
+      "song_id": "1911-s0544-arbacoochee",
+      "head_id": 724,
+      "expected_duration": "1"
+    },
+    {
+      "case_id": "M095",
+      "song_id": "1911-s0308-never-part",
+      "head_id": 522,
+      "expected_duration": "2"
+    }
+  ],
+  "controls": [
+    {
+      "song_id": "1911-31t-ninety-third-psalm",
+      "title": "Ninety-Third Psalm",
+      "unresolved_columns": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "opening_meter": "3/4",
+      "selected_cuts": [
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
+        "6"
+      ]
+    },
+    {
+      "song_id": "1911-Origin-JPK-0050",
+      "title": "Lenox",
+      "unresolved_columns": [],
+      "opening_meter": "4/4",
+      "selected_cuts": [
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4"
+      ]
+    },
+    {
+      "song_id": "1911-holdout-s0186-ragan",
+      "title": "Ragan",
+      "unresolved_columns": [],
+      "opening_meter": "4/4",
+      "selected_cuts": [
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4"
+      ]
+    },
+    {
+      "song_id": "1911-holdout-s0174-duane-street",
+      "title": "Duane Street",
+      "unresolved_columns": [],
+      "opening_meter": "4/4",
+      "selected_cuts": [
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4"
+      ]
+    },
+    {
+      "song_id": "1911-s0532-jackson",
+      "title": "Jackson",
+      "unresolved_columns": [
+        1
+      ],
+      "opening_meter": "4/4",
+      "selected_cuts": [
+        "4",
+        "5",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "2",
+        "4"
+      ]
+    }
+  ],
+  "references_opened": false
+}

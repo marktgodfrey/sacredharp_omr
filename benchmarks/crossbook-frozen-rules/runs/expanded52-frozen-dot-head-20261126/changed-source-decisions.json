@@ -1,0 +1,3122 @@
+{
+  "changed_cuts": [],
+  "comparison_basis": {
+    "configurations_expected": 104,
+    "current": "current/{variant}/{id}.trace.json",
+    "input_paths_from_manifest": true,
+    "prior": "prior/{variant}/{id}.trace.json"
+  },
+  "configurations": [
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-100-the-bower-of-prayer",
+      "input": "inputs/1870-Sacred-MTS-100-the-bower-of-prayer.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-122-all-is-well",
+      "input": "inputs/1870-Sacred-MTS-122-all-is-well.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-146-hallelujah",
+      "input": "inputs/1870-Sacred-MTS-146-hallelujah.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-170-exhilaration",
+      "input": "inputs/1870-Sacred-MTS-170-exhilaration.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-202-new-lebanon",
+      "input": "inputs/1870-Sacred-MTS-202-new-lebanon.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-222-ocean",
+      "input": "inputs/1870-Sacred-MTS-222-ocean.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-27-bethel",
+      "input": "inputs/1870-Sacred-MTS-27-bethel.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-270-confidence",
+      "input": "inputs/1870-Sacred-MTS-270-confidence.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-28b-wells",
+      "input": "inputs/1870-Sacred-MTS-28b-wells.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-28t-aylesbury",
+      "input": "inputs/1870-Sacred-MTS-28t-aylesbury.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-302-greenland",
+      "input": "inputs/1870-Sacred-MTS-302-greenland.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-30b-prospect",
+      "input": "inputs/1870-Sacred-MTS-30b-prospect.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-30t-rochester",
+      "input": "inputs/1870-Sacred-MTS-30t-rochester.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-326-weary-pilgrim",
+      "input": "inputs/1870-Sacred-MTS-326-weary-pilgrim.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-354b-happy-land",
+      "input": "inputs/1870-Sacred-MTS-354b-happy-land.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-370-monroe",
+      "input": "inputs/1870-Sacred-MTS-370-monroe.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-402-protection",
+      "input": "inputs/1870-Sacred-MTS-402-protection.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-450-elder",
+      "input": "inputs/1870-Sacred-MTS-450-elder.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-45b-supplication",
+      "input": "inputs/1870-Sacred-MTS-45b-supplication.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-45t-new-britain",
+      "input": "inputs/1870-Sacred-MTS-45t-new-britain.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-470-sardis",
+      "input": "inputs/1870-Sacred-MTS-470-sardis.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-48b-kedron",
+      "input": "inputs/1870-Sacred-MTS-48b-kedron.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-48t-devotion",
+      "input": "inputs/1870-Sacred-MTS-48t-devotion.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-64-nashville",
+      "input": "inputs/1870-Sacred-MTS-64-nashville.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-82b-edgefield",
+      "input": "inputs/1870-Sacred-MTS-82b-edgefield.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-82t-bound-for-canaan",
+      "input": "inputs/1870-Sacred-MTS-82t-bound-for-canaan.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-100-the-bower-of-prayer",
+      "input": "inputs/1911-Sacred-EMU-100-the-bower-of-prayer.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-122-all-is-well",
+      "input": "inputs/1911-Sacred-EMU-122-all-is-well.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-146-hallelujah",
+      "input": "inputs/1911-Sacred-EMU-146-hallelujah.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-170-exhilaration",
+      "input": "inputs/1911-Sacred-EMU-170-exhilaration.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-202-new-lebanon",
+      "input": "inputs/1911-Sacred-EMU-202-new-lebanon.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-222-ocean",
+      "input": "inputs/1911-Sacred-EMU-222-ocean.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-27-bethel",
+      "input": "inputs/1911-Sacred-EMU-27-bethel.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-270-confidence",
+      "input": "inputs/1911-Sacred-EMU-270-confidence.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-28b-wells",
+      "input": "inputs/1911-Sacred-EMU-28b-wells.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-28t-aylesbury",
+      "input": "inputs/1911-Sacred-EMU-28t-aylesbury.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-302-greenland",
+      "input": "inputs/1911-Sacred-EMU-302-greenland.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-30b-prospect",
+      "input": "inputs/1911-Sacred-EMU-30b-prospect.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-30t-rochester",
+      "input": "inputs/1911-Sacred-EMU-30t-rochester.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-326-weary-pilgrim",
+      "input": "inputs/1911-Sacred-EMU-326-weary-pilgrim.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-354b-happy-land",
+      "input": "inputs/1911-Sacred-EMU-354b-happy-land.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-370-monroe",
+      "input": "inputs/1911-Sacred-EMU-370-monroe.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-402-protection",
+      "input": "inputs/1911-Sacred-EMU-402-protection.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-450-elder",
+      "input": "inputs/1911-Sacred-EMU-450-elder.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-45b-supplication",
+      "input": "inputs/1911-Sacred-EMU-45b-supplication.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-45t-new-britain",
+      "input": "inputs/1911-Sacred-EMU-45t-new-britain.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-470-sardis",
+      "input": "inputs/1911-Sacred-EMU-470-sardis.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-48b-kedron",
+      "input": "inputs/1911-Sacred-EMU-48b-kedron.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-48t-devotion",
+      "input": "inputs/1911-Sacred-EMU-48t-devotion.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-64-nashville",
+      "input": "inputs/1911-Sacred-EMU-64-nashville.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-82b-edgefield",
+      "input": "inputs/1911-Sacred-EMU-82b-edgefield.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-82t-bound-for-canaan",
+      "input": "inputs/1911-Sacred-EMU-82t-bound-for-canaan.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-100-the-bower-of-prayer",
+      "input": "inputs/1870-Sacred-MTS-100-the-bower-of-prayer.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-122-all-is-well",
+      "input": "inputs/1870-Sacred-MTS-122-all-is-well.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-146-hallelujah",
+      "input": "inputs/1870-Sacred-MTS-146-hallelujah.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-170-exhilaration",
+      "input": "inputs/1870-Sacred-MTS-170-exhilaration.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-202-new-lebanon",
+      "input": "inputs/1870-Sacred-MTS-202-new-lebanon.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-222-ocean",
+      "input": "inputs/1870-Sacred-MTS-222-ocean.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-27-bethel",
+      "input": "inputs/1870-Sacred-MTS-27-bethel.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-270-confidence",
+      "input": "inputs/1870-Sacred-MTS-270-confidence.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-28b-wells",
+      "input": "inputs/1870-Sacred-MTS-28b-wells.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-28t-aylesbury",
+      "input": "inputs/1870-Sacred-MTS-28t-aylesbury.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-302-greenland",
+      "input": "inputs/1870-Sacred-MTS-302-greenland.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-30b-prospect",
+      "input": "inputs/1870-Sacred-MTS-30b-prospect.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-30t-rochester",
+      "input": "inputs/1870-Sacred-MTS-30t-rochester.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-326-weary-pilgrim",
+      "input": "inputs/1870-Sacred-MTS-326-weary-pilgrim.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-354b-happy-land",
+      "input": "inputs/1870-Sacred-MTS-354b-happy-land.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-370-monroe",
+      "input": "inputs/1870-Sacred-MTS-370-monroe.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-402-protection",
+      "input": "inputs/1870-Sacred-MTS-402-protection.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-450-elder",
+      "input": "inputs/1870-Sacred-MTS-450-elder.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-45b-supplication",
+      "input": "inputs/1870-Sacred-MTS-45b-supplication.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-45t-new-britain",
+      "input": "inputs/1870-Sacred-MTS-45t-new-britain.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-470-sardis",
+      "input": "inputs/1870-Sacred-MTS-470-sardis.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-48b-kedron",
+      "input": "inputs/1870-Sacred-MTS-48b-kedron.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-48t-devotion",
+      "input": "inputs/1870-Sacred-MTS-48t-devotion.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-64-nashville",
+      "input": "inputs/1870-Sacred-MTS-64-nashville.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-82b-edgefield",
+      "input": "inputs/1870-Sacred-MTS-82b-edgefield.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1870-Sacred-MTS-82t-bound-for-canaan",
+      "input": "inputs/1870-Sacred-MTS-82t-bound-for-canaan.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-100-the-bower-of-prayer",
+      "input": "inputs/1911-Sacred-EMU-100-the-bower-of-prayer.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-122-all-is-well",
+      "input": "inputs/1911-Sacred-EMU-122-all-is-well.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-146-hallelujah",
+      "input": "inputs/1911-Sacred-EMU-146-hallelujah.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-170-exhilaration",
+      "input": "inputs/1911-Sacred-EMU-170-exhilaration.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-202-new-lebanon",
+      "input": "inputs/1911-Sacred-EMU-202-new-lebanon.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-222-ocean",
+      "input": "inputs/1911-Sacred-EMU-222-ocean.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-27-bethel",
+      "input": "inputs/1911-Sacred-EMU-27-bethel.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-270-confidence",
+      "input": "inputs/1911-Sacred-EMU-270-confidence.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-28b-wells",
+      "input": "inputs/1911-Sacred-EMU-28b-wells.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-28t-aylesbury",
+      "input": "inputs/1911-Sacred-EMU-28t-aylesbury.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-302-greenland",
+      "input": "inputs/1911-Sacred-EMU-302-greenland.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-30b-prospect",
+      "input": "inputs/1911-Sacred-EMU-30b-prospect.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-30t-rochester",
+      "input": "inputs/1911-Sacred-EMU-30t-rochester.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-326-weary-pilgrim",
+      "input": "inputs/1911-Sacred-EMU-326-weary-pilgrim.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-354b-happy-land",
+      "input": "inputs/1911-Sacred-EMU-354b-happy-land.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-370-monroe",
+      "input": "inputs/1911-Sacred-EMU-370-monroe.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-402-protection",
+      "input": "inputs/1911-Sacred-EMU-402-protection.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-450-elder",
+      "input": "inputs/1911-Sacred-EMU-450-elder.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-45b-supplication",
+      "input": "inputs/1911-Sacred-EMU-45b-supplication.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-45t-new-britain",
+      "input": "inputs/1911-Sacred-EMU-45t-new-britain.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-470-sardis",
+      "input": "inputs/1911-Sacred-EMU-470-sardis.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-48b-kedron",
+      "input": "inputs/1911-Sacred-EMU-48b-kedron.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-48t-devotion",
+      "input": "inputs/1911-Sacred-EMU-48t-devotion.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-64-nashville",
+      "input": "inputs/1911-Sacred-EMU-64-nashville.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-82b-edgefield",
+      "input": "inputs/1911-Sacred-EMU-82b-edgefield.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1911-Sacred-EMU-82t-bound-for-canaan",
+      "input": "inputs/1911-Sacred-EMU-82t-bound-for-canaan.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    }
+  ],
+  "counts": {
+    "compared": 104,
+    "configurations": 104,
+    "configurations_with_stage_failures": 0,
+    "cut_changes_or_length_flags": 0,
+    "new_removal_occurrences": 22,
+    "sources_with_emitted_event_list_differences": 22
+  },
+  "emitted_source_event_differences": [
+    {
+      "box": [
+        437.6,
+        192.2,
+        471.7,
+        223.7
+      ],
+      "current_occurrences": [],
+      "id": "1870-Sacred-MTS-122-all-is-well",
+      "input": "inputs/1870-Sacred-MTS-122-all-is-well.png",
+      "prior_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": 0,
+            "octave": 5,
+            "step": "E"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "staff": 0,
+      "symbol_id": 329,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        2090.1,
+        1569.0,
+        2123.4,
+        1596.4
+      ],
+      "current_occurrences": [],
+      "id": "1870-Sacred-MTS-370-monroe",
+      "input": "inputs/1870-Sacred-MTS-370-monroe.png",
+      "prior_occurrences": [
+        {
+          "dots": 0,
+          "duration": "2",
+          "pitch": {
+            "alter": 0,
+            "octave": 4,
+            "step": "G"
+          },
+          "typ": "half"
+        }
+      ],
+      "staff": 4,
+      "symbol_id": 252,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        2881.4,
+        1522.5,
+        2918.9,
+        1552.8
+      ],
+      "current_occurrences": [],
+      "id": "1911-Sacred-EMU-146-hallelujah",
+      "input": "inputs/1911-Sacred-EMU-146-hallelujah.png",
+      "prior_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": -1,
+            "octave": 5,
+            "step": "E"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "staff": 4,
+      "symbol_id": 345,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        2207.5,
+        1764.0,
+        2234.3,
+        1787.0
+      ],
+      "current_occurrences": [],
+      "id": "1911-Sacred-EMU-170-exhilaration",
+      "input": "inputs/1911-Sacred-EMU-170-exhilaration.png",
+      "prior_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1/2",
+          "pitch": {
+            "alter": 0,
+            "octave": 3,
+            "step": "A"
+          },
+          "typ": "eighth"
+        }
+      ],
+      "staff": 5,
+      "symbol_id": 568,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        1825.8,
+        166.9,
+        1860.9,
+        195.5
+      ],
+      "current_occurrences": [],
+      "id": "1911-Sacred-EMU-28t-aylesbury",
+      "input": "inputs/1911-Sacred-EMU-28t-aylesbury.png",
+      "prior_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": 0,
+            "octave": 5,
+            "step": "D"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "staff": 0,
+      "symbol_id": 186,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        3063.1,
+        437.7,
+        3095.4,
+        468.1
+      ],
+      "current_occurrences": [],
+      "id": "1911-Sacred-EMU-450-elder",
+      "input": "inputs/1911-Sacred-EMU-450-elder.png",
+      "prior_occurrences": [
+        {
+          "dots": 1,
+          "duration": "3",
+          "pitch": {
+            "alter": 0,
+            "octave": 3,
+            "step": "E"
+          },
+          "typ": "half"
+        }
+      ],
+      "staff": 1,
+      "symbol_id": 466,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        2297.5,
+        660.9,
+        2335.2,
+        685.6
+      ],
+      "current_occurrences": [],
+      "id": "1911-Sacred-EMU-45b-supplication",
+      "input": "inputs/1911-Sacred-EMU-45b-supplication.png",
+      "prior_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": 0,
+            "octave": 3,
+            "step": "F"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "staff": 2,
+      "symbol_id": 211,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        2201.7,
+        227.2,
+        2233.5,
+        258.6
+      ],
+      "current_occurrences": [],
+      "id": "1911-Sacred-EMU-48t-devotion",
+      "input": "inputs/1911-Sacred-EMU-48t-devotion.png",
+      "prior_occurrences": [
+        {
+          "dots": 0,
+          "duration": "2",
+          "pitch": {
+            "alter": 0,
+            "octave": 5,
+            "step": "C"
+          },
+          "typ": "half"
+        }
+      ],
+      "staff": 0,
+      "symbol_id": 209,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        2563.4,
+        715.0,
+        2597.3,
+        741.1
+      ],
+      "current_occurrences": [],
+      "id": "1911-Sacred-EMU-82b-edgefield",
+      "input": "inputs/1911-Sacred-EMU-82b-edgefield.png",
+      "prior_occurrences": [
+        {
+          "dots": 1,
+          "duration": "3",
+          "pitch": {
+            "alter": 0,
+            "octave": 3,
+            "step": "A"
+          },
+          "typ": "half"
+        }
+      ],
+      "staff": 2,
+      "symbol_id": 237,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        895.8,
+        712.4,
+        928.3,
+        736.4
+      ],
+      "current_occurrences": [],
+      "id": "1911-Sacred-EMU-82b-edgefield",
+      "input": "inputs/1911-Sacred-EMU-82b-edgefield.png",
+      "prior_occurrences": [
+        {
+          "dots": 1,
+          "duration": "3",
+          "pitch": {
+            "alter": 0,
+            "octave": 3,
+            "step": "A"
+          },
+          "typ": "half"
+        }
+      ],
+      "staff": 2,
+      "symbol_id": 244,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        437.6,
+        192.2,
+        471.7,
+        223.7
+      ],
+      "current_occurrences": [],
+      "id": "1870-Sacred-MTS-122-all-is-well",
+      "input": "inputs/1870-Sacred-MTS-122-all-is-well.png",
+      "prior_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": 0,
+            "octave": 5,
+            "step": "E"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "staff": 1,
+      "symbol_id": 329,
+      "variant": "default"
+    },
+    {
+      "box": [
+        2863.1,
+        1487.0,
+        2899.7,
+        1516.8
+      ],
+      "current_occurrences": [],
+      "id": "1870-Sacred-MTS-146-hallelujah",
+      "input": "inputs/1870-Sacred-MTS-146-hallelujah.png",
+      "prior_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": 0,
+            "octave": 5,
+            "step": "F"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "staff": 4,
+      "symbol_id": 342,
+      "variant": "default"
+    },
+    {
+      "box": [
+        2090.1,
+        1569.0,
+        2123.4,
+        1596.4
+      ],
+      "current_occurrences": [],
+      "id": "1870-Sacred-MTS-370-monroe",
+      "input": "inputs/1870-Sacred-MTS-370-monroe.png",
+      "prior_occurrences": [
+        {
+          "dots": 0,
+          "duration": "2",
+          "pitch": {
+            "alter": 0,
+            "octave": 4,
+            "step": "G"
+          },
+          "typ": "half"
+        }
+      ],
+      "staff": 5,
+      "symbol_id": 252,
+      "variant": "default"
+    },
+    {
+      "box": [
+        2572.5,
+        489.1,
+        2601.8,
+        518.5
+      ],
+      "current_occurrences": [],
+      "id": "1870-Sacred-MTS-48b-kedron",
+      "input": "inputs/1870-Sacred-MTS-48b-kedron.png",
+      "prior_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": 1,
+            "octave": 4,
+            "step": "F"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "staff": 1,
+      "symbol_id": 219,
+      "variant": "default"
+    },
+    {
+      "box": [
+        2881.4,
+        1522.5,
+        2918.9,
+        1552.8
+      ],
+      "current_occurrences": [],
+      "id": "1911-Sacred-EMU-146-hallelujah",
+      "input": "inputs/1911-Sacred-EMU-146-hallelujah.png",
+      "prior_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": -1,
+            "octave": 5,
+            "step": "E"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "staff": 4,
+      "symbol_id": 345,
+      "variant": "default"
+    },
+    {
+      "box": [
+        2207.5,
+        1764.0,
+        2234.3,
+        1787.0
+      ],
+      "current_occurrences": [],
+      "id": "1911-Sacred-EMU-170-exhilaration",
+      "input": "inputs/1911-Sacred-EMU-170-exhilaration.png",
+      "prior_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1/2",
+          "pitch": {
+            "alter": 0,
+            "octave": 3,
+            "step": "A"
+          },
+          "typ": "eighth"
+        }
+      ],
+      "staff": 5,
+      "symbol_id": 568,
+      "variant": "default"
+    },
+    {
+      "box": [
+        1825.8,
+        166.9,
+        1860.9,
+        195.5
+      ],
+      "current_occurrences": [],
+      "id": "1911-Sacred-EMU-28t-aylesbury",
+      "input": "inputs/1911-Sacred-EMU-28t-aylesbury.png",
+      "prior_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": 0,
+            "octave": 5,
+            "step": "D"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "staff": 0,
+      "symbol_id": 186,
+      "variant": "default"
+    },
+    {
+      "box": [
+        3063.1,
+        437.7,
+        3095.4,
+        468.1
+      ],
+      "current_occurrences": [],
+      "id": "1911-Sacred-EMU-450-elder",
+      "input": "inputs/1911-Sacred-EMU-450-elder.png",
+      "prior_occurrences": [
+        {
+          "dots": 1,
+          "duration": "3",
+          "pitch": {
+            "alter": 0,
+            "octave": 3,
+            "step": "E"
+          },
+          "typ": "half"
+        }
+      ],
+      "staff": 1,
+      "symbol_id": 466,
+      "variant": "default"
+    },
+    {
+      "box": [
+        2297.5,
+        660.9,
+        2335.2,
+        685.6
+      ],
+      "current_occurrences": [],
+      "id": "1911-Sacred-EMU-45b-supplication",
+      "input": "inputs/1911-Sacred-EMU-45b-supplication.png",
+      "prior_occurrences": [
+        {
+          "dots": 0,
+          "duration": "2",
+          "pitch": {
+            "alter": 0,
+            "octave": 3,
+            "step": "F"
+          },
+          "typ": "half"
+        }
+      ],
+      "staff": 2,
+      "symbol_id": 211,
+      "variant": "default"
+    },
+    {
+      "box": [
+        2201.7,
+        227.2,
+        2233.5,
+        258.6
+      ],
+      "current_occurrences": [],
+      "id": "1911-Sacred-EMU-48t-devotion",
+      "input": "inputs/1911-Sacred-EMU-48t-devotion.png",
+      "prior_occurrences": [
+        {
+          "dots": 0,
+          "duration": "2",
+          "pitch": {
+            "alter": 0,
+            "octave": 5,
+            "step": "C"
+          },
+          "typ": "half"
+        }
+      ],
+      "staff": 0,
+      "symbol_id": 209,
+      "variant": "default"
+    },
+    {
+      "box": [
+        2563.4,
+        715.0,
+        2597.3,
+        741.1
+      ],
+      "current_occurrences": [],
+      "id": "1911-Sacred-EMU-82b-edgefield",
+      "input": "inputs/1911-Sacred-EMU-82b-edgefield.png",
+      "prior_occurrences": [
+        {
+          "dots": 1,
+          "duration": "3",
+          "pitch": {
+            "alter": 0,
+            "octave": 3,
+            "step": "A"
+          },
+          "typ": "half"
+        }
+      ],
+      "staff": 2,
+      "symbol_id": 237,
+      "variant": "default"
+    },
+    {
+      "box": [
+        895.8,
+        712.4,
+        928.3,
+        736.4
+      ],
+      "current_occurrences": [],
+      "id": "1911-Sacred-EMU-82b-edgefield",
+      "input": "inputs/1911-Sacred-EMU-82b-edgefield.png",
+      "prior_occurrences": [
+        {
+          "dots": 1,
+          "duration": "3",
+          "pitch": {
+            "alter": 0,
+            "octave": 3,
+            "step": "A"
+          },
+          "typ": "half"
+        }
+      ],
+      "staff": 2,
+      "symbol_id": 244,
+      "variant": "default"
+    }
+  ],
+  "new_removals": [
+    {
+      "box": [
+        437.6,
+        192.2,
+        471.7,
+        223.7
+      ],
+      "id": "1870-Sacred-MTS-122-all-is-well",
+      "input": "inputs/1870-Sacred-MTS-122-all-is-well.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.0,
+          "edge_coverage": {
+            "bottom": 0.6,
+            "left": 0.0625,
+            "right": 0.3125,
+            "top": 0.45714285714285713
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 17,
+            "box": [
+              466,
+              207,
+              471,
+              212
+            ]
+          },
+          {
+            "area": 26,
+            "box": [
+              455,
+              218,
+              472,
+              220
+            ]
+          }
+        ],
+        "threshold": 157.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.109,
+          "ink_threshold": 158.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 3
+        }
+      },
+      "staff": 0,
+      "symbol_id": 329,
+      "variant": "clean_layout",
+      "voice": 1
+    },
+    {
+      "box": [
+        2090.1,
+        1569.0,
+        2123.4,
+        1596.4
+      ],
+      "id": "1870-Sacred-MTS-370-monroe",
+      "input": "inputs/1870-Sacred-MTS-370-monroe.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.007936507936507936,
+          "edge_coverage": {
+            "bottom": 0.0,
+            "left": 0.25,
+            "right": 0.6071428571428571,
+            "top": 0.14705882352941177
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 58,
+            "box": [
+              2117,
+              1569,
+              2124,
+              1581
+            ]
+          },
+          {
+            "area": 6,
+            "box": [
+              2091,
+              1580,
+              2097,
+              1581
+            ]
+          }
+        ],
+        "threshold": 160.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.059,
+          "ink_threshold": 161.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 2
+        }
+      },
+      "staff": 4,
+      "symbol_id": 252,
+      "variant": "clean_layout",
+      "voice": 1
+    },
+    {
+      "box": [
+        2881.4,
+        1522.5,
+        2918.9,
+        1552.8
+      ],
+      "id": "1911-Sacred-EMU-146-hallelujah",
+      "input": "inputs/1911-Sacred-EMU-146-hallelujah.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.0,
+          "edge_coverage": {
+            "bottom": 0.2631578947368421,
+            "left": 0.5806451612903226,
+            "right": 0.2903225806451613,
+            "top": 0.2631578947368421
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 19,
+            "box": [
+              2909,
+              1522,
+              2919,
+              1524
+            ]
+          },
+          {
+            "area": 67,
+            "box": [
+              2881,
+              1535,
+              2886,
+              1553
+            ]
+          },
+          {
+            "area": 15,
+            "box": [
+              2914,
+              1549,
+              2919,
+              1553
+            ]
+          }
+        ],
+        "threshold": 167.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.062,
+          "ink_threshold": 167.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 4
+        }
+      },
+      "staff": 4,
+      "symbol_id": 345,
+      "variant": "clean_layout",
+      "voice": 1
+    },
+    {
+      "box": [
+        2207.5,
+        1764.0,
+        2234.3,
+        1787.0
+      ],
+      "id": "1911-Sacred-EMU-170-exhilaration",
+      "input": "inputs/1911-Sacred-EMU-170-exhilaration.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.0,
+          "edge_coverage": {
+            "bottom": 0.10714285714285714,
+            "left": 0.5652173913043478,
+            "right": 0.0,
+            "top": 0.03571428571428571
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 8,
+            "box": [
+              2207,
+              1769,
+              2210,
+              1775
+            ]
+          }
+        ],
+        "threshold": 169.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.061,
+          "ink_threshold": 169.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 2
+        }
+      },
+      "staff": 5,
+      "symbol_id": 568,
+      "variant": "clean_layout",
+      "voice": 1
+    },
+    {
+      "box": [
+        1825.8,
+        166.9,
+        1860.9,
+        195.5
+      ],
+      "id": "1911-Sacred-EMU-28t-aylesbury",
+      "input": "inputs/1911-Sacred-EMU-28t-aylesbury.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.10069444444444445,
+          "edge_coverage": {
+            "bottom": 0.8055555555555556,
+            "left": 0.23333333333333334,
+            "right": 0.36666666666666664,
+            "top": 0.0
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 6,
+            "box": [
+              1855,
+              179,
+              1860,
+              181
+            ]
+          },
+          {
+            "area": 183,
+            "box": [
+              1825,
+              188,
+              1854,
+              196
+            ]
+          }
+        ],
+        "threshold": 165.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.186,
+          "ink_threshold": 164.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 2
+        }
+      },
+      "staff": 0,
+      "symbol_id": 186,
+      "variant": "clean_layout",
+      "voice": 1
+    },
+    {
+      "box": [
+        3063.1,
+        437.7,
+        3095.4,
+        468.1
+      ],
+      "id": "1911-Sacred-EMU-450-elder",
+      "input": "inputs/1911-Sacred-EMU-450-elder.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.0,
+          "edge_coverage": {
+            "bottom": 0.2727272727272727,
+            "left": 0.59375,
+            "right": 0.34375,
+            "top": 1.0
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 48,
+            "box": [
+              3063,
+              437,
+              3096,
+              439
+            ]
+          },
+          {
+            "area": 13,
+            "box": [
+              3064,
+              440,
+              3069,
+              443
+            ]
+          },
+          {
+            "area": 19,
+            "box": [
+              3063,
+              451,
+              3066,
+              461
+            ]
+          },
+          {
+            "area": 2,
+            "box": [
+              3091,
+              460,
+              3093,
+              461
+            ]
+          },
+          {
+            "area": 17,
+            "box": [
+              3089,
+              466,
+              3096,
+              469
+            ]
+          }
+        ],
+        "threshold": 158.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.069,
+          "ink_threshold": 161.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 3
+        }
+      },
+      "staff": 1,
+      "symbol_id": 466,
+      "variant": "clean_layout",
+      "voice": 1
+    },
+    {
+      "box": [
+        2297.5,
+        660.9,
+        2335.2,
+        685.6
+      ],
+      "id": "1911-Sacred-EMU-45b-supplication",
+      "input": "inputs/1911-Sacred-EMU-45b-supplication.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.3231292517006803,
+          "edge_coverage": {
+            "bottom": 0.7692307692307693,
+            "left": 0.38461538461538464,
+            "right": 0.38461538461538464,
+            "top": 0.0
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 79,
+            "box": [
+              2300,
+              679,
+              2330,
+              684
+            ]
+          }
+        ],
+        "threshold": 166.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.182,
+          "ink_threshold": 168.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 2
+        }
+      },
+      "staff": 2,
+      "symbol_id": 211,
+      "variant": "clean_layout",
+      "voice": 1
+    },
+    {
+      "box": [
+        2201.7,
+        227.2,
+        2233.5,
+        258.6
+      ],
+      "id": "1911-Sacred-EMU-48t-devotion",
+      "input": "inputs/1911-Sacred-EMU-48t-devotion.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.0,
+          "edge_coverage": {
+            "bottom": 0.8787878787878788,
+            "left": 0.0625,
+            "right": 0.0625,
+            "top": 0.0
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [],
+        "threshold": 166.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.027,
+          "ink_threshold": 166.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 2
+        }
+      },
+      "staff": 0,
+      "symbol_id": 209,
+      "variant": "clean_layout",
+      "voice": 1
+    },
+    {
+      "box": [
+        895.8,
+        712.4,
+        928.3,
+        736.4
+      ],
+      "id": "1911-Sacred-EMU-82b-edgefield",
+      "input": "inputs/1911-Sacred-EMU-82b-edgefield.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.1581196581196581,
+          "edge_coverage": {
+            "bottom": 0.0,
+            "left": 0.0,
+            "right": 0.2,
+            "top": 0.0
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [],
+        "threshold": 168.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.033,
+          "ink_threshold": 168.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 2
+        }
+      },
+      "staff": 2,
+      "symbol_id": 244,
+      "variant": "clean_layout",
+      "voice": 1
+    },
+    {
+      "box": [
+        2563.4,
+        715.0,
+        2597.3,
+        741.1
+      ],
+      "id": "1911-Sacred-EMU-82b-edgefield",
+      "input": "inputs/1911-Sacred-EMU-82b-edgefield.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.017543859649122806,
+          "edge_coverage": {
+            "bottom": 0.9428571428571428,
+            "left": 0.2962962962962963,
+            "right": 0.18518518518518517,
+            "top": 0.0
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 144,
+            "box": [
+              2563,
+              737,
+              2596,
+              742
+            ]
+          }
+        ],
+        "threshold": 169.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.168,
+          "ink_threshold": 169.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 3
+        }
+      },
+      "staff": 2,
+      "symbol_id": 237,
+      "variant": "clean_layout",
+      "voice": 1
+    },
+    {
+      "box": [
+        437.6,
+        192.2,
+        471.7,
+        223.7
+      ],
+      "id": "1870-Sacred-MTS-122-all-is-well",
+      "input": "inputs/1870-Sacred-MTS-122-all-is-well.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.0,
+          "edge_coverage": {
+            "bottom": 0.6,
+            "left": 0.0625,
+            "right": 0.3125,
+            "top": 0.45714285714285713
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 17,
+            "box": [
+              466,
+              207,
+              471,
+              212
+            ]
+          },
+          {
+            "area": 7,
+            "box": [
+              459,
+              218,
+              466,
+              219
+            ]
+          },
+          {
+            "area": 2,
+            "box": [
+              469,
+              218,
+              471,
+              219
+            ]
+          }
+        ],
+        "threshold": 157.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.109,
+          "ink_threshold": 158.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 3
+        }
+      },
+      "staff": 1,
+      "symbol_id": 329,
+      "variant": "default",
+      "voice": 1
+    },
+    {
+      "box": [
+        2863.1,
+        1487.0,
+        2899.7,
+        1516.8
+      ],
+      "id": "1870-Sacred-MTS-146-hallelujah",
+      "input": "inputs/1870-Sacred-MTS-146-hallelujah.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.0,
+          "edge_coverage": {
+            "bottom": 0.13513513513513514,
+            "left": 0.36666666666666664,
+            "right": 0.23333333333333334,
+            "top": 0.1891891891891892
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 1,
+            "box": [
+              2897,
+              1490,
+              2898,
+              1491
+            ]
+          },
+          {
+            "area": 51,
+            "box": [
+              2863,
+              1506,
+              2868,
+              1517
+            ]
+          }
+        ],
+        "threshold": 165.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.048,
+          "ink_threshold": 164.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 2
+        }
+      },
+      "staff": 4,
+      "symbol_id": 342,
+      "variant": "default",
+      "voice": 1
+    },
+    {
+      "box": [
+        2090.1,
+        1569.0,
+        2123.4,
+        1596.4
+      ],
+      "id": "1870-Sacred-MTS-370-monroe",
+      "input": "inputs/1870-Sacred-MTS-370-monroe.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.007936507936507936,
+          "edge_coverage": {
+            "bottom": 0.0,
+            "left": 0.25,
+            "right": 0.6071428571428571,
+            "top": 0.14705882352941177
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 58,
+            "box": [
+              2117,
+              1569,
+              2124,
+              1581
+            ]
+          },
+          {
+            "area": 6,
+            "box": [
+              2091,
+              1580,
+              2097,
+              1581
+            ]
+          }
+        ],
+        "threshold": 160.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.059,
+          "ink_threshold": 161.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 2
+        }
+      },
+      "staff": 5,
+      "symbol_id": 252,
+      "variant": "default",
+      "voice": 1
+    },
+    {
+      "box": [
+        2572.5,
+        489.1,
+        2601.8,
+        518.5
+      ],
+      "id": "1870-Sacred-MTS-48b-kedron",
+      "input": "inputs/1870-Sacred-MTS-48b-kedron.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.00390625,
+          "edge_coverage": {
+            "bottom": 0.7666666666666667,
+            "left": 0.1,
+            "right": 0.5,
+            "top": 0.43333333333333335
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 11,
+            "box": [
+              2586,
+              490,
+              2591,
+              493
+            ]
+          },
+          {
+            "area": 40,
+            "box": [
+              2594,
+              490,
+              2602,
+              501
+            ]
+          }
+        ],
+        "threshold": 159.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.064,
+          "ink_threshold": 159.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 2
+        }
+      },
+      "staff": 1,
+      "symbol_id": 219,
+      "variant": "default",
+      "voice": 1
+    },
+    {
+      "box": [
+        2881.4,
+        1522.5,
+        2918.9,
+        1552.8
+      ],
+      "id": "1911-Sacred-EMU-146-hallelujah",
+      "input": "inputs/1911-Sacred-EMU-146-hallelujah.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.0,
+          "edge_coverage": {
+            "bottom": 0.2631578947368421,
+            "left": 0.5806451612903226,
+            "right": 0.2903225806451613,
+            "top": 0.2631578947368421
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 19,
+            "box": [
+              2909,
+              1522,
+              2919,
+              1524
+            ]
+          },
+          {
+            "area": 67,
+            "box": [
+              2881,
+              1535,
+              2886,
+              1553
+            ]
+          },
+          {
+            "area": 15,
+            "box": [
+              2914,
+              1549,
+              2919,
+              1553
+            ]
+          }
+        ],
+        "threshold": 167.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.062,
+          "ink_threshold": 167.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 4
+        }
+      },
+      "staff": 4,
+      "symbol_id": 345,
+      "variant": "default",
+      "voice": 1
+    },
+    {
+      "box": [
+        2207.5,
+        1764.0,
+        2234.3,
+        1787.0
+      ],
+      "id": "1911-Sacred-EMU-170-exhilaration",
+      "input": "inputs/1911-Sacred-EMU-170-exhilaration.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.0,
+          "edge_coverage": {
+            "bottom": 0.10714285714285714,
+            "left": 0.5652173913043478,
+            "right": 0.0,
+            "top": 0.03571428571428571
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 8,
+            "box": [
+              2207,
+              1769,
+              2210,
+              1775
+            ]
+          }
+        ],
+        "threshold": 169.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.061,
+          "ink_threshold": 169.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 2
+        }
+      },
+      "staff": 5,
+      "symbol_id": 568,
+      "variant": "default",
+      "voice": 1
+    },
+    {
+      "box": [
+        1825.8,
+        166.9,
+        1860.9,
+        195.5
+      ],
+      "id": "1911-Sacred-EMU-28t-aylesbury",
+      "input": "inputs/1911-Sacred-EMU-28t-aylesbury.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.10069444444444445,
+          "edge_coverage": {
+            "bottom": 0.8055555555555556,
+            "left": 0.23333333333333334,
+            "right": 0.36666666666666664,
+            "top": 0.0
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 6,
+            "box": [
+              1855,
+              179,
+              1860,
+              181
+            ]
+          },
+          {
+            "area": 183,
+            "box": [
+              1825,
+              188,
+              1854,
+              196
+            ]
+          }
+        ],
+        "threshold": 165.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.186,
+          "ink_threshold": 164.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 2
+        }
+      },
+      "staff": 0,
+      "symbol_id": 186,
+      "variant": "default",
+      "voice": 1
+    },
+    {
+      "box": [
+        3063.1,
+        437.7,
+        3095.4,
+        468.1
+      ],
+      "id": "1911-Sacred-EMU-450-elder",
+      "input": "inputs/1911-Sacred-EMU-450-elder.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.0,
+          "edge_coverage": {
+            "bottom": 0.2727272727272727,
+            "left": 0.59375,
+            "right": 0.34375,
+            "top": 1.0
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 48,
+            "box": [
+              3063,
+              437,
+              3096,
+              439
+            ]
+          },
+          {
+            "area": 13,
+            "box": [
+              3064,
+              440,
+              3069,
+              443
+            ]
+          },
+          {
+            "area": 21,
+            "box": [
+              3063,
+              451,
+              3067,
+              462
+            ]
+          },
+          {
+            "area": 6,
+            "box": [
+              3090,
+              460,
+              3094,
+              462
+            ]
+          },
+          {
+            "area": 12,
+            "box": [
+              3089,
+              467,
+              3096,
+              469
+            ]
+          }
+        ],
+        "threshold": 158.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.069,
+          "ink_threshold": 161.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 3
+        }
+      },
+      "staff": 1,
+      "symbol_id": 466,
+      "variant": "default",
+      "voice": 1
+    },
+    {
+      "box": [
+        2297.5,
+        660.9,
+        2335.2,
+        685.6
+      ],
+      "id": "1911-Sacred-EMU-45b-supplication",
+      "input": "inputs/1911-Sacred-EMU-45b-supplication.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.3231292517006803,
+          "edge_coverage": {
+            "bottom": 0.7692307692307693,
+            "left": 0.38461538461538464,
+            "right": 0.38461538461538464,
+            "top": 0.0
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 79,
+            "box": [
+              2300,
+              679,
+              2330,
+              684
+            ]
+          }
+        ],
+        "threshold": 166.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.182,
+          "ink_threshold": 168.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 2
+        }
+      },
+      "staff": 2,
+      "symbol_id": 211,
+      "variant": "default",
+      "voice": 1
+    },
+    {
+      "box": [
+        2201.7,
+        227.2,
+        2233.5,
+        258.6
+      ],
+      "id": "1911-Sacred-EMU-48t-devotion",
+      "input": "inputs/1911-Sacred-EMU-48t-devotion.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.0,
+          "edge_coverage": {
+            "bottom": 0.8787878787878788,
+            "left": 0.0625,
+            "right": 0.0625,
+            "top": 0.0
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [],
+        "threshold": 166.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.027,
+          "ink_threshold": 166.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 2
+        }
+      },
+      "staff": 0,
+      "symbol_id": 209,
+      "variant": "default",
+      "voice": 1
+    },
+    {
+      "box": [
+        895.8,
+        712.4,
+        928.3,
+        736.4
+      ],
+      "id": "1911-Sacred-EMU-82b-edgefield",
+      "input": "inputs/1911-Sacred-EMU-82b-edgefield.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.1581196581196581,
+          "edge_coverage": {
+            "bottom": 0.0,
+            "left": 0.0,
+            "right": 0.2,
+            "top": 0.0
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [],
+        "threshold": 168.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.033,
+          "ink_threshold": 168.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 2
+        }
+      },
+      "staff": 2,
+      "symbol_id": 244,
+      "variant": "default",
+      "voice": 1
+    },
+    {
+      "box": [
+        2563.4,
+        715.0,
+        2597.3,
+        741.1
+      ],
+      "id": "1911-Sacred-EMU-82b-edgefield",
+      "input": "inputs/1911-Sacred-EMU-82b-edgefield.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.017543859649122806,
+          "edge_coverage": {
+            "bottom": 0.9428571428571428,
+            "left": 0.2962962962962963,
+            "right": 0.18518518518518517,
+            "top": 0.0
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 144,
+            "box": [
+              2563,
+              737,
+              2596,
+              742
+            ]
+          }
+        ],
+        "threshold": 169.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.168,
+          "ink_threshold": 169.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 3
+        }
+      },
+      "staff": 2,
+      "symbol_id": 237,
+      "variant": "default",
+      "voice": 1
+    }
+  ],
+  "run": "/Users/mark/code/sh_omr/benchmarks/crossbook-frozen-rules/runs/expanded52-frozen-dot-head-20261126",
+  "schema_version": 1
+}

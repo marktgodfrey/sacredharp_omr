@@ -8,7 +8,7 @@ from source_duration_options import source_duration_options
 from proposal_rhythm_evidence import detached_dot_evidence
 
 
-def unique_physical_events(events_by_staff,rd=None,image=None):
+def unique_physical_events(events_by_staff,rd=None,image=None,*,abstentions=None):
     """Undo serialized repeat copies reassigned to their original physical head.
 
     A saved copy has no second physical head. Keep its source occurrence once;
@@ -56,17 +56,39 @@ def unique_physical_events(events_by_staff,rd=None,image=None):
                 from beam_region_evidence import beam_region_evidence
                 from glyph_verifier import verify_head
                 from head_morphology import head_morphology
+                from false_head_evidence import repeat_dot_head_evidence,line_or_blemish_evidence
                 kept=[]
                 for e in out:
                     s=rd.layout.syms[e.si];w=s.box[2]-s.box[0]
-                    if e.kind=='note' and e.grace=='none' and s.p<.3:
-                        ver=verify_head(image,s.box,sp,bar_box=rd.layout.bar_box(staff,s.bar))
-                        if ver['reason']=='no_head_ink' and ver['head_ink_fraction']<=.08 and ver['supported_quadrants']<=1:
+                    if e.kind=='note' and e.grace=='none':
+                        peers=[{'box':rd.layout.syms[n.si].box} for n in out if n.kind=='note'
+                               and n.si!=e.si and rd.layout.syms[n.si].bar==s.bar]
+                        repeat=repeat_dot_head_evidence(image,s,rd.layout.staves[staff],peers,
+                            [q for q in rd.layout.syms if q.staff==staff])
+                        if repeat['repeat_dot_head']:
+                            removed.append({'staff':staff,'sym_id':e.si,'kind':e.kind,'voice':e.voice,
+                                'reason':'repeat_dot_misread_as_notehead','source_geometry_evidence':repeat})
+                            continue
+                        if s.p<.8:
+                            ver=verify_head(image,s.box,sp,bar_box=rd.layout.bar_box(staff,s.bar))
                             morph=head_morphology(image,s.box,ver.get('ink_threshold') or 175)
-                            if morph['central_ink_fraction']<.08 and morph['enclosed_white_area_fraction']<.02:
+                            # Retain the pre-existing narrow empty-box rule.
+                            # The broader line filter must not infer absence
+                            # from a damaged counter or incomplete head rim.
+                            if (s.p<.3 and ver['reason']=='no_head_ink' and ver['head_ink_fraction']<=.08
+                                    and ver['supported_quadrants']<=1 and morph['central_ink_fraction']<.08
+                                    and morph['enclosed_white_area_fraction']<.02):
                                 removed.append({'staff':staff,'sym_id':e.si,'kind':e.kind,'voice':e.voice,
                                     'reason':'empty_source_box_misread_as_notehead',
                                     'source_geometry_evidence':{'empty_head_box':True,'verification':ver,'morphology':morph}})
+                                continue
+                            residual=line_or_blemish_evidence(image,s,rd.layout.staves[staff],ver,morph)
+                            if residual.get('abstained') and abstentions is not None:
+                                abstentions.append({'staff':staff,'sym_id':e.si,'kind':e.kind,'voice':e.voice,
+                                    'reason':residual['reason'],'source_geometry_evidence':residual})
+                            if residual['line_or_blemish']:
+                                removed.append({'staff':staff,'sym_id':e.si,'kind':e.kind,'voice':e.voice,
+                                    'reason':'line_or_blemish_misread_as_notehead','source_geometry_evidence':residual})
                                 continue
                     candidate=(e.kind=='note' and e.typ in ('eighth','16th','32nd') and not e.chord
                                and e.grace=='none' and s.p<.95 and w>=1.25*sp)
@@ -165,11 +187,31 @@ def _printed_flag(rd,event,events):
 
 
 def _repeat_dot_column(rd,sym,sp,image=None):
+    def repeat_context(group):
+        ys=sorted(p['cy'] for p in group)
+        if len(ys)<2 or not all(.7*sp<=b-a<=1.3*sp for a,b in zip(ys,ys[1:])):return False
+        # A dotted chord can also make a regular vertical dot column. Multiple
+        # distinct heads immediately to the left make repeat identity unsafe.
+        companions=[]
+        for s in rd.layout.syms:
+            if s.staff!=sym.staff or s.bar!=sym.bar or not s.cls.startswith('note_') or s.p<.3:continue
+            w,h=s.box[2]-s.box[0],s.box[3]-s.box[1]
+            if not (.5*sp<=w<=1.8*sp and .48*sp<=h<=1.8*sp):continue
+            if any(.08*sp<p['cx']-s.box[2]<1.2*sp and abs(p['cy']-s.cy)<.65*sp for p in group):
+                if not any(abs(s.cx-x)<.25*sp and abs(s.cy-y)<.25*sp for x,y in companions):
+                    companions.append((s.cx,s.cy))
+        if len(companions)>=max(2,len(group)-1):return False
+        if len(group)>=3:return True
+        st=rd.layout.staves[sym.staff];cx=sum(p['cx'] for p in group)/len(group)
+        middle_spaces=all(abs(y-(st.y0+offset*sp))<=.25*sp for y,offset in zip(ys,(1.5,2.5)))
+        boundary=any(s.staff==sym.staff and s.cls.startswith('barLine') and s.p>=.5
+                     and min(abs(s.box[0]-cx),abs(s.box[2]-cx))<=1.5*sp for s in rd.layout.syms)
+        return middle_spaces and boundary
     dots=[s for s in rd.layout.syms if s.cls.startswith('dots_') and s.p>=.05
           and s.staff==sym.staff and s.bar==sym.bar and sym.box[2]+.05*sp<s.cx<sym.box[2]+1.8*sp]
     for a in dots:
         group=[s for s in dots if abs(s.cx-a.cx)<.25*sp]
-        if len(group)>=2 and max(s.cy for s in group)-min(s.cy for s in group)>=.7*sp:
+        if repeat_context([{'cx':s.cx,'cy':s.cy} for s in group]):
             return {'glyph_ids':[s.i for s in group]}
     if image is not None:
         import numpy as np
@@ -186,11 +228,11 @@ def _repeat_dot_column(rd,sym,sp,image=None):
             compact=[]
             for area,a,b,c,d in _components(mask):
                 w,h=c-a,d-b
-                if .25*sp<=w<=.95*sp and .2*sp<=h<=.95*sp and .5<=w/max(h,1)<=1.8 and .04*sp*sp<=area<=.8*sp*sp:
+                if .25*sp<=w<=.75*sp and .2*sp<=h<=.75*sp and .5<=w/max(h,1)<=1.8 and .04*sp*sp<=area<=.55*sp*sp:
                     compact.append({'box':[x0+a,y0+b,x0+c,y0+d],'cx':x0+(a+c)/2,'cy':y0+(b+d)/2})
             for dot in compact:
                 group=[p for p in compact if abs(p['cx']-dot['cx'])<.25*sp]
-                if len(group)>=3 and max(p['cy'] for p in group)-min(p['cy'] for p in group)>=1.5*sp:
+                if repeat_context(group):
                     return {'pixel_components':group,'threshold':threshold}
     return None
 
@@ -254,19 +296,28 @@ def resolved_duration_options(rd,image,events_by_staff):
             neighbors=[other.si for other in events if other.si!=e.si and 0<other.x-e.x<1.3*st.sp]
             raw_dot=sym.attr_dist.get('dots',{}).get('1',0)
             context_dot=r.get('dots',{}).get('p',0) if r.get('dots',{}).get('v')==1 else 0
-            force_dot=bool(e.dots==0 and max(raw_dot,context_dot)>=.9 and strong_dots and not neighbors
+            repeat_dots=(_repeat_dot_column(rd,sym,st.sp,image)
+                         if e.dots>0 or strong_dots and max(raw_dot,context_dot)>=.9 else None)
+            from source_dot_evidence import diffuse_dot_mark,component_is_repeat
+            augmentation_components=[d for d in strong_dots if not component_is_repeat(d,repeat_dots,rd,st.sp)]
+            force_dot=bool(e.dots==0 and max(raw_dot,context_dot)>=.9 and augmentation_components and not neighbors
                            and (hollow or filled or evidence.get('strict_source_filled_head')))
             raw_no_dot=sym.attr_dist.get('dots',{}).get('<na>',sym.attr_dist.get('dots',{}).get('0',0))
             dot_p=r.get('dots',{}).get('p',1)
-            no_dot=(e.dots>0 and (dot_p<.99 and raw_no_dot>=.9 or dot_p<.9 and raw_no_dot>=.7)
-                    and dot.get('visible') and not dot.get('present'))
-            repeat_dots=_repeat_dot_column(rd,sym,st.sp,image) if shallow else None
-            if e.dots>0 and repeat_dots and raw_no_dot>=.9 and dot.get('visible') and not dot.get('present'):
+            current_zero=r.get('dots',{}).get('v')==0 and dot_p>=.95
+            diffuse=diffuse_dot_mark(image,sym.box,st) if e.dots>0 and not dot.get('present') else {}
+            no_dot=(e.dots>0 and dot.get('visible') and not dot.get('present')
+                    and (raw_no_dot>=.9 and (dot_p<.99 or current_zero)
+                         or dot_p<.9 and raw_no_dot>=.7 or diffuse.get('diffuse_non_dot_mark')))
+            all_repeat=bool(dot.get('components')) and all(component_is_repeat(d,repeat_dots,rd,st.sp)
+                                                          for d in dot.get('components',[]))
+            if e.dots>0 and repeat_dots and dot.get('visible') and (all_repeat or not dot.get('present') and raw_no_dot>=.9):
                 no_dot=True
             evidence['source_dot_resolution']={'measurement':dot,'strong_components':strong_dots,
                 'nearby_event_veto':neighbors,'force_one_dot':force_dot,'force_no_dot':no_dot,
                 'raw_no_dot_probability':raw_no_dot,'positive_dot_reading_support':max(raw_dot,context_dot),
-                'separate_vertical_repeat_dot_column':repeat_dots}
+                'separate_vertical_repeat_dot_column':repeat_dots,'diffuse_mark':diffuse,
+                'non_repeat_augmentation_components':augmentation_components}
             clear_tup=no_tuplet.get((staff,sym.bar))
             evidence['inherited_tuplet_resolution']=clear_tup
             options=[]

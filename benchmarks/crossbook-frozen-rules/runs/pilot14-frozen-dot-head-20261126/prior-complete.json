@@ -1,0 +1,543 @@
+{
+  "cases": [
+    {
+      "id": "1911-Sacred-EMU-27-bethel",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.7163461669988465,
+      "xml_sha256": "c6c7b7e19d77d31b2aabf9b1a5782d207487870e5e0c013e5d02e090ce558ff1",
+      "trace_sha256": "6b919f3b248c4801b462fd733c8d89baaf2f3ddbebcfbb7cd4ea0eab627e7757",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 17,
+      "duration_changes": 5
+    },
+    {
+      "id": "1911-Sacred-EMU-28t-aylesbury",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.5016315410030074,
+      "xml_sha256": "82b5f6d80b64c99dec23fa891341e9f5d55410430151e9a2b3713d11a38c902c",
+      "trace_sha256": "75b0339a9d6fd990fec99323e20bdc44e496065df2cce26eae260511088500c5",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 25,
+      "duration_changes": 16
+    },
+    {
+      "id": "1911-Sacred-EMU-28b-wells",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.6930325829889625,
+      "xml_sha256": "8604fad198201ec531f33ff0c418cdfd75f6f7a75487139f53fba236177f6696",
+      "trace_sha256": "74cb7fc18c3f4e140657841d6901f7a6f7f77805eb17bb3a9146754a374fe5f8",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 16,
+      "duration_changes": 17
+    },
+    {
+      "id": "1911-Sacred-EMU-30t-rochester",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.605171250004787,
+      "xml_sha256": "140974c0fd34efc6bf2454995c643978d045955a97fc0fb665ec6e31f1e9cbf5",
+      "trace_sha256": "b15bbef60d0fd5de55b144b62e9f71866447923d3567e943d5019d98f5be8ca0",
+      "physical_heads_retained": true,
+      "opening_meter": "2/2",
+      "source_meter_transitions": [],
+      "unresolved_columns": 0,
+      "columns": 61,
+      "duration_changes": 12
+    },
+    {
+      "id": "1911-Sacred-EMU-30b-prospect",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.7089808750024531,
+      "xml_sha256": "1eaf99056c6705be6e0189314e0cfdffcaa0ae720e963d8a3defd370b768fb34",
+      "trace_sha256": "f8c491bb2c887d7b23553c0e8110857f31f0055eac14743e6d9416088080ce3e",
+      "physical_heads_retained": true,
+      "opening_meter": "3/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "3/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 17,
+      "duration_changes": 6
+    },
+    {
+      "id": "1911-Sacred-EMU-45t-new-britain",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.5638892499846406,
+      "xml_sha256": "a8b68ca09ff33878a8f7eeca48d170075e7f7562db35938d490317db7930c17d",
+      "trace_sha256": "9e3e18badda40ef6fb81b9beeb809b95d4e265d2b2b1cecf95ce12767511ddd6",
+      "physical_heads_retained": true,
+      "opening_meter": "3/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "3/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 15,
+      "duration_changes": 2
+    },
+    {
+      "id": "1911-Sacred-EMU-45b-supplication",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.42466158300521784,
+      "xml_sha256": "f2060825ed23e4ac2dc4f9d21aed81eae93121876f901acee1273e68801052d5",
+      "trace_sha256": "a80cd411556a81d8e79a4d3ebe75e0fc6d2be70bdf7351c7999602a9d5559b7b",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [],
+      "unresolved_columns": 4,
+      "columns": 39,
+      "duration_changes": 9
+    },
+    {
+      "id": "1870-Sacred-MTS-27-bethel",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.5512122910004109,
+      "xml_sha256": "878cf9aca6a76c318be5de8776a89ba96eaf12ed1ed6aeea1f50deb6f4c27bc1",
+      "trace_sha256": "cc544757204d63c8cf820d31d6e92550e3fdc71f1d6bb55e19b59c8aeacc53d7",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 17,
+      "duration_changes": 11
+    },
+    {
+      "id": "1870-Sacred-MTS-28t-aylesbury",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.5420818330021575,
+      "xml_sha256": "61fa30ac7497e2f44a51b5d04b1a6edac3350e095bfcf747d568c9502c893231",
+      "trace_sha256": "a6c51fd95369a4807399ebf16fffdccae92b950cd87493be5f85cd2338803485",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          1,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 25,
+      "duration_changes": 12
+    },
+    {
+      "id": "1870-Sacred-MTS-28b-wells",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.6498937910073437,
+      "xml_sha256": "a6d60792dcc2394f1879621203136125f163dd0b99bfff58e4c0fb2f0c0c1789",
+      "trace_sha256": "2f9431259f9cf1fd947ce65ee9f166a00e187282dda0245704fa79dffc363023",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 16,
+      "duration_changes": 9
+    },
+    {
+      "id": "1870-Sacred-MTS-30t-rochester",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.8290152919944376,
+      "xml_sha256": "fb97c31981e15c6d869db29f50953e0da65e51afbf5dd79d107142e334d7f5c9",
+      "trace_sha256": "d614a6f393f00955d65cac7429aed8296052da726624f58a673e767f7bc9a829",
+      "physical_heads_retained": true,
+      "opening_meter": "2/2",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "2/2"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 14,
+      "duration_changes": 1
+    },
+    {
+      "id": "1870-Sacred-MTS-30b-prospect",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.6457762079953682,
+      "xml_sha256": "b9468ab4a1f8ee8b207cec6a141064f2db6d31e20d6c97e6aa443e8430e5e5ed",
+      "trace_sha256": "b75afd52d7a4194afb29ad7ca3699faf1df26e6a47fcc0c10b201df1bde98ade",
+      "physical_heads_retained": true,
+      "opening_meter": "3/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "3/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 17,
+      "duration_changes": 3
+    },
+    {
+      "id": "1870-Sacred-MTS-45t-new-britain",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.5334910830133595,
+      "xml_sha256": "130dd7b40ebd5753b3f98952d451776d890b9f6555900b4b632f2e68face2261",
+      "trace_sha256": "3fa688cf89e5d05cdfdeb1852b7f4e6603e33d98f290bf5af12d2e10b4479af5",
+      "physical_heads_retained": true,
+      "opening_meter": "3/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "3/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 16,
+      "duration_changes": 2
+    },
+    {
+      "id": "1870-Sacred-MTS-45b-supplication",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.48520337499212474,
+      "xml_sha256": "37c1f20861b558f001df6e406d571063f1bbe126bb183c41e053de4273c0219d",
+      "trace_sha256": "d2648e91755bf395745de5fc1df556d99098f5b958d11e9f60735132d9a2947f",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [],
+      "unresolved_columns": 0,
+      "columns": 42,
+      "duration_changes": 11
+    },
+    {
+      "id": "1911-Sacred-EMU-27-bethel",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.5589064589876216,
+      "xml_sha256": "4810bf195f0e44e9a9f2d747147b11d6bdd903933e9653392eba45b99e9cc157",
+      "trace_sha256": "6afe40fcdfc75a8dad32e7aa48a3434556d842dfdb050649b5d4926d268a7d57",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 17,
+      "duration_changes": 5
+    },
+    {
+      "id": "1911-Sacred-EMU-28t-aylesbury",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.5219485000125133,
+      "xml_sha256": "0ec51e5a1cb2e8b170167a221ba43aefc5c90a3c71f0ca40e46e1a6b65463e8a",
+      "trace_sha256": "8b6958a9316f6db0226cccf2a06ee04892234384f45fc84077f14c49792bd2a6",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 13,
+      "duration_changes": 17
+    },
+    {
+      "id": "1911-Sacred-EMU-28b-wells",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.7223816659825388,
+      "xml_sha256": "8604fad198201ec531f33ff0c418cdfd75f6f7a75487139f53fba236177f6696",
+      "trace_sha256": "250445c7aa063cbeb52a3a8f2b20873c5418bf2a892581dc6fb169732eeb3692",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 16,
+      "duration_changes": 17
+    },
+    {
+      "id": "1911-Sacred-EMU-30t-rochester",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.6182998339936603,
+      "xml_sha256": "140974c0fd34efc6bf2454995c643978d045955a97fc0fb665ec6e31f1e9cbf5",
+      "trace_sha256": "742a8867b1dc85315652cc6a803a2f750cf8ba46173ea34c0e374a8f74b3d742",
+      "physical_heads_retained": true,
+      "opening_meter": "2/2",
+      "source_meter_transitions": [],
+      "unresolved_columns": 0,
+      "columns": 61,
+      "duration_changes": 12
+    },
+    {
+      "id": "1911-Sacred-EMU-30b-prospect",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.7040276670013554,
+      "xml_sha256": "1eaf99056c6705be6e0189314e0cfdffcaa0ae720e963d8a3defd370b768fb34",
+      "trace_sha256": "ad7f8bbab07bcc0f724a5feb2c4da6d5d67f9bcad5fff5ebe486ab519d447cff",
+      "physical_heads_retained": true,
+      "opening_meter": "3/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "3/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 17,
+      "duration_changes": 6
+    },
+    {
+      "id": "1911-Sacred-EMU-45t-new-britain",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.5877031660056673,
+      "xml_sha256": "a8b68ca09ff33878a8f7eeca48d170075e7f7562db35938d490317db7930c17d",
+      "trace_sha256": "94f0d701b5e8d3ac8d179a4d92b5fcfe9deca74a6cd53882b6109557a7a09815",
+      "physical_heads_retained": true,
+      "opening_meter": "3/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "3/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 15,
+      "duration_changes": 2
+    },
+    {
+      "id": "1911-Sacred-EMU-45b-supplication",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.45350225002039224,
+      "xml_sha256": "2b6a9508934922a9074df25c3e728814a8d3178a29654c992fea7f163493ab50",
+      "trace_sha256": "ff60314b3c37342dd438ebff6f89ff9f1dd1c6ba5c9dc976fc57f18bd16777a0",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 2,
+      "columns": 14,
+      "duration_changes": 6
+    },
+    {
+      "id": "1870-Sacred-MTS-27-bethel",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.576483000011649,
+      "xml_sha256": "878cf9aca6a76c318be5de8776a89ba96eaf12ed1ed6aeea1f50deb6f4c27bc1",
+      "trace_sha256": "3458762decd0f2577f1947e6875586b9c5a35bf97568d3892d348608237a572d",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 17,
+      "duration_changes": 11
+    },
+    {
+      "id": "1870-Sacred-MTS-28t-aylesbury",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.55024958300055,
+      "xml_sha256": "2d83fdf03d4d625c5d77699999c788d9fb77bcec3f503170f6c4c5c79155b890",
+      "trace_sha256": "7a183197286dac389dffae58e5e1ec96fda9f0fce335dc18e6750077f5cc1c45",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 13,
+      "duration_changes": 11
+    },
+    {
+      "id": "1870-Sacred-MTS-28b-wells",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.6689545839908533,
+      "xml_sha256": "a6d60792dcc2394f1879621203136125f163dd0b99bfff58e4c0fb2f0c0c1789",
+      "trace_sha256": "936df5782fcea28b3782b0699e6ff7cfbf6450abcb1a7235b7fcf4f8f7549489",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 16,
+      "duration_changes": 9
+    },
+    {
+      "id": "1870-Sacred-MTS-30t-rochester",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.8149345829733647,
+      "xml_sha256": "d2266f12309346ea5bfa74f175c05da34c83d77de06b9c5060187694a4aa8797",
+      "trace_sha256": "fbca5aa4f5bf275ceaf18275ca7634e24f06f00fc9490c3d766e4ffc4ac9b69a",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 14,
+      "duration_changes": 1
+    },
+    {
+      "id": "1870-Sacred-MTS-30b-prospect",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.7021990419889335,
+      "xml_sha256": "b9468ab4a1f8ee8b207cec6a141064f2db6d31e20d6c97e6aa443e8430e5e5ed",
+      "trace_sha256": "693c3ca17971a97c6ee939759513f629fc9fba31f900e6797280829cd62eccff",
+      "physical_heads_retained": true,
+      "opening_meter": "3/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "3/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 17,
+      "duration_changes": 3
+    },
+    {
+      "id": "1870-Sacred-MTS-45t-new-britain",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.5518535410228651,
+      "xml_sha256": "130dd7b40ebd5753b3f98952d451776d890b9f6555900b4b632f2e68face2261",
+      "trace_sha256": "9be30d6476310badbd063d77a55d72da241d00ec7b40556259b4f943d87194ff",
+      "physical_heads_retained": true,
+      "opening_meter": "3/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "3/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 16,
+      "duration_changes": 2
+    },
+    {
+      "id": "1870-Sacred-MTS-45b-supplication",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.49190979200648144,
+      "xml_sha256": "093ad5c22ec6188fa95a19a8520b4c15003e3f7beb78f9fae07e6bbe9eca9e22",
+      "trace_sha256": "0601ee59377711ea621bd8b75a7ef7e49098c0288f905a0fcad194d6f90f5d52",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 14,
+      "duration_changes": 8
+    }
+  ],
+  "hash_guard_passed": true,
+  "references_opened": false,
+  "frozen_template_sha256": "03e0523b64fceb9313f4656b19ba6ae9927bbb3cfcea13547329ecfed08d6faf"
+}

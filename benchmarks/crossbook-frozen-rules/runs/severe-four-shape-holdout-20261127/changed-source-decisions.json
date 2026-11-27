@@ -1,0 +1,983 @@
+{
+  "changed_cuts": [
+    {
+      "current_cut": "15/2",
+      "id": "1835-Southern-12-salem",
+      "index": 14,
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-12-salem.png",
+      "prior_cut": "6",
+      "status": "changed_cut",
+      "variant": "clean_layout"
+    },
+    {
+      "current_cut": "7",
+      "id": "1835-Southern-12-salem",
+      "index": 48,
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-12-salem.png",
+      "prior_cut": "6",
+      "status": "changed_cut",
+      "variant": "clean_layout"
+    },
+    {
+      "current_cut": "11",
+      "id": "1835-Southern-13-devotion",
+      "index": 5,
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-13-devotion.png",
+      "prior_cut": "9",
+      "status": "changed_cut",
+      "variant": "clean_layout"
+    },
+    {
+      "current_cut": "15/2",
+      "id": "1835-Southern-12-salem",
+      "index": 14,
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-12-salem.png",
+      "prior_cut": "6",
+      "status": "changed_cut",
+      "variant": "default"
+    },
+    {
+      "current_cut": "7",
+      "id": "1835-Southern-12-salem",
+      "index": 48,
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-12-salem.png",
+      "prior_cut": "6",
+      "status": "changed_cut",
+      "variant": "default"
+    },
+    {
+      "current_cut": "11",
+      "id": "1835-Southern-13-devotion",
+      "index": 5,
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-13-devotion.png",
+      "prior_cut": "9",
+      "status": "changed_cut",
+      "variant": "default"
+    }
+  ],
+  "comparison_basis": {
+    "configurations_expected": 16,
+    "current": "current/{variant}/{id}.trace.json",
+    "input_paths_from_manifest": true,
+    "prior": "prior/{variant}/{id}.trace.json"
+  },
+  "configurations": [
+    {
+      "comparison_status": "compared",
+      "id": "1835-Southern-1-liverpool",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-1-liverpool.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1835-Southern-12-salem",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-12-salem.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1835-Southern-13-devotion",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-13-devotion.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1835-Southern-13-dublin",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-13-dublin.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1835-Southern-2-invitation",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-2-invitation.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1835-Southern-4-hanover",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-4-hanover.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1835-Southern-4-meditation",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-4-meditation.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1835-Southern-9-converted-thief",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-9-converted-thief.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1835-Southern-1-liverpool",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-1-liverpool.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1835-Southern-12-salem",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-12-salem.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1835-Southern-13-devotion",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-13-devotion.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1835-Southern-13-dublin",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-13-dublin.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1835-Southern-2-invitation",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-2-invitation.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1835-Southern-4-hanover",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-4-hanover.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1835-Southern-4-meditation",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-4-meditation.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1835-Southern-9-converted-thief",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-9-converted-thief.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    }
+  ],
+  "counts": {
+    "compared": 16,
+    "configurations": 16,
+    "configurations_with_stage_failures": 0,
+    "cut_changes_or_length_flags": 6,
+    "new_removal_occurrences": 0,
+    "sources_with_emitted_event_list_differences": 28
+  },
+  "emitted_source_event_differences": [
+    {
+      "box": [
+        1551.0,
+        424.3,
+        1572.0,
+        445.5
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": 0,
+            "octave": 3,
+            "step": "G"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "id": "1835-Southern-1-liverpool",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-1-liverpool.png",
+      "prior_occurrences": [],
+      "staff": 2,
+      "symbol_id": 225,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        430.8,
+        102.9,
+        453.7,
+        124.5
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "2",
+          "pitch": {
+            "alter": 0,
+            "octave": 5,
+            "step": "C"
+          },
+          "typ": "half"
+        }
+      ],
+      "id": "1835-Southern-1-liverpool",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-1-liverpool.png",
+      "prior_occurrences": [],
+      "staff": 0,
+      "symbol_id": 232,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        313.9,
+        973.1,
+        336.3,
+        992.1
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": 0,
+            "octave": 3,
+            "step": "F"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "id": "1835-Southern-12-salem",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-12-salem.png",
+      "prior_occurrences": [],
+      "staff": 5,
+      "symbol_id": 242,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        881.1,
+        970.5,
+        903.3,
+        990.9
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "2",
+          "pitch": {
+            "alter": 0,
+            "octave": 3,
+            "step": "F"
+          },
+          "typ": "half"
+        }
+      ],
+      "id": "1835-Southern-12-salem",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-12-salem.png",
+      "prior_occurrences": [],
+      "staff": 5,
+      "symbol_id": 330,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        1655.0,
+        817.6,
+        1677.3,
+        838.3
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": -1,
+            "octave": 4,
+            "step": "B"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "id": "1835-Southern-12-salem",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-12-salem.png",
+      "prior_occurrences": [],
+      "staff": 4,
+      "symbol_id": 354,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        1398.6,
+        252.4,
+        1415.5,
+        272.9
+      ],
+      "current_occurrences": [
+        {
+          "dots": 1,
+          "duration": "3",
+          "pitch": {
+            "alter": 0,
+            "octave": 5,
+            "step": "G"
+          },
+          "typ": "half"
+        }
+      ],
+      "id": "1835-Southern-12-salem",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-12-salem.png",
+      "prior_occurrences": [],
+      "staff": 1,
+      "symbol_id": 390,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        721.6,
+        116.9,
+        745.4,
+        134.8
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "2",
+          "pitch": {
+            "alter": 0,
+            "octave": 4,
+            "step": "B"
+          },
+          "typ": "half"
+        }
+      ],
+      "id": "1835-Southern-13-devotion",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-13-devotion.png",
+      "prior_occurrences": [],
+      "staff": 0,
+      "symbol_id": 198,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        899.9,
+        106.5,
+        921.5,
+        129.2
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "2",
+          "pitch": {
+            "alter": 0,
+            "octave": 5,
+            "step": "C"
+          },
+          "typ": "half"
+        }
+      ],
+      "id": "1835-Southern-13-devotion",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-13-devotion.png",
+      "prior_occurrences": [],
+      "staff": 0,
+      "symbol_id": 220,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        1617.4,
+        400.9,
+        1641.2,
+        421.5
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "2",
+          "pitch": {
+            "alter": 0,
+            "octave": 5,
+            "step": "C"
+          },
+          "typ": "half"
+        }
+      ],
+      "id": "1835-Southern-13-dublin",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-13-dublin.png",
+      "prior_occurrences": [],
+      "staff": 2,
+      "symbol_id": 218,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        1247.6,
+        122.0,
+        1269.7,
+        136.4
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": 0,
+            "octave": 4,
+            "step": "B"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "id": "1835-Southern-13-dublin",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-13-dublin.png",
+      "prior_occurrences": [],
+      "staff": 0,
+      "symbol_id": 251,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        1739.6,
+        500.2,
+        1763.0,
+        525.8
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "2",
+          "pitch": {
+            "alter": 0,
+            "octave": 3,
+            "step": "G"
+          },
+          "typ": "half"
+        }
+      ],
+      "id": "1835-Southern-13-dublin",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-13-dublin.png",
+      "prior_occurrences": [],
+      "staff": 3,
+      "symbol_id": 258,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        1866.2,
+        531.0,
+        1891.5,
+        552.9
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "2",
+          "pitch": {
+            "alter": 0,
+            "octave": 3,
+            "step": "E"
+          },
+          "typ": "half"
+        }
+      ],
+      "id": "1835-Southern-13-dublin",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-13-dublin.png",
+      "prior_occurrences": [],
+      "staff": 3,
+      "symbol_id": 277,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        454.1,
+        448.1,
+        472.3,
+        465.0
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": 0,
+            "octave": 2,
+            "step": "G"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "id": "1835-Southern-4-hanover",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-4-hanover.png",
+      "prior_occurrences": [],
+      "staff": 2,
+      "symbol_id": 255,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        93.3,
+        861.5,
+        114.8,
+        882.6
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "2",
+          "pitch": {
+            "alter": 0,
+            "octave": 5,
+            "step": "E"
+          },
+          "typ": "half"
+        }
+      ],
+      "id": "1835-Southern-9-converted-thief",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-9-converted-thief.png",
+      "prior_occurrences": [],
+      "staff": 4,
+      "symbol_id": 331,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        1551.0,
+        424.3,
+        1572.0,
+        445.5
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": 0,
+            "octave": 3,
+            "step": "G"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "id": "1835-Southern-1-liverpool",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-1-liverpool.png",
+      "prior_occurrences": [],
+      "staff": 2,
+      "symbol_id": 225,
+      "variant": "default"
+    },
+    {
+      "box": [
+        430.8,
+        102.9,
+        453.7,
+        124.5
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "2",
+          "pitch": {
+            "alter": 0,
+            "octave": 5,
+            "step": "C"
+          },
+          "typ": "half"
+        }
+      ],
+      "id": "1835-Southern-1-liverpool",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-1-liverpool.png",
+      "prior_occurrences": [],
+      "staff": 0,
+      "symbol_id": 232,
+      "variant": "default"
+    },
+    {
+      "box": [
+        313.9,
+        973.1,
+        336.3,
+        992.1
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": 0,
+            "octave": 3,
+            "step": "F"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "id": "1835-Southern-12-salem",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-12-salem.png",
+      "prior_occurrences": [],
+      "staff": 5,
+      "symbol_id": 242,
+      "variant": "default"
+    },
+    {
+      "box": [
+        881.1,
+        970.5,
+        903.3,
+        990.9
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "2",
+          "pitch": {
+            "alter": 0,
+            "octave": 3,
+            "step": "F"
+          },
+          "typ": "half"
+        }
+      ],
+      "id": "1835-Southern-12-salem",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-12-salem.png",
+      "prior_occurrences": [],
+      "staff": 5,
+      "symbol_id": 330,
+      "variant": "default"
+    },
+    {
+      "box": [
+        1655.0,
+        817.6,
+        1677.3,
+        838.3
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": -1,
+            "octave": 4,
+            "step": "B"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "id": "1835-Southern-12-salem",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-12-salem.png",
+      "prior_occurrences": [],
+      "staff": 4,
+      "symbol_id": 354,
+      "variant": "default"
+    },
+    {
+      "box": [
+        1398.6,
+        252.4,
+        1415.5,
+        272.9
+      ],
+      "current_occurrences": [
+        {
+          "dots": 1,
+          "duration": "3",
+          "pitch": {
+            "alter": 0,
+            "octave": 5,
+            "step": "G"
+          },
+          "typ": "half"
+        }
+      ],
+      "id": "1835-Southern-12-salem",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-12-salem.png",
+      "prior_occurrences": [],
+      "staff": 1,
+      "symbol_id": 390,
+      "variant": "default"
+    },
+    {
+      "box": [
+        721.6,
+        116.9,
+        745.4,
+        134.8
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "2",
+          "pitch": {
+            "alter": 0,
+            "octave": 4,
+            "step": "B"
+          },
+          "typ": "half"
+        }
+      ],
+      "id": "1835-Southern-13-devotion",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-13-devotion.png",
+      "prior_occurrences": [],
+      "staff": 0,
+      "symbol_id": 198,
+      "variant": "default"
+    },
+    {
+      "box": [
+        899.9,
+        106.5,
+        921.5,
+        129.2
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "2",
+          "pitch": {
+            "alter": 0,
+            "octave": 5,
+            "step": "C"
+          },
+          "typ": "half"
+        }
+      ],
+      "id": "1835-Southern-13-devotion",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-13-devotion.png",
+      "prior_occurrences": [],
+      "staff": 0,
+      "symbol_id": 220,
+      "variant": "default"
+    },
+    {
+      "box": [
+        1617.4,
+        400.9,
+        1641.2,
+        421.5
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "2",
+          "pitch": {
+            "alter": 0,
+            "octave": 5,
+            "step": "C"
+          },
+          "typ": "half"
+        }
+      ],
+      "id": "1835-Southern-13-dublin",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-13-dublin.png",
+      "prior_occurrences": [],
+      "staff": 2,
+      "symbol_id": 218,
+      "variant": "default"
+    },
+    {
+      "box": [
+        1247.6,
+        122.0,
+        1269.7,
+        136.4
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": 0,
+            "octave": 4,
+            "step": "B"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "id": "1835-Southern-13-dublin",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-13-dublin.png",
+      "prior_occurrences": [],
+      "staff": 0,
+      "symbol_id": 251,
+      "variant": "default"
+    },
+    {
+      "box": [
+        1739.6,
+        500.2,
+        1763.0,
+        525.8
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "2",
+          "pitch": {
+            "alter": 0,
+            "octave": 3,
+            "step": "G"
+          },
+          "typ": "half"
+        }
+      ],
+      "id": "1835-Southern-13-dublin",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-13-dublin.png",
+      "prior_occurrences": [],
+      "staff": 3,
+      "symbol_id": 258,
+      "variant": "default"
+    },
+    {
+      "box": [
+        1866.2,
+        531.0,
+        1891.5,
+        552.9
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "2",
+          "pitch": {
+            "alter": 0,
+            "octave": 3,
+            "step": "E"
+          },
+          "typ": "half"
+        }
+      ],
+      "id": "1835-Southern-13-dublin",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-13-dublin.png",
+      "prior_occurrences": [],
+      "staff": 3,
+      "symbol_id": 277,
+      "variant": "default"
+    },
+    {
+      "box": [
+        454.1,
+        448.1,
+        472.3,
+        465.0
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": 0,
+            "octave": 2,
+            "step": "G"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "id": "1835-Southern-4-hanover",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-4-hanover.png",
+      "prior_occurrences": [],
+      "staff": 2,
+      "symbol_id": 255,
+      "variant": "default"
+    },
+    {
+      "box": [
+        93.3,
+        861.5,
+        114.8,
+        882.6
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "2",
+          "pitch": {
+            "alter": 0,
+            "octave": 5,
+            "step": "E"
+          },
+          "typ": "half"
+        }
+      ],
+      "id": "1835-Southern-9-converted-thief",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/inputs/1835-Southern-9-converted-thief.png",
+      "prior_occurrences": [],
+      "staff": 4,
+      "symbol_id": 331,
+      "variant": "default"
+    }
+  ],
+  "new_removals": [],
+  "run": "/Users/mark/code/sh_omr/benchmarks/crossbook-frozen-rules/runs/severe-four-shape-holdout-20261127",
+  "schema_version": 1
+}

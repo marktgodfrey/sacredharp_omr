@@ -1,0 +1,155 @@
+{
+  "scope": "Six complete tunes on four source-reviewed 1850 printing pages; 12 configurations, both layouts. Three likely damaged heads and one disputed secondary head; source-enriched convenience sample, not book-wide accuracy.",
+  "variants": [
+    "default",
+    "clean_layout"
+  ],
+  "samples": [
+    {
+      "id": "1850-Sacred-VEMP-40-lenox",
+      "book": "1850-Sacred-VEMP",
+      "title": "Lenox",
+      "pdf_page_ordinal": 43,
+      "printed_page": 40,
+      "source": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/pages/pdf-043.jpg",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-40-lenox.png",
+      "crop_xyxy": [
+        165,
+        33,
+        1260,
+        737
+      ],
+      "source_size": [
+        1340,
+        826
+      ],
+      "input_size": [
+        1095,
+        704
+      ],
+      "reference": null
+    },
+    {
+      "id": "1850-Sacred-VEMP-46t-dublin",
+      "book": "1850-Sacred-VEMP",
+      "title": "Dublin",
+      "pdf_page_ordinal": 49,
+      "printed_page": 46,
+      "source": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/pages/pdf-049.jpg",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-46t-dublin.png",
+      "crop_xyxy": [
+        185,
+        54,
+        1267,
+        410
+      ],
+      "source_size": [
+        1358,
+        834
+      ],
+      "input_size": [
+        1082,
+        356
+      ],
+      "reference": null
+    },
+    {
+      "id": "1850-Sacred-VEMP-46b-hanover",
+      "book": "1850-Sacred-VEMP",
+      "title": "Hanover",
+      "pdf_page_ordinal": 49,
+      "printed_page": 46,
+      "source": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/pages/pdf-049.jpg",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-46b-hanover.png",
+      "crop_xyxy": [
+        184,
+        445,
+        1275,
+        735
+      ],
+      "source_size": [
+        1358,
+        834
+      ],
+      "input_size": [
+        1091,
+        290
+      ],
+      "reference": null
+    },
+    {
+      "id": "1850-Sacred-VEMP-50t-consolation",
+      "book": "1850-Sacred-VEMP",
+      "title": "Consolation",
+      "pdf_page_ordinal": 53,
+      "printed_page": 50,
+      "source": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/pages/pdf-053.jpg",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-50t-consolation.png",
+      "crop_xyxy": [
+        174,
+        62,
+        1286,
+        450
+      ],
+      "source_size": [
+        1352,
+        832
+      ],
+      "input_size": [
+        1112,
+        388
+      ],
+      "reference": null
+    },
+    {
+      "id": "1850-Sacred-VEMP-50b-distress",
+      "book": "1850-Sacred-VEMP",
+      "title": "Distress",
+      "pdf_page_ordinal": 53,
+      "printed_page": 50,
+      "source": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/pages/pdf-053.jpg",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-50b-distress.png",
+      "crop_xyxy": [
+        186,
+        466,
+        1296,
+        756
+      ],
+      "source_size": [
+        1352,
+        832
+      ],
+      "input_size": [
+        1110,
+        290
+      ],
+      "reference": null
+    },
+    {
+      "id": "1850-Sacred-VEMP-60-portugal",
+      "book": "1850-Sacred-VEMP",
+      "title": "Portugal",
+      "pdf_page_ordinal": 63,
+      "printed_page": 60,
+      "source": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/pages/pdf-063.jpg",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-60-portugal.png",
+      "crop_xyxy": [
+        68,
+        28,
+        1160,
+        717
+      ],
+      "source_size": [
+        1232,
+        754
+      ],
+      "input_size": [
+        1092,
+        689
+      ],
+      "reference": null
+    }
+  ],
+  "selection_prediction_blind": true,
+  "references_used": false
+}

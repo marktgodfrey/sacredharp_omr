@@ -1,0 +1,424 @@
+{
+  "changed_cuts": [],
+  "comparison_basis": {
+    "configurations_compared": 28,
+    "current": "current/{variant}/{id}.trace.json",
+    "input_paths_from_sealed_manifest": true,
+    "prior": "prior/{variant}/{id}.trace.json",
+    "sample_ids": [
+      "1911-Sacred-EMU-27-bethel",
+      "1911-Sacred-EMU-28t-aylesbury",
+      "1911-Sacred-EMU-28b-wells",
+      "1911-Sacred-EMU-30t-rochester",
+      "1911-Sacred-EMU-30b-prospect",
+      "1911-Sacred-EMU-45t-new-britain",
+      "1911-Sacred-EMU-45b-supplication",
+      "1870-Sacred-MTS-27-bethel",
+      "1870-Sacred-MTS-28t-aylesbury",
+      "1870-Sacred-MTS-28b-wells",
+      "1870-Sacred-MTS-30t-rochester",
+      "1870-Sacred-MTS-30b-prospect",
+      "1870-Sacred-MTS-45t-new-britain",
+      "1870-Sacred-MTS-45b-supplication"
+    ],
+    "variants": [
+      "default",
+      "clean_layout"
+    ]
+  },
+  "configurations": [
+    {
+      "id": "1870-Sacred-MTS-27-bethel",
+      "input": "inputs/1870-Sacred-MTS-27-bethel.png",
+      "variant": "default"
+    },
+    {
+      "id": "1870-Sacred-MTS-28b-wells",
+      "input": "inputs/1870-Sacred-MTS-28b-wells.png",
+      "variant": "default"
+    },
+    {
+      "id": "1870-Sacred-MTS-28t-aylesbury",
+      "input": "inputs/1870-Sacred-MTS-28t-aylesbury.png",
+      "variant": "default"
+    },
+    {
+      "id": "1870-Sacred-MTS-30b-prospect",
+      "input": "inputs/1870-Sacred-MTS-30b-prospect.png",
+      "variant": "default"
+    },
+    {
+      "id": "1870-Sacred-MTS-30t-rochester",
+      "input": "inputs/1870-Sacred-MTS-30t-rochester.png",
+      "variant": "default"
+    },
+    {
+      "id": "1870-Sacred-MTS-45b-supplication",
+      "input": "inputs/1870-Sacred-MTS-45b-supplication.png",
+      "variant": "default"
+    },
+    {
+      "id": "1870-Sacred-MTS-45t-new-britain",
+      "input": "inputs/1870-Sacred-MTS-45t-new-britain.png",
+      "variant": "default"
+    },
+    {
+      "id": "1911-Sacred-EMU-27-bethel",
+      "input": "inputs/1911-Sacred-EMU-27-bethel.png",
+      "variant": "default"
+    },
+    {
+      "id": "1911-Sacred-EMU-28b-wells",
+      "input": "inputs/1911-Sacred-EMU-28b-wells.png",
+      "variant": "default"
+    },
+    {
+      "id": "1911-Sacred-EMU-28t-aylesbury",
+      "input": "inputs/1911-Sacred-EMU-28t-aylesbury.png",
+      "variant": "default"
+    },
+    {
+      "id": "1911-Sacred-EMU-30b-prospect",
+      "input": "inputs/1911-Sacred-EMU-30b-prospect.png",
+      "variant": "default"
+    },
+    {
+      "id": "1911-Sacred-EMU-30t-rochester",
+      "input": "inputs/1911-Sacred-EMU-30t-rochester.png",
+      "variant": "default"
+    },
+    {
+      "id": "1911-Sacred-EMU-45b-supplication",
+      "input": "inputs/1911-Sacred-EMU-45b-supplication.png",
+      "variant": "default"
+    },
+    {
+      "id": "1911-Sacred-EMU-45t-new-britain",
+      "input": "inputs/1911-Sacred-EMU-45t-new-britain.png",
+      "variant": "default"
+    },
+    {
+      "id": "1870-Sacred-MTS-27-bethel",
+      "input": "inputs/1870-Sacred-MTS-27-bethel.png",
+      "variant": "clean_layout"
+    },
+    {
+      "id": "1870-Sacred-MTS-28b-wells",
+      "input": "inputs/1870-Sacred-MTS-28b-wells.png",
+      "variant": "clean_layout"
+    },
+    {
+      "id": "1870-Sacred-MTS-28t-aylesbury",
+      "input": "inputs/1870-Sacred-MTS-28t-aylesbury.png",
+      "variant": "clean_layout"
+    },
+    {
+      "id": "1870-Sacred-MTS-30b-prospect",
+      "input": "inputs/1870-Sacred-MTS-30b-prospect.png",
+      "variant": "clean_layout"
+    },
+    {
+      "id": "1870-Sacred-MTS-30t-rochester",
+      "input": "inputs/1870-Sacred-MTS-30t-rochester.png",
+      "variant": "clean_layout"
+    },
+    {
+      "id": "1870-Sacred-MTS-45b-supplication",
+      "input": "inputs/1870-Sacred-MTS-45b-supplication.png",
+      "variant": "clean_layout"
+    },
+    {
+      "id": "1870-Sacred-MTS-45t-new-britain",
+      "input": "inputs/1870-Sacred-MTS-45t-new-britain.png",
+      "variant": "clean_layout"
+    },
+    {
+      "id": "1911-Sacred-EMU-27-bethel",
+      "input": "inputs/1911-Sacred-EMU-27-bethel.png",
+      "variant": "clean_layout"
+    },
+    {
+      "id": "1911-Sacred-EMU-28b-wells",
+      "input": "inputs/1911-Sacred-EMU-28b-wells.png",
+      "variant": "clean_layout"
+    },
+    {
+      "id": "1911-Sacred-EMU-28t-aylesbury",
+      "input": "inputs/1911-Sacred-EMU-28t-aylesbury.png",
+      "variant": "clean_layout"
+    },
+    {
+      "id": "1911-Sacred-EMU-30b-prospect",
+      "input": "inputs/1911-Sacred-EMU-30b-prospect.png",
+      "variant": "clean_layout"
+    },
+    {
+      "id": "1911-Sacred-EMU-30t-rochester",
+      "input": "inputs/1911-Sacred-EMU-30t-rochester.png",
+      "variant": "clean_layout"
+    },
+    {
+      "id": "1911-Sacred-EMU-45b-supplication",
+      "input": "inputs/1911-Sacred-EMU-45b-supplication.png",
+      "variant": "clean_layout"
+    },
+    {
+      "id": "1911-Sacred-EMU-45t-new-britain",
+      "input": "inputs/1911-Sacred-EMU-45t-new-britain.png",
+      "variant": "clean_layout"
+    }
+  ],
+  "counts": {
+    "changed_cuts": 0,
+    "changed_emitted_source_note_duration_dot_or_type": 0,
+    "configurations_compared": 28,
+    "new_non_head_removals": 4
+  },
+  "duration_dot_type_changes": [],
+  "new_non_head_removals": [
+    {
+      "box": [
+        1825.8,
+        166.9,
+        1860.9,
+        195.5
+      ],
+      "id": "1911-Sacred-EMU-28t-aylesbury",
+      "input": "inputs/1911-Sacred-EMU-28t-aylesbury.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.10069444444444445,
+          "edge_coverage": {
+            "bottom": 0.8055555555555556,
+            "left": 0.23333333333333334,
+            "right": 0.36666666666666664,
+            "top": 0.0
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 6,
+            "box": [
+              1855,
+              179,
+              1860,
+              181
+            ]
+          },
+          {
+            "area": 183,
+            "box": [
+              1825,
+              188,
+              1854,
+              196
+            ]
+          }
+        ],
+        "threshold": 165.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.186,
+          "ink_threshold": 164.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 2
+        }
+      },
+      "staff": 0,
+      "symbol_id": 186,
+      "variant": "default",
+      "voice": 1
+    },
+    {
+      "box": [
+        2297.5,
+        660.9,
+        2335.2,
+        685.6
+      ],
+      "id": "1911-Sacred-EMU-45b-supplication",
+      "input": "inputs/1911-Sacred-EMU-45b-supplication.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.3231292517006803,
+          "edge_coverage": {
+            "bottom": 0.7692307692307693,
+            "left": 0.38461538461538464,
+            "right": 0.38461538461538464,
+            "top": 0.0
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 79,
+            "box": [
+              2300,
+              679,
+              2330,
+              684
+            ]
+          }
+        ],
+        "threshold": 166.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.182,
+          "ink_threshold": 168.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 2
+        }
+      },
+      "staff": 2,
+      "symbol_id": 211,
+      "variant": "default",
+      "voice": 1
+    },
+    {
+      "box": [
+        1825.8,
+        166.9,
+        1860.9,
+        195.5
+      ],
+      "id": "1911-Sacred-EMU-28t-aylesbury",
+      "input": "inputs/1911-Sacred-EMU-28t-aylesbury.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.10069444444444445,
+          "edge_coverage": {
+            "bottom": 0.8055555555555556,
+            "left": 0.23333333333333334,
+            "right": 0.36666666666666664,
+            "top": 0.0
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 6,
+            "box": [
+              1855,
+              179,
+              1860,
+              181
+            ]
+          },
+          {
+            "area": 183,
+            "box": [
+              1825,
+              188,
+              1854,
+              196
+            ]
+          }
+        ],
+        "threshold": 165.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.186,
+          "ink_threshold": 164.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 2
+        }
+      },
+      "staff": 0,
+      "symbol_id": 186,
+      "variant": "clean_layout",
+      "voice": 1
+    },
+    {
+      "box": [
+        2297.5,
+        660.9,
+        2335.2,
+        685.6
+      ],
+      "id": "1911-Sacred-EMU-45b-supplication",
+      "input": "inputs/1911-Sacred-EMU-45b-supplication.png",
+      "kind": "note",
+      "reason": "line_or_blemish_misread_as_notehead",
+      "source_geometry_evidence": {
+        "empty_head_box": true,
+        "line_or_blemish": true,
+        "morphology": {
+          "central_ink_fraction": 0.3231292517006803,
+          "edge_coverage": {
+            "bottom": 0.7692307692307693,
+            "left": 0.38461538461538464,
+            "right": 0.38461538461538464,
+            "top": 0.0
+          },
+          "enclosed_white_area_fraction": 0.0,
+          "hollow_head": false,
+          "hollow_square": false,
+          "largest_hole_pixels": 0
+        },
+        "reason": "staff_line_or_small_residual_without_compact_head_or_counter",
+        "remaining_components": [
+          {
+            "area": 79,
+            "box": [
+              2300,
+              679,
+              2330,
+              684
+            ]
+          }
+        ],
+        "threshold": 166.0,
+        "verification": {
+          "direction": null,
+          "head_ink_fraction": 0.182,
+          "ink_threshold": 168.0,
+          "reason": "no_head_ink",
+          "stem_found": false,
+          "stem_score": 0.0,
+          "stem_x": null,
+          "supported_quadrants": 2
+        }
+      },
+      "staff": 2,
+      "symbol_id": 211,
+      "variant": "clean_layout",
+      "voice": 1
+    }
+  ],
+  "run": "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126",
+  "schema_version": 1
+}

@@ -1,0 +1,566 @@
+{
+  "status": "locked_before_inference",
+  "locked_utc": "2026-11-27T07:26:44.722662+00:00",
+  "book": "1850-Sacred-VEMP",
+  "predictions_seen": false,
+  "reference_xml_opened": false,
+  "screened_printed_pages": [
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66
+  ],
+  "screened_pdf_pages": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69
+  ],
+  "stopping_reason": "Reached predeclared page 66 ceiling with three likely-damage pages and one initially qualifying but disputed page; no six-page quota was forced.",
+  "selection_deviation": "Printed p40 was initially judged clear by main but disputed in independent source-only review. Kept as a pre-inference secondary ambiguous page rather than silently dropping it. Primary damage denominators use only D1-D3.",
+  "selected_printed_pages": [
+    40,
+    46,
+    50,
+    60
+  ],
+  "screening_log": [
+    {
+      "printed_page": 27,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 28,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 29,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 30,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 31,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 32,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 33,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 34,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 35,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 36,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 37,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 38,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 39,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 40,
+      "decision": "selected_disputed_secondary",
+      "notes": ""
+    },
+    {
+      "printed_page": 41,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 42,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 43,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 44,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 45,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 46,
+      "decision": "selected_likely_damage",
+      "notes": ""
+    },
+    {
+      "printed_page": 47,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 48,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 49,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 50,
+      "decision": "selected_likely_damage",
+      "notes": ""
+    },
+    {
+      "printed_page": 51,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 52,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 53,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 54,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 55,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 56,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 57,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 58,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 59,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 60,
+      "decision": "selected_likely_damage",
+      "notes": ""
+    },
+    {
+      "printed_page": 61,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 62,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 63,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 64,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 65,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    },
+    {
+      "printed_page": 66,
+      "decision": "screened_no_clear_head_ink_loss",
+      "notes": "Paper wear, normal counters, staff gaps and thin but closed rims do not qualify. p28 hollow square was independently reviewed as normal."
+    }
+  ],
+  "annotations": [
+    {
+      "annotation_id": "D1",
+      "sample_id": "1850-Sacred-VEMP-46t-dublin",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        432,
+        347,
+        445,
+        360
+      ],
+      "input_bbox_xyxy": [
+        247,
+        293,
+        260,
+        306
+      ],
+      "description": "Hollow square bass head: left rim is much weaker/missing while top, bottom and right edges survive. Stem descends from lower-left corner. Exact pitch/duration not adjudicated.",
+      "source_only_reviews": {
+        "main": "likely damaged; weak/missing left rim",
+        "independent": "likely clear damaged/missing left rim"
+      }
+    },
+    {
+      "annotation_id": "D2",
+      "sample_id": "1850-Sacred-VEMP-50b-distress",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        711,
+        505,
+        732,
+        520
+      ],
+      "input_bbox_xyxy": [
+        525,
+        39,
+        546,
+        54
+      ],
+      "description": "Hollow oval treble head: open gap in upper arc; surrounding arcs remain dark.",
+      "source_only_reviews": {
+        "main": "clear visible upper rim break",
+        "independent": "likely damaged/broken upper rim"
+      }
+    },
+    {
+      "annotation_id": "D3",
+      "sample_id": "1850-Sacred-VEMP-60-portugal",
+      "status": "likely_damaged",
+      "source_bbox_xyxy": [
+        749,
+        84,
+        768,
+        98
+      ],
+      "input_bbox_xyxy": [
+        681,
+        56,
+        700,
+        70
+      ],
+      "description": "Hollow oval treble head: lower-left rim is absent/very weak beside surviving dark arcs.",
+      "source_only_reviews": {
+        "main": "visible lower-left rim break",
+        "independent": "likely damaged/broken lower-left rim"
+      }
+    },
+    {
+      "annotation_id": "A1",
+      "sample_id": "1850-Sacred-VEMP-40-lenox",
+      "status": "ambiguous",
+      "source_bbox_xyxy": [
+        777,
+        106,
+        796,
+        120
+      ],
+      "input_bbox_xyxy": [
+        612,
+        73,
+        631,
+        87
+      ],
+      "description": "Hollow oval treble head with apparent open lower-left rim. Main judged visible damage; independent reviewer could not distinguish damage from thin-ink variation/design. Retain as secondary, exclude from clear-damage success denominator.",
+      "source_only_reviews": {
+        "main": "apparent broken rim",
+        "independent": "ambiguous leaning normal hollow/design"
+      }
+    },
+    {
+      "annotation_id": "C1",
+      "sample_id": "1850-Sacred-VEMP-40-lenox",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        280,
+        91,
+        296,
+        102
+      ],
+      "input_bbox_xyxy": [
+        115,
+        58,
+        131,
+        69
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      }
+    },
+    {
+      "annotation_id": "C2",
+      "sample_id": "1850-Sacred-VEMP-40-lenox",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        333,
+        78,
+        346,
+        91
+      ],
+      "input_bbox_xyxy": [
+        168,
+        45,
+        181,
+        58
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      }
+    },
+    {
+      "annotation_id": "C3",
+      "sample_id": "1850-Sacred-VEMP-46t-dublin",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        271,
+        128,
+        286,
+        141
+      ],
+      "input_bbox_xyxy": [
+        86,
+        74,
+        101,
+        87
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      }
+    },
+    {
+      "annotation_id": "C4",
+      "sample_id": "1850-Sacred-VEMP-46t-dublin",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        307,
+        117,
+        324,
+        129
+      ],
+      "input_bbox_xyxy": [
+        122,
+        63,
+        139,
+        75
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      }
+    },
+    {
+      "annotation_id": "C5",
+      "sample_id": "1850-Sacred-VEMP-50t-consolation",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        278,
+        166,
+        293,
+        180
+      ],
+      "input_bbox_xyxy": [
+        104,
+        104,
+        119,
+        118
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      }
+    },
+    {
+      "annotation_id": "C6",
+      "sample_id": "1850-Sacred-VEMP-50t-consolation",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        310,
+        144,
+        326,
+        158
+      ],
+      "input_bbox_xyxy": [
+        136,
+        82,
+        152,
+        96
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      }
+    },
+    {
+      "annotation_id": "C7",
+      "sample_id": "1850-Sacred-VEMP-60-portugal",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        192,
+        73,
+        211,
+        88
+      ],
+      "input_bbox_xyxy": [
+        124,
+        45,
+        143,
+        60
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      }
+    },
+    {
+      "annotation_id": "C8",
+      "sample_id": "1850-Sacred-VEMP-60-portugal",
+      "status": "intact_control",
+      "source_bbox_xyxy": [
+        227,
+        84,
+        242,
+        99
+      ],
+      "input_bbox_xyxy": [
+        159,
+        56,
+        174,
+        71
+      ],
+      "description": "First two intact pitched heads in top-to-bottom/left-to-right reading order on this selected source page.",
+      "source_only_reviews": {
+        "main": "intact source head"
+      }
+    }
+  ],
+  "limits": [
+    "Damage labels are visual judgments, not physical examination; distinguish confirmed genuine head identity from uncertainty about how ink was lost.",
+    "Primary sample has square/oval heads, no clearly damaged triangle/diamond.",
+    "Source is a different historical printing and scan, not a different composition distribution; shared plates/tunes possible.",
+    "Model training provenance unknown.",
+    "One principal annotator plus independent source-only review of four candidate heads."
+  ]
+}

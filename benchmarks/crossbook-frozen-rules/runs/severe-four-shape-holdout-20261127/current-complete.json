@@ -1,0 +1,306 @@
+{
+  "cases": [
+    {
+      "id": "1835-Southern-1-liverpool",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.43936654200660996,
+      "xml_sha256": "08f98d0d1fbda67b99ae995617cc7ca4ec32c38e23cd11f40506b29abc738b5c",
+      "trace_sha256": "5054f4794aa4a70ff68f28cfb33b4556e6d76822546afc752dc782809ffbfb0a",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 13,
+      "duration_changes": 5
+    },
+    {
+      "id": "1835-Southern-2-invitation",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.43786808400182053,
+      "xml_sha256": "67e74dbb32c21e5a9cf5b2ff2a779b6dff0e35af241e22d4f2b48ad76cb06e00",
+      "trace_sha256": "3f33dfb4548e713b3cc5f59da664b5e5428a4e90882745aa4c252eb760fdbd00",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [],
+      "unresolved_columns": 2,
+      "columns": 73,
+      "duration_changes": 27
+    },
+    {
+      "id": "1835-Southern-4-meditation",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.21921170898713171,
+      "xml_sha256": "9dedfc651a1b86e028e4fc69b730e16ca283a4ece40f8936ae378c093c42144d",
+      "trace_sha256": "8bacd5ed79536d37c2ea7f5ab7c719675a3ec473c2690926aca19d998b317d47",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 3,
+      "columns": 29,
+      "duration_changes": 20
+    },
+    {
+      "id": "1835-Southern-4-hanover",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.30927033300395124,
+      "xml_sha256": "e10569536ceb44a80a6ffd1b6a94e0b3934025f9cabefa68bd329aeaab7684f3",
+      "trace_sha256": "67c8337a098e676df5f8ddbf4ff82b8f5cbd0c1d5e0f1b004e3ace327eb15247",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 31,
+      "duration_changes": 7
+    },
+    {
+      "id": "1835-Southern-9-converted-thief",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.5461761250044219,
+      "xml_sha256": "15a942275f906bb48c071e98abcbbe8fce98b60ad3606196760b1df82c593a12",
+      "trace_sha256": "d6fb374a60e69000b6c3a6cf05a64112752ada1ce40fb6b9c702775c9670ddc0",
+      "physical_heads_retained": true,
+      "opening_meter": "6/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "6/4"
+        ]
+      ],
+      "unresolved_columns": 4,
+      "columns": 19,
+      "duration_changes": 19
+    },
+    {
+      "id": "1835-Southern-12-salem",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.6978863340045791,
+      "xml_sha256": "881d12f60cd7a892f59a884bfbd4cc9884c8bb0178996d3c660a01d3b4b0d6a1",
+      "trace_sha256": "73ec13526b9728f47432973fc33363a8d63479f969b322fc6ccc0241400919fe",
+      "physical_heads_retained": true,
+      "opening_meter": "6/4",
+      "source_meter_transitions": [],
+      "unresolved_columns": 6,
+      "columns": 54,
+      "duration_changes": 31
+    },
+    {
+      "id": "1835-Southern-13-dublin",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.26097995799500495,
+      "xml_sha256": "2e2db765715aebfe665db7e6377ff963b4c80cd9a05051904c1702d4ff8e71b6",
+      "trace_sha256": "5a58b94b34b750c9b175d7d6a62620e825d2ec34cbf4481b1097067bf29aac3a",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 3,
+      "columns": 54,
+      "duration_changes": 8
+    },
+    {
+      "id": "1835-Southern-13-devotion",
+      "variant": "default",
+      "failed": false,
+      "seconds": 0.4793634999950882,
+      "xml_sha256": "6358a553d355a18da0006a67c581fe6e596e21cb40c1954d83ceec14ece8f656",
+      "trace_sha256": "7592006b06677440b7f0bfee429fe217fc0baac20b4cf5b8ac35b4ad1032d0af",
+      "physical_heads_retained": true,
+      "opening_meter": "2/2",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "2/2"
+        ]
+      ],
+      "unresolved_columns": 7,
+      "columns": 30,
+      "duration_changes": 12
+    },
+    {
+      "id": "1835-Southern-1-liverpool",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.26268016698304564,
+      "xml_sha256": "08f98d0d1fbda67b99ae995617cc7ca4ec32c38e23cd11f40506b29abc738b5c",
+      "trace_sha256": "acc02f9947fa82907dea4c70b987fb5c782e7eaa831fafa490a3293ef0836775",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 0,
+      "columns": 13,
+      "duration_changes": 5
+    },
+    {
+      "id": "1835-Southern-2-invitation",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.43799579099868424,
+      "xml_sha256": "67e74dbb32c21e5a9cf5b2ff2a779b6dff0e35af241e22d4f2b48ad76cb06e00",
+      "trace_sha256": "846158d243758c719dcf2dc891ee26f99a21ba55eda806b75a33977912863dd3",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [],
+      "unresolved_columns": 2,
+      "columns": 73,
+      "duration_changes": 27
+    },
+    {
+      "id": "1835-Southern-4-meditation",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.21760629198979586,
+      "xml_sha256": "9dedfc651a1b86e028e4fc69b730e16ca283a4ece40f8936ae378c093c42144d",
+      "trace_sha256": "5b041d12278adc6da950a964ebe9613c624339bd03e5adb853406120a791b1ce",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 3,
+      "columns": 29,
+      "duration_changes": 20
+    },
+    {
+      "id": "1835-Southern-4-hanover",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.2927160830004141,
+      "xml_sha256": "e10569536ceb44a80a6ffd1b6a94e0b3934025f9cabefa68bd329aeaab7684f3",
+      "trace_sha256": "087b90dc314ce7b10938ad6859be0b1ac6398ae0cb9d7525d40736568537436d",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 1,
+      "columns": 31,
+      "duration_changes": 7
+    },
+    {
+      "id": "1835-Southern-9-converted-thief",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.5453396249795333,
+      "xml_sha256": "15a942275f906bb48c071e98abcbbe8fce98b60ad3606196760b1df82c593a12",
+      "trace_sha256": "eca7b40f21482508a31de23c9a463c5d71df7e82e748d1087c2d749d8d837b90",
+      "physical_heads_retained": true,
+      "opening_meter": "6/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "6/4"
+        ]
+      ],
+      "unresolved_columns": 4,
+      "columns": 19,
+      "duration_changes": 19
+    },
+    {
+      "id": "1835-Southern-12-salem",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.6580584160110448,
+      "xml_sha256": "881d12f60cd7a892f59a884bfbd4cc9884c8bb0178996d3c660a01d3b4b0d6a1",
+      "trace_sha256": "c49e8f968c1a3c6ea4f27abe356863dd1f208980d6ab7397f55530bb85a0249f",
+      "physical_heads_retained": true,
+      "opening_meter": "6/4",
+      "source_meter_transitions": [],
+      "unresolved_columns": 6,
+      "columns": 54,
+      "duration_changes": 31
+    },
+    {
+      "id": "1835-Southern-13-dublin",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.25882083401666023,
+      "xml_sha256": "2e2db765715aebfe665db7e6377ff963b4c80cd9a05051904c1702d4ff8e71b6",
+      "trace_sha256": "7d72555366f97d8089480ee5959d4d5dc7f28a43c4bc902b88f44fce2e7baae0",
+      "physical_heads_retained": true,
+      "opening_meter": "4/4",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "4/4"
+        ]
+      ],
+      "unresolved_columns": 3,
+      "columns": 54,
+      "duration_changes": 8
+    },
+    {
+      "id": "1835-Southern-13-devotion",
+      "variant": "clean_layout",
+      "failed": false,
+      "seconds": 0.4811150409805123,
+      "xml_sha256": "6358a553d355a18da0006a67c581fe6e596e21cb40c1954d83ceec14ece8f656",
+      "trace_sha256": "c4ca5b08296b98c6354da802f02d15af671f06a9f0c0cccc2c9ea034b483e2ec",
+      "physical_heads_retained": true,
+      "opening_meter": "2/2",
+      "source_meter_transitions": [
+        [
+          0,
+          0,
+          "2/2"
+        ]
+      ],
+      "unresolved_columns": 7,
+      "columns": 30,
+      "duration_changes": 12
+    }
+  ],
+  "hash_guard_passed": true,
+  "references_opened": false,
+  "expected_cases": 16,
+  "all_cases_complete": true,
+  "all_cases_succeeded": true,
+  "frozen_template_sha256": "03e0523b64fceb9313f4656b19ba6ae9927bbb3cfcea13547329ecfed08d6faf"
+}

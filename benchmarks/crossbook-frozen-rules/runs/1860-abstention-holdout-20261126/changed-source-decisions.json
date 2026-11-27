@@ -1,0 +1,669 @@
+{
+  "changed_cuts": [
+    {
+      "current_cut": "11/2",
+      "id": "1860-Sacred-IMSLP-45b-supplication",
+      "index": 12,
+      "input": "inputs/1860-Sacred-IMSLP-45b-supplication.png",
+      "prior_cut": "4",
+      "status": "changed_cut",
+      "variant": "clean_layout"
+    },
+    {
+      "current_cut": "11/2",
+      "id": "1860-Sacred-IMSLP-45b-supplication",
+      "index": 12,
+      "input": "inputs/1860-Sacred-IMSLP-45b-supplication.png",
+      "prior_cut": "4",
+      "status": "changed_cut",
+      "variant": "default"
+    }
+  ],
+  "comparison_basis": {
+    "configurations_expected": 38,
+    "current": "current/{variant}/{id}.trace.json",
+    "input_paths_from_manifest": true,
+    "prior": "prior/{variant}/{id}.trace.json"
+  },
+  "configurations": [
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-100-the-bower-of-prayer",
+      "input": "inputs/1860-Sacred-IMSLP-100-the-bower-of-prayer.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-122-all-is-well",
+      "input": "inputs/1860-Sacred-IMSLP-122-all-is-well.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-145-hallelujah",
+      "input": "inputs/1860-Sacred-IMSLP-145-hallelujah.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-170-exhilaration",
+      "input": "inputs/1860-Sacred-IMSLP-170-exhilaration.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-202-new-lebanon",
+      "input": "inputs/1860-Sacred-IMSLP-202-new-lebanon.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-222-ocean",
+      "input": "inputs/1860-Sacred-IMSLP-222-ocean.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-27-bethel",
+      "input": "inputs/1860-Sacred-IMSLP-27-bethel.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-270-confidence",
+      "input": "inputs/1860-Sacred-IMSLP-270-confidence.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-28b-wells",
+      "input": "inputs/1860-Sacred-IMSLP-28b-wells.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-28t-aylesbury",
+      "input": "inputs/1860-Sacred-IMSLP-28t-aylesbury.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-30b-prospect",
+      "input": "inputs/1860-Sacred-IMSLP-30b-prospect.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-30t-rochester",
+      "input": "inputs/1860-Sacred-IMSLP-30t-rochester.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-326-weary-pilgrim",
+      "input": "inputs/1860-Sacred-IMSLP-326-weary-pilgrim.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-354b-happy-land",
+      "input": "inputs/1860-Sacred-IMSLP-354b-happy-land.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-370-monroe",
+      "input": "inputs/1860-Sacred-IMSLP-370-monroe.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-45b-supplication",
+      "input": "inputs/1860-Sacred-IMSLP-45b-supplication.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-45t-new-britain",
+      "input": "inputs/1860-Sacred-IMSLP-45t-new-britain.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-82b-edgefield",
+      "input": "inputs/1860-Sacred-IMSLP-82b-edgefield.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-82t-bound-for-canaan",
+      "input": "inputs/1860-Sacred-IMSLP-82t-bound-for-canaan.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-100-the-bower-of-prayer",
+      "input": "inputs/1860-Sacred-IMSLP-100-the-bower-of-prayer.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-122-all-is-well",
+      "input": "inputs/1860-Sacred-IMSLP-122-all-is-well.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-145-hallelujah",
+      "input": "inputs/1860-Sacred-IMSLP-145-hallelujah.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-170-exhilaration",
+      "input": "inputs/1860-Sacred-IMSLP-170-exhilaration.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-202-new-lebanon",
+      "input": "inputs/1860-Sacred-IMSLP-202-new-lebanon.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-222-ocean",
+      "input": "inputs/1860-Sacred-IMSLP-222-ocean.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-27-bethel",
+      "input": "inputs/1860-Sacred-IMSLP-27-bethel.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-270-confidence",
+      "input": "inputs/1860-Sacred-IMSLP-270-confidence.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-28b-wells",
+      "input": "inputs/1860-Sacred-IMSLP-28b-wells.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-28t-aylesbury",
+      "input": "inputs/1860-Sacred-IMSLP-28t-aylesbury.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-30b-prospect",
+      "input": "inputs/1860-Sacred-IMSLP-30b-prospect.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-30t-rochester",
+      "input": "inputs/1860-Sacred-IMSLP-30t-rochester.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-326-weary-pilgrim",
+      "input": "inputs/1860-Sacred-IMSLP-326-weary-pilgrim.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-354b-happy-land",
+      "input": "inputs/1860-Sacred-IMSLP-354b-happy-land.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-370-monroe",
+      "input": "inputs/1860-Sacred-IMSLP-370-monroe.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-45b-supplication",
+      "input": "inputs/1860-Sacred-IMSLP-45b-supplication.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-45t-new-britain",
+      "input": "inputs/1860-Sacred-IMSLP-45t-new-britain.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-82b-edgefield",
+      "input": "inputs/1860-Sacred-IMSLP-82b-edgefield.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1860-Sacred-IMSLP-82t-bound-for-canaan",
+      "input": "inputs/1860-Sacred-IMSLP-82t-bound-for-canaan.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    }
+  ],
+  "counts": {
+    "compared": 38,
+    "configurations": 38,
+    "configurations_with_stage_failures": 0,
+    "cut_changes_or_length_flags": 2,
+    "new_removal_occurrences": 0,
+    "sources_with_emitted_event_list_differences": 8
+  },
+  "emitted_source_event_differences": [
+    {
+      "box": [
+        1269.7,
+        669.0,
+        1287.3,
+        683.2
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": -1,
+            "octave": 5,
+            "step": "E"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "id": "1860-Sacred-IMSLP-145-hallelujah",
+      "input": "inputs/1860-Sacred-IMSLP-145-hallelujah.png",
+      "prior_occurrences": [],
+      "staff": 4,
+      "symbol_id": 326,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        721.7,
+        843.9,
+        737.4,
+        861.0
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": -1,
+            "octave": 2,
+            "step": "A"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "id": "1860-Sacred-IMSLP-145-hallelujah",
+      "input": "inputs/1860-Sacred-IMSLP-145-hallelujah.png",
+      "prior_occurrences": [],
+      "staff": 5,
+      "symbol_id": 328,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        1247.6,
+        151.7,
+        1263.7,
+        164.5
+      ],
+      "current_occurrences": [
+        {
+          "dots": 1,
+          "duration": "3/2",
+          "pitch": {
+            "alter": 0,
+            "octave": 5,
+            "step": "E"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "id": "1860-Sacred-IMSLP-45b-supplication",
+      "input": "inputs/1860-Sacred-IMSLP-45b-supplication.png",
+      "prior_occurrences": [],
+      "staff": 1,
+      "symbol_id": 234,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        136.1,
+        88.7,
+        150.6,
+        104.2
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": 0,
+            "octave": 5,
+            "step": "D"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "id": "1860-Sacred-IMSLP-82t-bound-for-canaan",
+      "input": "inputs/1860-Sacred-IMSLP-82t-bound-for-canaan.png",
+      "prior_occurrences": [],
+      "staff": 0,
+      "symbol_id": 255,
+      "variant": "clean_layout"
+    },
+    {
+      "box": [
+        1269.7,
+        669.0,
+        1287.3,
+        683.2
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": -1,
+            "octave": 5,
+            "step": "E"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "id": "1860-Sacred-IMSLP-145-hallelujah",
+      "input": "inputs/1860-Sacred-IMSLP-145-hallelujah.png",
+      "prior_occurrences": [],
+      "staff": 4,
+      "symbol_id": 326,
+      "variant": "default"
+    },
+    {
+      "box": [
+        721.7,
+        843.9,
+        737.4,
+        861.0
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": -1,
+            "octave": 2,
+            "step": "A"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "id": "1860-Sacred-IMSLP-145-hallelujah",
+      "input": "inputs/1860-Sacred-IMSLP-145-hallelujah.png",
+      "prior_occurrences": [],
+      "staff": 5,
+      "symbol_id": 328,
+      "variant": "default"
+    },
+    {
+      "box": [
+        1247.6,
+        151.7,
+        1263.7,
+        164.5
+      ],
+      "current_occurrences": [
+        {
+          "dots": 1,
+          "duration": "3/2",
+          "pitch": {
+            "alter": 0,
+            "octave": 5,
+            "step": "E"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "id": "1860-Sacred-IMSLP-45b-supplication",
+      "input": "inputs/1860-Sacred-IMSLP-45b-supplication.png",
+      "prior_occurrences": [],
+      "staff": 1,
+      "symbol_id": 234,
+      "variant": "default"
+    },
+    {
+      "box": [
+        136.1,
+        88.7,
+        150.6,
+        104.2
+      ],
+      "current_occurrences": [
+        {
+          "dots": 0,
+          "duration": "1",
+          "pitch": {
+            "alter": 0,
+            "octave": 5,
+            "step": "D"
+          },
+          "typ": "quarter"
+        }
+      ],
+      "id": "1860-Sacred-IMSLP-82t-bound-for-canaan",
+      "input": "inputs/1860-Sacred-IMSLP-82t-bound-for-canaan.png",
+      "prior_occurrences": [],
+      "staff": 0,
+      "symbol_id": 255,
+      "variant": "default"
+    }
+  ],
+  "new_removals": [],
+  "run": "/Users/mark/code/sh_omr/benchmarks/crossbook-frozen-rules/runs/1860-abstention-holdout-20261126",
+  "schema_version": 1
+}

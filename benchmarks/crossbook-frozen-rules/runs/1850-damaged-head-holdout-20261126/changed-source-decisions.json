@@ -1,0 +1,155 @@
+{
+  "changed_cuts": [],
+  "comparison_basis": {
+    "configurations_expected": 12,
+    "current": "current/{variant}/{id}.trace.json",
+    "input_paths_from_manifest": true,
+    "prior": "prior/{variant}/{id}.trace.json"
+  },
+  "configurations": [
+    {
+      "comparison_status": "compared",
+      "id": "1850-Sacred-VEMP-40-lenox",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-40-lenox.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1850-Sacred-VEMP-46b-hanover",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-46b-hanover.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1850-Sacred-VEMP-46t-dublin",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-46t-dublin.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1850-Sacred-VEMP-50b-distress",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-50b-distress.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1850-Sacred-VEMP-50t-consolation",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-50t-consolation.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1850-Sacred-VEMP-60-portugal",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-60-portugal.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "clean_layout"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1850-Sacred-VEMP-40-lenox",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-40-lenox.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1850-Sacred-VEMP-46b-hanover",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-46b-hanover.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1850-Sacred-VEMP-46t-dublin",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-46t-dublin.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1850-Sacred-VEMP-50b-distress",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-50b-distress.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1850-Sacred-VEMP-50t-consolation",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-50t-consolation.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    },
+    {
+      "comparison_status": "compared",
+      "id": "1850-Sacred-VEMP-60-portugal",
+      "input": "benchmarks/crossbook-frozen-rules/source-sets/1850-damaged-head-holdout-20261126/inputs/1850-Sacred-VEMP-60-portugal.png",
+      "stage_failures": {},
+      "trace_status": {
+        "current": "ok",
+        "prior": "ok"
+      },
+      "variant": "default"
+    }
+  ],
+  "counts": {
+    "compared": 12,
+    "configurations": 12,
+    "configurations_with_stage_failures": 0,
+    "cut_changes_or_length_flags": 0,
+    "new_removal_occurrences": 0,
+    "sources_with_emitted_event_list_differences": 0
+  },
+  "emitted_source_event_differences": [],
+  "new_removals": [],
+  "run": "/Users/mark/code/sh_omr/benchmarks/crossbook-frozen-rules/runs/1850-damaged-head-holdout-20261126",
+  "schema_version": 1
+}

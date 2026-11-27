@@ -1,0 +1,202 @@
+{
+  "cases": [
+    {
+      "id": "1911-Sacred-EMU-27-bethel",
+      "variant": "default",
+      "xml_sha256": "38df568f67bee69488a2d39e8ccda202c102abb533328043a4dbe4d9e585cc74",
+      "trace_sha256": "8fe2597ef52ac3a5a2a58e2e2d16c80bc3f46c87c49ef856c6525fd215ea9724",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1911-Sacred-EMU-28t-aylesbury",
+      "variant": "default",
+      "xml_sha256": "df7c3d56d0749ae1c310b87002b3283432cc4eea9ed4684b048228d3370f7fe1",
+      "trace_sha256": "74af5afc8e3a417c948b32eb3fdd59c5407ae42524069b159e98fe4bcb0d0ab4",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1911-Sacred-EMU-28b-wells",
+      "variant": "default",
+      "xml_sha256": "c8840430be4d2ab9bcab6492a489fcb863c454356936641c8b532df12193246d",
+      "trace_sha256": "bce30c5510e923cdd8a3fdacfeb0c47b0be55a4156aa86683cb8233c7dd3c9af",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1911-Sacred-EMU-30t-rochester",
+      "variant": "default",
+      "xml_sha256": "f6675858c054de5ffa5672f48a6a9ae47a99051d4c3e40177217a8d29fcac20e",
+      "trace_sha256": "6f31fe44047a2c881c8dd10400abdcfa3861ec447e72bbbb6fad0b10a65b62a1",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1911-Sacred-EMU-30b-prospect",
+      "variant": "default",
+      "xml_sha256": "100648a52bd4e746a4094a1af62fb60aa211b1345a86b4527c661bcbb2756940",
+      "trace_sha256": "516b8509b1726ad1160aa2560e73437b66ace1c76e401f1745151f5fd4dccfad",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1911-Sacred-EMU-45t-new-britain",
+      "variant": "default",
+      "xml_sha256": "1df717087bdd53b74dd9c7f5324b542d159a3bf2e79bc311634bae962d4aa6d7",
+      "trace_sha256": "81f9e480ce172d5854b32c9ee4734d6b6b5b75a73d0a1edf356b5716c59ae270",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1911-Sacred-EMU-45b-supplication",
+      "variant": "default",
+      "xml_sha256": "75948b1d6e09d750ff8d313cca9c4bbbc52379d4008d3ed5284a197076cee6e4",
+      "trace_sha256": "dab2b7710fad52cf274a4da18eaf89d9aa2ce7ea5d70d393d4c308b58d0c0043",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1870-Sacred-MTS-27-bethel",
+      "variant": "default",
+      "xml_sha256": "42ecd28968f05cb480ed37d5a9b93504e14a6636157a024b494d5c10514f1452",
+      "trace_sha256": "c24089951e5506c43155eb687b512fed5f49fa08c35feb4d65ca499c4130e5fc",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1870-Sacred-MTS-28t-aylesbury",
+      "variant": "default",
+      "xml_sha256": "f28e7b33a597fa9ce58de96fcb38a65b1d3fa13da1434764afa4b3eac5d9377c",
+      "trace_sha256": "d1329caeebe80c188e8e3f72cc538e660dc9ec880a7b8df3cf6b6043470b4987",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1870-Sacred-MTS-28b-wells",
+      "variant": "default",
+      "xml_sha256": "48dc2603574516c52594588b1b2a7446dea4a2e8438c191bc5ad49d74f13dcaf",
+      "trace_sha256": "96fd7e92859f7d10c1c731a2efb8531c7e56572d4a33d8341dd139a869781164",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1870-Sacred-MTS-30t-rochester",
+      "variant": "default",
+      "xml_sha256": "4834e81a0ee531c7839dece8f744b5d3042aad8f825103e17620c67635ba941f",
+      "trace_sha256": "6ec342815ef2f53d2b5d35078ceb330b43ac20e643911ca9391a695c45f70ee5",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1870-Sacred-MTS-30b-prospect",
+      "variant": "default",
+      "xml_sha256": "4e575deacee0a278e229bca0b9c5b5e36154893ab963b2464ec7fc0343e9ff45",
+      "trace_sha256": "784918740bfe1e371dba23d440c31b68133e0b8e65fbc8b528fe25b335cb28ad",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1870-Sacred-MTS-45t-new-britain",
+      "variant": "default",
+      "xml_sha256": "f86f48c807e2794ed28c1dfc003cac5116c416787d03251178d9ec4dd77cf8d6",
+      "trace_sha256": "8634fea53e97ec7962bca2fd4a2b5e646b80d927b5a8672c25af8f426f410d33",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1870-Sacred-MTS-45b-supplication",
+      "variant": "default",
+      "xml_sha256": "aedf2e7beec53807c18d879befd67fcb468ddb48d5b791d8ba458ada4ef4e4c8",
+      "trace_sha256": "c8ce86731413e05e11b1bf0eb759eb89657d97247ca9ef44d3cbb618696623ad",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1911-Sacred-EMU-27-bethel",
+      "variant": "clean_layout",
+      "xml_sha256": "2299e4c917f55166d65fcce177c55785556379a1df7de89a3af3eb9de022f2db",
+      "trace_sha256": "5afd3e7b6ef72c8eb6d69d9ec81cc6200e4a1c735f73113a4c2058aadde61ad9",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1911-Sacred-EMU-28t-aylesbury",
+      "variant": "clean_layout",
+      "xml_sha256": "3d5dc6445d068fd44a8597db2c6424262966bad1628173e158b8a5dee2ae5e14",
+      "trace_sha256": "2c12e346ef310ee29396632da9a7b0123415006b40fde9c88f32820db2a0ab30",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1911-Sacred-EMU-28b-wells",
+      "variant": "clean_layout",
+      "xml_sha256": "c8840430be4d2ab9bcab6492a489fcb863c454356936641c8b532df12193246d",
+      "trace_sha256": "bce30c5510e923cdd8a3fdacfeb0c47b0be55a4156aa86683cb8233c7dd3c9af",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1911-Sacred-EMU-30t-rochester",
+      "variant": "clean_layout",
+      "xml_sha256": "f6675858c054de5ffa5672f48a6a9ae47a99051d4c3e40177217a8d29fcac20e",
+      "trace_sha256": "6f31fe44047a2c881c8dd10400abdcfa3861ec447e72bbbb6fad0b10a65b62a1",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1911-Sacred-EMU-30b-prospect",
+      "variant": "clean_layout",
+      "xml_sha256": "100648a52bd4e746a4094a1af62fb60aa211b1345a86b4527c661bcbb2756940",
+      "trace_sha256": "516b8509b1726ad1160aa2560e73437b66ace1c76e401f1745151f5fd4dccfad",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1911-Sacred-EMU-45t-new-britain",
+      "variant": "clean_layout",
+      "xml_sha256": "1df717087bdd53b74dd9c7f5324b542d159a3bf2e79bc311634bae962d4aa6d7",
+      "trace_sha256": "49b81a07702d9b450627b1225c85a30c00d9c0d47876a9af0169d5c47daae523",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1911-Sacred-EMU-45b-supplication",
+      "variant": "clean_layout",
+      "xml_sha256": "bc404f62b54cd10bab0e808fa82a9191e2ab9301ec721fa33794b1a35e0b61d8",
+      "trace_sha256": "1b077c3d6f3f0cb74b6b1b446e9d021cda4c4105d326b079acc64332de37a865",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1870-Sacred-MTS-27-bethel",
+      "variant": "clean_layout",
+      "xml_sha256": "42ecd28968f05cb480ed37d5a9b93504e14a6636157a024b494d5c10514f1452",
+      "trace_sha256": "e9361286d3dda4607391febfcddebe2ebbc986747e2f7a06efb3aa3417dffb2e",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1870-Sacred-MTS-28t-aylesbury",
+      "variant": "clean_layout",
+      "xml_sha256": "62e040472a39519b9ba5e847a34853efdb1f18a4b9fb78536d2c688cabe357fc",
+      "trace_sha256": "e32ff50124d55f7fbdf334c278641ba3784435d003c4ff7787accae9d73b363c",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1870-Sacred-MTS-28b-wells",
+      "variant": "clean_layout",
+      "xml_sha256": "48dc2603574516c52594588b1b2a7446dea4a2e8438c191bc5ad49d74f13dcaf",
+      "trace_sha256": "96fd7e92859f7d10c1c731a2efb8531c7e56572d4a33d8341dd139a869781164",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1870-Sacred-MTS-30t-rochester",
+      "variant": "clean_layout",
+      "xml_sha256": "4834e81a0ee531c7839dece8f744b5d3042aad8f825103e17620c67635ba941f",
+      "trace_sha256": "570b24a40a9e8f999578a4d6e94a8be12c56dc087a12784b4c57fcddca57d53d",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1870-Sacred-MTS-30b-prospect",
+      "variant": "clean_layout",
+      "xml_sha256": "4e575deacee0a278e229bca0b9c5b5e36154893ab963b2464ec7fc0343e9ff45",
+      "trace_sha256": "11c59661baa4bae538f037e1ad93c5d1c42e6057a208473c15679087eaea1772",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1870-Sacred-MTS-45t-new-britain",
+      "variant": "clean_layout",
+      "xml_sha256": "f86f48c807e2794ed28c1dfc003cac5116c416787d03251178d9ec4dd77cf8d6",
+      "trace_sha256": "78ec14e4cf0bcab0015092e5dd38304cf5ec81686d41eddfb2eab76171c9c2c1",
+      "sealed_pilot_score_xml_identical": true
+    },
+    {
+      "id": "1870-Sacred-MTS-45b-supplication",
+      "variant": "clean_layout",
+      "xml_sha256": "84f6c9bb0f38a6a02e423062ba56459156db3b048bea3139ec0ce62df5aa5dad",
+      "trace_sha256": "cbd574f4cfa3e6c34f1743bc86c0bdb60e77696eb66d52bc091721c2c4a2a32c",
+      "sealed_pilot_score_xml_identical": true
+    }
+  ],
+  "hash_guard_passed": true,
+  "references_opened": false
+}
