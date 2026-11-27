@@ -1,0 +1,39 @@
+{
+  "verified_utc": "2026-11-27T21:49:18.243493+00:00",
+  "pinned_evidence_commit": "4fbe781313add2c13ee86151c736282328cdd7bb",
+  "pdf_sha256": "78710a1edd87e30af6005c8085397bf30d097f99a5aa3b5f63a442feaefdcb39",
+  "pdf_pages": 6,
+  "pinned_clickable_evidence_links": [
+    "https://github.com/marktgodfrey/sacredharp_omr/blob/4fbe781313add2c13ee86151c736282328cdd7bb/benchmarks/sacred-harp-1911/experiments/rhythm-resolution/dot-head-evidence-20261126-b6512a5f402d/COMPARISON.md",
+    "https://github.com/marktgodfrey/sacredharp_omr/blob/4fbe781313add2c13ee86151c736282328cdd7bb/benchmarks/crossbook-frozen-rules/runs/expanded52-frozen-dot-head-20261126/REPORT.md",
+    "https://github.com/marktgodfrey/sacredharp_omr/blob/4fbe781313add2c13ee86151c736282328cdd7bb/benchmarks/crossbook-frozen-rules/runs/1860-abstention-holdout-20261126/REPORT.md",
+    "https://github.com/marktgodfrey/sacredharp_omr/blob/4fbe781313add2c13ee86151c736282328cdd7bb/benchmarks/crossbook-frozen-rules/runs/1850-damaged-head-holdout-20261126/SOURCE_REVIEW.md",
+    "https://github.com/marktgodfrey/sacredharp_omr/blob/4fbe781313add2c13ee86151c736282328cdd7bb/benchmarks/crossbook-frozen-rules/runs/severe-four-shape-holdout-20261127/REPORT.md",
+    "https://github.com/marktgodfrey/sacredharp_omr/blob/4fbe781313add2c13ee86151c736282328cdd7bb/benchmarks/crossbook-frozen-rules/ARTIFACTS.md"
+  ],
+  "visual_review": "All six pages rendered and inspected; revised pages3and6 re-rendered/inspected after text changes. No clipping, overlap or missing glyphs observed.",
+  "source_sha256": {
+    "HANDOFF.md": "e42d59eb71d3521b08735a44107ed43f92f9c3bfb77b29b6d2a4fcfb036f5bab",
+    "benchmarks/sacred-harp-1911/experiments/rhythm-resolution/dot-head-evidence-20261126-b6512a5f402d/COMPARISON.md": "d8816f3b7385ecf3300545bd8685f007994812f7d0dd28e6868f6de166ae02fc",
+    "benchmarks/sacred-harp-1911/experiments/rhythm-resolution/dot-head-evidence-20261126-b6512a5f402d/REPORT.md": "d6435d6b4b403295963f36427a69acb73619f912f631da17f7c99d92971ca7a1",
+    "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/REPORT.md": "988fbebc293c4b64d1b4f5232dce04dbde23e44697804d4df376e5a42b1c526f",
+    "benchmarks/crossbook-frozen-rules/runs/expanded52-frozen-dot-head-20261126/REPORT.md": "efee6802203b479e9d1c3407f0f87bce1472672aadb3e5c3b75f6130d6056956",
+    "benchmarks/crossbook-frozen-rules/runs/expanded52-frozen-dot-head-20261126/SOURCE_REVIEW.md": "ed0cee9584d12010cc1c7a9c8f725b6cb6c8b927c90e98a2f036199ca60aa45e",
+    "benchmarks/crossbook-frozen-rules/runs/1860-abstention-holdout-20261126/REPORT.md": "50c045ad5e861b7c8f3718ad3623a9ea2a86dab48a515298b585487a83a6eda3",
+    "benchmarks/crossbook-frozen-rules/runs/1860-abstention-holdout-20261126/SOURCE_REVIEW.md": "020deef7599eb1a7d8d1a0fdb55767bb7b8238dcc074fdd62e3a025b551cfbe9",
+    "benchmarks/crossbook-frozen-rules/runs/1850-damaged-head-holdout-20261126/REPORT.md": "1c63e55cfae9543525abbbf6140773c049ece69932fb3869b89268ebda21da6f",
+    "benchmarks/crossbook-frozen-rules/runs/1850-damaged-head-holdout-20261126/SOURCE_REVIEW.md": "99a7494db58bc05e1cda52ebabb3fb34db7de61972cab7bfaf49360ef3a946d8",
+    "benchmarks/crossbook-frozen-rules/runs/severe-four-shape-holdout-20261127/REPORT.md": "ef3521deddcb44095be5e625b382103529a3ec02177522000a08d63f661e705a",
+    "benchmarks/crossbook-frozen-rules/runs/severe-four-shape-holdout-20261127/checks.json": "808ef7d054aef17cc38ab1905798b0d35dbfaa275ed8aec9b2087fad78bbff1a",
+    "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/manifest.json": "6bfaa3f3e3a56797b80c77b17b07d3b5d04a1aa13b914472b74107419b705cfc",
+    "benchmarks/crossbook-frozen-rules/ARTIFACTS.md": "16f5b614963c898ea0b0a22c568f0be32ecd3c512491ac35c22d0c738f8af5e0"
+  },
+  "unchanged_frozen_artifact_seals": {
+    "1850-damaged-head-holdout-20261126": 534,
+    "1860-abstention-holdout-20261126": 737,
+    "pilot14-frozen-dot-head-20261126": 594,
+    "expanded52-frozen-dot-head-20261126": 1334,
+    "severe-four-shape-holdout-20261127": 1325
+  },
+  "rules_models_labels_changed_for_report": false
+}

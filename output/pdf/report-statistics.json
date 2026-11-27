@@ -1,0 +1,315 @@
+{
+  "title": "Source-backed OMR performance statistics",
+  "prepared_date": "2026-11-27",
+  "policy_key": {
+    "development120": {
+      "prior": "final-a17498fc863d",
+      "current": "dot-head-evidence-20261126-b6512a5f402d (b651)"
+    },
+    "expanded52": {
+      "prior": "final-a17498fc863d",
+      "current": "dot-head-evidence-20261126-b6512a5f402d (b651)"
+    },
+    "1860_holdout": {
+      "prior": "dot-head-evidence-20261126-b6512a5f402d (b651)",
+      "current": "damaged-head-abstention-c291185f6a20 (c291)"
+    },
+    "1850_holdout": "baseline, b651 prior, and c291 current"
+  },
+  "development120": {
+    "comparison": "against final-a17498fc863d; all 120 songs are JPK development/diagnostic material",
+    "metrics": [
+      {
+        "cohort": "development100",
+        "songs": 100,
+        "prior_pd_edits": 2712,
+        "current_pd_edits": 2694,
+        "prior_time_aware_f1": 0.664,
+        "current_time_aware_f1": 0.6919
+      },
+      {
+        "cohort": "diagnostic20",
+        "songs": 20,
+        "prior_pd_edits": 621,
+        "current_pd_edits": 618,
+        "prior_time_aware_f1": 0.6637,
+        "current_time_aware_f1": 0.6642
+      }
+    ],
+    "paired_outcomes": {
+      "pd_better_tied_worse": [
+        13,
+        106,
+        1
+      ],
+      "timing_better_tied_worse": [
+        17,
+        102,
+        1
+      ]
+    },
+    "limits": "Reference editions differ. These scores are disagreement measures, not recognition accuracy or cross-book validation."
+  },
+  "expanded52": {
+    "scope": "52 source crops, 26 matched tunes per printing, both layout variants; original pilot14 crops are included within these 52 (7 tunes per book).",
+    "prior_policy": "final-a17498fc863d",
+    "current_policy": "b651",
+    "rows": [
+      {
+        "book": "1870-Sacred-MTS",
+        "layout": "default",
+        "prior": {
+          "pd_edits": 2330,
+          "denominator": 4830,
+          "f1": 0.37627202779846114,
+          "timing_failure_configurations": 9
+        },
+        "current": {
+          "pd_edits": 2328,
+          "denominator": 4830,
+          "f1": 0.376458902408741,
+          "timing_failure_configurations": 9
+        },
+        "baseline": {
+          "pd_edits": 2370,
+          "denominator": 4830,
+          "f1": 0.31332175638799303,
+          "timing_failure_configurations": 0
+        }
+      },
+      {
+        "book": "1870-Sacred-MTS",
+        "layout": "clean_layout",
+        "prior": {
+          "pd_edits": 1561,
+          "denominator": 4546,
+          "f1": 0.48146770794595267,
+          "timing_failure_configurations": 1
+        },
+        "current": {
+          "pd_edits": 1560,
+          "denominator": 4546,
+          "f1": 0.4815871047737136,
+          "timing_failure_configurations": 1
+        },
+        "baseline": {
+          "pd_edits": 1607,
+          "denominator": 4546,
+          "f1": 0.4400941642919093,
+          "timing_failure_configurations": 0
+        }
+      },
+      {
+        "book": "1911-Sacred-EMU",
+        "layout": "default",
+        "prior": {
+          "pd_edits": 2672,
+          "denominator": 5014,
+          "f1": 0.4223752567355322,
+          "timing_failure_configurations": 5
+        },
+        "current": {
+          "pd_edits": 2667,
+          "denominator": 5010,
+          "f1": 0.42278389164348773,
+          "timing_failure_configurations": 5
+        },
+        "baseline": {
+          "pd_edits": 2652,
+          "denominator": 5014,
+          "f1": 0.41840802029230584,
+          "timing_failure_configurations": 0
+        }
+      },
+      {
+        "book": "1911-Sacred-EMU",
+        "layout": "clean_layout",
+        "prior": {
+          "pd_edits": 1902,
+          "denominator": 4707,
+          "f1": 0.4699057287889775,
+          "timing_failure_configurations": 1
+        },
+        "current": {
+          "pd_edits": 1900,
+          "denominator": 4705,
+          "f1": 0.4701185579482216,
+          "timing_failure_configurations": 1
+        },
+        "baseline": {
+          "pd_edits": 1866,
+          "denominator": 4707,
+          "f1": 0.5140571982549685,
+          "timing_failure_configurations": 0
+        }
+      }
+    ],
+    "failed_predictions": 0,
+    "timing_failure_total_configurations": 16,
+    "paired_outcomes_all104": {
+      "pd_better_tied_worse": [
+        11,
+        92,
+        1
+      ],
+      "f1_better_tied_worse": [
+        18,
+        85,
+        1
+      ]
+    },
+    "paired_outcomes_added76_only": {
+      "pd_better_tied_worse": [
+        9,
+        67,
+        0
+      ],
+      "f1_better_tied_worse": [
+        16,
+        60,
+        0
+      ]
+    },
+    "source_review": "The b651 filter rejected one genuine damaged Aylesbury 186 head, confirmed 10 non-head boxes, and leaves one Kedron 219 localization case ambiguous."
+  },
+  "holdouts": {
+    "1860_b651_vs_c291": {
+      "scope": "19 source crops, 38 layouts",
+      "metrics": [
+        {
+          "layout": "default",
+          "b651": {
+            "pd_edits": 898,
+            "denominator": 3186,
+            "f1": 0.5242
+          },
+          "c291": {
+            "pd_edits": 901,
+            "denominator": 3187,
+            "f1": 0.5228
+          },
+          "baseline": {
+            "pd_edits": 950,
+            "denominator": 3187,
+            "f1": 0.5661828991082357
+          }
+        },
+        {
+          "layout": "clean_layout",
+          "b651": {
+            "pd_edits": 1139,
+            "denominator": 3303,
+            "f1": 0.4901
+          },
+          "c291": {
+            "pd_edits": 1143,
+            "denominator": 3305,
+            "f1": 0.4887
+          },
+          "baseline": {
+            "pd_edits": 1196,
+            "denominator": 3305,
+            "f1": 0.5302845173677779
+          }
+        }
+      ],
+      "cost_and_effect": {
+        "four_distinct_artifact_objects_retained": [
+          "Hallelujah symbol 326",
+          "Hallelujah symbol 328",
+          "Supplication symbol 234",
+          "Bound for Canaan symbol 255"
+        ],
+        "layout_occurrences_abstained": 8,
+        "non_head_removals_by_c291": 0,
+        "total_pd_edits_increase": 7,
+        "genuine_new_damaged_heads_rescued": 0,
+        "timing_failure_configurations": {
+          "default": 2,
+          "clean_layout": 1
+        }
+      },
+      "interpretation": "The revised rule's observed cost is retaining four artifact interpretations (eight layout occurrences), with +7 PD edits overall and slightly lower F1. This sample does not exercise new genuine-head protection."
+    },
+    "1850": {
+      "scope": "6 complete tunes on 4 pages, 12 layout configurations; 3 likely damaged primary heads and 1 disputed secondary head",
+      "primary_damaged_heads_surviving": "3/3 in baseline, b651, and c291, in both layouts",
+      "disputed_secondary_head": "Lenox hollow oval survives all stages; excluded from primary denominator",
+      "revised_abstentions_or_non_head_removals": [
+        0,
+        0
+      ],
+      "prior_current_score_xml_pairs_identical": "12/12",
+      "intact_controls": "7/8 emitted as notes; Lenox C1 hollow triangle is misclassified as rest by every stage",
+      "coverage_gaps": "Only oval/square damage appears; small sample. Distress has a baseline two-of-three-staff layout failure. Survival shows no rescue benefit and does not establish broad transfer or complete source accuracy."
+    },
+    "southern_harmony": {
+      "source_book": "1835-Southern-Oberlin-IA (Southern Harmony, catalogued 1835)",
+      "screening": "80 available music pages reviewed (printed pages 1-30 and 33-82; printed pages 31-32 absent). This source screen supplied the selected severe four-shape sample.",
+      "selected_severe_sample": {
+        "complete_tunes": 8,
+        "pages": 6,
+        "primary_severe_damaged_heads": 10,
+        "shapes": [
+          "triangle",
+          "oval",
+          "square",
+          "diamond"
+        ],
+        "serialized_note_survival": "6/10 severe heads become notes in baseline, b651 prior, and c291 current, with identical survival in both layouts; triangle 1/2, oval 2/2, square 1/3, diamond 2/3.",
+        "revised_abstention_triggered_on_premarked_heads": 0,
+        "coverage_gaps": "Shortfalls: one additional oval and one additional triangle to reach three per shape; moderate diamond 0/3; limited fill/shape combinations. System grouping incorrect in 6/8 tunes. This enriched source sample does not establish broad accuracy or generalization."
+      },
+      "interpretation": "This is the 1835 Southern Harmony source used by the severe-four-shape holdout, not an 1850 printing. The run explicitly says the source screen is not evidence that other qualifying heads are absent."
+    },
+    "1850_screening": {
+      "source_book": "1850 Sacred Harp native PDF pages 70-369",
+      "pages_screened": 300,
+      "qualifying_heads_found": 0,
+      "interpretation": "No qualifying heads were found in this 300-page expansion; this is distinct from the Southern Harmony sample and does not provide a survival metric."
+    },
+    "severe_four_shape_southern_1835": {
+      "scope": "8 complete tunes on six Southern Harmony pages; 19 primary damaged heads total, including 10 severe heads across four shapes; 38 intact controls and five ambiguous objects.",
+      "primary_damaged_heads_serialized_as_notes": "6/10 severe heads, same in baseline, b651 and c291 and both layouts; triangle 1/2, oval 2/2, square 1/3, diamond 2/3",
+      "coverage_gaps": "Missing third severe oval/triangle slots, all moderate diamonds, several intact-control cells and severe fill/shape combinations. Six of eight tunes have incorrect system grouping in both layouts.",
+      "interpretation": "The selected source-first sample is from Southern Harmony (1835), not 1850 Sacred Harp. No newly exercised revised-abstention rescue; four severe cases fail to serialize as notes in every stage. These observed cases are not a fresh holdout.",
+      "source_book": "1835-Southern-Oberlin-IA (Southern Harmony, catalogued 1835)"
+    }
+  },
+  "proposed_cohort_arithmetic": {
+    "edition_crops": {
+      "expanded52_including_pilot14": 52,
+      "1860": 19,
+      "1850_Auburn": 6,
+      "severe_four_shape": 8,
+      "total": 85
+    },
+    "layout_configurations": 170,
+    "stage_cases_capture_plus_two_policies": 510,
+    "unit_warning": "85 counts edition-crops, not independent tunes or statistically independent observations. The 14 pilot crops are already part of expanded52 and must not be added again; layout variants and policy stages are repeated observations."
+  },
+  "brief_notes": [
+    "Keep the policy identities separate: expanded52 compares final-a17498fc863d to b651; 1860 compares b651 to c291.",
+    "PD edit distance is lower-is-better disagreement against edition-different MusicXML references; F1 is time-aware exact-event F1.",
+    "Expanded52 reports 16 timing-failure configurations total (14 default, 2 clean_layout), identical across prior/current; failures remain included.",
+    "Do not describe the 1860 retained artifacts as head loss: c291 abstained on them and emitted them; they were reviewed as artifacts/extra interpretations.",
+    "The severe four-shape holdout is from Southern Harmony, catalogued 1835 (1835-Southern-Oberlin-IA); a separate 300-page 1850 Sacred Harp screen found zero qualifying heads."
+  ],
+  "sources": [
+    "HANDOFF.md",
+    "benchmarks/sacred-harp-1911/experiments/rhythm-resolution/dot-head-evidence-20261126-b6512a5f402d/COMPARISON.md",
+    "benchmarks/sacred-harp-1911/experiments/rhythm-resolution/dot-head-evidence-20261126-b6512a5f402d/REPORT.md",
+    "benchmarks/crossbook-frozen-rules/runs/pilot14-frozen-dot-head-20261126/REPORT.md",
+    "benchmarks/crossbook-frozen-rules/runs/expanded52-frozen-dot-head-20261126/REPORT.md",
+    "benchmarks/crossbook-frozen-rules/runs/expanded52-frozen-dot-head-20261126/SOURCE_REVIEW.md",
+    "benchmarks/crossbook-frozen-rules/runs/1860-abstention-holdout-20261126/REPORT.md",
+    "benchmarks/crossbook-frozen-rules/runs/1860-abstention-holdout-20261126/SOURCE_REVIEW.md",
+    "benchmarks/crossbook-frozen-rules/runs/1850-damaged-head-holdout-20261126/REPORT.md",
+    "benchmarks/crossbook-frozen-rules/runs/1850-damaged-head-holdout-20261126/SOURCE_REVIEW.md",
+    "benchmarks/crossbook-frozen-rules/runs/severe-four-shape-holdout-20261127/REPORT.md",
+    "benchmarks/crossbook-frozen-rules/runs/severe-four-shape-holdout-20261127/checks.json",
+    "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/manifest.json",
+    "benchmarks/crossbook-frozen-rules/runs/severe-four-shape-holdout-20261127/REPORT.md",
+    "benchmarks/crossbook-frozen-rules/source-sets/severe-four-shape-holdout-20261126/manifest.json"
+  ]
+}

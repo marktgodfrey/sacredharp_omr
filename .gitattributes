@@ -1,0 +1,2 @@
+# Preserve generated PDF reports as binary artifacts.
+*.pdf binary
