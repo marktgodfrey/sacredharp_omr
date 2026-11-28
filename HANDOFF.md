@@ -2,6 +2,62 @@
 
 Updated 2026-11-27. Start a new session in `/Users/mark/code/sh_omr` and read this file first.
 
+## Latest task complete: plain-language project overview and accuracy explanation
+
+Start with [the eight-page project overview](output/pdf/sacred-harp-omr-project-overview.pdf)
+for a high-level explanation of what Copisteria supplies, what this project
+adds, which improvements have helped, and what still prevents dependable
+four-shape transcription. It includes a process diagram, a progress chart,
+and enlarged examples of a recovered square and a missed damaged triangle.
+The original six-page technical report remains available in `output/pdf/`.
+
+The user asked for the accuracy explanation to follow the progress chart.
+The final order is: overview (1), Copisteria (2), improvements/progress chart
+(3), what 3,312 disagreements means (4), scan examples (5), other books (6),
+problems/next work (7), interpretation/evidence links (8). Page references and
+`output/pdf/README.md` match this order. All eight final pages were rendered
+and visually checked; page count, order and accuracy text were checked.
+
+**Readiness:** the project produces MusicXML drafts, but substantial human
+correction is still needed. There is no established complete-song accuracy
+rate or defensible percentage complete. These results mainly improve the use
+of existing pretrained models; they do not demonstrate a newly trained
+four-shape recognition model.
+
+**Explain the denominator whenever quoting 3,312:** at the b651 dot/head
+checkpoint, the 120 development/diagnostic songs have **3,312 pitch-duration
+comparison edits out of 23,988 note entries, or 13.8% disagreement**. The
+100-song cohort contributes 2,694 / 19,693; the diagnostic 20 contributes
+618 / 4,295. Each voice part uses max(reference notes, predicted notes) in
+the denominator. An edit inserts a missing note, deletes an extra note, or
+changes a pitch/duration pair. This is about 14 edits per 100 comparison
+entries, or 27.6 per song on average, not an estimate of actual proofreading
+time. Twenty-two songs have under 5% disagreement, 72 have 5% to under 20%,
+and 26 have at least 20%; none has zero pitch-duration disagreement.
+
+**Do not call this 86.2% accurate.** The historical scans and 2025 references
+can legitimately differ, and this metric does not fully check timing,
+lyrics, repeats, ties or shape semantics. These are development/diagnostic
+songs, not a fresh independent test. The chart's 5,931 -> 3,312 (about 44%
+fewer edits) starts at an earlier research checkpoint, not raw Copisteria,
+and ends at b651, before the c291 conservative safeguard. Cross-book and
+severe-damage limitations below remain applicable.
+
+`output/pdf/overview-accuracy-data.json` records the counts and SHA-256 of
+the saved b651 `results.json`. `overview-verification.json` records PDF/source
+hashes and the final layout checks. `build_project_overview.py` rebuilds the
+PDF with ReportLab, Pillow, pypdf, the bundled example crops and macOS
+Arial/Georgia fonts; source-hash collection also needs the local archived
+reports restored. No recognition rules, models, defaults or gallery changed
+during this documentation work.
+
+**Recommended:** proofread 10-20 complete tunes against the same source scans
+and measure actual musical errors and correction time. Develop system
+grouping and duplicate handling separately, then test frozen changes on
+newly selected pages. **Alternative:** use the current output as drafts and
+record corrections during normal proofreading, or expand the independently
+reviewed frozen challenge set before changing the models.
+
 ## Latest task complete: severe damage and all four shapes, rules frozen
 
 Source review, lock, fresh CPU_ONLY capture, both frozen policy replays and

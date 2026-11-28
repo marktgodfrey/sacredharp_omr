@@ -1,6 +1,25 @@
-# Shareable OMR performance report
+# OMR project overview and detailed evidence
 
-[Open or download the six-page PDF](sacred-harp-omr-performance-2026-11-27.pdf).
+[Start with the plain-language project overview](sacred-harp-omr-project-overview.pdf).
+This eight-page introduction explains what works today, what Copisteria supplies,
+which improvements have helped, and what still blocks reliable four shape OMR.
+It includes a scan-to-MusicXML diagram, a development progress chart, enlarged
+success and failure examples from the scans, and recommended next work.
+Page 4, immediately after the progress chart, explains the 3,312 comparison
+edits out of 23,988 note entries (13.8%), the variation between songs, and why
+this is not a direct accuracy percentage.
+
+`build_project_overview.py` recreates it with Python, ReportLab, Pillow and pypdf,
+using the macOS Arial and Georgia fonts. The example crops are bundled here.
+`overview-verification.json` records source hashes and document checks.
+`overview-accuracy-data.json` contains the exact counts extracted from the
+saved 120-song results and the hash of that source file.
+The builder does not run or change OMR. Early evidence links point to the
+committed handoff history because their full reports are in local archives.
+
+## Detailed performance report
+
+[Open the original six-page technical report](sacred-harp-omr-performance-2026-11-27.pdf).
 
 The report covers the source-grounded rule changes, the 120-song development
 comparison, scored cross-printing evaluations, and source-first damaged-head

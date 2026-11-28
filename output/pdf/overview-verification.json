@@ -1,0 +1,45 @@
+{
+  "pdf": "sacred-harp-omr-project-overview.pdf",
+  "pages": 8,
+  "pdf_sha256": "de8b089390d60c6a955632788e660824b7a84729f0ca39fcf6f15622a1a1f004",
+  "source_sha256": {
+    "copisteria/README.md": "67abe77a06dab84204fb147203cd06001410f5d90159ba605c5fe9434e2d328e",
+    "copisteria/docs/IOS_EXPERIMENT.md": "a586da6f85f2e5b2955c7cf2dc7ae288a21bf4ee79d15fa13ec45084aed21ddf",
+    "benchmarks/sacred-harp-1911/experiments/local-recovery/final-0996d2a689dc/REPORT.md": "0e6b80fd0d9af13a26ee8aa540af219e48915e498bad416f392cdbfb2fa0ed87",
+    "benchmarks/sacred-harp-1911/experiments/missing-proposals/final-d190393b6a83/REPORT.md": "5da60e7af5648f230d0f5a00c92d9023803ff2ac55cc94dc7783fa0163a08185",
+    "benchmarks/sacred-harp-1911/experiments/proposal-rhythm/final-0318d4f06bb9/REPORT.md": "b331f6859476ee72db8e4bb9ca74b61446ef5f36e753c3a6759b7b13a6773981",
+    "benchmarks/sacred-harp-1911/experiments/rhythm-resolution/dot-head-evidence-20261126-b6512a5f402d/REPORT.md": "d6435d6b4b403295963f36427a69acb73619f912f631da17f7c99d92971ca7a1",
+    "HANDOFF.md": "e42d59eb71d3521b08735a44107ed43f92f9c3bfb77b29b6d2a4fcfb036f5bab",
+    "benchmarks/crossbook-frozen-rules/runs/severe-four-shape-holdout-20261127/REPORT.md": "ef3521deddcb44095be5e625b382103529a3ec02177522000a08d63f661e705a"
+  },
+  "chart_counts": [
+    5931,
+    5686,
+    5021,
+    3650,
+    3312
+  ],
+  "chart_scope": "120 development/diagnostic songs; earlier research baseline to b651, not c291",
+  "accuracy_page": 4,
+  "accuracy_data": {
+    "source": "benchmarks/sacred-harp-1911/experiments/rhythm-resolution/dot-head-evidence-20261126-b6512a5f402d/results.json",
+    "source_sha256": "5342dae70f7e960099b27bde8bf23bd1a3744436c91919de1e9d8e20a48d36d4",
+    "checkpoint": "b651 dot/head checkpoint; 120 development/diagnostic songs",
+    "songs": 120,
+    "pitch_duration_edits": 3312,
+    "comparison_denominator": 23988,
+    "disagreement_percent": 13.806903451725862,
+    "average_edits_per_song": 27.6,
+    "song_bands": {
+      "under_5_percent": 22,
+      "5_to_under_20_percent": 72,
+      "20_percent_or_more": 26
+    },
+    "zero_disagreement_songs": 0,
+    "denominator_definition": "Sum of max(reference note count, predicted note count) for each corresponding voice part."
+  },
+  "accuracy_data_sha256": "02dacd040bb02c27d8365461650a414edf75d1f485f9b5591185550e2d73a583",
+  "visual_review": "All eight final rendered pages inspected; no clipping, overlap or broken pagination",
+  "progress_chart_page": 3,
+  "accuracy_numbers_verified": true
+}

@@ -1,0 +1,17 @@
+{
+  "source": "benchmarks/sacred-harp-1911/experiments/rhythm-resolution/dot-head-evidence-20261126-b6512a5f402d/results.json",
+  "source_sha256": "5342dae70f7e960099b27bde8bf23bd1a3744436c91919de1e9d8e20a48d36d4",
+  "checkpoint": "b651 dot/head checkpoint; 120 development/diagnostic songs",
+  "songs": 120,
+  "pitch_duration_edits": 3312,
+  "comparison_denominator": 23988,
+  "disagreement_percent": 13.806903451725862,
+  "average_edits_per_song": 27.6,
+  "song_bands": {
+    "under_5_percent": 22,
+    "5_to_under_20_percent": 72,
+    "20_percent_or_more": 26
+  },
+  "zero_disagreement_songs": 0,
+  "denominator_definition": "Sum of max(reference note count, predicted note count) for each corresponding voice part."
+}
